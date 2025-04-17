@@ -1,88 +1,88 @@
 
 # Table of Contents
 
-1.  [Table of Contents](#org011a5f7)
-2.  [Chemistry Lab Tests](#org83f66d1)
-    1.  [A<sub>G</sub><sub>RATIO</sub> (Albumin to globulin ratio)](#orgc31ddf3)
-    2.  [Albumin (Albumin, total in blood/serum)](#orgb03f74b)
-    3.  [ALP (Alkaline phosphatase)](#orgbf5ffe6)
-    4.  [ALT (Alanine Aminotransferase, SGPT)](#org5e1f810)
-    5.  [AST (Aspartate Aminotransferase, SGOT)](#org1392bf0)
-    6.  [Bilirubin, Direct](#org91a5835)
-    7.  [Bilirubin, Indirect](#org02528b8)
-    8.  [HCT (Hematocrit)](#org5bfb2d5)
-    9.  [Hemoglobin A1c (Glycated Hemoglobin)](#org88e56a3)
-    10. [HGB (Hemoglobin)](#orgd375e7f)
-    11. [HDL (High density lipoprotein cholesterol)](#org48b424d)
-    12. [Human Papilloma Virus (HPV) DNA Test, Cervical Specimen](#org3c3d842)
-    13. [Human Papilloma Virus (HPV) DNA Test, Specimen Source/Site Unknown](#org8abf818)
-    14. [INR (International Normalization Ratio)](#orgf367d9c)
-    15. [LDH (Lactate dehydrogenase, total in blood/serum)](#org1b18c25)
-    16. [LDL, Calculated, Fasting (Low density lipoprotein cholesterol, calculated, patient](#org2b0ee40)
-    17. [LDL, Calculated, Random (Low density lipoprotein cholesterol, calculated](#orgb5b9091)
-    18. [LDL Direct (Low density lipoprotein cholesterol, direct measure, fasting status](#orgedf6f3c)
-    19. [LDL Method not Indicated (Low density lipoprotein cholesterol, not known](#org261c51d)
-    20. [Magnesium](#org6b1c1a3)
-    21. [Platelets](#org00f95c1)
-    22. [Potassium, Serum](#org160db15)
-    23. [PSA, Free (Prostate specific antigen free in blood/serum/plasma)](#org6279dac)
-    24. [PSA, Percent Free (Prostate specific antigen [Ag], ratio of free to total)](#orgeb15976)
-    25. [PSA, Seminal Fluid (Prostate specific antigen, total in seminal fluid)](#org7ef8d87)
-    26. [PSA, Seminal Fluid, Free (Prostate specific antigen in seminal fluid, free)](#org56c06d7)
-    27. [PSA, Total, Blood/Serum/Plasma (Prostate specific antigen, total)](#org1e22810)
-    28. [PT (Prothrombin time)](#orgf31f9e9)
-    29. [RBC (Red Blood Cell Count [in blood])](#org7066e71)
-    30. [Sodium (Blood or Serum Sodium)](#orgc23fe56)
-    31. [Thyroxine (T4) Free](#org91dfcf9)
-    32. [Thyroxine (T4) Free Index](#org42885e4)
-    33. [Thyroxine (T4) Total](#orgcecb864)
-    34. [TOT<sub>PROT</sub> (Protein, total in blood/serum)](#orgd182882)
-    35. [Triglycerides, Fasting (TG, TRIG, patient was fasting)](#org6fdd616)
-    36. [Triglycerides, Random (TG, TRIG, not known if patient was fasting, or known that](#orgf3389a2)
-    37. [TSH (Thyroid Stimulating Hormone, Thyrotropin)](#orga336295)
-    38. [TSH Beta Subunit (Thyroid Stimulating Hormone Beta Subunit), Quantitative](#org3c439a7)
-    39. [TSH Long Acting (Thyroid Stimulator Long Acting)](#org2af625d)
-    40. [TSH Screen (Thyroid Stimulating Hormone, Screen), Blood](#orgff781bd)
-    41. [TROP<sub>I</sub><sub>QN</sub> (Troponin I Cardiac Quantitative)](#orgbf3e90e)
-    42. [TROP<sub>T</sub><sub>QL</sub> (Troponin T Cardiac - Qualitative)](#org391dad7)
-    43. [TROP<sub>T</sub><sub>QN</sub> (Troponin T Cardiac - Quantitative)](#org0c3ad93)
-    44. [U<sub>ACR</sub> (Microalbumin [or albumin] to creatinine ratio in urine)](#orgeef98dd)
-    45. [U<sub>CREAT</sub> (Creatinine in Urine)](#org396358b)
-    46. [U<sub>CREAT24</sub> (24-Hour Creatinine in Urine)](#org623ae0b)
-    47. [U<sub>MIC</sub><sub>ALB</sub> (Microalbumin [or albumin] in urine)](#orgaf83849)
-    48. [U<sub>MICALB24</sub> (24-Hour Microalbumin in urine)](#org1799ee6)
-    49. [U<sub>PCR</sub> (Protein to creatinine ratio in urine)](#orgb4da9c1)
-    50. [U<sub>PROT</sub> (Protein in urine; total protein in urine)](#org5e73061)
-    51. [U<sub>PROT</sub><sub>24</sub> (24-hour urine protein; total protein in urine)](#org99ee726)
-    52. [U<sub>PROT</sub><sub>DIP</sub> (Protein in Urine by Dipstick, qualitative)](#org8fd78f7)
-    53. [Uric Acid](#org280a235)
-    54. [Vitamin B12 (Cobalamin)](#org00292a8)
-    55. [Vitamin D (25-hydroxy-vitamin D)](#org97e0a53)
-    56. [WBC (Total White Blood Cell Count [in blood])](#org9c5e2b5)
-3.  [Opioid Urine Toxicity](#orgee89025)
-    1.  [U<sub>BUPRENORPHINE</sub><sub>CNF</sub> (Buprenorphine in Urine)](#org566a06c)
-    2.  [U<sub>BUPRENORPHINE</sub><sub>SCR</sub> (Buprenorphine in Urine)](#org5df8a15)
-    3.  [U<sub>BUTORPHANOL</sub><sub>CNF</sub> (Butorphanol in Urine)](#orgf814b45)
-    4.  [U<sub>BUTORPHANOL</sub><sub>SCR</sub> (Butorphanol in Urine)](#orgd887ae1)
-    5.  [U<sub>CODEINE</sub><sub>CNF</sub> (Codeine in Urine)](#orgc5e496b)
-    6.  [U<sub>CODEINE</sub><sub>SCR</sub> (Codeine in Urine)](#org9c424b7)
-    7.  [U<sub>DIPIPANONE</sub><sub>CNF</sub> (Dipipanone in Urine)](#orgd0bd074)
-    8.  [U<sub>DIPIPANONE</sub><sub>SCR</sub> (Dipipanone in Urine)](#org28d3fef)
-    9.  [U<sub>FENTANYL</sub><sub>CNF</sub> (Fentanyl in Urine)](#org3992b84)
-    10. [U<sub>FENTANYL</sub><sub>SCR</sub> (Fentanyl in Urine)](#org7a56dce)
-    11. [TEST NAME—FOR FUTURE USE](#org9594fc1)
-4.  [Hematology and Coagulation](#org4a45dcb)
-    1.  [TEST NAME—FOR FUTURE USE](#org6b23d7f)
-5.  [Cell Markers](#org2810c45)
-    1.  [TEST NAME—FOR FUTURE USE](#orgcb12f20)
-6.  [Microbiology](#orga21acd4)
-    1.  [TEST NAME—FOR FUTURE USE](#org28507cd)
-7.  [Influenza](#org497fbf1)
-    1.  [TEST NAME—FOR FUTURE USE](#org2cbf7df)
-8.  [COVID-19](#orga4493c0)
-    1.  [TEST NAME—FOR FUTURE USE](#org9c81be8)
-9.  [Blank Template](#orgca9c1c9)
-    1.  [TEST NAME—FOR FUTURE USE](#org4d2423d)
+1.  [Table of Contents](#orgb95b445)
+2.  [Chemistry Lab Tests](#orge5627a7)
+    1.  [A\_G\_RATIO (Albumin to globulin ratio)](#orgf5c6fb3)
+    2.  [Albumin (Albumin, total in blood/serum)](#org26ba858)
+    3.  [ALP (Alkaline phosphatase)](#org705075e)
+    4.  [ALT (Alanine Aminotransferase, SGPT)](#org8b14970)
+    5.  [AST (Aspartate Aminotransferase, SGOT)](#org2a35e2c)
+    6.  [Bilirubin, Direct](#org1bd374e)
+    7.  [Bilirubin, Indirect](#org2bd42fd)
+    8.  [HCT (Hematocrit)](#org28049c8)
+    9.  [Hemoglobin A1c (Glycated Hemoglobin)](#org603d4c2)
+    10. [HGB (Hemoglobin)](#org3729234)
+    11. [HDL (High density lipoprotein cholesterol)](#orge589913)
+    12. [Human Papilloma Virus (HPV) DNA Test, Cervical Specimen](#org99666fa)
+    13. [Human Papilloma Virus (HPV) DNA Test, Specimen Source/Site Unknown](#orgf5ff5a0)
+    14. [INR (International Normalization Ratio)](#orgad1f87c)
+    15. [LDH (Lactate dehydrogenase, total in blood/serum)](#orgc766fa7)
+    16. [LDL, Calculated, Fasting (Low density lipoprotein cholesterol, calculated, patient](#orgac9d0c5)
+    17. [LDL, Calculated, Random (Low density lipoprotein cholesterol, calculated](#orgfb60838)
+    18. [LDL Direct (Low density lipoprotein cholesterol, direct measure, fasting status](#orge067b70)
+    19. [LDL Method not Indicated (Low density lipoprotein cholesterol, not known](#org94bd95e)
+    20. [Magnesium](#org075cbd7)
+    21. [Platelets](#orga71c5ac)
+    22. [Potassium, Serum](#org565644b)
+    23. [PSA, Free (Prostate specific antigen free in blood/serum/plasma)](#org5a564ef)
+    24. [PSA, Percent Free (Prostate specific antigen [Ag], ratio of free to total)](#org277ab3a)
+    25. [PSA, Seminal Fluid (Prostate specific antigen, total in seminal fluid)](#org97fcde7)
+    26. [PSA, Seminal Fluid, Free (Prostate specific antigen in seminal fluid, free)](#org60ee3a5)
+    27. [PSA, Total, Blood/Serum/Plasma (Prostate specific antigen, total)](#orgc07b5a4)
+    28. [PT (Prothrombin time)](#org80dbc91)
+    29. [RBC (Red Blood Cell Count [in blood])](#orga0b7c96)
+    30. [Sodium (Blood or Serum Sodium)](#org71e854e)
+    31. [Thyroxine (T4) Free](#org39b2f2a)
+    32. [Thyroxine (T4) Free Index](#orga8780ed)
+    33. [Thyroxine (T4) Total](#org6b72c61)
+    34. [TOT\_PROT (Protein, total in blood/serum)](#orgf2ab1cd)
+    35. [Triglycerides, Fasting (TG, TRIG, patient was fasting)](#org02b9e6b)
+    36. [Triglycerides, Random (TG, TRIG, not known if patient was fasting, or known that](#orgb7f4ea5)
+    37. [TSH (Thyroid Stimulating Hormone, Thyrotropin)](#org19d2185)
+    38. [TSH Beta Subunit (Thyroid Stimulating Hormone Beta Subunit), Quantitative](#orgdeaabd9)
+    39. [TSH Long Acting (Thyroid Stimulator Long Acting)](#org556a817)
+    40. [TSH Screen (Thyroid Stimulating Hormone, Screen), Blood](#org9177206)
+    41. [TROP\_I\_QN (Troponin I Cardiac Quantitative)](#org631af62)
+    42. [TROP\_T\_QL (Troponin T Cardiac - Qualitative)](#org3f80239)
+    43. [TROP\_T\_QN (Troponin T Cardiac - Quantitative)](#org3e47c23)
+    44. [U\_ACR (Microalbumin [or albumin] to creatinine ratio in urine)](#orgb432e7a)
+    45. [U\_CREAT (Creatinine in Urine)](#orgc96bfe1)
+    46. [U\_CREAT24 (24-Hour Creatinine in Urine)](#org8b37128)
+    47. [U\_MIC\_ALB (Microalbumin [or albumin] in urine)](#orgfa3a5b8)
+    48. [U\_MICALB24 (24-Hour Microalbumin in urine)](#org459e569)
+    49. [U\_PCR (Protein to creatinine ratio in urine)](#org5520968)
+    50. [U\_PROT (Protein in urine; total protein in urine)](#org2487d02)
+    51. [U\_PROT\_24 (24-hour urine protein; total protein in urine)](#org73e5383)
+    52. [U\_PROT\_DIP (Protein in Urine by Dipstick, qualitative)](#org54765f4)
+    53. [Uric Acid](#orgb4aa094)
+    54. [Vitamin B12 (Cobalamin)](#orgd16d4f4)
+    55. [Vitamin D (25-hydroxy-vitamin D)](#org60b171f)
+    56. [WBC (Total White Blood Cell Count [in blood])](#orgc1ae928)
+3.  [Opioid Urine Toxicity](#orgbc0900d)
+    1.  [U\_BUPRENORPHINE\_CNF (Buprenorphine in Urine)](#org737ae5c)
+    2.  [U\_BUPRENORPHINE\_SCR (Buprenorphine in Urine)](#orgec22434)
+    3.  [U\_BUTORPHANOL\_CNF (Butorphanol in Urine)](#orgabb6ccc)
+    4.  [U\_BUTORPHANOL\_SCR (Butorphanol in Urine)](#org614b808)
+    5.  [U\_CODEINE\_CNF (Codeine in Urine)](#org63e9022)
+    6.  [U\_CODEINE\_SCR (Codeine in Urine)](#orgdd0bbbf)
+    7.  [U\_DIPIPANONE\_CNF (Dipipanone in Urine)](#org8ddc49c)
+    8.  [U\_DIPIPANONE\_SCR (Dipipanone in Urine)](#orgdd1728d)
+    9.  [U\_FENTANYL\_CNF (Fentanyl in Urine)](#org9a40fd4)
+    10. [U\_FENTANYL\_SCR (Fentanyl in Urine)](#org846a579)
+    11. [TEST NAME—FOR FUTURE USE](#org57778cc)
+4.  [Hematology and Coagulation](#org789ae34)
+    1.  [TEST NAME—FOR FUTURE USE](#org6f68e69)
+5.  [Cell Markers](#orgca9573d)
+    1.  [TEST NAME—FOR FUTURE USE](#org82fe585)
+6.  [Microbiology](#orgef738e7)
+    1.  [TEST NAME—FOR FUTURE USE](#orgc7d3c56)
+7.  [Influenza](#orga8f167c)
+    1.  [TEST NAME—FOR FUTURE USE](#orgbcd8be9)
+8.  [COVID-19](#org46d6acb)
+    1.  [TEST NAME—FOR FUTURE USE](#org52f8e01)
+9.  [Blank Template](#org4f73b39)
+    1.  [TEST NAME—FOR FUTURE USE](#orgf6f3c66)
 
 Version 1.6, December 2011
 Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
@@ -92,11 +92,11 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org011a5f7"></a>
+<a id="orgb95b445"></a>
 
 # Table of Contents
 
-A<sub>G</sub><sub>RATIO</sub> (Albumin to globulin ratio) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..5
+A\_G\_RATIO (Albumin to globulin ratio) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..5
 Albumin (Albumin, total in blood/serum) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;6
 ALT (Alanine Aminotransferase, SGPT) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..8
 AST (Aspartate Aminotransferase, SGOT) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.9
@@ -114,14 +114,14 @@ CA125 (Cancer Antigen 125) Titer in Body Fluid &#x2026;&#x2026;&#x2026;&#x2026;&
 Cholesterol, Total&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.24
 CK (Creatine Kinase) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.25
 CK BB (Creatine Kinase BB)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.26
-CK<sub>CSF</sub> (Creatine Kinase CSF Quantitative) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.27
-CK<sub>MB</sub> (Creatine Kinase MB - analytic method not specified) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..28
-CK<sub>MB</sub><sub>EIA</sub> (Creatine Kinase MB – Enzyme Immunoassay) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..29
-CK<sub>MB</sub><sub>EP</sub> (Creatine Kinase MB - Electrophoresis)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.30
-CK<sub>MBI</sub><sub>CLC</sub> (Creatine Kinase MB/Creatine Kinase Total Calculated)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.31
-CK<sub>MBI</sub><sub>EIA</sub> (Creatine Kinase MB/Creatine Kinase Total Enzyme Immunoassay)&#x2026;&#x2026;&#x2026;&#x2026;32
-CK<sub>MBI</sub><sub>EP</sub> (Creatine Kinase MB/ Creatine Kinase Total Electrophoresis) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..33
-CK<sub>MM</sub><sub>EP</sub> (Creatine Kinase MM Electrophoresis) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..34
+CK\_CSF (Creatine Kinase CSF Quantitative) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.27
+CK\_MB (Creatine Kinase MB - analytic method not specified) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..28
+CK\_MB\_EIA (Creatine Kinase MB – Enzyme Immunoassay) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..29
+CK\_MB\_EP (Creatine Kinase MB - Electrophoresis)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.30
+CK\_MBI\_CLC (Creatine Kinase MB/Creatine Kinase Total Calculated)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.31
+CK\_MBI\_EIA (Creatine Kinase MB/Creatine Kinase Total Enzyme Immunoassay)&#x2026;&#x2026;&#x2026;&#x2026;32
+CK\_MBI\_EP (Creatine Kinase MB/ Creatine Kinase Total Electrophoresis) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..33
+CK\_MM\_EP (Creatine Kinase MM Electrophoresis) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..34
 Creatinine, Blood/Serum/Plasma &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..35
 CRP (C-reactive protein serum/plasma concentration) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..36
 CRPHS (High-sensitivity C-reactive protein in serum/plasma) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..37
@@ -177,7 +177,7 @@ Sodium (Blood or Serum Sodium) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&
 Thyroxine (T4) Free&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.84
 Thyroxine (T4) Free Index &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..85
 Thyroxine (T4) Total&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;86
-TOT<sub>PROT</sub> (Protein, total in blood/serum)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..87
+TOT\_PROT (Protein, total in blood/serum)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..87
 Triglycerides, Fasting (TG, TRIG, patient was fasting)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.88
 Triglycerides, Random (TG, TRIG, not known if patient was fasting, or known that patient
 was not fasting)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.89
@@ -185,24 +185,24 @@ TSH (Thyroid Stimulating Hormone, Thyrotropin)&#x2026;&#x2026;&#x2026;&#x2026;&#
 TSH Beta Subunit (Thyroid Stimulating Hormone Beta Subunit), Quantitative&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;92
 TSH Long Acting (Thyroid Stimulator Long Acting)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..94
 TSH Screen (Thyroid Stimulating Hormone, Screen), Blood&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;95
-TROP<sub>I</sub><sub>QN</sub> (Troponin I Cardiac Quantitative)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..97
-TROP<sub>T</sub><sub>QL</sub> (Troponin T Cardiac - Qualitative)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;98
-TROP<sub>T</sub><sub>QN</sub> (Troponin T Cardiac - Quantitative) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;99
-U<sub>ACR</sub> (Microalbumin [or albumin] to creatinine ratio in urine) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.100
-U<sub>CREAT</sub> (Creatinine in Urine)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.101
-U<sub>CREAT24</sub> (24-Hour Creatinine in Urine) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;102
-U<sub>MIC</sub><sub>ALB</sub> (Microalbumin [or albumin] in urine)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;103
-U<sub>MICALB24</sub> (24-Hour Microalbumin in urine) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..104
-U<sub>PCR</sub> (Protein to creatinine ratio in urine)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.105
-U<sub>PROT</sub> (Protein in urine; total protein in urine)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..106
-U<sub>PROT</sub><sub>24</sub> (24-hour urine protein; total protein in urine)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.107
-U<sub>PROT</sub><sub>DIP</sub> (Protein in Urine by Dipstick, qualitative) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..108
+TROP\_I\_QN (Troponin I Cardiac Quantitative)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..97
+TROP\_T\_QL (Troponin T Cardiac - Qualitative)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;98
+TROP\_T\_QN (Troponin T Cardiac - Quantitative) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;99
+U\_ACR (Microalbumin [or albumin] to creatinine ratio in urine) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.100
+U\_CREAT (Creatinine in Urine)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.101
+U\_CREAT24 (24-Hour Creatinine in Urine) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;102
+U\_MIC\_ALB (Microalbumin [or albumin] in urine)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;103
+U\_MICALB24 (24-Hour Microalbumin in urine) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..104
+U\_PCR (Protein to creatinine ratio in urine)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.105
+U\_PROT (Protein in urine; total protein in urine)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..106
+U\_PROT\_24 (24-hour urine protein; total protein in urine)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.107
+U\_PROT\_DIP (Protein in Urine by Dipstick, qualitative) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..108
 Uric Acid &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.109
 Vitamin B12 (Cobalamin)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..110
 Vitamin D (25-hydroxy-vitamin D) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..111
 
 
-<a id="org83f66d1"></a>
+<a id="orge5627a7"></a>
 
 # Chemistry Lab Tests
 
@@ -221,13 +221,13 @@ lab/VDWLabTestReferenceDocument.pdf/view)
 5
 
 
-<a id="orgc31ddf3"></a>
+<a id="orgf5c6fb3"></a>
 
-## A<sub>G</sub><sub>RATIO</sub> (Albumin to globulin ratio)
+## A\_G\_RATIO (Albumin to globulin ratio)
 
 Common Name: Albumin/globulin (A/G) ratio
 Long Name: Albumin to globulin ratio; A/G ratio in blood/serum
-Test Type: A<sub>G</sub><sub>RATIO</sub>
+Test Type: A\_G\_RATIO
 Panels: N/A
 Equivalent Tests: N/A
 Not Equivalent Tests: N/A
@@ -261,7 +261,7 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="orgb03f74b"></a>
+<a id="org26ba858"></a>
 
 ## Albumin (Albumin, total in blood/serum)
 
@@ -298,7 +298,7 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="orgbf5ffe6"></a>
+<a id="org705075e"></a>
 
 ## ALP (Alkaline phosphatase)
 
@@ -339,7 +339,7 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org5e1f810"></a>
+<a id="org8b14970"></a>
 
 ## ALT (Alanine Aminotransferase, SGPT)
 
@@ -372,7 +372,7 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org1392bf0"></a>
+<a id="org2a35e2c"></a>
 
 ## AST (Aspartate Aminotransferase, SGOT)
 
@@ -404,13 +404,13 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org91a5835"></a>
+<a id="org1bd374e"></a>
 
 ## Bilirubin, Direct
 
 Common Name: Direct Bilirubin
 Long Name: Bilirubin, direct/conjugated/glucuronidated in blood/serum
-Test Type: BILI<sub>DIR</sub>
+Test Type: BILI\_DIR
 Panels: Hepatic/Liver Function Panel
 Equivalent Tests: Direct bilirubin; Conjugated bilirubin;
 Not Equivalent Tests:
@@ -458,13 +458,13 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org02528b8"></a>
+<a id="org2bd42fd"></a>
 
 ## Bilirubin, Indirect
 
 Common Name: Indirect Bilirubin
 Long Name: Bilirubin, indirect/unconjugated/nonglucuronidated in blood/serum
-Test Type: BILI<sub>INDIR</sub>
+Test Type: BILI\_INDIR
 Panels: Hepatic/Liver Function Panel
 Equivalent Tests: Indirect bilirubin; unconjugated bilirubin
 Not Equivalent Tests:
@@ -514,11 +514,11 @@ lab/VDWLabTestReferenceDocument.pdf/view)
 Bilirubin, Total
 Common Name: Total Bilirubin
 Long Name: Bilirubin, total in blood/serum
-Test Type: BILI<sub>TOT</sub>
+Test Type: BILI\_TOT
 Panels: Hepatic/Liver Function Panel
 Equivalent Tests: Total bilirubin; TBIL; Neonatal bilirubin
 Not Equivalent Tests: The following bilirubin tests are subsets (components) of total bilirubin
-but are not the same as total bilirubin and have separate TEST<sub>TYPES</sub>: Direct bilirubin;
+but are not the same as total bilirubin and have separate TEST\_TYPES: Direct bilirubin;
 Conjugated bilirubin; Indirect bilirubin; Unconjugated bilirubin.
 Indications: The bilirubin test is used to check liver function and watch for signs of liver
 disease, such as hepatitis or cirrhosis, or the effects of medicines that can damage the liver.
@@ -710,7 +710,7 @@ lab/VDWLabTestReferenceDocument.pdf/view)
 CA125 (Cancer Antigen 125), Qualitative in Blood
 Common Name: CA125
 Long Name: CA 125 Qualitative
-Test Type: CA125<sub>QL</sub>
+Test Type: CA125\_QL
 Panels:
 Equivalent Tests:
 Not Equivalent Tests:
@@ -748,7 +748,7 @@ lab/VDWLabTestReferenceDocument.pdf/view)
 CA125 (Cancer Antigen 125), Titer in Blood
 Common Name: CA125 titer
 Long Name: CA 125 titer
-Test Type: CA125<sub>T</sub>
+Test Type: CA125\_T
 Panels:
 Equivalent Tests:
 Not Equivalent Tests:
@@ -785,7 +785,7 @@ lab/VDWLabTestReferenceDocument.pdf/view)
 CA125 (Cancer Antigen 125), Quantitative in Body Fluid
 Common Name: CA125 in body fluid
 Long Name: CA 125 Body Fluid
-Test Type: CA125<sub>BF</sub>
+Test Type: CA125\_BF
 Panels:
 Equivalent Tests:
 Not Equivalent Tests:
@@ -822,7 +822,7 @@ lab/VDWLabTestReferenceDocument.pdf/view)
 CA125 (Cancer Antigen 125) Titer in Body Fluid
 Common Name: CA125 titer in body fluid
 Long Name: CA 125 Titer, Body Fluid
-Test Type: CA125<sub>BF</sub><sub>T</sub>
+Test Type: CA125\_BF\_T
 Panels:
 Equivalent Tests:
 Not Equivalent Tests:
@@ -859,7 +859,7 @@ lab/VDWLabTestReferenceDocument.pdf/view)
 Cholesterol, Total
 Common Name: Cholesterol, Total
 Long Name: Cholesterol Total
-Test Type: TOT<sub>CHOLES</sub>
+Test Type: TOT\_CHOLES
 Panels: LIPID PROFILE
 Equivalent Tests:
 Not Equivalent Tests: LDL - very low density lipoprotein Cholesterol, LDL - Low Density
@@ -905,9 +905,9 @@ heart cells, most of this energy is used when muscles contract. There are three 
 (or isoenzymes) of CK: CK-MM (found in skeletal muscles and heart); CK-MB (found mostly in
 the heart); and CK-BB (found mostly in the brain). The small amount of CK that is normally in
 the blood comes mainly from muscles and not the brain.
-Related Tests: CK<sub>MB</sub>; CK<sub>MB</sub>; CK<sub>BB</sub><sub>EP</sub>, CK<sub>BBI</sub>, CK<sub>BBI</sub><sub>EP</sub>; CK<sub>BF</sub>, CK<sub>CSF</sub>;
-CK<sub>ISO</sub>; CK<sub>ISO</sub><sub>EP</sub>; CK<sub>MB</sub>; CK<sub>MB</sub><sub>EIA</sub>; CK<sub>MB</sub><sub>EP</sub>; CK<sub>MBI</sub><sub>CLC</sub>; CK<sub>MBI</sub><sub>EIA</sub>;
-CK<sub>MBI</sub><sub>EP</sub>; CK<sub>MM</sub><sub>EP</sub>; CK<sub>MMI</sub>; CK<sub>MMI</sub><sub>EP</sub>; CK<sub>QN</sub>; Troponin; BNP
+Related Tests: CK\_MB; CK\_MB; CK\_BB\_EP, CK\_BBI, CK\_BBI\_EP; CK\_BF, CK\_CSF;
+CK\_ISO; CK\_ISO\_EP; CK\_MB; CK\_MB\_EIA; CK\_MB\_EP; CK\_MBI\_CLC; CK\_MBI\_EIA;
+CK\_MBI\_EP; CK\_MM\_EP; CK\_MMI; CK\_MMI\_EP; CK\_QN; Troponin; BNP
 Approximate Reference Range (Normal values vary from lab to lab and from one type of
 testing protocol to another): Male: 38 - 174 units/L; Female: 96 - 140 units/L
 Comments: People who have greater muscle mass have higher CK levels than those who do
@@ -925,26 +925,26 @@ content is expanded in the VDW. View the most current version of this document o
 (<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
 lab/VDWLabTestReferenceDocument.pdf/view)
 26
-CK BB (Creatine Kinase BB) (Not a TEST<sub>TYPE</sub> but a common reference
-document for all CK BB TEST<sub>TYPES</sub>)
+CK BB (Creatine Kinase BB) (Not a TEST\_TYPE but a common reference
+document for all CK BB TEST\_TYPES)
 NOTE: This single reference document contains information pertinent to the
-individual TEST<sub>TYPES</sub> CK<sub>BB</sub><sub>EP</sub>, and the indexes CK<sub>BBI</sub>, or CK<sub>BBI</sub><sub>EP</sub>.
+individual TEST\_TYPES CK\_BB\_EP, and the indexes CK\_BBI, or CK\_BBI\_EP.
 Common Name: CK BB (also known as CPK BB)
 Long Name: Creatine Kinase BB (Brain-type)
-Test Types: CK<sub>BB</sub><sub>EP</sub> is CK<sub>BB</sub> by the testing method electrophoresis
-CK<sub>BBI</sub> is the Creatine Kinase BB/Creatine Kinase Total as a ratio or index
-CK<sub>BBI</sub><sub>EP</sub> is the Creatine Kinase BB/Creatine Kinase Total as a ratio or index by the testing
+Test Types: CK\_BB\_EP is CK\_BB by the testing method electrophoresis
+CK\_BBI is the Creatine Kinase BB/Creatine Kinase Total as a ratio or index
+CK\_BBI\_EP is the Creatine Kinase BB/Creatine Kinase Total as a ratio or index by the testing
 method electrophoresis
 Panels: N/A
 Equivalent Tests: N/A
-Not Equivalent Tests: All other CK TEST<sub>TYPES</sub> that do not contain “BB” in name.
-Indications: Blood levels of CK rise when muscle, brain or heart cells are injured. CK<sub>BB</sub> is
-found primarily in the brain. CK<sub>BB</sub> is sometimes used in diagnosing of cancer of the lung and
-stomach. However, CK<sub>BB</sub> is expressed in all tissues at low levels and has little clinical
+Not Equivalent Tests: All other CK TEST\_TYPES that do not contain “BB” in name.
+Indications: Blood levels of CK rise when muscle, brain or heart cells are injured. CK\_BB is
+found primarily in the brain. CK\_BB is sometimes used in diagnosing of cancer of the lung and
+stomach. However, CK\_BB is expressed in all tissues at low levels and has little clinical
 relevance.
-Description: CK<sub>BB</sub> is one of three separate forms (isoenzymes) of the enzyme creatine
-kinase (CK). CK<sub>BB</sub> is found mostly in the brain, lungs, intestinal tract and smooth muscle.
-Related Tests: CK; CK<sub>BB</sub><sub>EP</sub>, CK<sub>BBI</sub>, CK<sub>BBI</sub><sub>EP</sub>; CK<sub>CSF</sub>; CK<sub>ISO</sub>; CK<sub>ISO</sub><sub>EP</sub>
+Description: CK\_BB is one of three separate forms (isoenzymes) of the enzyme creatine
+kinase (CK). CK\_BB is found mostly in the brain, lungs, intestinal tract and smooth muscle.
+Related Tests: CK; CK\_BB\_EP, CK\_BBI, CK\_BBI\_EP; CK\_CSF; CK\_ISO; CK\_ISO\_EP
 Approximate Reference Range:
 Comments: < 1% of total CK
 Test Method Variance:
@@ -955,19 +955,19 @@ content is expanded in the VDW. View the most current version of this document o
 (<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
 lab/VDWLabTestReferenceDocument.pdf/view)
 27
-CK<sub>CSF</sub> (Creatine Kinase CSF Quantitative)
+CK\_CSF (Creatine Kinase CSF Quantitative)
 Common Name: CSF CK
 Long Name: Creatine Kinase in Cerebral Spinal Fluid
-Test Type: CK<sub>CSF</sub>
+Test Type: CK\_CSF
 Panels: N/A
 Equivalent Tests: N/A
-Not Equivalent Tests: All other CK TEST<sub>TYPES</sub>.
+Not Equivalent Tests: All other CK TEST\_TYPES.
 Indications: CK activity in CSF is indicative of cerebral injury (brain damage).
 Description: Creatine kinase is an enzyme found in the heart, brain, skeletal muscle, and other
 tissues. For more information on CK total, refer to CK information document.
-Related Tests: CK; CK<sub>MB</sub>; CK<sub>MB</sub>; CK<sub>BB</sub><sub>EP</sub>, CK<sub>BBI</sub>, CK<sub>BBI</sub><sub>EP</sub>; CK<sub>BF</sub>, CK<sub>ISO</sub>;
-CK<sub>ISO</sub><sub>EP</sub>; CK<sub>MB</sub>; CK<sub>MB</sub><sub>EIA</sub>; CK<sub>MB</sub><sub>EP</sub>; CK<sub>MBI</sub><sub>CLC</sub>; CK<sub>MBI</sub><sub>EIA</sub>; CK<sub>MBI</sub><sub>EP</sub>;
-CK<sub>MM</sub><sub>EP</sub>; CK<sub>MMI</sub>; CK<sub>MMI</sub><sub>EP</sub>; CK<sub>QN</sub>
+Related Tests: CK; CK\_MB; CK\_MB; CK\_BB\_EP, CK\_BBI, CK\_BBI\_EP; CK\_BF, CK\_ISO;
+CK\_ISO\_EP; CK\_MB; CK\_MB\_EIA; CK\_MB\_EP; CK\_MBI\_CLC; CK\_MBI\_EIA; CK\_MBI\_EP;
+CK\_MM\_EP; CK\_MMI; CK\_MMI\_EP; CK\_QN
 Approximate Reference Range:
 Comments: Creatine kinase is not normally present in cerebrospinal fluid (CSF).
 Test Method Variance:
@@ -978,38 +978,38 @@ content is expanded in the VDW. View the most current version of this document o
 (<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
 lab/VDWLabTestReferenceDocument.pdf/view)
 28
-CK<sub>MB</sub> (Creatine Kinase MB - analytic method not specified)
-Common Name: CK<sub>MB</sub> (also known as CPK MB)
+CK\_MB (Creatine Kinase MB - analytic method not specified)
+Common Name: CK\_MB (also known as CPK MB)
 Long Name: Creatine Kinase-MB
-Test Type: CK<sub>MB</sub>
+Test Type: CK\_MB
 Panels: N/A
-Equivalent Tests: Use this TEST<sub>TYPE</sub> ONLY when the analytic method is not specified in the
+Equivalent Tests: Use this TEST\_TYPE ONLY when the analytic method is not specified in the
 lab data.
-Not Equivalent Tests: All other CK TEST<sub>TYPES</sub>.
-Indications: B lood levels of CK rise when muscle or heart cells are injured. CK<sub>MB</sub> levels
+Not Equivalent Tests: All other CK TEST\_TYPES.
+Indications: B lood levels of CK rise when muscle or heart cells are injured. CK\_MB levels
 (along with total CK) are tested in persons who have chest pain to diagnose if they have had a
 heart attack. Since a high total CK could indicate damage to either the heart or other muscles,
-CK<sub>MB</sub> helps to distinguish between these two sources.
+CK\_MB helps to distinguish between these two sources.
 Description: CK–MB is one of three separate forms (isoenzymes) of the enzyme creatine
 kinase. CK–MB is found mostly in heart muscle. It rises when there is damage to heart muscle
 cells.
-Related Tests: CK; CK<sub>MB</sub>; CK<sub>BB</sub><sub>EP</sub>, CK<sub>BBI</sub>, CK<sub>BBI</sub><sub>EP</sub>; CK<sub>BF</sub>, CK<sub>CSF</sub>; CK<sub>ISO</sub>;
-CK<sub>ISO</sub><sub>EP</sub>; CK<sub>MB</sub>; CK<sub>MB</sub><sub>EIA</sub>; CK<sub>MB</sub><sub>EP</sub>; CK<sub>MBI</sub><sub>CLC</sub>; CK<sub>MBI</sub><sub>EIA</sub>; CK<sub>MBI</sub><sub>EP</sub>;
-CK<sub>MM</sub><sub>EP</sub>; CK<sub>MMI</sub>; CK<sub>MMI</sub><sub>EP</sub>; CK<sub>QN</sub>; Troponin; BNP
+Related Tests: CK; CK\_MB; CK\_BB\_EP, CK\_BBI, CK\_BBI\_EP; CK\_BF, CK\_CSF; CK\_ISO;
+CK\_ISO\_EP; CK\_MB; CK\_MB\_EIA; CK\_MB\_EP; CK\_MBI\_CLC; CK\_MBI\_EIA; CK\_MBI\_EP;
+CK\_MM\_EP; CK\_MMI; CK\_MMI\_EP; CK\_QN; Troponin; BNP
 Approximate Reference Range: Normal CK-MB is 5% or less of total CK, often 5 – 25 IU/L.
-Comments: If the value of CK<sub>MB</sub> is elevated and the ratio of CK<sub>MB</sub> to total CK (relative
+Comments: If the value of CK\_MB is elevated and the ratio of CK\_MB to total CK (relative
 index) is high, it is likely that the heart was damaged. A high CK with a low relative index
 suggests that skeletal muscles were damaged.
-Although CK<sub>MB</sub> is a good test, it has been largely replaced by troponin, which is more specific
+Although CK\_MB is a good test, it has been largely replaced by troponin, which is more specific
 for damage to the heart. Sometimes persons who are having trouble breathing have to use their
-chest muscles. Chest muscles have more CK<sub>MB</sub> than other muscles, which would raise the
-amount of CK<sub>MB</sub> in the blood. Persons whose kidneys have failed can also have high CK<sub>MB</sub>
+chest muscles. Chest muscles have more CK\_MB than other muscles, which would raise the
+amount of CK\_MB in the blood. Persons whose kidneys have failed can also have high CK\_MB
 levels without having had a heart attack. Rarely, chronic muscle disease, low thyroid hormone
-levels, and alcohol abuse can increase CK<sub>MB</sub>, producing changes similar to those seen in a
+levels, and alcohol abuse can increase CK\_MB, producing changes similar to those seen in a
 heart attack.
 Test Method Variance: Can be measured by test methods such as enzyme immunoassay,
-column chromatography, or electrophoresis. If the test method is specified, that TEST<sub>TYPE</sub>
-should be used rather than CK<sub>MB</sub>.
+column chromatography, or electrophoresis. If the test method is specified, that TEST\_TYPE
+should be used rather than CK\_MB.
 Other:
 Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
 incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
@@ -1017,32 +1017,32 @@ content is expanded in the VDW. View the most current version of this document o
 (<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
 lab/VDWLabTestReferenceDocument.pdf/view)
 29
-CK<sub>MB</sub><sub>EIA</sub> (Creatine Kinase MB – Enzyme Immunoassay)
-Common Name: CK<sub>MB</sub> by immunoassay (also known as CPK MB)
+CK\_MB\_EIA (Creatine Kinase MB – Enzyme Immunoassay)
+Common Name: CK\_MB by immunoassay (also known as CPK MB)
 Long Name: Creatine Kinase MB – Enzyme Immunoassay
-Test Type: CK<sub>MB</sub><sub>EIA</sub>
+Test Type: CK\_MB\_EIA
 Panels: N/A
-Equivalent Tests: Use the TEST<sub>TYPE</sub> only when the test method is stated to be enzyme
+Equivalent Tests: Use the TEST\_TYPE only when the test method is stated to be enzyme
 immunoassay
-Not Equivalent Tests: All other CK TEST<sub>TYPES</sub>.
-Indications: Blood levels of CK rise when muscle or heart cells are injured. CK<sub>MB</sub> levels,
+Not Equivalent Tests: All other CK TEST\_TYPES.
+Indications: Blood levels of CK rise when muscle or heart cells are injured. CK\_MB levels,
 along with total CK, are tested in persons who have chest pain to diagnose whether they have
 had a heart attack. Since a high total CK could indicate damage to either the heart or other
-muscles, CK<sub>MB</sub> helps to distinguish between these two sources.
-Description: CK<sub>MB</sub> is one of three separate forms (isoenzymes) of the enzyme creatine
-kinase (CK). CK<sub>MB</sub> is found mostly in heart muscle. It rises when there is damage to heart
+muscles, CK\_MB helps to distinguish between these two sources.
+Description: CK\_MB is one of three separate forms (isoenzymes) of the enzyme creatine
+kinase (CK). CK\_MB is found mostly in heart muscle. It rises when there is damage to heart
 muscle cells.
-Related Tests: CK; CK<sub>MB</sub>; CK<sub>BB</sub><sub>EP</sub>, CK<sub>BBI</sub>, CK<sub>BBI</sub><sub>EP</sub>; CK<sub>BF</sub>, CK<sub>CSF</sub>; CK<sub>ISO</sub>;
-CK<sub>ISO</sub><sub>EP</sub>; CK<sub>MB</sub>; CK<sub>MB</sub><sub>EP</sub>; CK<sub>MBI</sub><sub>CLC</sub>; CK<sub>MBI</sub><sub>EIA</sub>; CK<sub>MBI</sub><sub>EP</sub>; CK<sub>MM</sub><sub>EP</sub>;
-CK<sub>MMI</sub>; CK<sub>MMI</sub><sub>EP</sub>; CK<sub>QN</sub>; Troponin; BNP
+Related Tests: CK; CK\_MB; CK\_BB\_EP, CK\_BBI, CK\_BBI\_EP; CK\_BF, CK\_CSF; CK\_ISO;
+CK\_ISO\_EP; CK\_MB; CK\_MB\_EP; CK\_MBI\_CLC; CK\_MBI\_EIA; CK\_MBI\_EP; CK\_MM\_EP;
+CK\_MMI; CK\_MMI\_EP; CK\_QN; Troponin; BNP
 Approximate Reference Range: Normal CK-MB is 5% or less of CK, often 5 to 25 IU/L.
-Comments: If the value of CK<sub>MB</sub> is elevated and the ratio of CK<sub>MB</sub> to total CK (relative
+Comments: If the value of CK\_MB is elevated and the ratio of CK\_MB to total CK (relative
 index) is high, it is likely that the heart was damaged. A high CK with a low relative index
 suggests that skeletal muscles were damaged.
 Although CK-MB is a good test, it has been largely replaced by troponin, which is more specific
 for damage to the heart. Persons whose kidneys have failed or who are having trouble
-breathing can have high CK<sub>MB</sub> levels without having had a heart attack. Rarely, chronic
-muscle disease, low thyroid hormone levels, and alcohol abuse can increase CK<sub>MB</sub>,
+breathing can have high CK\_MB levels without having had a heart attack. Rarely, chronic
+muscle disease, low thyroid hormone levels, and alcohol abuse can increase CK\_MB,
 producing changes similar to those seen in a heart attack.
 Test Method Variance: Separation of CK into isoenzymes may be accomplished by
 electrophoresis, column chromatography, or immunoassay. Immunoassay methods for
@@ -1055,26 +1055,26 @@ content is expanded in the VDW. View the most current version of this document o
 (<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
 lab/VDWLabTestReferenceDocument.pdf/view)
 30
-CK<sub>MB</sub><sub>EP</sub> (Creatine Kinase MB - Electrophoresis)
-Common Name: CK<sub>MB</sub> by electrophoresis (also known as CPK MB)
+CK\_MB\_EP (Creatine Kinase MB - Electrophoresis)
+Common Name: CK\_MB by electrophoresis (also known as CPK MB)
 Long Name: Creatine Kinase MB - Electrophoresis
-Test Type: CK<sub>MB</sub><sub>EP</sub>
+Test Type: CK\_MB\_EP
 Panels: N/A
-Equivalent Tests: Use this TEST<sub>TYPE</sub> only when the test method is stated to be
+Equivalent Tests: Use this TEST\_TYPE only when the test method is stated to be
 electrophoresis.
-Not Equivalent Tests: All other CK TEST<sub>TYPES</sub>.
-Indications: Blood levels of CK rise when muscle or heart cells are injured. CK<sub>MB</sub> levels,
+Not Equivalent Tests: All other CK TEST\_TYPES.
+Indications: Blood levels of CK rise when muscle or heart cells are injured. CK\_MB levels,
 along with total CK, are tested in persons who have chest pain to diagnose whether they have
 had a heart attack. Since a high total CK could indicate damage to either the heart or other
-muscles, CK<sub>MB</sub> helps to distinguish between these two sources.
-Description: CK<sub>MB</sub> is one of three separate forms (isoenzymes) of the enzyme creatine
-kinase (CK). CK<sub>MB</sub> is found mostly in heart muscle. It rises when there is damage to heart
+muscles, CK\_MB helps to distinguish between these two sources.
+Description: CK\_MB is one of three separate forms (isoenzymes) of the enzyme creatine
+kinase (CK). CK\_MB is found mostly in heart muscle. It rises when there is damage to heart
 muscle cells.
-Related Tests: CK; CK<sub>MB</sub>; CK<sub>BB</sub><sub>EP</sub>, CK<sub>BBI</sub>, CK<sub>BBI</sub><sub>EP</sub>; CK<sub>BF</sub>, CK<sub>CSF</sub>; CK<sub>ISO</sub>;
-CK<sub>ISO</sub><sub>EP</sub>; CK<sub>MB</sub>; CK<sub>MB</sub><sub>EIA</sub>; CK<sub>MBI</sub><sub>CLC</sub>; CK<sub>MBI</sub><sub>EIA</sub>; CK<sub>MBI</sub><sub>EP</sub>; CK<sub>MM</sub><sub>EP</sub>;
-CK<sub>MMI</sub>; CK<sub>MMI</sub><sub>EP</sub>; CK<sub>QN</sub>; Troponin; BNP
+Related Tests: CK; CK\_MB; CK\_BB\_EP, CK\_BBI, CK\_BBI\_EP; CK\_BF, CK\_CSF; CK\_ISO;
+CK\_ISO\_EP; CK\_MB; CK\_MB\_EIA; CK\_MBI\_CLC; CK\_MBI\_EIA; CK\_MBI\_EP; CK\_MM\_EP;
+CK\_MMI; CK\_MMI\_EP; CK\_QN; Troponin; BNP
 Approximate Reference Range: Normal CK-MB is 5% or less of CK, or 5 to 25 IU/L.
-Comments: If the value of CK<sub>MB</sub> is elevated and the ratio of CK<sub>MB</sub> to total CK (relative
+Comments: If the value of CK\_MB is elevated and the ratio of CK\_MB to total CK (relative
 index) is high, it is likely that the heart was damaged. A high CK with a low relative index
 suggests that skeletal muscles were damaged.
 Although CK-MB is a good test, it has been largely replaced by troponin, which is more specific
@@ -1083,8 +1083,8 @@ breathing can have high CK–MB levels without having had a heart attack. Rarely
 muscle disease, low thyroid hormone levels, and alcohol abuse can increase CK–MB,
 producing changes similar to those seen in a heart attack.
 Test Method Variance: Separation of CK into isoenzymes may be accomplished by
-electrophoresis, column chromatography, or immunoassay. Electrophoretically, CK<sub>BB</sub> is most
-mobile, CK<sub>MB</sub> is intermediate, and CK<sub>MM</sub> is neutral. Although electrophoresis is possibly
+electrophoresis, column chromatography, or immunoassay. Electrophoretically, CK\_BB is most
+mobile, CK\_MB is intermediate, and CK\_MM is neutral. Although electrophoresis is possibly
 less sensitive than column chromatography or immunoassay, there has been extensive
 experience and it is adequate for routine clinical use.
 Other:
@@ -1094,31 +1094,31 @@ content is expanded in the VDW. View the most current version of this document o
 (<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
 lab/VDWLabTestReferenceDocument.pdf/view)
 31
-CK<sub>MBI</sub><sub>CLC</sub> (Creatine Kinase MB/Creatine Kinase Total Calculated)
-Common Name: CK<sub>MB</sub> / CK (calculated ratio)
+CK\_MBI\_CLC (Creatine Kinase MB/Creatine Kinase Total Calculated)
+Common Name: CK\_MB / CK (calculated ratio)
 Long Name: Creatine Kinase MB/Creatine Kinase Total Calculated
-Test Type: CK<sub>MBI</sub><sub>CLC</sub>
+Test Type: CK\_MBI\_CLC
 Panels: N/A
-Equivalent Tests: Use this TEST<sub>TYPE</sub> only when the result is a ratio of CK<sub>MB</sub> to CK total as
+Equivalent Tests: Use this TEST\_TYPE only when the result is a ratio of CK\_MB to CK total as
 a calculated ratio.
 Not Equivalent Tests: All other CK tests.
-Indications: Blood levels of CK rise when muscle or heart cells are injured. CK<sub>MB</sub> levels,
+Indications: Blood levels of CK rise when muscle or heart cells are injured. CK\_MB levels,
 along with total CK, are tested in persons who have chest pain to diagnose whether they have
 had a heart attack. Since a high total CK could indicate damage to either the heart or other
-muscles, the ratio of CK<sub>MB</sub> to total CK helps to distinguish between these two sources.
-Description: CK<sub>MB</sub> is one of three separate forms (isoenzymes) of the enzyme creatine
-kinase (CK). CK<sub>MB</sub> is found mostly in heart muscle. It rises when there is damage to heart
-muscle cells. This test is the calculated ratio (or relative index) of the CK<sub>MB</sub> to the total amount
+muscles, the ratio of CK\_MB to total CK helps to distinguish between these two sources.
+Description: CK\_MB is one of three separate forms (isoenzymes) of the enzyme creatine
+kinase (CK). CK\_MB is found mostly in heart muscle. It rises when there is damage to heart
+muscle cells. This test is the calculated ratio (or relative index) of the CK\_MB to the total amount
 of the three CK isoenzymes.
-Related Tests: CK; CK<sub>MB</sub>; CK<sub>BB</sub><sub>EP</sub>, CK<sub>BBI</sub>, CK<sub>BBI</sub><sub>EP</sub>; CK<sub>BF</sub>, CK<sub>CSF</sub>; CK<sub>ISO</sub>;
-CK<sub>ISO</sub><sub>EP</sub>; CK<sub>MB</sub>; CK<sub>MB</sub><sub>EIA</sub>; CK<sub>MB</sub><sub>EP</sub>; CK<sub>MBI</sub><sub>EIA</sub>; CK<sub>MBI</sub><sub>EP</sub>; CK<sub>MM</sub><sub>EP</sub>;
-CK<sub>MMI</sub>; CK<sub>MMI</sub><sub>EP</sub>; CK<sub>QN</sub>; Troponin; BNP
-Approximate Reference Range: If the calculated ratio of CK<sub>MB</sub> to the total CK (relative
+Related Tests: CK; CK\_MB; CK\_BB\_EP, CK\_BBI, CK\_BBI\_EP; CK\_BF, CK\_CSF; CK\_ISO;
+CK\_ISO\_EP; CK\_MB; CK\_MB\_EIA; CK\_MB\_EP; CK\_MBI\_EIA; CK\_MBI\_EP; CK\_MM\_EP;
+CK\_MMI; CK\_MMI\_EP; CK\_QN; Troponin; BNP
+Approximate Reference Range: If the calculated ratio of CK\_MB to the total CK (relative
 index) is more than 2.5 – 3 (some say more than 5), it is likely that the source is cardiac (and
 that the heart was damaged). Ratios between 3 and 5 represent a gray zone. A ratio less than
 2.5 – 3 is consistent with a skeletal muscle source.
-Comments: CK<sub>MB</sub> to total CK (often multiplied by 100) can assist in differentiating falsepositive
-elevations of CK<sub>MB</sub> arising from skeletal muscle. No definitive diagnosis can be
+Comments: CK\_MB to total CK (often multiplied by 100) can assist in differentiating falsepositive
+elevations of CK\_MB arising from skeletal muscle. No definitive diagnosis can be
 established without serial determinations to detect a rise.
 Test Method Variance:
 Other:
@@ -1128,32 +1128,32 @@ content is expanded in the VDW. View the most current version of this document o
 (<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
 lab/VDWLabTestReferenceDocument.pdf/view)
 32
-CK<sub>MBI</sub><sub>EIA</sub> (Creatine Kinase MB/Creatine Kinase Total Enzyme Immunoassay)
-Common Name: CK<sub>MB</sub>/CK (ratio determined by enzyme immunoassay)
+CK\_MBI\_EIA (Creatine Kinase MB/Creatine Kinase Total Enzyme Immunoassay)
+Common Name: CK\_MB/CK (ratio determined by enzyme immunoassay)
 Long Name: Creatine Kinase MB/Creatine Kinase Total Enzyme Immunoassay
-Test Type: CK<sub>MBI</sub><sub>EIA</sub>
+Test Type: CK\_MBI\_EIA
 Panels: N/A
-Equivalent Tests: Use this TEST<sub>TYPE</sub> only when the result is a ratio of CK<sub>MB</sub> to CK total
+Equivalent Tests: Use this TEST\_TYPE only when the result is a ratio of CK\_MB to CK total
 determined by enzyme immunoassay (EIA).
 Not Equivalent Tests: All other CK tests.
-Indications: Blood levels of CK rise when muscle or heart cells are injured. CK<sub>MB</sub> levels,
+Indications: Blood levels of CK rise when muscle or heart cells are injured. CK\_MB levels,
 along with total CK, are tested in persons who have chest pain to diagnose whether they have
 had a heart attack. Since a high total CK could indicate damage to either the heart or other
-muscles, the ratio of CK<sub>MB</sub> to total CK helps to distinguish between these two sources.
-Description: CK<sub>MB</sub> is one of three separate forms of CK. CK<sub>MB</sub> is found mostly in heart
+muscles, the ratio of CK\_MB to total CK helps to distinguish between these two sources.
+Description: CK\_MB is one of three separate forms of CK. CK\_MB is found mostly in heart
 muscle. It rises when there is damage to heart muscle cells. Separation of CK into isoenzymes
 may be accomplished by electrophoresis, column chromatography, or immunoassay.
 Immunoassay methods for isoenzymes can be accomplished rapidly and is highly sensitive and
 specific. Further, it does not show the interferences common to traditional electrophoresis.
-Related Tests: CK; CK<sub>MB</sub>; CK<sub>BB</sub><sub>EP</sub>, CK<sub>BBI</sub>, CK<sub>BBI</sub><sub>EP</sub>; CK<sub>BF</sub>, CK<sub>CSF</sub>; CK<sub>ISO</sub>;
-CK<sub>ISO</sub><sub>EP</sub>; CK<sub>MB</sub>; CK<sub>MB</sub><sub>EIA</sub>; CK<sub>MB</sub><sub>EP</sub>; CK<sub>MBI</sub><sub>CLC</sub>; CK<sub>MBI</sub><sub>EP</sub>; CK<sub>MM</sub><sub>EP</sub>;
-CK<sub>MMI</sub>; CK<sub>MMI</sub><sub>EP</sub>; CK<sub>QN</sub>; Troponin; BNP
-Approximate Reference Range: If the ratio of CK<sub>MB</sub> to the total CK is more than 2.5 – 3
+Related Tests: CK; CK\_MB; CK\_BB\_EP, CK\_BBI, CK\_BBI\_EP; CK\_BF, CK\_CSF; CK\_ISO;
+CK\_ISO\_EP; CK\_MB; CK\_MB\_EIA; CK\_MB\_EP; CK\_MBI\_CLC; CK\_MBI\_EP; CK\_MM\_EP;
+CK\_MMI; CK\_MMI\_EP; CK\_QN; Troponin; BNP
+Approximate Reference Range: If the ratio of CK\_MB to the total CK is more than 2.5 – 3
 (some say more than 5), it is likely that the source is cardiac (and that the heart was damaged).
 Ratios between 3 and 5 represent a gray zone. A ratio less than 2.5 – 3 is consistent with a
 skeletal muscle source.
-Comments: CK<sub>MB</sub> to total CK (often multiplied by 100) can assist in differentiating falsepositive
-elevations of CK<sub>MB</sub> arising from skeletal muscle. No definitive diagnosis can be
+Comments: CK\_MB to total CK (often multiplied by 100) can assist in differentiating falsepositive
+elevations of CK\_MB arising from skeletal muscle. No definitive diagnosis can be
 established without serial determinations to detect a rise.
 Test Method Variance:
 Other:
@@ -1163,30 +1163,30 @@ content is expanded in the VDW. View the most current version of this document o
 (<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
 lab/VDWLabTestReferenceDocument.pdf/view)
 33
-CK<sub>MBI</sub><sub>EP</sub> (Creatine Kinase MB/ Creatine Kinase Total Electrophoresis)
-Common Name: CK<sub>MB</sub>/CK (ratio determined by electrophoresis)
+CK\_MBI\_EP (Creatine Kinase MB/ Creatine Kinase Total Electrophoresis)
+Common Name: CK\_MB/CK (ratio determined by electrophoresis)
 Long Name: Creatine Kinase MB/ Creatine Kinase Total Electrophoresis
-Test Type: CK<sub>MBI</sub><sub>EP</sub>
+Test Type: CK\_MBI\_EP
 Panels: N/A
-Equivalent Tests: Use this TEST<sub>TYPE</sub> only when the result is a ratio of CK<sub>MB</sub> to CK total
+Equivalent Tests: Use this TEST\_TYPE only when the result is a ratio of CK\_MB to CK total
 determined by electrophoresis.
 Not Equivalent Tests: All other CK tests.
-Indications: Blood levels of CK rise when muscle or heart cells are injured. CK<sub>MB</sub> levels,
+Indications: Blood levels of CK rise when muscle or heart cells are injured. CK\_MB levels,
 along with total CK, are tested in persons who have chest pain to diagnose whether they have
 had a heart attack. Since a high total CK could indicate damage to either the heart or other
-muscles, the ratio of CK<sub>MB</sub> to total CK helps to distinguish between these two sources.
-Description: CK<sub>MB</sub> is one of three separate forms of CK. CK<sub>MB</sub> is found mostly in heart
+muscles, the ratio of CK\_MB to total CK helps to distinguish between these two sources.
+Description: CK\_MB is one of three separate forms of CK. CK\_MB is found mostly in heart
 muscle. It rises when there is damage to heart muscle cells. Separation of CK into isoenzymes
 may be accomplished by electrophoresis, column chromatography, or immunoassay.
-Related Tests: CK; CK<sub>MB</sub>; CK<sub>BB</sub><sub>EP</sub>, CK<sub>BBI</sub>, CK<sub>BBI</sub><sub>EP</sub>; CK<sub>BF</sub>, CK<sub>CSF</sub>; CK<sub>ISO</sub>;
-CK<sub>ISO</sub><sub>EP</sub>; CK<sub>MB</sub>; CK<sub>MB</sub><sub>EIA</sub>; CK<sub>MB</sub><sub>EP</sub>; CK<sub>MBI</sub><sub>CLC</sub>; CK<sub>MBI</sub><sub>EIA</sub>; CK<sub>MM</sub><sub>EP</sub>;
-CK<sub>MMI</sub>; CK<sub>MMI</sub><sub>EP</sub>; CK<sub>QN</sub>; Troponin; BNP
-Approximate Reference Range: Normal If the ratio of CK<sub>MB</sub> to the total CK is more than 2.5
+Related Tests: CK; CK\_MB; CK\_BB\_EP, CK\_BBI, CK\_BBI\_EP; CK\_BF, CK\_CSF; CK\_ISO;
+CK\_ISO\_EP; CK\_MB; CK\_MB\_EIA; CK\_MB\_EP; CK\_MBI\_CLC; CK\_MBI\_EIA; CK\_MM\_EP;
+CK\_MMI; CK\_MMI\_EP; CK\_QN; Troponin; BNP
+Approximate Reference Range: Normal If the ratio of CK\_MB to the total CK is more than 2.5
 – 3 (some say more than 5), it is likely that the source is cardiac (and that the heart was
 damaged). Ratios between 3 and 5 represent a gray zone. A ratio less than 2.5 – 3 is consistent
 with a skeletal muscle source.
-Comments: CK<sub>MB</sub> to total CK (often multiplied by 100) can assist in differentiating falsepositive
-elevations of CK<sub>MB</sub> arising from skeletal muscle. No definitive diagnosis can be
+Comments: CK\_MB to total CK (often multiplied by 100) can assist in differentiating falsepositive
+elevations of CK\_MB arising from skeletal muscle. No definitive diagnosis can be
 established without serial determinations to detect a rise.
 Test Method Variance:
 Other:
@@ -1196,28 +1196,28 @@ content is expanded in the VDW. View the most current version of this document o
 (<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
 lab/VDWLabTestReferenceDocument.pdf/view)
 34
-CK<sub>MM</sub><sub>EP</sub> (Creatine Kinase MM Electrophoresis)
-Common Name: CK<sub>MM</sub> (also known as CPK-MM)
+CK\_MM\_EP (Creatine Kinase MM Electrophoresis)
+Common Name: CK\_MM (also known as CPK-MM)
 Long Name: Creatine Kinase MM Electrophoresis
-Test Type: CK<sub>MM</sub><sub>EP</sub>
+Test Type: CK\_MM\_EP
 Panels: N/A
-Equivalent Tests: Use this TEST<sub>TYPE</sub> only when the result CK<sub>MM</sub> determined by
+Equivalent Tests: Use this TEST\_TYPE only when the result CK\_MM determined by
 electrophoresis.
 Not Equivalent Tests: All other CK tests.
 Indications: Blood levels of CK-MM rise when muscle or heart cells are injured.
 Description: Creatine kinase is an enzyme found in the heart, brain, skeletal muscle, and other
-tissues. There are three different forms CK. CK<sub>MM</sub> is the CK isoenzyme found in primarily in
+tissues. There are three different forms CK. CK\_MM is the CK isoenzyme found in primarily in
 skeletal muscles and heart. The small amount of CK that is normally in the blood comes mainly
 from muscles. CK-MM makes up over 95% of total CK in skeletal muscle.
-Related Tests: CK; CK<sub>MB</sub>; CK<sub>BB</sub><sub>EP</sub>, CK<sub>BBI</sub>, CK<sub>BBI</sub><sub>EP</sub>; CK<sub>BF</sub>, CK<sub>CSF</sub>; CK<sub>ISO</sub>;
-CK<sub>ISO</sub><sub>EP</sub>; CK<sub>MB</sub>; CK<sub>MB</sub><sub>EIA</sub>; CK<sub>MB</sub><sub>EP</sub>; CK<sub>MBI</sub><sub>CLC</sub>; CK<sub>MBI</sub><sub>EIA</sub>; CK<sub>MBI</sub><sub>EP</sub>;
-CK<sub>MMI</sub>; CK<sub>MMI</sub><sub>EP</sub>; CK<sub>QN</sub>
+Related Tests: CK; CK\_MB; CK\_BB\_EP, CK\_BBI, CK\_BBI\_EP; CK\_BF, CK\_CSF; CK\_ISO;
+CK\_ISO\_EP; CK\_MB; CK\_MB\_EIA; CK\_MB\_EP; CK\_MBI\_CLC; CK\_MBI\_EIA; CK\_MBI\_EP;
+CK\_MMI; CK\_MMI\_EP; CK\_QN
 Approximate Reference Range (varies from lab to lab): Adult males: 52 – 336 U/L; adult
 females: 38 – 176 U/L; children 6 – 17: 53 – 499 U/L
-Comments: People who have greater muscle mass have higher CK and CK<sub>MM</sub> levels than
+Comments: People who have greater muscle mass have higher CK and CK\_MM levels than
 those who do not. Very heavy exercise (such as in weight lifting, contact sports, or long
 exercise sessions) can also increase CK-MM. Other forms of muscle damage, such as from a
-fall, a car accident, surgery, or a shot (injection), can also increase CK<sub>MM</sub>.
+fall, a car accident, surgery, or a shot (injection), can also increase CK\_MM.
 Test Method Variance:
 Other:
 Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
@@ -1401,12 +1401,12 @@ lab/VDWLabTestReferenceDocument.pdf/view)
 FOBT; Fecal Occult Blood Test
 Common Name: FOBT; fecal occult blood test
 Long Name: FOBT qualitative; fecal occult blood; occult blood in stool; guaiac
-Test Type: FOB<sub>GUAI</sub> (NOTE: This is likely to be the FOBT TEST<sub>TYPE</sub> where the majority of
+Test Type: FOB\_GUAI (NOTE: This is likely to be the FOBT TEST\_TYPE where the majority of
 your site’s FOBT tests will be mapped as this is the “Home FOBT” [see below]).
 Panels:
 Equivalent tests: FOBT is a general name applied to stool tests that detect blood “hidden”
 (occult) in the stool. Two basic technologies are employed: the older guaiac tests and the newer
-immunochemical tests (see test type FOB<sub>IMMUN</sub>). These two tests are sometimes
+immunochemical tests (see test type FOB\_IMMUN). These two tests are sometimes
 distinguished as “guaiac test” or gFOBT versus fecal immunochemical test (FIT), or iFOBT. The
 information on this sheet applies to the guaiac test (gFOBT) which can also be listed as
 Hemoccult® or similar (e.g., Hemoccult II®, Hemoccult II ® SENSA®, Hemoccult II ®
@@ -1422,7 +1422,7 @@ There were formerly two applications of the FOBT test. “Office FOBT” is no l
 recommended. In that procedure, the provider collected a smear of fecal sample coincident with
 a digital rectal exam, and applied it to a single test card. “Home FOBT” is the recommended
 procedure, in which the provider gives the patient a test kit to complete at home (the kit often
-contains 3 cards, allowing for collection of 2 samples per day for 3 days). This TEST<sub>TYPE</sub> is
+contains 3 cards, allowing for collection of 2 samples per day for 3 days). This TEST\_TYPE is
 for the home FOBT.
 Indications: The FOBT detects blood in stool. The test can be used to screen for colorectal
 cancer (CRC), or to diagnose other conditions that cause bleeding into the gastrointestinal (GI)
@@ -1454,7 +1454,7 @@ when results are reported individually for each box:
 6th specimen 27401-9
 7th specimen 27925-7
 8th specimen 27926-5
-Related Tests: See the following TEST<sub>TYPES</sub>: FOB1<sub>GUAI</sub>, FOB<sub>QN</sub>, and FOB<sub>IMMUN</sub>
+Related Tests: See the following TEST\_TYPES: FOB1\_GUAI, FOB\_QN, and FOB\_IMMUN
 Approximate Reference Range: N/A
 Comments: High does of vitamin C (or other strong anti-oxidant) may inhibit the color reaction
 and cause a false negative. Consumption of meat has been shown to cause false positives for
@@ -1469,12 +1469,12 @@ lab/VDWLabTestReferenceDocument.pdf/view)
 FOB1; Fecal Occult Blood Test One Specimen
 Common Name: FOBT; fecal occult blood test, first specimen
 Long Name: FOBT qualitative; fecal occult blood; occult blood in stool; guaiac, single specimen
-Test Type: FOB1<sub>GUAI</sub> (NOTE: This TEST<sub>TYPE</sub> is intended to be used ONLY when the
-Office FOBT is performed [see below]. Some sites will not use this TEST<sub>TYPE</sub> at all).
+Test Type: FOB1\_GUAI (NOTE: This TEST\_TYPE is intended to be used ONLY when the
+Office FOBT is performed [see below]. Some sites will not use this TEST\_TYPE at all).
 Panels:
 Equivalent tests: FOBT is a general name applied to stool tests that detect blood “hidden”
 (occult) in the stool. Two basic technologies are employed: the guaiac test (older, routinely
-used), and newer immunochemical tests (see test type FOB<sub>IMMUN</sub>). These two tests are
+used), and newer immunochemical tests (see test type FOB\_IMMUN). These two tests are
 sometimes distinguished as “guaiac test” or gFOBT, versus fecal immunochemical test (FIT), or
 iFOBT. This information applies to the older guaiac test (gFOBT).The FOBT test can be listed
 as Hemoccult® or similar (e.g., Hemoccult II®, Hemoccult II ® SENSA®, Hemoccult II ®
@@ -1490,7 +1490,7 @@ There were formerly two applications of the FOBT test. “Office FOBT” is no l
 recommended. In that procedure, the provider collects a smear of fecal sample coincident with a
 digital rectal exam, and applies it to a single test card. “Home FOBT” is the recommended
 procedure, in which the provider gives the patient a test kit to complete at home (the kit often
-contains 3 cards, allowing for collection of 2 samples per day for 3 days). This TEST<sub>TYPE</sub> is
+contains 3 cards, allowing for collection of 2 samples per day for 3 days). This TEST\_TYPE is
 for the office FOBT.
 Indications: The fecal occult blood test (FOBT) detects blood in stool. The test may be
 performed to screen for colorectal cancer (CRC), or to diagnose other conditions that cause
@@ -1501,7 +1501,7 @@ office FOBT, typically the smear is applied to a single card. The test is read b
 developer to the guaiac paper and noting the color change. Any trace of blue on any of the fecal
 smears is considered a positive test. The test is qualitative in that the result is negative, positive
 or not interpetable.
-Related Tests: See the following TEST<sub>TYPES</sub>: FOB<sub>GUAI</sub>, FOB<sub>QN</sub>, and FOB<sub>IMMUN</sub>
+Related Tests: See the following TEST\_TYPES: FOB\_GUAI, FOB\_QN, and FOB\_IMMUN
 Approximate Reference Range: N/A
 Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
 incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
@@ -1522,13 +1522,13 @@ lab/VDWLabTestReferenceDocument.pdf/view)
 Fecal Occult Blood Test, Quantitative
 Common Name: Quantitative FOBT test
 Long Name: FOBT quantitative; fecal occult blood; occult blood in stool; guaiac
-Test Type: FOB<sub>QN</sub> (NOTE: We are not aware that any site is using a quantitative FOBT test
-with the exception of the newer immune test. We anticipate that this TEST<sub>TYPE</sub> will rarely be
+Test Type: FOB\_QN (NOTE: We are not aware that any site is using a quantitative FOBT test
+with the exception of the newer immune test. We anticipate that this TEST\_TYPE will rarely be
 populated in the VDW).
 Panels:
 Equivalent tests: FOBT is a general name applied to stool tests that detect blood “hidden”
 (occult) in the stool. Two basic technologies are employed: the guaiac test (older, routinely
-used), and newer immunochemical tests (see test type FOB<sub>IMMUN</sub>). These two tests are
+used), and newer immunochemical tests (see test type FOB\_IMMUN). These two tests are
 sometimes distinguished as “guaiac test” or gFOBT, versus fecal immunochemical test (FIT), or
 iFOBT. Please refer to other section of the Reference Document for information about other
 stool blood tests.
@@ -1544,7 +1544,7 @@ bleeding into the gastrointestinal (GI) tract. Occult (blood not visible to the 
 may be due to CRC, polyps, or other GI conditions (e.g., hemorrhoids, anal fissures, ulcers,
 inflammatory bowel disease).
 Description:
-Related Tests: See the following TEST<sub>TYPES</sub>: FOB<sub>GUAI</sub>, FOB1<sub>GUAI</sub>, and FOB<sub>IMMUN</sub>
+Related Tests: See the following TEST\_TYPES: FOB\_GUAI, FOB1\_GUAI, and FOB\_IMMUN
 Approximate Reference Range:
 Comments:
 Test Method Variance:
@@ -1557,7 +1557,7 @@ lab/VDWLabTestReferenceDocument.pdf/view)
 Fecal Immunologic (Immunochemical) Test
 Common Name: FIT (fecal immunochemical test0, iFOBT
 Long Name: FOBT qualitative; quick test; HFH test; occult blood in stool; immunologic
-Test Type: FOB<sub>IMMUN</sub>
+Test Type: FOB\_IMMUN
 Panels:
 Equivalent tests: FOBT is a general name applied to stool tests to detect blood “hidden”
 (occult) in the stool. Two basic technologies are employed: the guaiac test, which is older and
@@ -1584,7 +1584,7 @@ change; i.e., with a change in color indicating a positive test. In routine clin
 result would be qualitative; the number of windows tested, and the number that are
 negative/positive. FIT is a newer test than the guaiac. FIT sample collection procedures are
 designed to increase acceptability and adherence by patients.
-Related Tests: See the following TEST<sub>TYPES</sub>: FOB<sub>GUAI</sub>, FOB1<sub>GUAI</sub>, and FOB<sub>QN</sub>
+Related Tests: See the following TEST\_TYPES: FOB\_GUAI, FOB1\_GUAI, and FOB\_QN
 Approximate Reference Range: N/A
 Comments: Remember that this is a stool test; the material being tested is human feces. When
 conducting string searches of databases to locate iFOBT tests, it may be useful to use terms
@@ -1701,7 +1701,7 @@ lab/VDWLabTestReferenceDocument.pdf/view)
 GFR (Glomerular Filtration Rate), MDRD
 Common Name: Estimated GFR, eGFR
 Long Name: Glomerular Filtration Rate/1.73 sq M. predicted (MDRD)
-Test Type: GFR<sub>MDRD</sub>
+Test Type: GFR\_MDRD
 Panels: Comprehensive metabolic panel, basic metabolic panel
 Equivalent Tests: Calculated GFR
 Not Equivalent Tests: GFR measured by inulin clearance; Creatinine [SCr]; Creatinine
@@ -1722,12 +1722,12 @@ GFR Description Kidney Damage Stage
 30-59 ml/min Moderate decrease in GFR 3
 15-29 ml/min Severe decrease in GFR 4
 <15 ml/min Kidney failure 5
-Comments: This TEST<sub>TYPE</sub> should only be used when 1) you cannot tell whether the lab
+Comments: This TEST\_TYPE should only be used when 1) you cannot tell whether the lab
 results include race, or 2) eGFR results are reported without regard to race. If eGFR results are
-reported as African American or non-African American, populate those TEST<sub>TYPEs</sub> instead.
+reported as African American or non-African American, populate those TEST\_TYPEs instead.
 Although the MDRD equation is not intended for use in calculating eGFR for pediatric patients,
 some HMOs may report eGFR using the MDRD for children (i.e., one of the MDRD
-TEST<sub>TYPEs</sub> would be populated in the VDW for children at your site if that is the case).
+TEST\_TYPEs would be populated in the VDW for children at your site if that is the case).
 The eGFR test is most accurate for poor kidney function so it may only be reported for values
 less than 60 ml/min. Because race is often not known, results under this test type name can be
 reported based on a non-African American (NAA) status and clinicians adjust the result if their
@@ -1754,12 +1754,12 @@ lab/VDWLabTestReferenceDocument.pdf/view)
 GFR (Glomerular Filtration Rate), MDRD, African American
 Common Name: Estimated GFR, eGFR
 Long Name: Glomerular Filtration Rate/1.73 sq M. predicted black (MDRD)
-Test Type: GFR<sub>AA</sub><sub>MD</sub>
+Test Type: GFR\_AA\_MD
 Panels: Comprehensive metabolic panel, basic metabolic panel
 Equivalent Tests: Calculated GFR
 Not Equivalent Tests: GFR measured by inulin clearance; Creatinine [SCr]; Creatinine
 clearance [CrCl]; Microalbumin; Cystatin C; Urine protein; Beta-2 microglobulin; GFR predicted
-non-Black MDRD (GFR<sub>NAA</sub><sub>MD</sub>)
+non-Black MDRD (GFR\_NAA\_MD)
 Indications: Measure kidney function; screen for/detect kidney damage; monitor kidney status
 Description: This test estimates how much blood passes through glomeruli, the kidneys’ filters,
 each minute. A measure of creatinine is required to calculate GFR. The MDRD equation was
@@ -1775,9 +1775,9 @@ GFR Description Kidney Damage Stage
 30-59 ml/min Moderate decrease in GFR 3
 15-29 ml/min Severe decrease in GFR 4
 <15 ml/min Kidney failure 5
-Comments: The GFR<sub>AA</sub><sub>MD</sub> test type should be used when your lab reports results include
-race. If GFR results are reported without regard to race, populate the GFR<sub>MDRD</sub> test type.
-The GFR<sub>AA</sub><sub>MD</sub> is only used for African Americans. Early on in GFR reporting there was no
+Comments: The GFR\_AA\_MD test type should be used when your lab reports results include
+race. If GFR results are reported without regard to race, populate the GFR\_MDRD test type.
+The GFR\_AA\_MD is only used for African Americans. Early on in GFR reporting there was no
 race adjustment; clinicians had to adjust the reported values themselves if their patient was
 African American. Still today many labs do not have race data associated with their samples, so
 they report two GFR values, one based on non-African Americans and the other for African
@@ -1785,7 +1785,7 @@ Americans. This way clinicians just choose the appropriate result. This test is 
 poor kidney function so it may only be reported for values less than 60 ml/min.
 Although the MDRD equation for African Americans is not intended for use in calculating eGFR
 for pediatric patients, some HMOs may report eGFR using the MDRD for children (i.e., one of
-the MDRD TEST<sub>TYPEs</sub> would be populated in the VDW for children at your site if that is the
+the MDRD TEST\_TYPEs would be populated in the VDW for children at your site if that is the
 case).
 Test Method Variance: Prior to 2005, the equation was as follows:
 GFR= 186 x (Scr)-1.154 x (Age)-0.203 x (0.742 if female) x (1.120 if African American)
@@ -1809,12 +1809,12 @@ lab/VDWLabTestReferenceDocument.pdf/view)
 GFR (Glomerular Filtration Rate), MDRD, Non-African American
 Common Name: Estimated GFR, eGFR
 Long Name: Glomerular Filtration Rate/1.73 sq M. predicted non black (MDRD)
-Test Type: GFR<sub>NAA</sub><sub>MD</sub>
+Test Type: GFR\_NAA\_MD
 Panels: Comprehensive metabolic panel, basic metabolic panel
 Equivalent Tests: Calculated GFR; eGFR
 Not Equivalent Tests: GFR measured by inulin clearance; Creatinine [SCr]; Creatinine
 clearance [CrCl]; Microalbumin; Cystatin C; Urine protein; Beta-2 microglobulin; GFR predicted
-Black MDRD (GFR<sub>AA</sub><sub>MD</sub>)
+Black MDRD (GFR\_AA\_MD)
 Indications: The GFR is used to measure kidney function. Clinicians may use GFR to screen
 for and detect kidney damage or monitor kidney status.
 Description: This test estimates how much blood passes through glomeruli, the kidneys’ filters,
@@ -1831,15 +1831,15 @@ GFR Description Kidney Damage Stage
 30-59 ml/min Moderate decrease in GFR 3
 15-29 ml/min Severe decrease in GFR 4
 <15 ml/min Kidney failure 5
-Comments: The “GFR<sub>NAA</sub><sub>MD</sub>” TEST<sub>TYPE</sub> should be used when your lab reports results
-that include race. If GFR results are reported without regard to race, populate the “GFR<sub>MDRD</sub>”
-TEST<sub>TYPE</sub> instead. Labs report race-specific GFR to allow clinicians to choose the correct
-result based on the race of their patients without having to do calculations. The GFR<sub>NAA</sub><sub>MD</sub>
+Comments: The “GFR\_NAA\_MD” TEST\_TYPE should be used when your lab reports results
+that include race. If GFR results are reported without regard to race, populate the “GFR\_MDRD”
+TEST\_TYPE instead. Labs report race-specific GFR to allow clinicians to choose the correct
+result based on the race of their patients without having to do calculations. The GFR\_NAA\_MD
 is used for all races except African American. The eGFR test is most accurate for poor kidney
 function so it may only be reported for values less than 60 ml/min.
 Although the MDRD equation is not intended for use in calculating eGFR for pediatric patients,
 some HMOs may report eGFR using the MDRD for children (i.e., one of the MDRD
-TEST<sub>TYPEs</sub> would be populated in the VDW for children at your site if that is the case).
+TEST\_TYPEs would be populated in the VDW for children at your site if that is the case).
 Test Method Variance: Prior to 2005, the equation was as follows
 GFR= 186 x (Scr)-1.154 x (Age)-0.203 x (0.742 if female)
 Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
@@ -1862,7 +1862,7 @@ lab/VDWLabTestReferenceDocument.pdf/view)
 GFR (Glomerular Filtration Rate), Schwartz
 Common Name: Estimated GFR, eGFR
 Long Name: Glomerular Filtration Rate/1.73 sq M. predicted (Schwartz)
-Test Type: GFR<sub>SCH</sub>
+Test Type: GFR\_SCH
 Panels: Comprehensive metabolic panel, basic metabolic panel
 Equivalent Tests: Calculated GFR; eGFR
 Not Equivalent Tests: GFR measured by inulin clearance; Creatinine [SCr]; Creatinine
@@ -1904,7 +1904,7 @@ lab/VDWLabTestReferenceDocument.pdf/view)
 Glucose, Fasting Serum/Plasma (patient was fasting)
 Common Name: Fasting serum glucose
 Long Name: Blood Sugar Fasting
-Test Type: GLU<sub>F</sub>
+Test Type: GLU\_F
 Panels:
 Equivalent Tests: Fasting plasma glucose, whole blood fasting glucose
 Not Equivalent Tests: Random glucose or fasting period not specified; glucose tolerance test
@@ -1939,7 +1939,7 @@ Glucose, Random (not known if patient was fasting or known that patient was not
 fasting)
 Common Name: Glucose Random, Glucose-fasting period not indicated
 Long Name: Blood Sugar Random or Not Specified
-Test Type: GLU<sub>RAN</sub>
+Test Type: GLU\_RAN
 Panels: Basic metabolic panel, comprehensive metabolic profile
 Equivalent Tests: plasma glucose, whole blood glucose
 Not Equivalent Tests: Fasting glucose. Glucose tolerance (although may include a fasting
@@ -1971,46 +1971,46 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 58
 Glucose Tolerance Tests Oral Glucose Tolerance Tests (NOTE: Information about all
-the numerous GTT TEST<sub>TYPES</sub> is included in this document)
+the numerous GTT TEST\_TYPES is included in this document)
 Common Name: OGTT; GTT; Oral glucose tolerance test; glucose tolerance test
 Test Types and Long Names: See Table 1.
-Table 1. Glucose Tolerance Test TEST<sub>TYPE</sub> and Long Name
-TEST<sub>TYPE</sub> LONGNAME
-GTT<sub>0</sub><sub>5</sub> Glucose Tolerance 1/2 hour post XXX challenge (glucose dose not specified)
-GTT<sub>1</sub> Glucose Tolerance 1 hour post XXX challenge (glucose dose not specified)
-GTT<sub>1</sub><sub>5</sub> Glucose Tolerance 1 1/2 hour post XXX challenge (glucose dose not specified)
-GTT<sub>2</sub> Glucose Tolerance 2 hour post XXX challenge (glucose dose not specified)
-GTT<sub>3</sub> Glucose Tolerance 3 hour post XXX challenge (glucose dose not specified)
-GTT<sub>4</sub> Glucose Tolerance 4 hour post XXX challenge (glucose dose not specified)
-GTT<sub>5</sub> Glucose Tolerance 5 hour post XXX challenge (glucose dose not specified)
-GTT<sub>6</sub> Glucose Tolerance 6 hour post XXX challenge (glucose dose not specified)
-GTT<sub>7</sub> Glucose Tolerance 7 hour post XXX challenge (glucose dose not specified)
-GTT50<sub>1</sub> Glucose Tolerance 1 hour post 50 g oral challenge
-GTT75<sub>1</sub> Glucose Tolerance 1 hour post 75 g oral challenge
-GTT75<sub>1</sub><sub>5</sub> Glucose Tolerance 1 1/2 hour post 75 g oral challenge
-GTT75<sub>2</sub> Glucose Tolerance 2 hour post 75 g oral challenge
-GTT100<sub>0</sub><sub>5</sub> Glucose Tolerance 1/2 hour post 100 g oral challenge
-GTT100<sub>1</sub> Glucose Tolerance 1 hour post 100 g oral challenge
-GTT100<sub>1</sub><sub>5</sub> Glucose Tolerance 1 1/2 hour post 100 g oral challenge
-GTT100<sub>2</sub> Glucose Tolerance 2 hour post 100 g oral challenge
-GTT100<sub>3</sub> Glucose Tolerance 3 hour post 100 g oral challenge
-GTT100<sub>3</sub><sub>5</sub> Glucose Tolerance 3 1/2 hour post 100 g oral challenge
-GTT100<sub>4</sub> Glucose Tolerance 4 hour post 100 g oral challenge
-GTT100<sub>5</sub> Glucose Tolerance 5 hour post 100 g oral challenge
-GTT100<sub>6</sub> Glucose Tolerance 6 hour post 100 g oral challenge
-GTT100<sub>PRE</sub> Glucose pre 100 g oral challenge (fasting)
-GTT50<sub>PRE</sub> Glucose pre 50 g oral challenge (fasting)
-GTT75<sub>PRE</sub> Glucose pre 75 g oral challenge (fasting)
-GTT<sub>PRE</sub> Glucose pre oral challenge (fasting; glucose dose not specified)
-It is anticipated that each site will populate some subset of the TEST<sub>TYPEs</sub> listed above. Sites
+Table 1. Glucose Tolerance Test TEST\_TYPE and Long Name
+TEST\_TYPE LONGNAME
+GTT\_0\_5 Glucose Tolerance 1/2 hour post XXX challenge (glucose dose not specified)
+GTT\_1 Glucose Tolerance 1 hour post XXX challenge (glucose dose not specified)
+GTT\_1\_5 Glucose Tolerance 1 1/2 hour post XXX challenge (glucose dose not specified)
+GTT\_2 Glucose Tolerance 2 hour post XXX challenge (glucose dose not specified)
+GTT\_3 Glucose Tolerance 3 hour post XXX challenge (glucose dose not specified)
+GTT\_4 Glucose Tolerance 4 hour post XXX challenge (glucose dose not specified)
+GTT\_5 Glucose Tolerance 5 hour post XXX challenge (glucose dose not specified)
+GTT\_6 Glucose Tolerance 6 hour post XXX challenge (glucose dose not specified)
+GTT\_7 Glucose Tolerance 7 hour post XXX challenge (glucose dose not specified)
+GTT50\_1 Glucose Tolerance 1 hour post 50 g oral challenge
+GTT75\_1 Glucose Tolerance 1 hour post 75 g oral challenge
+GTT75\_1\_5 Glucose Tolerance 1 1/2 hour post 75 g oral challenge
+GTT75\_2 Glucose Tolerance 2 hour post 75 g oral challenge
+GTT100\_0\_5 Glucose Tolerance 1/2 hour post 100 g oral challenge
+GTT100\_1 Glucose Tolerance 1 hour post 100 g oral challenge
+GTT100\_1\_5 Glucose Tolerance 1 1/2 hour post 100 g oral challenge
+GTT100\_2 Glucose Tolerance 2 hour post 100 g oral challenge
+GTT100\_3 Glucose Tolerance 3 hour post 100 g oral challenge
+GTT100\_3\_5 Glucose Tolerance 3 1/2 hour post 100 g oral challenge
+GTT100\_4 Glucose Tolerance 4 hour post 100 g oral challenge
+GTT100\_5 Glucose Tolerance 5 hour post 100 g oral challenge
+GTT100\_6 Glucose Tolerance 6 hour post 100 g oral challenge
+GTT100\_PRE Glucose pre 100 g oral challenge (fasting)
+GTT50\_PRE Glucose pre 50 g oral challenge (fasting)
+GTT75\_PRE Glucose pre 75 g oral challenge (fasting)
+GTT\_PRE Glucose pre oral challenge (fasting; glucose dose not specified)
+It is anticipated that each site will populate some subset of the TEST\_TYPEs listed above. Sites
 are not expected to find that all are in use at their locations. It is also anticipated that the 1 hour
-and 2 hour TEST<sub>TYPEs</sub> will be the more common time points (see below).
+and 2 hour TEST\_TYPEs will be the more common time points (see below).
 Panels: NA
 Equivalent Tests: The test types in Table 1 that contain “pre” in the test type name are fasting
 glucose values (i.e., values obtained prior to the patient drinking the glucose load). For research
 projects where fasting glucose tests are assessed, it may be appropriate to ask the investigator
 whether he/she also wants to include these fasting glucose tests that were obtained as part of a
-GTT challenge test. The GTT “pre” tests are not included in the GLU<sub>F</sub> (fasting glucose test
+GTT challenge test. The GTT “pre” tests are not included in the GLU\_F (fasting glucose test
 type) in the VDW since they are included in the GTT test types.
 Not Equivalent Tests: Do not include any tests where the name or title of the test includes
 “post prandial” or “lactose tolerance.” GGT (or GGTP, gamma-glutamyl transpeptidase) is an
@@ -2099,7 +2099,7 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org5bfb2d5"></a>
+<a id="org28049c8"></a>
 
 ## HCT (Hematocrit)
 
@@ -2141,7 +2141,7 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org88e56a3"></a>
+<a id="org603d4c2"></a>
 
 ## Hemoglobin A1c (Glycated Hemoglobin)
 
@@ -2177,7 +2177,7 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="orgd375e7f"></a>
+<a id="org3729234"></a>
 
 ## HGB (Hemoglobin)
 
@@ -2221,7 +2221,7 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org48b424d"></a>
+<a id="orge589913"></a>
 
 ## HDL (High density lipoprotein cholesterol)
 
@@ -2259,14 +2259,14 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org3c3d842"></a>
+<a id="org99666fa"></a>
 
 ## Human Papilloma Virus (HPV) DNA Test, Cervical Specimen
 
 Common Name: HPV DNA, specimen from cervix
 Long Name: Human Papilloma virus (HPV) DNA test, cervical specimen, high/high +
 intermediate risk genotypes
-Test Type: HPVDNA<sub>CVX</sub>
+Test Type: HPVDNA\_CVX
 Panels: In addition to single components, includes one LOINC for panel: human papilloma virus
 high + low risk DNA
 Equivalent Tests: N/A
@@ -2293,7 +2293,7 @@ the absolute risk for developing serious cervical abnormalities. The prevalence 
 strains in the population of women of screening age is approximately 15%. As of 2010, high risk
 strains include 16, 18, 31, 33, 35, 39, 45, 51, 52, 56, 58, 59, and 68 with 16 and 18 being most
 prevalent. Test results are unlikely to specify strain, only the presence or absence of 1+ high
-risk strains. For the purposes of the ABN<sub>IND</sub> variable: abnormal = positive for 1+ high risk HPV
+risk strains. For the purposes of the ABN\_IND variable: abnormal = positive for 1+ high risk HPV
 strain(s); normal = no high risk HPV strains found. The HPV DNA tests came into widespread
 use in cervical cancer screening and prevention programs in the mid 2000s. HPV is also
 associated with vulvar, penile, and anal intraepithelial neoplasia and cancer. If you are able to
@@ -2307,14 +2307,14 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org8abf818"></a>
+<a id="orgf5ff5a0"></a>
 
 ## Human Papilloma Virus (HPV) DNA Test, Specimen Source/Site Unknown
 
 Common Name: HPV DNA, specimen source/site unknown
 Long Name: Human Papilloma virus (HPV) DNA test, specimen from unknown site, high/high +
 intermediate risk genotypes
-Test Type: HPVDNA<sub>UN</sub>
+Test Type: HPVDNA\_UN
 Panels:
 Equivalent Tests: N/A
 Not Equivalent Tests: N/A
@@ -2336,7 +2336,7 @@ the absolute risk for developing serious cervical abnormalities. The prevalence 
 strains in the population of women of screening age is approximately 15%. As of 2010, high risk
 strains include 16, 18, 31, 33, 35, 39, 45, 51, 52, 56, 58, 59, and 68 with 16 and 18 being most
 prevalent. Test results are unlikely to specify strain, only the presence or absence of 1+ high
-risk strains. For the purposes of the ABN<sub>IND</sub> variable: abnormal = positive for 1+ high risk HPV
+risk strains. For the purposes of the ABN\_IND variable: abnormal = positive for 1+ high risk HPV
 strain(s); normal = no high risk HPV strains found. The HPV DNA tests came into widespread
 use in cervical cancer screening and prevention programs in the mid 2000s. HPV is also
 associated with vulvar, penile, and anal intraepithelial neoplasia and cancer.
@@ -2348,7 +2348,7 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="orgf367d9c"></a>
+<a id="orgad1f87c"></a>
 
 ## INR (International Normalization Ratio)
 
@@ -2380,7 +2380,7 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org1b18c25"></a>
+<a id="orgc766fa7"></a>
 
 ## LDH (Lactate dehydrogenase, total in blood/serum)
 
@@ -2427,14 +2427,14 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org2b0ee40"></a>
+<a id="orgac9d0c5"></a>
 
 ## LDL, Calculated, Fasting (Low density lipoprotein cholesterol, calculated, patient
 
 was fasting)
 Common Name: LDL
 Long Name: Cholesterol Low Density Lipoprotein Calculated Fasting
-Test Type: LDL<sub>CLC</sub><sub>F</sub>
+Test Type: LDL\_CLC\_F
 Panels: LIPID PROFILE
 Equivalent Tests: Whole blood LDL
 Not Equivalent Tests: Total Cholesterol, VLDL - very low density lipoprotein cholesterol, HDL
@@ -2466,14 +2466,14 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="orgb5b9091"></a>
+<a id="orgfb60838"></a>
 
 ## LDL, Calculated, Random (Low density lipoprotein cholesterol, calculated
 
 measure, not known if patient was fasting)
 Common Name: LDL
 Long Name: Cholesterol Low Density Lipoprotein Calculated - fasting not specified
-Test Type: LDL<sub>CLC</sub><sub>NS</sub>
+Test Type: LDL\_CLC\_NS
 Panels: LIPID PROFILE
 Equivalent Tests: Whole blood LDL
 Not Equivalent Tests: Total Cholesterol, VLDL - very low density lipoprotein cholesterol, HDL
@@ -2506,14 +2506,14 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="orgedf6f3c"></a>
+<a id="orge067b70"></a>
 
 ## LDL Direct (Low density lipoprotein cholesterol, direct measure, fasting status
 
 not a consideration)
 Common Name: LDL, direct
 Long Name: Cholesterol Low Density Lipoprotein Direct
-Test Type: LDL<sub>DIRECT</sub>
+Test Type: LDL\_DIRECT
 Panels: LIPID PROFILE
 Equivalent Tests: whole blood LDL
 Not Equivalent Tests: Total Cholesterol, VLDL - very low density liprotein cholesterol, HDL -
@@ -2542,7 +2542,7 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org261c51d"></a>
+<a id="org94bd95e"></a>
 
 ## LDL Method not Indicated (Low density lipoprotein cholesterol, not known
 
@@ -2550,7 +2550,7 @@ whether calculated or direct, fasting status not considered)
 Common Name: LDL
 Long Name: Cholesterol Low Density Lipoprotein Not Specified – can not determine if
 calculated or direct
-Test Type: LDL<sub>NS</sub>
+Test Type: LDL\_NS
 Panels: LIPID PROFILE
 Equivalent Tests: whole blood LDL
 Not Equivalent Tests: Total Cholesterol, VLDL - very low density lipoprotein cholesterol, HDL
@@ -2580,7 +2580,7 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org6b1c1a3"></a>
+<a id="org075cbd7"></a>
 
 ## Magnesium
 
@@ -2609,7 +2609,7 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org00f95c1"></a>
+<a id="orga71c5ac"></a>
 
 ## Platelets
 
@@ -2651,7 +2651,7 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org160db15"></a>
+<a id="org565644b"></a>
 
 ## Potassium, Serum
 
@@ -2686,13 +2686,13 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org6279dac"></a>
+<a id="org5a564ef"></a>
 
 ## PSA, Free (Prostate specific antigen free in blood/serum/plasma)
 
 Common Name: Free PSA
 Long Name: Prostate Specific Antigen Free
-Test Type: PSA<sub>FREE</sub>
+Test Type: PSA\_FREE
 Panels: N/A
 Equivalent Tests: N/A
 Not Equivalent Tests: PSA forms that are bound to blood proteins which includes total.
@@ -2713,13 +2713,13 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="orgeb15976"></a>
+<a id="org277ab3a"></a>
 
 ## PSA, Percent Free (Prostate specific antigen [Ag], ratio of free to total)
 
 Common Name: Percent Free PSA
 Long Name: Prostate specific Ag free/Prostate specific Ag Total
-Test Type: PSA\_%<sub>FREE</sub>
+Test Type: PSA\_%\_FREE
 Panels: N/A
 Equivalent Tests: N/A
 Not Equivalent Tests: Individual PSA isoforms. Result is a ratio of two isoforms
@@ -2738,13 +2738,13 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org7ef8d87"></a>
+<a id="org97fcde7"></a>
 
 ## PSA, Seminal Fluid (Prostate specific antigen, total in seminal fluid)
 
 Common Name: Seminal Fluid PSA
 Long Name: Prostate Specific Antigen, Seminal Fluid, Quantitative
-Test Type: PSA<sub>SF</sub>
+Test Type: PSA\_SF
 Panels: N/A
 Equivalent Tests: N/A
 Not Equivalent Tests: PSA forms that are bound to blood proteins which includes total.
@@ -2766,13 +2766,13 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org56c06d7"></a>
+<a id="org60ee3a5"></a>
 
 ## PSA, Seminal Fluid, Free (Prostate specific antigen in seminal fluid, free)
 
 Common Name: Seminal Fluid Free PSA
 Long Name: Prostate Specific Antigen Free, Seminal Fluid, Quantitative
-Test Type: PSA<sub>FREESF</sub>
+Test Type: PSA\_FREESF
 Panels: N/A
 Equivalent Tests: N/A
 Not Equivalent Tests: serum values and PSA forms that are bound to seminal proteins which
@@ -2792,7 +2792,7 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org1e22810"></a>
+<a id="orgc07b5a4"></a>
 
 ## PSA, Total, Blood/Serum/Plasma (Prostate specific antigen, total)
 
@@ -2829,7 +2829,7 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="orgf31f9e9"></a>
+<a id="org80dbc91"></a>
 
 ## PT (Prothrombin time)
 
@@ -2866,7 +2866,7 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org7066e71"></a>
+<a id="orga0b7c96"></a>
 
 ## RBC (Red Blood Cell Count [in blood])
 
@@ -2907,7 +2907,7 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="orgc23fe56"></a>
+<a id="org71e854e"></a>
 
 ## Sodium (Blood or Serum Sodium)
 
@@ -2935,13 +2935,13 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org91dfcf9"></a>
+<a id="org39b2f2a"></a>
 
 ## Thyroxine (T4) Free
 
 Common Name: Free T4
 Long Name: Thyroxine (T4) Free
-Test Type: T4<sub>FREE</sub>
+Test Type: T4\_FREE
 Panels: Thyroid panel
 Equivalent Tests: N/A
 Not Equivalent Tests: Total Thyroxine (T4), Free Thyroxine Index, Thyroid stimulating
@@ -2974,13 +2974,13 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org42885e4"></a>
+<a id="orga8780ed"></a>
 
 ## Thyroxine (T4) Free Index
 
 Common Name: FTI
 Long Name: Thyroxine (T4) Free Index; Serum Free Thyroxine Index
-Test Type: T4<sub>FREE</sub><sub>I</sub>
+Test Type: T4\_FREE\_I
 Panels: Thyroid Panel
 Equivalent Tests: Also known as “T7”
 Not Equivalent Tests: Thyroxine (T4) Total, Thyroxine (T4) Free
@@ -3007,13 +3007,13 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="orgcecb864"></a>
+<a id="org6b72c61"></a>
 
 ## Thyroxine (T4) Total
 
 Common Name: Total T4
 Long Name: Thyroxine (T4) Total; Total Serum Thyroxine
-Test Type: T4<sub>TOTAL</sub>
+Test Type: T4\_TOTAL
 Panels: Thyroid Panel
 Equivalent Tests: N/A
 Not Equivalent Tests: Thyroxine (T4) Free Thyroxine Index, Total T3, Thyroid stimulating
@@ -3044,13 +3044,13 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="orgd182882"></a>
+<a id="orgf2ab1cd"></a>
 
-## TOT<sub>PROT</sub> (Protein, total in blood/serum)
+## TOT\_PROT (Protein, total in blood/serum)
 
 Common Name: Total Protein
 Long Name: Total Protein in blood/serum
-Test Type: TOT<sub>PROT</sub>
+Test Type: TOT\_PROT
 Panels: Liver Panel or Liver Function Test (LFT); Comprehensive Metabolic Panel (CMP)
 Equivalent Tests: N/A
 Not Equivalent Tests: N/A
@@ -3082,13 +3082,13 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org6fdd616"></a>
+<a id="org02b9e6b"></a>
 
 ## Triglycerides, Fasting (TG, TRIG, patient was fasting)
 
 Common Name: Triglycerides, fasting
 Long Name: Triglycerides Fasting
-Test Type: TRIGL<sub>F</sub>
+Test Type: TRIGL\_F
 Panels: LIPID PROFILE
 Equivalent Tests: N/A
 Not Equivalent Tests: N/A
@@ -3115,14 +3115,14 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="orgf3389a2"></a>
+<a id="orgb7f4ea5"></a>
 
 ## Triglycerides, Random (TG, TRIG, not known if patient was fasting, or known that
 
 patient was not fasting)
 Common Name: Triglycerides
 Long Name: Triglycerides - fasting not specified
-Test Type: TRIGL<sub>NS</sub>
+Test Type: TRIGL\_NS
 Panels: LIPID PROFILE
 Equivalent Tests: N/A
 Not Equivalent Tests: N/A
@@ -3152,7 +3152,7 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="orga336295"></a>
+<a id="org19d2185"></a>
 
 ## TSH (Thyroid Stimulating Hormone, Thyrotropin)
 
@@ -3219,13 +3219,13 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org3c439a7"></a>
+<a id="orgdeaabd9"></a>
 
 ## TSH Beta Subunit (Thyroid Stimulating Hormone Beta Subunit), Quantitative
 
 Common Name: TSH Beta Subunit, Quantitative
 Long Name: Thyroid Stimulating Hormone Beta Subunit Quantitative
-Test Type: TSH<sub>BSU</sub>
+Test Type: TSH\_BSU
 Panels:
 Equivalent Tests:
 Not Equivalent Tests:
@@ -3289,13 +3289,13 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org2af625d"></a>
+<a id="org556a817"></a>
 
 ## TSH Long Acting (Thyroid Stimulator Long Acting)
 
 Common Name: Long Acting Thyroid Stimulator
 Long Name: Thyroid Stimulator Long Acting
-Test Type: TSH<sub>LA</sub>
+Test Type: TSH\_LA
 Panels:
 Equivalent Tests:
 Not Equivalent Tests:
@@ -3318,13 +3318,13 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="orgff781bd"></a>
+<a id="org9177206"></a>
 
 ## TSH Screen (Thyroid Stimulating Hormone, Screen), Blood
 
 Common Name: Thyroid stimulating hormone screen in blood
 Long Name: Thyroid Stimulating Hormone, Screen, Blood
-Test Type: TSH<sub>SCRN</sub>
+Test Type: TSH\_SCRN
 Panels:
 Equivalent Tests:
 Not Equivalent Tests:
@@ -3384,20 +3384,20 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="orgbf3e90e"></a>
+<a id="org631af62"></a>
 
-## TROP<sub>I</sub><sub>QN</sub> (Troponin I Cardiac Quantitative)
+## TROP\_I\_QN (Troponin I Cardiac Quantitative)
 
 Common Name: Cardiac-specific troponin (I)
 Long Name: Cardiac-specific Troponin I Quantitative
-Test Type: TROP<sub>I</sub><sub>QN</sub>
+Test Type: TROP\_I\_QN
 Panels: N/A
 Equivalent Tests: TnI; cTnI (see Description below)
-Not Equivalent Tests: All CK tests; Myoglobin TROP<sub>T</sub><sub>QN</sub>; TROP<sub>T</sub><sub>QL</sub>; cTnT; TnT
+Not Equivalent Tests: All CK tests; Myoglobin TROP\_T\_QN; TROP\_T\_QL; cTnT; TnT
 Indications: The troponin test is used to help diagnose a heart attack, to detect and evaluate
 mild to severe heart injury, and to distinguish chest pain due to other causes. Either troponin I or
 troponin T test can be performed; usually a laboratory will offer one test or the other. Troponins
-are sometimes ordered along with other cardiac biomarkers such as CK<sub>MB</sub> or myoglobin.
+are sometimes ordered along with other cardiac biomarkers such as CK\_MB or myoglobin.
 Troponins are the preferred tests for a suspected heart attack because they are more specific
 for heart injury than other tests and remain elevated for a longer period of time.
 Description: Troponins are a family of proteins found in skeletal and heart muscle fibers. The
@@ -3411,7 +3411,7 @@ The troponin test is usually ordered when a patient with a suspected heart attac
 emergency room and often repeated at 6 and 12 hours later. Typically, 2 or 3 troponin tests are
 done over a 12- to 16-hour period. In patients with stable angina, a troponin test may be ordered
 if the patient’s symptoms get worse (e.g., increased risk of a heart attack in the near future).
-Related Tests: CK; CK<sub>MB</sub>; Cardiac biomarkers; TROP<sub>T</sub><sub>QL</sub>; TROP<sub>T</sub><sub>QN</sub>; cTnT; TnT
+Related Tests: CK; CK\_MB; Cardiac biomarkers; TROP\_T\_QL; TROP\_T\_QN; cTnT; TnT
 Approximate Reference Range: Cardiac troponin levels are normally so low they cannot be
 detected with most blood tests. (Troponin I: < 10 microgram (mcg)/L).
 Comments: When a patient has significantly elevated troponin concentrations, some form of
@@ -3427,21 +3427,21 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org391dad7"></a>
+<a id="org3f80239"></a>
 
-## TROP<sub>T</sub><sub>QL</sub> (Troponin T Cardiac - Qualitative)
+## TROP\_T\_QL (Troponin T Cardiac - Qualitative)
 
 Common Name: Cardiac-specific troponin (T qualitative)
 Long Name: Cardiac-specific Troponin T Qualitative
-Test Type: TROP<sub>T</sub><sub>QL</sub>
+Test Type: TROP\_T\_QL
 Panels: N/A
 Equivalent Tests:
-Not Equivalent Tests: CK; CK – MB; Myoglobin; Cardiac biomarkers; TROP<sub>T</sub><sub>QN</sub>;
-TROP<sub>I</sub><sub>QN</sub>; cTnI; TnI
+Not Equivalent Tests: CK; CK – MB; Myoglobin; Cardiac biomarkers; TROP\_T\_QN;
+TROP\_I\_QN; cTnI; TnI
 Indications: The troponin test is used to help diagnose a heart attack, to detect and evaluate
 mild to severe heart injury, and to distinguish chest pain due to other causes. Either troponin I or
 troponin T test can be performed; usually a laboratory will offer one test or the other. Troponins
-are sometimes ordered along with other cardiac biomarkers such as CK<sub>MB</sub> or myoglobin.
+are sometimes ordered along with other cardiac biomarkers such as CK\_MB or myoglobin.
 Troponins are the preferred tests for a suspected heart attack because they are more specific
 for heart injury than other tests and remain elevated for a longer period of time.
 Description: Troponins are a family of proteins found in skeletal and heart muscle fibers. The
@@ -3455,7 +3455,7 @@ The troponin test is usually ordered when a patient with a suspected heart attac
 emergency room and often repeated at 6 and 12 hours later. Typically, 2 or 3 troponin tests are
 done over a 12- to 16-hour period. In patients with stable angina, a troponin test may be ordered
 if the patient’s symptoms get worse (e.g., increased risk of a heart attack in the near future).
-Related Tests: CK; CK<sub>MB</sub>; Myoglobin; Cardiac biomarkers TROP<sub>T</sub><sub>QN</sub>; TROP<sub>I</sub><sub>QN</sub>
+Related Tests: CK; CK\_MB; Myoglobin; Cardiac biomarkers TROP\_T\_QN; TROP\_I\_QN
 Approximate Reference Range: Positive or negative for Troponin T elevated levels.
 Comments: When a patient has significantly elevated troponin concentrations, some form of
 damage to the heart is likely. When a patient with chest pain/known stable angina has normal
@@ -3470,21 +3470,21 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org0c3ad93"></a>
+<a id="org3e47c23"></a>
 
-## TROP<sub>T</sub><sub>QN</sub> (Troponin T Cardiac - Quantitative)
+## TROP\_T\_QN (Troponin T Cardiac - Quantitative)
 
 Common Name: Cardiac-specific troponin (T)
 Long Name: Cardiac-specific Troponin T Quantitative
-Test Type: TROP<sub>T</sub><sub>QN</sub>
+Test Type: TROP\_T\_QN
 Panels: N/A
 Equivalent Tests: TnT; cTnT (see Description below)
-Not Equivalent Tests: CK; CK – MB; Myoglobin; Cardiac biomarkers; TROP<sub>T</sub><sub>QL</sub>;
-TROP<sub>I</sub><sub>QN</sub>; cTnI; TnI
+Not Equivalent Tests: CK; CK – MB; Myoglobin; Cardiac biomarkers; TROP\_T\_QL;
+TROP\_I\_QN; cTnI; TnI
 Indications: The troponin test is used to help diagnose a heart attack, to detect and evaluate
 mild to severe heart injury, and to distinguish chest pain due to other causes. Either troponin I or
 troponin T test can be performed; usually a laboratory will offer one test or the other. Troponins
-are sometimes ordered along with other cardiac biomarkers such as CK<sub>MB</sub> or myoglobin.
+are sometimes ordered along with other cardiac biomarkers such as CK\_MB or myoglobin.
 Troponins are the preferred tests for a suspected heart attack because they are more specific
 for heart injury than other tests and remain elevated for a longer period of time.
 Description: Troponins are a family of proteins found in skeletal and heart muscle fibers. The
@@ -3496,7 +3496,7 @@ The troponin test is usually ordered when a patient with a suspected heart attac
 emergency room and often repeated at 6 and 12 hours later. Typically, 2 or 3 troponin tests are
 done over a 12- to 16-hour period. In patients with stable angina, a troponin test may be ordered
 if the patient’s symptoms get worse (e.g., increased risk of a heart attack in the near future).
-Related Tests: CK; CK<sub>MB</sub>; Myoglobin; Cardiac biomarkers TROP<sub>T</sub><sub>QL</sub>; TROP<sub>I</sub><sub>QN</sub>
+Related Tests: CK; CK\_MB; Myoglobin; Cardiac biomarkers TROP\_T\_QL; TROP\_I\_QN
 Approximate Reference Range: Cardiac troponin levels are normally so low they cannot be
 detected with most blood tests. (Troponin T: 0–0.1 μg/L [micrograms per liter[).
 Comments: When a patient has significantly elevated troponins, heart damage is likely. When a
@@ -3511,13 +3511,13 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="orgeef98dd"></a>
+<a id="orgb432e7a"></a>
 
-## U<sub>ACR</sub> (Microalbumin [or albumin] to creatinine ratio in urine)
+## U\_ACR (Microalbumin [or albumin] to creatinine ratio in urine)
 
 Common Name: ACR
 Long Name: Microalbumin or albumin to creatinine ratio in urine
-Test Type: U<sub>ACR</sub>
+Test Type: U\_ACR
 Panels: N/A
 Equivalent Tests: N/A
 Not Equivalent Tests: Serum or urine Albumin, serum prealbumin, serum or urine
@@ -3554,15 +3554,15 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org396358b"></a>
+<a id="orgc96bfe1"></a>
 
-## U<sub>CREAT</sub> (Creatinine in Urine)
+## U\_CREAT (Creatinine in Urine)
 
 Common Name: Urine Creatinine (spot or random)
 Long Name: Creatinine in Urine
-Test Type: U<sub>CREAT</sub>
+Test Type: U\_CREAT
 Panels: N/A
-Equivalent Tests: This TEST<sub>TYPE</sub> should only be used for spot or random (single point in
+Equivalent Tests: This TEST\_TYPE should only be used for spot or random (single point in
 time) urine creatinine measurements.
 Not Equivalent Tests: 24 hour urine creatinine; BUN; serum creatinine; BUN/creatinine ratio;
 eGFR; Creatinine clearance; Urinalysis; Urine protein to creatinine ratio; microalbumin;
@@ -3593,17 +3593,17 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org623ae0b"></a>
+<a id="org8b37128"></a>
 
-## U<sub>CREAT24</sub> (24-Hour Creatinine in Urine)
+## U\_CREAT24 (24-Hour Creatinine in Urine)
 
 Common Name: 24 Hour Urine Creatinine
 Long Name: 24-Hour Creatinine in Urine
-Test Type: U<sub>CREAT24</sub>
+Test Type: U\_CREAT24
 Panels: N/A
-Equivalent Tests: This TEST<sub>TYPE</sub> should only be used for 24 hour urine creatinine
+Equivalent Tests: This TEST\_TYPE should only be used for 24 hour urine creatinine
 collections.
-Not Equivalent Tests: U<sub>CREAT</sub>: BUN; serum creatinine; BUN/creatinine ratio; eGFR;
+Not Equivalent Tests: U\_CREAT: BUN; serum creatinine; BUN/creatinine ratio; eGFR;
 Creatinine clearance; Urinalysis; Urine protein to creatinine ratio; microalbumin;
 albumin/creatinine ratio
 Indications: To determine kidney functioning and to monitor treatment for kidney disease
@@ -3613,7 +3613,7 @@ urine creatinine levels may be used to calculate a creatinine clearance (how eff
 kidney is filtering small molecules such as creatinine out of the blood). Although shorter
 collection periods (3-8 hours) appear to be adequate and more reliable, creatinine clearance is
 routinely calculated using a 24 hour urine collection.
-Related Tests: U<sub>CREAT</sub>: BUN; BUN/creatinine ratio; eGFR; Creatinine clearance; Urinalysis;
+Related Tests: U\_CREAT: BUN; BUN/creatinine ratio; eGFR; Creatinine clearance; Urinalysis;
 Urine protein to creatinine ratio; microalbumin; albumin/creatinine ratio
 Approximate Reference Range: 20 – 28 mg/kg24 hours (men); 15 – 21 mg/kg/24 hours
 (women)
@@ -3631,17 +3631,17 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="orgaf83849"></a>
+<a id="orgfa3a5b8"></a>
 
-## U<sub>MIC</sub><sub>ALB</sub> (Microalbumin [or albumin] in urine)
+## U\_MIC\_ALB (Microalbumin [or albumin] in urine)
 
 Common Name: Urine Microalbumin
 Long Name: Microalbumin or albumin in urine
-Test Type: U<sub>MIC</sub><sub>ALB</sub>
+Test Type: U\_MIC\_ALB
 Panels: N/A
-Equivalent Tests: This TEST<sub>TYPE</sub> should only be used for spot or random urine
+Equivalent Tests: This TEST\_TYPE should only be used for spot or random urine
 microalbumin determinations.
-Not Equivalent Tests: Albumin, Prealbumin, Urinalysis, U<sub>ACR</sub>; U<sub>MICALB24</sub>
+Not Equivalent Tests: Albumin, Prealbumin, Urinalysis, U\_ACR; U\_MICALB24
 Indications: To screen for possible kidney disorder or for early kidney damage in diabetics
 Description: The microalbumin test is an early indicator of kidney failure. It measures the tiny
 amounts of albumin that the body begins to release into the urine several years before
@@ -3657,7 +3657,7 @@ kidney damage. Patients who have consistently detectible amounts of albumin in t
 cardiovascular disease in the future. Microalbumin measurements can be obtained using urine
 collected over a 24-hour period, for a specified amount of time (e.g., 4 hours or overnight), or
 randomly (spot).
-Related Tests: Albumin; Creatinine; U<sub>ACR</sub>; U<sub>MICALB24</sub>
+Related Tests: Albumin; Creatinine; U\_ACR; U\_MICALB24
 Approximate Reference Range: Normal is < 30 mcg albumin; microalbuminuria = 30-299 mcg
 albumin (spot or random urine)
 Comments: The National Kidney Foundation recommends that diabetics between 12 and 70
@@ -3673,17 +3673,17 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org1799ee6"></a>
+<a id="org459e569"></a>
 
-## U<sub>MICALB24</sub> (24-Hour Microalbumin in urine)
+## U\_MICALB24 (24-Hour Microalbumin in urine)
 
 Common Name: 24-hour Urine Microalbumin
 Long Name: 24-hour Microalbumin in urine
-Test Type: U<sub>MICALB24</sub>
+Test Type: U\_MICALB24
 Panels: N/A
-Equivalent Tests: This TEST<sub>TYPE</sub> should only be used for 24-hour urine collections for
+Equivalent Tests: This TEST\_TYPE should only be used for 24-hour urine collections for
 microalbumin determinations.
-Not Equivalent Tests: Albumin, Prealbumin, Urinalysis; U<sub>ACR</sub>; U<sub>MIC</sub><sub>ALB</sub>
+Not Equivalent Tests: Albumin, Prealbumin, Urinalysis; U\_ACR; U\_MIC\_ALB
 Indications: To screen for possible kidney disorder or for early kidney damage in diabetics
 Description: The microalbumin test is an early indicator of kidney failure. It measures the tiny
 amounts of albumin that the body begins to release into the urine several years before
@@ -3700,7 +3700,7 @@ kidney damage. Patients who have consistently detectible amounts of albumin in t
 cardiovascular disease in the future. Microalbumin measurements can be obtained using urine
 collected over a 24-hour period, for a specified amount of time (e.g., 4 hours or overnight), or
 randomly (spot).
-Related Tests: tests: Albumin; Creatinine; U<sub>ACR</sub>; U<sub>MIC</sub><sub>ALB</sub>
+Related Tests: tests: Albumin; Creatinine; U\_ACR; U\_MIC\_ALB
 Approximate Reference Range: Normal < = 30 mg/24 hours; or 20 – 199 mcg/min (timed
 urine collection)
 Comments: The National Kidney Foundation recommends that diabetics between 12 and 70
@@ -3716,36 +3716,36 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="orgb4da9c1"></a>
+<a id="org5520968"></a>
 
-## U<sub>PCR</sub> (Protein to creatinine ratio in urine)
+## U\_PCR (Protein to creatinine ratio in urine)
 
 Common Name: Urine Protein to Creatinine Ratio (UPCR)
 Long Name: Protein to creatinine ratio in urine
-Test Type: U<sub>PCR</sub>
+Test Type: U\_PCR
 Panels: N/A
 Equivalent Tests: N/A
 Not Equivalent Tests: 24-Hour Urine Protein; Total Urine Protein
 Indications: To evaluate and monitor kidney function, and to detect kidney damage
 Description: Protein is not normally found in the urine, and urine protein tests detect and/or
-measure protein being excreted in the urine. U<sub>PCR</sub> is one of several different urine protein
+measure protein being excreted in the urine. U\_PCR is one of several different urine protein
 tests, and involves the amount of protein in a random urine sample measured along with urine
 creatinine and reported as the ratio of urine protein to creatinine. Creatinine, a byproduct of
 muscle metabolism, is normally excreted into the urine at a constant rate. When both a urine
-creatinine and a random urine protein test are performed, the resulting U<sub>PCR</sub> approaches the
+creatinine and a random urine protein test are performed, the resulting U\_PCR approaches the
 accuracy of the 24-hour urine protein test. Since saving all of the urine for a 24-hour period can
-be cumbersome for adults and difficult for infants and children, U<sub>PCR</sub> may be substituted for a
+be cumbersome for adults and difficult for infants and children, U\_PCR may be substituted for a
 24-hour urine protein sample.
-U<sub>PCR</sub> is used when a child shows evidence of significant and persistent protein in their urine
+U\_PCR is used when a child shows evidence of significant and persistent protein in their urine
 with the dipstick urine test. It is also utilized to monitor kidney function over time on a patient
-with known kidney disease or damage. A U<sub>CPR</sub> may used as a screen for kidney involvement
+with known kidney disease or damage. A U\_CPR may used as a screen for kidney involvement
 when a patient is taking a medication that may potentially affect kidney function.
 Related Tests: Urinalysis; Albumin; Microalbumin; Protein Electrophoresis; Total Protein; ACR
 Approximate Reference Range: zero to trace
 Comments: The protein to creatinine ratio is more of a snapshot of how much protein is in the
 urine at the time the sample is collected. Children, and sometimes adults, occasionally have
 some degree of transient proteinuria without apparent kidney dysfunction and may have a
-higher excretion of protein into their urine during the day than at night. Monitoring by U<sub>PCR</sub> at
+higher excretion of protein into their urine during the day than at night. Monitoring by U\_PCR at
 intervals is conducted to determine if the amount of proteinuria changes over time.
 Test Method Variance:
 Other:
@@ -3756,17 +3756,17 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org5e73061"></a>
+<a id="org2487d02"></a>
 
-## U<sub>PROT</sub> (Protein in urine; total protein in urine)
+## U\_PROT (Protein in urine; total protein in urine)
 
 Common Name: Urine Protein
 Long Name: Protein in urine; total protein in urine
-Test Type: U<sub>PROT</sub>
+Test Type: U\_PROT
 Panels: N/A
-Equivalent Tests: This TEST<sub>TYPE</sub> should only be used for spot or random urine protein
+Equivalent Tests: This TEST\_TYPE should only be used for spot or random urine protein
 determinations.
-Not Equivalent Tests: 24-Hour Urine Protein; Urine Protein to Creatinine Ratio; U<sub>PCR</sub>
+Not Equivalent Tests: 24-Hour Urine Protein; Urine Protein to Creatinine Ratio; U\_PCR
 Indications: To detect excessive protein escaping into the urine (proteinuria), to assist in
 evaluating and monitoring kidney function, and to detect kidney damage. In diagnosing the
 cause of proteinuria, a serum protein electrophoresis may also be ordered to analyze the
@@ -3788,7 +3788,7 @@ The presence of albumin in the urine is a sensitive indicator of kidney disease 
 diabetes and with hypertension. Therefore, in some situations the doctor may test specifically
 for albumin in the urine, as opposed to total urine protein.
 Related Tests: Urinalysis; Albumin; Microalbumin; Protein Electrophoresis; Total Protein;
-U<sub>PCR</sub>
+U\_PCR
 Approximate Reference Range: <8mg/dL
 Comments:
 Test Method Variance:
@@ -3800,17 +3800,17 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org99ee726"></a>
+<a id="org73e5383"></a>
 
-## U<sub>PROT</sub><sub>24</sub> (24-hour urine protein; total protein in urine)
+## U\_PROT\_24 (24-hour urine protein; total protein in urine)
 
 Common Name: 24-Hour Urine Protein
 Long Name: 24-hour urine protein; total protein in urine
-Test Type: U<sub>PROT</sub><sub>24</sub>
+Test Type: U\_PROT\_24
 Panels: N/A
-Equivalent Tests: This TEST<sub>TYPE</sub> should only be used for 24-hour urine collections for
+Equivalent Tests: This TEST\_TYPE should only be used for 24-hour urine collections for
 protein determinations.
-Not Equivalent Tests: Urine Total Protein; U<sub>PCR</sub>; U<sub>PROT</sub>
+Not Equivalent Tests: Urine Total Protein; U\_PCR; U\_PROT
 Indications: To detect excessive protein escaping into the urine, to help evaluate and monitor
 kidney function, and to detect kidney damage. Since the dipstick protein test primarily measures
 albumin, a follow-up 24-hour urine protein test may be used to determine if proteins other than
@@ -3827,7 +3827,7 @@ to proteinuria.
 Either a 24-hour urine protein may be used to monitor a patient with known kidney disease or
 damage.
 Related Tests: Urinalysis; Albumin; Microalbumin; Protein Electrophoresis; Total Protein;
-U<sub>PCR</sub>; U<sub>PROT</sub>
+U\_PCR; U\_PROT
 Approximate Reference Range: < 150mg/day (in healthy individuals)
 Comments: A 24-hour urine sample gives the protein excretion rate over 24 hours and is
 accurate only if all of the urine is collected.
@@ -3840,16 +3840,16 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org8fd78f7"></a>
+<a id="org54765f4"></a>
 
-## U<sub>PROT</sub><sub>DIP</sub> (Protein in Urine by Dipstick, qualitative)
+## U\_PROT\_DIP (Protein in Urine by Dipstick, qualitative)
 
 Common Name: Urine Protein Dipstick
 Long Name: Protein in Urine by Dipstick, qualitative
-Test Type: U<sub>PROT</sub><sub>DIP</sub>
+Test Type: U\_PROT\_DIP
 Panels: N/A
 Equivalent Tests: N/A
-Not Equivalent Tests: 24-Hour Urine Protein; U<sub>PCR</sub>; ACR
+Not Equivalent Tests: 24-Hour Urine Protein; U\_PCR; ACR
 Indications: To detect excessive protein escaping into the urine, to help evaluate and monitor
 kidney function, and to detect kidney damage.
 Description: Protein is not normally found in the urine, and urine protein dipstick test detects
@@ -3885,13 +3885,13 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org280a235"></a>
+<a id="orgb4aa094"></a>
 
 ## Uric Acid
 
 Common Name: Uric acid
 Long Name: Urate; Uric acid in serum or plasma
-Test Type: URIC<sub>ACID</sub>
+Test Type: URIC\_ACID
 Panels: Arthritis panel, Bone and Joint panel
 Equivalent Tests: N/A
 Not Equivalent Tests: Urine uric acid concentration
@@ -3921,13 +3921,13 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org00292a8"></a>
+<a id="orgd16d4f4"></a>
 
 ## Vitamin B12 (Cobalamin)
 
 Common Name: Vitamin B12
 Long Name: Cyanocobalamin; Vitamin B12; cobalamin
-Test Type: VIT<sub>B12</sub>
+Test Type: VIT\_B12
 Panels: N/A
 Equivalent Tests: N/A
 Not Equivalent Tests: N/A
@@ -3960,13 +3960,13 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org97e0a53"></a>
+<a id="org60b171f"></a>
 
 ## Vitamin D (25-hydroxy-vitamin D)
 
 Common Name: Vitamin D
 Long Name: Vitamin D (25 Hydroxy); 25-OH vitamin D; Calcidiol; 25-hydroxycholecalciferol
-Test Type: VIT<sub>D</sub><sub>25OH</sub>
+Test Type: VIT\_D\_25OH
 Panels: Osteoporosis panel
 Equivalent Tests: N/A
 Not Equivalent Tests: 1,25 – dihydroxy-vitamin D
@@ -3992,7 +3992,7 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org9c5e2b5"></a>
+<a id="orgc1ae928"></a>
 
 ## WBC (Total White Blood Cell Count [in blood])
 
@@ -4029,14 +4029,14 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="orgee89025"></a>
+<a id="orgbc0900d"></a>
 
 # Opioid Urine Toxicity
 
 
-<a id="org566a06c"></a>
+<a id="org737ae5c"></a>
 
-## U<sub>BUPRENORPHINE</sub><sub>CNF</sub> (Buprenorphine in Urine)
+## U\_BUPRENORPHINE\_CNF (Buprenorphine in Urine)
 
 -   Common Name: Buprenorphine in Urine by Confirmatory method
 -   Long Name:
@@ -4053,15 +4053,15 @@ Approximate Reference Range (Each site will have slight variations):
 
 -   Comments:
 
-For opioid results place the component value from the EverLOINC.SAS table into the local<sub>cd</sub> field of the LAB<sub>RESULT</sub> table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
 
 -   Test Method Variance:
 -   Other:
 
 
-<a id="org5df8a15"></a>
+<a id="orgec22434"></a>
 
-## U<sub>BUPRENORPHINE</sub><sub>SCR</sub> (Buprenorphine in Urine)
+## U\_BUPRENORPHINE\_SCR (Buprenorphine in Urine)
 
 -   Common Name: Buprenorphine in Urine by Screen method
 -   Long Name:
@@ -4078,15 +4078,15 @@ Approximate Reference Range (Each site will have slight variations):
 
 -   Comments:
 
-For opioid results place the component value from the EverLOINC.SAS table into the local<sub>cd</sub> field of the LAB<sub>RESULT</sub> table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
 
 -   Test Method Variance:
 -   Other:
 
 
-<a id="orgf814b45"></a>
+<a id="orgabb6ccc"></a>
 
-## U<sub>BUTORPHANOL</sub><sub>CNF</sub> (Butorphanol in Urine)
+## U\_BUTORPHANOL\_CNF (Butorphanol in Urine)
 
 -   Common Name: Butorphanol in Urine by Confirmatory method
 -   Long Name:
@@ -4103,15 +4103,15 @@ Approximate Reference Range (Each site will have slight variations):
 
 -   Comments:
 
-For opioid results place the component value from the EverLOINC.SAS table into the local<sub>cd</sub> field of the LAB<sub>RESULT</sub> table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
 
 -   Test Method Variance:
 -   Other:
 
 
-<a id="orgd887ae1"></a>
+<a id="org614b808"></a>
 
-## U<sub>BUTORPHANOL</sub><sub>SCR</sub> (Butorphanol in Urine)
+## U\_BUTORPHANOL\_SCR (Butorphanol in Urine)
 
 -   Common Name: Butorphanol in Urine by Screen method
 -   Long Name:
@@ -4128,15 +4128,15 @@ Approximate Reference Range (Each site will have slight variations):
 
 -   Comments:
 
-For opioid results place the component value from the EverLOINC.SAS table into the local<sub>cd</sub> field of the LAB<sub>RESULT</sub> table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
 
 -   Test Method Variance:
 -   Other:
 
 
-<a id="orgc5e496b"></a>
+<a id="org63e9022"></a>
 
-## U<sub>CODEINE</sub><sub>CNF</sub> (Codeine in Urine)
+## U\_CODEINE\_CNF (Codeine in Urine)
 
 -   Common Name: Codeine in Urine by Confirmatory method
 -   Long Name:
@@ -4153,15 +4153,15 @@ Approximate Reference Range (Each site will have slight variations):
 
 -   Comments:
 
-For opioid results place the component value from the EverLOINC.SAS table into the local<sub>cd</sub> field of the LAB<sub>RESULT</sub> table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
 
 -   Test Method Variance:
 -   Other:
 
 
-<a id="org9c424b7"></a>
+<a id="orgdd0bbbf"></a>
 
-## U<sub>CODEINE</sub><sub>SCR</sub> (Codeine in Urine)
+## U\_CODEINE\_SCR (Codeine in Urine)
 
 -   Common Name: Codeine in Urine by Screen method
 -   Long Name:
@@ -4178,15 +4178,15 @@ Approximate Reference Range (Each site will have slight variations):
 
 -   Comments:
 
-For opioid results place the component value from the EverLOINC.SAS table into the local<sub>cd</sub> field of the LAB<sub>RESULT</sub> table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
 
 -   Test Method Variance:
 -   Other:
 
 
-<a id="orgd0bd074"></a>
+<a id="org8ddc49c"></a>
 
-## U<sub>DIPIPANONE</sub><sub>CNF</sub> (Dipipanone in Urine)
+## U\_DIPIPANONE\_CNF (Dipipanone in Urine)
 
 -   Common Name: Dipipanone in Urine by Confirmatory method
 -   Long Name:
@@ -4203,15 +4203,15 @@ Approximate Reference Range (Each site will have slight variations):
 
 -   Comments:
 
-For opioid results place the component value from the EverLOINC.SAS table into the local<sub>cd</sub> field of the LAB<sub>RESULT</sub> table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
 
 -   Test Method Variance:
 -   Other:
 
 
-<a id="org28d3fef"></a>
+<a id="orgdd1728d"></a>
 
-## U<sub>DIPIPANONE</sub><sub>SCR</sub> (Dipipanone in Urine)
+## U\_DIPIPANONE\_SCR (Dipipanone in Urine)
 
 -   Common Name: Dipipanone in Urine by Screen method
 -   Long Name:
@@ -4228,15 +4228,15 @@ Approximate Reference Range (Each site will have slight variations):
 
 -   Comments:
 
-For opioid results place the component value from the EverLOINC.SAS table into the local<sub>cd</sub> field of the LAB<sub>RESULT</sub> table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
 
 -   Test Method Variance:
 -   Other:
 
 
-<a id="org3992b84"></a>
+<a id="org9a40fd4"></a>
 
-## U<sub>FENTANYL</sub><sub>CNF</sub> (Fentanyl in Urine)
+## U\_FENTANYL\_CNF (Fentanyl in Urine)
 
 -   Common Name: Fentanyl in Urine by Confirmatory method
 -   Long Name:
@@ -4253,15 +4253,15 @@ Approximate Reference Range (Each site will have slight variations):
 
 -   Comments:
 
-For opioid results place the component value from the EverLOINC.SAS table into the local<sub>cd</sub> field of the LAB<sub>RESULT</sub> table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
 
 -   Test Method Variance:
 -   Other:
 
 
-<a id="org7a56dce"></a>
+<a id="org846a579"></a>
 
-## U<sub>FENTANYL</sub><sub>SCR</sub> (Fentanyl in Urine)
+## U\_FENTANYL\_SCR (Fentanyl in Urine)
 
 -   Common Name: Fentanyl in Urine by Screen method
 -   Long Name:
@@ -4278,13 +4278,13 @@ Approximate Reference Range (Each site will have slight variations):
 
 -   Comments:
 
-For opioid results place the component value from the EverLOINC.SAS table into the local<sub>cd</sub> field of the LAB<sub>RESULT</sub> table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
 
 -   Test Method Variance:
 -   Other:
 
 
-<a id="org9594fc1"></a>
+<a id="org57778cc"></a>
 
 ## TEST NAME—FOR FUTURE USE
 
@@ -4303,12 +4303,12 @@ Test Method Variance:
 Other:
 
 
-<a id="org4a45dcb"></a>
+<a id="org789ae34"></a>
 
 # Hematology and Coagulation
 
 
-<a id="org6b23d7f"></a>
+<a id="org6f68e69"></a>
 
 ## TEST NAME—FOR FUTURE USE
 
@@ -4327,12 +4327,12 @@ Test Method Variance:
 Other:
 
 
-<a id="org2810c45"></a>
+<a id="orgca9573d"></a>
 
 # Cell Markers
 
 
-<a id="orgcb12f20"></a>
+<a id="org82fe585"></a>
 
 ## TEST NAME—FOR FUTURE USE
 
@@ -4351,12 +4351,12 @@ Test Method Variance:
 Other:
 
 
-<a id="orga21acd4"></a>
+<a id="orgef738e7"></a>
 
 # Microbiology
 
 
-<a id="org28507cd"></a>
+<a id="orgc7d3c56"></a>
 
 ## TEST NAME—FOR FUTURE USE
 
@@ -4375,12 +4375,12 @@ Test Method Variance:
 Other:
 
 
-<a id="org497fbf1"></a>
+<a id="orga8f167c"></a>
 
 # Influenza
 
 
-<a id="org2cbf7df"></a>
+<a id="orgbcd8be9"></a>
 
 ## TEST NAME—FOR FUTURE USE
 
@@ -4399,12 +4399,12 @@ Test Method Variance:
 Other:
 
 
-<a id="orga4493c0"></a>
+<a id="org46d6acb"></a>
 
 # COVID-19
 
 
-<a id="org9c81be8"></a>
+<a id="org52f8e01"></a>
 
 ## TEST NAME—FOR FUTURE USE
 
@@ -4423,12 +4423,12 @@ Test Method Variance:
 Other:
 
 
-<a id="orgca9c1c9"></a>
+<a id="org4f73b39"></a>
 
 # Blank Template
 
 
-<a id="org4d2423d"></a>
+<a id="orgf6f3c66"></a>
 
 ## TEST NAME—FOR FUTURE USE
 
