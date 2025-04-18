@@ -1,131 +1,164 @@
 
 # Table of Contents
 
-1.  [Chemistry Lab Tests](#org9404bfd)
-    1.  [A\_G\_RATIO (Albumin to globulin ratio)](#org6ad7e84)
-    2.  [Albumin (Albumin, total in blood/serum)](#org500fb10)
-    3.  [ALP (Alkaline phosphatase)](#orgb8026f7)
-    4.  [ALT (Alanine Aminotransferase, SGPT)](#orge8b1d52)
-    5.  [AST (Aspartate Aminotransferase, SGOT)](#org4a0be65)
-    6.  [Bilirubin, Direct](#org6939d86)
-    7.  [Bilirubin, Indirect](#org6ef45fe)
-    8.  [Bilirubin, Total](#orgf5bb425)
-    9.  [BNP (Brain Natriuretic Peptide)](#orga03efd1)
-    10. [BUN (Urea nitrogen in blood/serum)](#orgcdf4193)
-    11. [Calcium (Total Serum Calcium)](#org3385500)
-    12. [CA125 (Cancer Antigen 125), Quantitative in Blood](#org3c8786d)
-    13. [CA125 (Cancer Antigen 125), Qualitative in Blood](#org9f65235)
-    14. [CA125 (Cancer Antigen 125), Titer in Blood](#orga69c1ef)
-    15. [CA125 (Cancer Antigen 125), Quantitative in Body Fluid](#orgb667e98)
-    16. [CA125 (Cancer Antigen 125) Titer in Body Fluid](#orgacf1156)
-    17. [Cholesterol, Total](#org4cd1bac)
-    18. [CK (Creatine Kinase)](#org82afc29)
-    19. [CK BB (Creatine Kinase BB) (Not a TEST\_TYPE but a common reference](#org1ff319f)
-    20. [CK\_CSF (Creatine Kinase CSF Quantitative)](#orge4cd236)
-    21. [CK\_MB (Creatine Kinase MB - analytic method not specified)](#org6bda219)
-    22. [CK\_MB\_EIA (Creatine Kinase MB – Enzyme Immunoassay)](#org1468d86)
-    23. [CK\_MB\_EP (Creatine Kinase MB - Electrophoresis)](#org65e0b38)
-    24. [CK\_MBI\_CLC (Creatine Kinase MB/Creatine Kinase Total Calculated)](#org56fbb57)
-    25. [CK\_MBI\_EIA (Creatine Kinase MB/Creatine Kinase Total Enzyme Immunoassay)](#orgef1c992)
-    26. [CK\_MBI\_EP (Creatine Kinase MB/ Creatine Kinase Total Electrophoresis)](#orgbcf6aab)
-    27. [CK\_MM\_EP (Creatine Kinase MM Electrophoresis)](#orgc7a297b)
-    28. [Creatinine, Blood/Serum/Plasma](#orgf358b39)
-    29. [CRP (C-reactive protein serum/plasma concentration)](#org3b9c4ca)
-    30. [CRPHS (High-sensitivity C-reactive protein in serum/plasma)](#org2670440)
-    31. [D-Dimer](#orgdccfe3b)
-    32. [FOBT (Fecal Occult Blood Test)](#org46bcb42)
-    33. [FOB1 (Fecal Occult Blood Test One Specimen)](#org5064311)
-    34. [Fecal Occult Blood Test, Quantitative](#org3c24272)
-    35. [Fecal Immunologic (Immunochemical) Test](#org5f96263)
-    36. [Ferritin](#orge527367)
-    37. [Folate](#org90f6832)
-    38. [HCT (Hematocrit)](#org65e8e2b)
-    39. [Hemoglobin A1c (Glycated Hemoglobin)](#org563230d)
-    40. [HGB (Hemoglobin)](#org1ab19da)
-    41. [HDL (High density lipoprotein cholesterol)](#org3bf7405)
-    42. [Human Papilloma Virus (HPV) DNA Test, Cervical Specimen](#org8d18783)
-    43. [Human Papilloma Virus (HPV) DNA Test, Specimen Source/Site Unknown](#orgca7ab0e)
-    44. [INR (International Normalization Ratio)](#orgc51eb15)
-    45. [LDH (Lactate dehydrogenase, total in blood/serum)](#orgf67c1b0)
-    46. [LDL, Calculated, Fasting (Low density lipoprotein cholesterol, calculated, patient was fasting)](#orgfbfbf9b)
-    47. [LDL, Calculated, Random (Low density lipoprotein cholesterol, calculated](#orge4bc613)
-    48. [LDL Direct (Low density lipoprotein cholesterol, direct measure, fasting status](#orgfb49f5d)
-    49. [LDL Method not Indicated (Low density lipoprotein cholesterol, not known](#org2be26b1)
-    50. [Magnesium](#orgb277e26)
-    51. [Platelets](#org0ca3078)
-    52. [Potassium, Serum](#org7ac4a86)
-    53. [PSA, Free (Prostate specific antigen free in blood/serum/plasma)](#orgd6ac777)
-    54. [PSA, Percent Free (Prostate specific antigen [Ag], ratio of free to total)](#orgba6cdd3)
-    55. [PSA, Seminal Fluid (Prostate specific antigen, total in seminal fluid)](#orga152a23)
-    56. [PSA, Seminal Fluid, Free (Prostate specific antigen in seminal fluid, free)](#orgd6b8f2d)
-    57. [PSA, Total, Blood/Serum/Plasma (Prostate specific antigen, total)](#org0b7fefa)
-    58. [PT (Prothrombin time)](#org16c332c)
-    59. [RBC (Red Blood Cell Count [in blood])](#org677cd8a)
-    60. [Sodium (Blood or Serum Sodium)](#orgaa04487)
-    61. [Thyroxine (T4) Free](#org3ebddcb)
-    62. [Thyroxine (T4) Free Index](#orgba16ca9)
-    63. [Thyroxine (T4) Total](#orgf878752)
-    64. [TOT\_PROT (Protein, total in blood/serum)](#org6f044ea)
-    65. [Triglycerides, Fasting (TG, TRIG, patient was fasting)](#org4074b24)
-    66. [Triglycerides, Random (TG, TRIG, not known if patient was fasting, or known that](#org3b717bf)
-    67. [TSH (Thyroid Stimulating Hormone, Thyrotropin)](#org3572be0)
-    68. [TSH Beta Subunit (Thyroid Stimulating Hormone Beta Subunit), Quantitative](#org3291768)
-    69. [TSH Long Acting (Thyroid Stimulator Long Acting)](#org9a6590e)
-    70. [TSH Screen (Thyroid Stimulating Hormone, Screen), Blood](#orgc9c8a30)
-    71. [TROP\_I\_QN (Troponin I Cardiac Quantitative)](#org1238469)
-    72. [TROP\_T\_QL (Troponin T Cardiac - Qualitative)](#org31f8f75)
-    73. [TROP\_T\_QN (Troponin T Cardiac - Quantitative)](#orgee5daad)
-    74. [U\_ACR (Microalbumin [or albumin] to creatinine ratio in urine)](#org0896784)
-    75. [U\_CREAT (Creatinine in Urine)](#orgc6a44be)
-    76. [U\_CREAT24 (24-Hour Creatinine in Urine)](#org19d913b)
-    77. [U\_MIC\_ALB (Microalbumin [or albumin] in urine)](#orgc128724)
-    78. [U\_MICALB24 (24-Hour Microalbumin in urine)](#org8831943)
-    79. [U\_PCR (Protein to creatinine ratio in urine)](#org14b73d2)
-    80. [U\_PROT (Protein in urine; total protein in urine)](#orga03e445)
-    81. [U\_PROT\_24 (24-hour urine protein; total protein in urine)](#org964d429)
-    82. [U\_PROT\_DIP (Protein in Urine by Dipstick, qualitative)](#orgc21ef30)
-    83. [Uric Acid](#orgd823fa3)
-    84. [Vitamin B12 (Cobalamin)](#orge78a4af)
-    85. [Vitamin D (25-hydroxy-vitamin D)](#org37f11db)
-    86. [WBC (Total White Blood Cell Count [in blood])](#orgba8cbc7)
-2.  [Opioid Urine Toxicity](#orgbd65c5f)
-    1.  [U\_BUPRENORPHINE\_CNF (Buprenorphine in Urine)](#org99eca64)
-    2.  [U\_BUPRENORPHINE\_SCR (Buprenorphine in Urine)](#orgcdb182d)
-    3.  [U\_BUTORPHANOL\_CNF (Butorphanol in Urine)](#orga34953b)
-    4.  [U\_BUTORPHANOL\_SCR (Butorphanol in Urine)](#org89fd1ab)
-    5.  [U\_CODEINE\_CNF (Codeine in Urine)](#orgaa5a951)
-    6.  [U\_CODEINE\_SCR (Codeine in Urine)](#org6579545)
-    7.  [U\_DIPIPANONE\_CNF (Dipipanone in Urine)](#org2877051)
-    8.  [U\_DIPIPANONE\_SCR (Dipipanone in Urine)](#orgb932d46)
-    9.  [U\_FENTANYL\_CNF (Fentanyl in Urine)](#orgfe770fc)
-    10. [U\_FENTANYL\_SCR (Fentanyl in Urine)](#org71f9fce)
-    11. [TEST NAME—FOR FUTURE USE](#org53dd6e5)
-3.  [Hematology and Coagulation](#org6243612)
-    1.  [TEST NAME—FOR FUTURE USE](#orgd3712ef)
-4.  [Cell Markers](#org4293c14)
-    1.  [TEST NAME—FOR FUTURE USE](#org59d8c2d)
-5.  [Microbiology](#org6b21ca7)
-    1.  [TEST NAME—FOR FUTURE USE](#org266abd7)
-6.  [Influenza](#org575ec0c)
-    1.  [TEST NAME—FOR FUTURE USE](#orga6a36fe)
-7.  [COVID-19](#org1f6befb)
-    1.  [TEST NAME—FOR FUTURE USE](#org478e980)
-8.  [Blank Template](#orgfe882e9)
-    1.  [TEST NAME—FOR FUTURE USE](#org2ccd62c)
+1.  [Chemistry Lab Tests](#org079dfbc)
+    1.  [A\_G\_RATIO (Albumin to globulin ratio)](#org8b4fdf3)
+    2.  [Albumin (Albumin, total in blood/serum)](#org71378d9)
+    3.  [ALP (Alkaline phosphatase)](#orga4bb2f0)
+    4.  [ALT (Alanine Aminotransferase, SGPT)](#org9100e72)
+    5.  [AST (Aspartate Aminotransferase, SGOT)](#orge7d1d73)
+    6.  [Bilirubin, Direct](#org7dca171)
+    7.  [Bilirubin, Indirect](#org5bc745f)
+    8.  [Bilirubin, Total](#org90408f7)
+    9.  [BNP (Brain Natriuretic Peptide)](#org30ba30c)
+    10. [BUN (Urea nitrogen in blood/serum)](#org006b7e1)
+    11. [Calcium (Total Serum Calcium)](#orge646b29)
+    12. [CA125 (Cancer Antigen 125), Quantitative in Blood](#orgee63a84)
+    13. [CA125 (Cancer Antigen 125), Qualitative in Blood](#orge6bb4ba)
+    14. [CA125 (Cancer Antigen 125), Titer in Blood](#org2a6d53c)
+    15. [CA125 (Cancer Antigen 125), Quantitative in Body Fluid](#orge21df05)
+    16. [CA125 (Cancer Antigen 125) Titer in Body Fluid](#orge24468d)
+    17. [Cholesterol, Total](#org8505fa4)
+    18. [CK (Creatine Kinase)](#orge2e23c3)
+    19. [CK BB (Creatine Kinase BB) (Not a TEST\_TYPE but a common reference](#org7b06053)
+    20. [CK\_CSF (Creatine Kinase CSF Quantitative)](#org19e68c1)
+    21. [CK\_MB (Creatine Kinase MB - analytic method not specified)](#org593de0a)
+    22. [CK\_MB\_EIA (Creatine Kinase MB – Enzyme Immunoassay)](#org3205160)
+    23. [CK\_MB\_EP (Creatine Kinase MB - Electrophoresis)](#org5137dcb)
+    24. [CK\_MBI\_CLC (Creatine Kinase MB/Creatine Kinase Total Calculated)](#orgdc31393)
+    25. [CK\_MBI\_EIA (Creatine Kinase MB/Creatine Kinase Total Enzyme Immunoassay)](#org4bb4c6d)
+    26. [CK\_MBI\_EP (Creatine Kinase MB/ Creatine Kinase Total Electrophoresis)](#org32672e2)
+    27. [CK\_MM\_EP (Creatine Kinase MM Electrophoresis)](#orga5b9510)
+    28. [Creatinine, Blood/Serum/Plasma](#orgfca189a)
+    29. [CRP (C-reactive protein serum/plasma concentration)](#orgf8e8398)
+    30. [CRPHS (High-sensitivity C-reactive protein in serum/plasma)](#orgd6c881a)
+    31. [D-Dimer](#org0c23c51)
+    32. [FOBT (Fecal Occult Blood Test)](#orge6f6c2f)
+    33. [FOB1 (Fecal Occult Blood Test One Specimen)](#orgb1aac89)
+    34. [Fecal Occult Blood Test, Quantitative](#orgd7948c1)
+    35. [Fecal Immunologic (Immunochemical) Test](#org98c8ff3)
+    36. [Ferritin](#orgff9859f)
+    37. [Folate](#org25dc45f)
+    38. [GGT (GGTP, Gamma-glutamyl transpeptidase [or transferase] in blood/serum)](#org46e279f)
+    39. [GFR (Glomerular Filtration Rate), MDRD](#org7de7d7b)
+    40. [GFR (Glomerular Filtration Rate), MDRD, African American](#orgce51d64)
+    41. [GFR (Glomerular Filtration Rate), MDRD, Non-African American](#orgf0ccdb9)
+    42. [GFR (Glomerular Filtration Rate), Schwartz](#org22111ff)
+    43. [HCT (Hematocrit)](#org6bd585e)
+    44. [Hemoglobin A1c (Glycated Hemoglobin)](#orgebc134e)
+    45. [HGB (Hemoglobin)](#org63d33ce)
+    46. [HDL (High density lipoprotein cholesterol)](#org5cf23d2)
+    47. [Human Papilloma Virus (HPV) DNA Test, Cervical Specimen](#org806c087)
+    48. [Human Papilloma Virus (HPV) DNA Test, Specimen Source/Site Unknown](#org57fd704)
+    49. [INR (International Normalization Ratio)](#org2fbdecd)
+    50. [LDH (Lactate dehydrogenase, total in blood/serum)](#orgcc7667d)
+    51. [LDL, Calculated, Fasting (Low density lipoprotein cholesterol, calculated, patient was fasting)](#org5145768)
+    52. [LDL, Calculated, Random (Low density lipoprotein cholesterol, calculated](#org5e273a7)
+    53. [LDL Direct (Low density lipoprotein cholesterol, direct measure, fasting status](#orgfb73c88)
+    54. [LDL Method not Indicated (Low density lipoprotein cholesterol, not known](#org999f181)
+    55. [Magnesium](#orgbca4eca)
+    56. [Platelets](#orgb5e9d1b)
+    57. [Potassium, Serum](#org7985337)
+    58. [PSA, Free (Prostate specific antigen free in blood/serum/plasma)](#orgced1716)
+    59. [PSA, Percent Free (Prostate specific antigen [Ag], ratio of free to total)](#orgcc1600c)
+    60. [PSA, Seminal Fluid (Prostate specific antigen, total in seminal fluid)](#org50647c4)
+    61. [PSA, Seminal Fluid, Free (Prostate specific antigen in seminal fluid, free)](#org2d83645)
+    62. [PSA, Total, Blood/Serum/Plasma (Prostate specific antigen, total)](#org10c95bb)
+    63. [PT (Prothrombin time)](#org04c72f8)
+    64. [RBC (Red Blood Cell Count [in blood])](#orgd30fec6)
+    65. [Sodium (Blood or Serum Sodium)](#org2a0e1ac)
+    66. [Thyroxine (T4) Free](#org59f068a)
+    67. [Thyroxine (T4) Free Index](#org1cdc2aa)
+    68. [Thyroxine (T4) Total](#org88426f8)
+    69. [TOT\_PROT (Protein, total in blood/serum)](#orgcc19e23)
+    70. [Triglycerides, Fasting (TG, TRIG, patient was fasting)](#org16d08ba)
+    71. [Triglycerides, Random (TG, TRIG, not known if patient was fasting, or known that](#org134d295)
+    72. [TSH (Thyroid Stimulating Hormone, Thyrotropin)](#orgf1871b5)
+    73. [TSH Beta Subunit (Thyroid Stimulating Hormone Beta Subunit), Quantitative](#orgff52976)
+    74. [TSH Long Acting (Thyroid Stimulator Long Acting)](#orgb4c55b9)
+    75. [TSH Screen (Thyroid Stimulating Hormone, Screen), Blood](#org042a164)
+    76. [TROP\_I\_QN (Troponin I Cardiac Quantitative)](#org8dfe179)
+    77. [TROP\_T\_QL (Troponin T Cardiac - Qualitative)](#orge4a49c0)
+    78. [TROP\_T\_QN (Troponin T Cardiac - Quantitative)](#org23679c7)
+    79. [U\_ACR (Microalbumin [or albumin] to creatinine ratio in urine)](#org5efe564)
+    80. [U\_CREAT (Creatinine in Urine)](#org8746da2)
+    81. [U\_CREAT24 (24-Hour Creatinine in Urine)](#orgc7a7d5b)
+    82. [U\_MIC\_ALB (Microalbumin [or albumin] in urine)](#org19edfd5)
+    83. [U\_MICALB24 (24-Hour Microalbumin in urine)](#orgdb21c74)
+    84. [U\_PCR (Protein to creatinine ratio in urine)](#orgc667eb4)
+    85. [U\_PROT (Protein in urine; total protein in urine)](#orgdbf003d)
+    86. [U\_PROT\_24 (24-hour urine protein; total protein in urine)](#org54844cb)
+    87. [U\_PROT\_DIP (Protein in Urine by Dipstick, qualitative)](#org99e938a)
+    88. [Uric Acid](#org98a231e)
+    89. [Vitamin B12 (Cobalamin)](#org0f18618)
+    90. [Vitamin D (25-hydroxy-vitamin D)](#orgade4d80)
+    91. [WBC (Total White Blood Cell Count [in blood])](#org39a6c7a)
+2.  [Glucose Tolerance Tests Oral Glucose Tolerance Tests](#org8a4937a)
+    1.  [Glucose, Fasting Serum/Plasma (patient was fasting)](#orgc6594c2)
+    2.  [Glucose, Random (not known if patient was fasting or known that patient was not fasting)](#orga5abcb8)
+    3.  [GTT Test\_Types](#org9934abf)
+        1.  [GTT\_0\_5 Glucose Tolerance 1/2 hour post XXX challenge (glucose dose not specified)](#org2a84ae8)
+        2.  [GTT\_1 Glucose Tolerance 1 hour post XXX challenge (glucose dose not specified)](#orgcd7f4e4)
+        3.  [GTT\_1\_5 Glucose Tolerance 1 1/2 hour post XXX challenge (glucose dose not specified)](#org671fdcc)
+        4.  [GTT\_2 Glucose Tolerance 2 hour post XXX challenge (glucose dose not specified)](#org20f498a)
+        5.  [GTT\_3 Glucose Tolerance 3 hour post XXX challenge (glucose dose not specified)](#orgf8cd6a2)
+        6.  [GTT\_4 Glucose Tolerance 4 hour post XXX challenge (glucose dose not specified)](#org526a316)
+        7.  [GTT\_5 Glucose Tolerance 5 hour post XXX challenge (glucose dose not specified)](#orgbb61f4e)
+        8.  [GTT\_6 Glucose Tolerance 6 hour post XXX challenge (glucose dose not specified)](#org8f6e074)
+        9.  [GTT\_7 Glucose Tolerance 7 hour post XXX challenge (glucose dose not specified)](#org1544a1c)
+        10. [GTT50\_1 Glucose Tolerance 1 hour post 50 g oral challenge](#org9481338)
+        11. [GTT75\_1 Glucose Tolerance 1 hour post 75 g oral challenge](#org03f935a)
+        12. [GTT75\_1\_5 Glucose Tolerance 1 1/2 hour post 75 g oral challenge](#orge779256)
+        13. [GTT75\_2 Glucose Tolerance 2 hour post 75 g oral challenge](#org3c6892b)
+        14. [GTT100\_0\_5 Glucose Tolerance 1/2 hour post 100 g oral challenge](#org34f16df)
+        15. [GTT100\_1 Glucose Tolerance 1 hour post 100 g oral challenge](#org522e1b1)
+        16. [GTT100\_1\_5 Glucose Tolerance 1 1/2 hour post 100 g oral challenge](#org0a62d69)
+        17. [GTT100\_2 Glucose Tolerance 2 hour post 100 g oral challenge](#org3a688f3)
+        18. [GTT100\_3 Glucose Tolerance 3 hour post 100 g oral challenge](#orgda99c69)
+        19. [GTT100\_3\_5 Glucose Tolerance 3 1/2 hour post 100 g oral challenge](#org511ec57)
+        20. [GTT100\_4 Glucose Tolerance 4 hour post 100 g oral challenge](#org33ada3a)
+        21. [GTT100\_5 Glucose Tolerance 5 hour post 100 g oral challenge](#org89e92bf)
+        22. [GTT100\_6 Glucose Tolerance 6 hour post 100 g oral challenge](#orgff19e65)
+        23. [GTT100\_PRE Glucose pre 100 g oral challenge (fasting)](#orga9c593b)
+        24. [GTT50\_PRE Glucose pre 50 g oral challenge (fasting)](#org8b22814)
+        25. [GTT75\_PRE Glucose pre 75 g oral challenge (fasting)](#org1a6ef68)
+        26. [GTT\_PRE Glucose pre oral challenge (fasting; glucose dose not specified)](#org72115e2)
+3.  [Opioid Urine Toxicity](#orgefc0e1d)
+    1.  [U\_BUPRENORPHINE\_CNF (Buprenorphine in Urine)](#org24fc6b0)
+    2.  [U\_BUPRENORPHINE\_SCR (Buprenorphine in Urine)](#orgd78db75)
+    3.  [U\_BUTORPHANOL\_CNF (Butorphanol in Urine)](#org224ff67)
+    4.  [U\_BUTORPHANOL\_SCR (Butorphanol in Urine)](#org0010ea2)
+    5.  [U\_CODEINE\_CNF (Codeine in Urine)](#org8c767f2)
+    6.  [U\_CODEINE\_SCR (Codeine in Urine)](#orgd9098de)
+    7.  [U\_DIPIPANONE\_CNF (Dipipanone in Urine)](#org8ae9737)
+    8.  [U\_DIPIPANONE\_SCR (Dipipanone in Urine)](#orgafa7a9b)
+    9.  [U\_FENTANYL\_CNF (Fentanyl in Urine)](#org4907a19)
+    10. [U\_FENTANYL\_SCR (Fentanyl in Urine)](#org5750641)
+    11. [TEST NAME—FOR FUTURE USE](#org007e7e3)
+4.  [Hematology and Coagulation](#org48c0256)
+    1.  [TEST NAME—FOR FUTURE USE](#org50f18d1)
+5.  [Cell Markers](#org0c9076f)
+    1.  [TEST NAME—FOR FUTURE USE](#orgfc57b07)
+6.  [Microbiology](#orge3e7a3c)
+    1.  [TEST NAME—FOR FUTURE USE](#org85a5487)
+7.  [Influenza](#orgfe03208)
+    1.  [TEST NAME—FOR FUTURE USE](#orga36a273)
+8.  [COVID-19](#orgfa17fc3)
+    1.  [TEST NAME—FOR FUTURE USE](#org286bd2d)
+9.  [Blank Template](#org323b99b)
+    1.  [TEST NAME—FOR FUTURE USE](#orgac9ac26)
 
 **Version 2, April 2025**
 
-This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. 
+This reference document is not inclusive of all lab tests that have been deemed priority tests to incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory content is expanded in the VDW.
 
 
-<a id="org9404bfd"></a>
+<a id="org079dfbc"></a>
 
 # Chemistry Lab Tests
 
 
-<a id="org6ad7e84"></a>
+<a id="org8b4fdf3"></a>
 
 ## A\_G\_RATIO (Albumin to globulin ratio)
 
@@ -165,7 +198,7 @@ electrophoresis must be performed to make an accurate diagnosis.
 -   Other:
 
 
-<a id="org500fb10"></a>
+<a id="org71378d9"></a>
 
 ## Albumin (Albumin, total in blood/serum)
 
@@ -195,14 +228,9 @@ hormones, and insulin. Receiving large amounts of intravenous fluids may make th
 inaccurate for a short time after the intravenous fluids are administered.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="orgb8026f7"></a>
+<a id="orga4bb2f0"></a>
 
 ## ALP (Alkaline phosphatase)
 
@@ -236,12 +264,9 @@ with healing fractures. Oral contraceptives may decrease ALP; anti-epileptics ma
 ALP.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
 
 
-<a id="orge8b1d52"></a>
+<a id="org9100e72"></a>
 
 ## ALT (Alanine Aminotransferase, SGPT)
 
@@ -267,12 +292,9 @@ Comments:
 Test Method Variance: Method and reference ranges vary. Reported in international units per
 liter.
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
 
 
-<a id="org4a0be65"></a>
+<a id="orge7d1d73"></a>
 
 ## AST (Aspartate Aminotransferase, SGOT)
 
@@ -297,12 +319,9 @@ Comments: Hemolysis will cause falsely elevated values.
 Test Method Variance: Method and reference ranges vary. Reported in international units per
 liter
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
 
 
-<a id="org6939d86"></a>
+<a id="org7dca171"></a>
 
 ## Bilirubin, Direct
 
@@ -341,15 +360,11 @@ high bilirubin level. After birth, newborns begin breaking down the excess red b
 (RBCs) they are born with and, since the newborn’s liver is not fully mature, it is unable to
 process the extra bilirubin, causing the infant's bilirubin levels to rise in the blood and other body
 tissues. This situation usually resolves itself within a few days. In other instances, newborns’ red
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-
 blood cells may be being destroyed because of blood incompatibilities between the baby and
 her mother, called hemolytic disease of the newborn.
 
 
-<a id="org6ef45fe"></a>
+<a id="org5bc745f"></a>
 
 ## Bilirubin, Indirect
 
@@ -393,7 +408,7 @@ blood cells may be being destroyed because of blood incompatibilities between th
 her mother, called hemolytic disease of the newborn.
 
 
-<a id="orgf5bb425"></a>
+<a id="org90408f7"></a>
 
 ## Bilirubin, Total
 
@@ -448,7 +463,7 @@ blood cells may be being destroyed because of blood incompatibilities between th
 her mother, called hemolytic disease of the newborn.
 
 
-<a id="orga03efd1"></a>
+<a id="org30ba30c"></a>
 
 ## BNP (Brain Natriuretic Peptide)
 
@@ -480,7 +495,7 @@ Test Method Variance:
 Other:
 
 
-<a id="orgcdf4193"></a>
+<a id="org006b7e1"></a>
 
 ## BUN (Urea nitrogen in blood/serum)
 
@@ -517,7 +532,7 @@ Test Method Variance:
 Other:
 
 
-<a id="org3385500"></a>
+<a id="orge646b29"></a>
 
 ## Calcium (Total Serum Calcium)
 
@@ -541,7 +556,7 @@ Test Method Variance:
 Other:
 
 
-<a id="org3c8786d"></a>
+<a id="orgee63a84"></a>
 
 ## CA125 (Cancer Antigen 125), Quantitative in Blood
 
@@ -578,7 +593,7 @@ Test Method Variance:
 Other:
 
 
-<a id="org9f65235"></a>
+<a id="orge6bb4ba"></a>
 
 ## CA125 (Cancer Antigen 125), Qualitative in Blood
 
@@ -615,7 +630,7 @@ Test Method Variance:
 Other:
 
 
-<a id="orga69c1ef"></a>
+<a id="org2a6d53c"></a>
 
 ## CA125 (Cancer Antigen 125), Titer in Blood
 
@@ -651,7 +666,7 @@ Test Method Variance:
 Other:
 
 
-<a id="orgb667e98"></a>
+<a id="orge21df05"></a>
 
 ## CA125 (Cancer Antigen 125), Quantitative in Body Fluid
 
@@ -679,7 +694,7 @@ Test Method Variance:
 Other:
 
 
-<a id="orgacf1156"></a>
+<a id="orge24468d"></a>
 
 ## CA125 (Cancer Antigen 125) Titer in Body Fluid
 
@@ -715,7 +730,7 @@ Test Method Variance:
 Other:
 
 
-<a id="org4cd1bac"></a>
+<a id="org8505fa4"></a>
 
 ## Cholesterol, Total
 
@@ -745,7 +760,7 @@ Test Method Variance:
 Other:
 
 
-<a id="org82afc29"></a>
+<a id="orge2e23c3"></a>
 
 ## CK (Creatine Kinase)
 
@@ -782,7 +797,7 @@ Test Method Variance:
 Other:
 
 
-<a id="org1ff319f"></a>
+<a id="org7b06053"></a>
 
 ## CK BB (Creatine Kinase BB) (Not a TEST\_TYPE but a common reference
 
@@ -811,7 +826,7 @@ Test Method Variance:
 Other:
 
 
-<a id="orge4cd236"></a>
+<a id="org19e68c1"></a>
 
 ## CK\_CSF (Creatine Kinase CSF Quantitative)
 
@@ -833,7 +848,7 @@ Test Method Variance:
 Other:
 
 
-<a id="org6bda219"></a>
+<a id="org593de0a"></a>
 
 ## CK\_MB (Creatine Kinase MB - analytic method not specified)
 
@@ -871,7 +886,7 @@ should be used rather than CK\_MB.
 Other:
 
 
-<a id="org1468d86"></a>
+<a id="org3205160"></a>
 
 ## CK\_MB\_EIA (Creatine Kinase MB – Enzyme Immunoassay)
 
@@ -908,7 +923,7 @@ interferences common to traditional electrophoresis.
 Other:
 
 
-<a id="org65e0b38"></a>
+<a id="org5137dcb"></a>
 
 ## CK\_MB\_EP (Creatine Kinase MB - Electrophoresis)
 
@@ -946,7 +961,7 @@ experience and it is adequate for routine clinical use.
 Other:
 
 
-<a id="org56fbb57"></a>
+<a id="orgdc31393"></a>
 
 ## CK\_MBI\_CLC (Creatine Kinase MB/Creatine Kinase Total Calculated)
 
@@ -979,7 +994,7 @@ Test Method Variance:
 Other:
 
 
-<a id="orgef1c992"></a>
+<a id="org4bb4c6d"></a>
 
 ## CK\_MBI\_EIA (Creatine Kinase MB/Creatine Kinase Total Enzyme Immunoassay)
 
@@ -1013,7 +1028,7 @@ Test Method Variance:
 Other:
 
 
-<a id="orgbcf6aab"></a>
+<a id="org32672e2"></a>
 
 ## CK\_MBI\_EP (Creatine Kinase MB/ Creatine Kinase Total Electrophoresis)
 
@@ -1045,7 +1060,7 @@ Test Method Variance:
 Other:
 
 
-<a id="orgc7a297b"></a>
+<a id="orga5b9510"></a>
 
 ## CK\_MM\_EP (Creatine Kinase MM Electrophoresis)
 
@@ -1074,7 +1089,7 @@ Test Method Variance:
 Other:
 
 
-<a id="orgf358b39"></a>
+<a id="orgfca189a"></a>
 
 ## Creatinine, Blood/Serum/Plasma
 
@@ -1102,7 +1117,7 @@ Test Method Variance: Not common
 Other:
 
 
-<a id="org3b9c4ca"></a>
+<a id="orgf8e8398"></a>
 
 ## CRP (C-reactive protein serum/plasma concentration)
 
@@ -1141,7 +1156,7 @@ Test Method Variance:
 Other:
 
 
-<a id="org2670440"></a>
+<a id="orgd6c881a"></a>
 
 ## CRPHS (High-sensitivity C-reactive protein in serum/plasma)
 
@@ -1178,7 +1193,7 @@ Test Method Variance:
 Other:
 
 
-<a id="orgdccfe3b"></a>
+<a id="org0c23c51"></a>
 
 ## D-Dimer
 
@@ -1239,7 +1254,7 @@ qualitative or semi-quantitative results are performed at the patient's bedside 
 Other:
 
 
-<a id="org46bcb42"></a>
+<a id="orge6f6c2f"></a>
 
 ## FOBT (Fecal Occult Blood Test)
 
@@ -1300,7 +1315,7 @@ guaiac testing by providing a source of hemoglobin other than blood.
 Test Method Variance:
 
 
-<a id="org5064311"></a>
+<a id="orgb1aac89"></a>
 
 ## FOB1 (Fecal Occult Blood Test One Specimen)
 
@@ -1346,7 +1361,7 @@ guaiac testing by providing a source of hemoglobin other than blood.
 Test Method Variance:
 
 
-<a id="org3c24272"></a>
+<a id="orgd7948c1"></a>
 
 ## Fecal Occult Blood Test, Quantitative
 
@@ -1380,7 +1395,7 @@ Comments:
 Test Method Variance:
 
 
-<a id="org5f96263"></a>
+<a id="org98c8ff3"></a>
 
 ## Fecal Immunologic (Immunochemical) Test
 
@@ -1421,7 +1436,7 @@ such as “fecal”, “stool” and “occult”, and to ascertain that stool i
 Test Method Variance:
 
 
-<a id="orge527367"></a>
+<a id="orgff9859f"></a>
 
 ## Ferritin
 
@@ -1449,7 +1464,7 @@ Test Method Variance: Results can also be reported as ng/mL
 Other:
 
 
-<a id="org90f6832"></a>
+<a id="org25dc45f"></a>
 
 ## Folate
 
@@ -1480,13 +1495,12 @@ High levels of B12 and folate are not usually clinically monitored. Increased fo
 with pernicious anemia and with vegetarian diets.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-48
-GGT (GGTP, Gamma-glutamyl transpeptidase [or transferase] in blood/serum)
+
+
+<a id="org46e279f"></a>
+
+## GGT (GGTP, Gamma-glutamyl transpeptidase [or transferase] in blood/serum)
+
 Common Name: GGT or GGTP
 Long Name: GGTP, Gamma-glutamyl transpeptidase or transferase in blood/serum
 Test Type: GGT
@@ -1519,13 +1533,12 @@ increase GGT. Clofibrate and oral contraceptives can decrease GGT. Smoking can i
 GGT.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-49
-GFR (Glomerular Filtration Rate), MDRD
+
+
+<a id="org7de7d7b"></a>
+
+## GFR (Glomerular Filtration Rate), MDRD
+
 Common Name: Estimated GFR, eGFR
 Long Name: Glomerular Filtration Rate/1.73 sq M. predicted (MDRD)
 Test Type: GFR\_MDRD
@@ -1561,24 +1574,17 @@ reported based on a non-African American (NAA) status and clinicians adjust the 
 patient was African American.
 Test Method Variance: Prior to 2005, the MDRD equation was:
 GFR= 186 x (Scr)-1.154 x (Age)-0.203 x (0.742 if female) x (1.120 if African American)
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-50
 Therefore if a 57 year old white man had a Scr of 1.1 in 2003 his GFR would be 73.3, but a man
 with the same characteristics in 2008 would have a GFR of 70.0. From a population level it may
 appear that there were declines in renal function over time, however part of the decline may be
 an artifact of the change in the equation. Identify when your site lab changed equations.
 Other: &#x2013;
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-51
-GFR (Glomerular Filtration Rate), MDRD, African American
+
+
+<a id="orgce51d64"></a>
+
+## GFR (Glomerular Filtration Rate), MDRD, African American
+
 Common Name: Estimated GFR, eGFR
 Long Name: Glomerular Filtration Rate/1.73 sq M. predicted black (MDRD)
 Test Type: GFR\_AA\_MD
@@ -1616,24 +1622,17 @@ the MDRD TEST\_TYPEs would be populated in the VDW for children at your site if 
 case).
 Test Method Variance: Prior to 2005, the equation was as follows:
 GFR= 186 x (Scr)-1.154 x (Age)-0.203 x (0.742 if female) x (1.120 if African American)
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-52
 Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his GFR would be
 62.5, but in 2008 that man would have a GFR of 58.8. It may appear there was a decline in
 renal function over time, however part of the decline is an artifact of the equation change.
 Identify when your site lab changed equations.
 Other: &#x2013;
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-53
-GFR (Glomerular Filtration Rate), MDRD, Non-African American
+
+
+<a id="orgf0ccdb9"></a>
+
+## GFR (Glomerular Filtration Rate), MDRD, Non-African American
+
 Common Name: Estimated GFR, eGFR
 Long Name: Glomerular Filtration Rate/1.73 sq M. predicted non black (MDRD)
 Test Type: GFR\_NAA\_MD
@@ -1669,24 +1668,17 @@ some HMOs may report eGFR using the MDRD for children (i.e., one of the MDRD
 TEST\_TYPEs would be populated in the VDW for children at your site if that is the case).
 Test Method Variance: Prior to 2005, the equation was as follows
 GFR= 186 x (Scr)-1.154 x (Age)-0.203 x (0.742 if female)
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-54
 Therefore, if a 35 year old Asian female had a serum creatinine of 2 in 2003 her GFR would be
 30.1, but a female with the same characteristics in 2008 would have a GFR of 28.4. From a
 population level it appears there was a decline in renal function over time, however part of the
 decline is an artifact of the equation change. Identify when your site lab changed equations.
 Other: &#x2013;
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-55
-GFR (Glomerular Filtration Rate), Schwartz
+
+
+<a id="org22111ff"></a>
+
+## GFR (Glomerular Filtration Rate), Schwartz
+
 Common Name: Estimated GFR, eGFR
 Long Name: Glomerular Filtration Rate/1.73 sq M. predicted (Schwartz)
 Test Type: GFR\_SCH
@@ -1703,10 +1695,12 @@ measuring GFR in the pediatric population (<18 years of age) and is based on 4 v
 Scr, height, age, gender).
 GFR (mL/min/1.73 m2) = k x (height in cm)/ Scr in mg/dL
 Where k is a constant:
- K=0.33 in premature infants
- K=0.45 in term infants to 1 year of age
- K=0.55 in children 1 to 13 years of age and adolescent females
- K=0.70 in adolescent males (13 years and older)
+
+-   K=0.33 in premature infants
+-   K=0.45 in term infants to 1 year of age
+-   K=0.55 in children 1 to 13 years of age and adolescent females
+-   K=0.70 in adolescent males (13 years and older)
+
 Related Tests: SCr; CrCl
 Approximate Reference Range:
 GFR Description Kidney Damage Stage
@@ -1722,211 +1716,9 @@ may only be reported for values less than 75 ml/min/1.73 m2. Values any higher t
 may be reported as “greater than or equal to 75 mL/min/1.73 m2”.
 Test Method Variance: &#x2013;
 Other: &#x2013;
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-56
-Glucose, Fasting Serum/Plasma (patient was fasting)
-Common Name: Fasting serum glucose
-Long Name: Blood Sugar Fasting
-Test Type: GLU\_F
-Panels:
-Equivalent Tests: Fasting plasma glucose, whole blood fasting glucose
-Not Equivalent Tests: Random glucose or fasting period not specified; glucose tolerance test
-(although may include a fasting glucose); 2-hour post parandial (after meal); glucose on other
-body fluid such as cerebrospinal fluid, urine, synovial, plueral or peritoneal fluids; glucose
-phosphate isomerase; glucose-6-phosphate dehydrogenase; glucocorticoids. Many tests using
-GLY prefix are not a blood glucose level.
-Indications: Fasting glucose is used for screening for diabetes or hypoglycemia and to monitor
-progression or control of diabetes. Also, fasting glucose is used to assist in determining
-medication adjustments for managing diabetes. Certain drugs used to treat conditions other
-than diabetes can also affect Fasting Blood Sugar.
-Description: In general, it is recommended that you fast 8 hours before having a fasting blood
-glucose test. In persons with diabetes, however, glucose levels are often checked both while
-fasting and after meals to provide the best control of diabetes.
-Related Tests:
-Approximate Reference Range (Each site will have slight variations): Approximately 65-
-115 mg/dL
-Comments: Delay in transport or delay in separating serum from cells can falsely decrease
-glucose values.
-Test Method Variance: Capillary specimens can vary from serum/plasma values by 10%.
-Some meters have different settings for different lot numbers of test strips. "Lack of circulation"
-may invalidate capillary glucose. Preferred specimen is a plasma from fluoride/oxalate
-anticoagulated specimen tube to prevent cells from metabolizing glucose during transport.
-Other: &#x2013;
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-57
-Glucose, Random (not known if patient was fasting or known that patient was not
-fasting)
-Common Name: Glucose Random, Glucose-fasting period not indicated
-Long Name: Blood Sugar Random or Not Specified
-Test Type: GLU\_RAN
-Panels: Basic metabolic panel, comprehensive metabolic profile
-Equivalent Tests: plasma glucose, whole blood glucose
-Not Equivalent Tests: Fasting glucose. Glucose tolerance (although may include a fasting
-glucose). 2-Hour post parandial (after meal). Glucose on other body fluid such as cerebral
-spinal fluid, urine, synovial, pleural or peritoneal fluids. Glucose phosphate isomerase, Glucose-
-6-Phosphate Dehydrogenase, Glucocorticoids. Many tests using GLY prefix are not a glucose
-level.
-Indications: Random glucose is used for screening for diabetes or hypoglycemia and to
-monitor progression or control of diabetes. Also used to adjust medication dosage for diabetes.
-Certain drugs used to treat conditions other than diabetes can also affect blood glucose.
-Description: In general, regardless of whether food or drink has been consumed, blood
-glucose test should be less than 200 mg/dL. Some will use 150 mg/dL if it has been > 1 hour
-since consuming small meal or beverage. If random is greater than ~200, follow-up testing is
-indicated. Can also be used to validate glucose meter results.
-Related Tests:
-Approximate Reference Range (Each site will have slight variations): Approximately <200
-mg/dL
-Comments: Delay in transport or delay in separating serum from cells can falsely decrease
-glucose values.
-Test Method Variance: Capillary specimens can vary from serum/plasma values by 10%.
-Some meters have different settings for different lot numbers of test strips. "Lack of circulation"
-may invalidate capillary glucose. Preferred specimen is a plasma from fluoride/oxalate
-anticoagulated specimen tube to prevent cells from metabolizing glucose during transport.
-Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-58
-Glucose Tolerance Tests Oral Glucose Tolerance Tests (NOTE: Information about all
-the numerous GTT TEST\_TYPES is included in this document)
-Common Name: OGTT; GTT; Oral glucose tolerance test; glucose tolerance test
-Test Types and Long Names: See Table 1.
-Table 1. Glucose Tolerance Test TEST\_TYPE and Long Name
-TEST\_TYPE LONGNAME
-GTT\_0\_5 Glucose Tolerance 1/2 hour post XXX challenge (glucose dose not specified)
-GTT\_1 Glucose Tolerance 1 hour post XXX challenge (glucose dose not specified)
-GTT\_1\_5 Glucose Tolerance 1 1/2 hour post XXX challenge (glucose dose not specified)
-GTT\_2 Glucose Tolerance 2 hour post XXX challenge (glucose dose not specified)
-GTT\_3 Glucose Tolerance 3 hour post XXX challenge (glucose dose not specified)
-GTT\_4 Glucose Tolerance 4 hour post XXX challenge (glucose dose not specified)
-GTT\_5 Glucose Tolerance 5 hour post XXX challenge (glucose dose not specified)
-GTT\_6 Glucose Tolerance 6 hour post XXX challenge (glucose dose not specified)
-GTT\_7 Glucose Tolerance 7 hour post XXX challenge (glucose dose not specified)
-GTT50\_1 Glucose Tolerance 1 hour post 50 g oral challenge
-GTT75\_1 Glucose Tolerance 1 hour post 75 g oral challenge
-GTT75\_1\_5 Glucose Tolerance 1 1/2 hour post 75 g oral challenge
-GTT75\_2 Glucose Tolerance 2 hour post 75 g oral challenge
-GTT100\_0\_5 Glucose Tolerance 1/2 hour post 100 g oral challenge
-GTT100\_1 Glucose Tolerance 1 hour post 100 g oral challenge
-GTT100\_1\_5 Glucose Tolerance 1 1/2 hour post 100 g oral challenge
-GTT100\_2 Glucose Tolerance 2 hour post 100 g oral challenge
-GTT100\_3 Glucose Tolerance 3 hour post 100 g oral challenge
-GTT100\_3\_5 Glucose Tolerance 3 1/2 hour post 100 g oral challenge
-GTT100\_4 Glucose Tolerance 4 hour post 100 g oral challenge
-GTT100\_5 Glucose Tolerance 5 hour post 100 g oral challenge
-GTT100\_6 Glucose Tolerance 6 hour post 100 g oral challenge
-GTT100\_PRE Glucose pre 100 g oral challenge (fasting)
-GTT50\_PRE Glucose pre 50 g oral challenge (fasting)
-GTT75\_PRE Glucose pre 75 g oral challenge (fasting)
-GTT\_PRE Glucose pre oral challenge (fasting; glucose dose not specified)
-It is anticipated that each site will populate some subset of the TEST\_TYPEs listed above. Sites
-are not expected to find that all are in use at their locations. It is also anticipated that the 1 hour
-and 2 hour TEST\_TYPEs will be the more common time points (see below).
-Panels: NA
-Equivalent Tests: The test types in Table 1 that contain “pre” in the test type name are fasting
-glucose values (i.e., values obtained prior to the patient drinking the glucose load). For research
-projects where fasting glucose tests are assessed, it may be appropriate to ask the investigator
-whether he/she also wants to include these fasting glucose tests that were obtained as part of a
-GTT challenge test. The GTT “pre” tests are not included in the GLU\_F (fasting glucose test
-type) in the VDW since they are included in the GTT test types.
-Not Equivalent Tests: Do not include any tests where the name or title of the test includes
-“post prandial” or “lactose tolerance.” GGT (or GGTP, gamma-glutamyl transpeptidase) is an
-unrelated test. Random glucose tests are related but not equivalent tests.
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-59
-Indications: The oral glucose tolerance test (GTT) is considered a “challenge test” in that it is
-used to assess the presence of gestational diabetes in pregnant women based on a “challenge”
-or loading dose of glucose. It is also used (not common) to assess patients who have signs and
-symptoms of diabetes mellitus but whose fasting plasma glucose is normal or suggests
-prediabetes. The GTT provides information about both the ability of the pancreas to secrete
-insulin after a glucose “load” and the body’s response to insulin. Interpretation of the results of
-the GTT is usually based on both the blood glucose concentrations measured before the
-glucose load is ingested and at set time points after drinking the glucose load.
-In women who had gestational diabetes, a postpartum glucose evaluation is also often done. In
-this situation, either a 2 hour post 75 g glucose load test (see below) or a standard fasting
-glucose is obtained within 6 weeks after delivery.
-Description: A standard 50-, 75-, or 100-gram dose of an oral glucose solution is ingested
-(over 5 minutes for the 75-g dose) after an overnight fast. Blood samples are usually drawn
-before the test, between 0 and 2 hours, and at 2 hours.
-In pregnant women, a “screening” challenge GTT test is often done that measures plasma
-glucose 1 hour after a 50-g glucose load. If the glucose level is > 130 mg/dL, then a 100-g
-glucose load is done (see Table 2). Glucose concentrations are drawn before drinking the
-glucose load for the test, and at 1 hour, 2 hours, and 3 hours after drinking the glucose load.
-Time periods beyond 4 hours are not routinely used for gestational diabetes assessment.
-We anticipate that the 75 g GTT test will be used more often as we go forward in time. This is
-because the 2011 American Diabetes Association (ADA) criteria for gestational diabetes
-mellitus recommend a 75g GTT in all pregnant women at 24-28 weeks gestation. The times and
-values used in this newly-recommended standard include a fasting result, and a 1 hr and 2 hr
-result as part of the GTT. A 75g 2hr value >153 mg/dl during pregnancy is diagnostic for
-gestational diabetes mellitus.
-Related Tests: Fasting glucose, random glucose
-Approximate Reference Range: Values above which the test results are considered abnormal
-or high or indicative of diabetes at 1, 2, and/or 3 hours are shown in Table 2.
-Table 2. Threshold Values for Diagnosis Diabetes Mellitus Using the Glucose Tolerance Test
-Glucose Load for
-GTT
-Fasting Plasma
-Glucose
-(mg/dL)
-GTT Value at 1
-hour (or 30 or
-90 minutes)
-GTT Value
-at 2 hours
-GTT Value
-at 3 hours
-Gestational diabetes
-50 g < 95 > 130
-75 g < 95 > 153
-100 g < 95 >180 \* >155 \* >140 \*
-Assessing glucose tolerance in individual who is not pregnant (75 g load)
-Normal < 100 < 200 < 140
-Prediabetes 100 – 125 > 200 140-199
-Diabetes > 126 > 200 > 200
-If 2 or more glucose levels exceed the threshold, then a diagnosis of gestational diabetes is made.
-Comments: Component test names for the GTT vary widely from site to site. Sometimes the
-words “gestational,” “gestational diabetes,” or “OB screen” are in the name. Sometimes the
-word “tolerance” is in the name, but not always.
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-60
-Test Method Variance: See statements above about the varying glucose loads that are used.
-Other: Some sites do not use unique CPT or LOINC codes for different glucose loads. There
-may be unique codes for the different time increments (1hr, 2 hr, etc), but not always. The text
-string field usually specifies the hour (for example, a GTT 3 hr may have three rows of data in
-which the text string specifies the specific hour [1 hr, 2 hr, 3 hr]).
-Loading dose of glucose is not included in electronic data at all sites. Because the loading dose
-of glucose is not always indicated in the electronic lab data stream, it is crucial to ensure the
-abnormal flags are populated in the VDW. As shown in Table 2, the criteria for determining
-whether or not the lab results are abnormal vary, not only based on the time the sample was
-obtained, but also based on the glucose load the individual ingested. The abnormal flag, along
-with the result value, may be the only way to conclusively know whether or not the test result
-was abnormal.
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org65e8e2b"></a>
+<a id="org6bd585e"></a>
 
 ## HCT (Hematocrit)
 
@@ -1963,7 +1755,7 @@ Test Method Variance: &#x2013;
 Other: &#x2013;
 
 
-<a id="org563230d"></a>
+<a id="orgebc134e"></a>
 
 ## Hemoglobin A1c (Glycated Hemoglobin)
 
@@ -1994,7 +1786,7 @@ Test Method Variance:
 Other:
 
 
-<a id="org1ab19da"></a>
+<a id="org63d33ce"></a>
 
 ## HGB (Hemoglobin)
 
@@ -2033,7 +1825,7 @@ Test Method Variance: &#x2013;
 Other: &#x2013;
 
 
-<a id="org3bf7405"></a>
+<a id="org5cf23d2"></a>
 
 ## HDL (High density lipoprotein cholesterol)
 
@@ -2066,7 +1858,7 @@ Test Method Variance:
 Other:
 
 
-<a id="org8d18783"></a>
+<a id="org806c087"></a>
 
 ## Human Papilloma Virus (HPV) DNA Test, Cervical Specimen
 
@@ -2109,7 +1901,7 @@ this test type. A test does not need to test for every high risk strain to be in
 Test Method Variance: N/A
 
 
-<a id="orgca7ab0e"></a>
+<a id="org57fd704"></a>
 
 ## Human Papilloma Virus (HPV) DNA Test, Specimen Source/Site Unknown
 
@@ -2145,7 +1937,7 @@ associated with vulvar, penile, and anal intraepithelial neoplasia and cancer.
 Test Method Variance: N/A
 
 
-<a id="orgc51eb15"></a>
+<a id="org2fbdecd"></a>
 
 ## INR (International Normalization Ratio)
 
@@ -2172,7 +1964,7 @@ Test Method Variance: &#x2013;
 Other: &#x2013;
 
 
-<a id="orgf67c1b0"></a>
+<a id="orgcc7667d"></a>
 
 ## LDH (Lactate dehydrogenase, total in blood/serum)
 
@@ -2214,7 +2006,7 @@ Test Method Variance:
 Other:
 
 
-<a id="orgfbfbf9b"></a>
+<a id="org5145768"></a>
 
 ## LDL, Calculated, Fasting (Low density lipoprotein cholesterol, calculated, patient was fasting)
 
@@ -2247,7 +2039,7 @@ Test Method Variance:
 Other:
 
 
-<a id="orge4bc613"></a>
+<a id="org5e273a7"></a>
 
 ## LDL, Calculated, Random (Low density lipoprotein cholesterol, calculated
 
@@ -2282,7 +2074,7 @@ Test Method Variance:
 Other:
 
 
-<a id="orgfb49f5d"></a>
+<a id="orgfb73c88"></a>
 
 ## LDL Direct (Low density lipoprotein cholesterol, direct measure, fasting status
 
@@ -2313,7 +2105,7 @@ Test Method Variance:
 Other:
 
 
-<a id="org2be26b1"></a>
+<a id="org999f181"></a>
 
 ## LDL Method not Indicated (Low density lipoprotein cholesterol, not known
 
@@ -2346,7 +2138,7 @@ Test Method Variance:
 Other:
 
 
-<a id="orgb277e26"></a>
+<a id="orgbca4eca"></a>
 
 ## Magnesium
 
@@ -2370,7 +2162,7 @@ Test Method Variance:
 Other:
 
 
-<a id="org0ca3078"></a>
+<a id="orgb5e9d1b"></a>
 
 ## Platelets
 
@@ -2407,7 +2199,7 @@ Test Method Variance: &#x2013;
 Other: &#x2013;
 
 
-<a id="org7ac4a86"></a>
+<a id="org7985337"></a>
 
 ## Potassium, Serum
 
@@ -2437,7 +2229,7 @@ Other: Studies show fist pumping can increase a patient’s potassium as much as
 addition to ionized calcium.
 
 
-<a id="orgd6ac777"></a>
+<a id="orgced1716"></a>
 
 ## PSA, Free (Prostate specific antigen free in blood/serum/plasma)
 
@@ -2459,7 +2251,7 @@ Test Method Variance:
 Other:
 
 
-<a id="orgba6cdd3"></a>
+<a id="orgcc1600c"></a>
 
 ## PSA, Percent Free (Prostate specific antigen [Ag], ratio of free to total)
 
@@ -2479,7 +2271,7 @@ Test Method Variance:
 Other:
 
 
-<a id="orga152a23"></a>
+<a id="org50647c4"></a>
 
 ## PSA, Seminal Fluid (Prostate specific antigen, total in seminal fluid)
 
@@ -2502,7 +2294,7 @@ Test Method Variance:
 Other:
 
 
-<a id="orgd6b8f2d"></a>
+<a id="org2d83645"></a>
 
 ## PSA, Seminal Fluid, Free (Prostate specific antigen in seminal fluid, free)
 
@@ -2523,7 +2315,7 @@ Test Method Variance:
 Other:
 
 
-<a id="org0b7fefa"></a>
+<a id="org10c95bb"></a>
 
 ## PSA, Total, Blood/Serum/Plasma (Prostate specific antigen, total)
 
@@ -2555,7 +2347,7 @@ made. Results between manufacturer/instrumentation may not be linear.
 Other:
 
 
-<a id="org16c332c"></a>
+<a id="org04c72f8"></a>
 
 ## PT (Prothrombin time)
 
@@ -2587,7 +2379,7 @@ Test Method Variance: The test results depend on the method used. .
 Other: &#x2013;
 
 
-<a id="org677cd8a"></a>
+<a id="orgd30fec6"></a>
 
 ## RBC (Red Blood Cell Count [in blood])
 
@@ -2623,7 +2415,7 @@ Test Method Variance: &#x2013;
 Other: &#x2013;
 
 
-<a id="orgaa04487"></a>
+<a id="org2a0e1ac"></a>
 
 ## Sodium (Blood or Serum Sodium)
 
@@ -2646,7 +2438,7 @@ Test Method Variance:
 Other:
 
 
-<a id="org3ebddcb"></a>
+<a id="org59f068a"></a>
 
 ## Thyroxine (T4) Free
 
@@ -2680,7 +2472,7 @@ reported as ng/dL but can also include pmol/L or pg/dL.
 Other:
 
 
-<a id="orgba16ca9"></a>
+<a id="org1cdc2aa"></a>
 
 ## Thyroxine (T4) Free Index
 
@@ -2708,7 +2500,7 @@ Test Method Variance:
 Other: Thyroxine free index is rarely used today.
 
 
-<a id="orgf878752"></a>
+<a id="org88426f8"></a>
 
 ## Thyroxine (T4) Total
 
@@ -2740,7 +2532,7 @@ Other: Usually ordered along with or following a TSH test. Do not include T4 tot
 genetic screening.
 
 
-<a id="org6f044ea"></a>
+<a id="orgcc19e23"></a>
 
 ## TOT\_PROT (Protein, total in blood/serum)
 
@@ -2773,7 +2565,7 @@ Test Method Variance:
 Other:
 
 
-<a id="org4074b24"></a>
+<a id="org16d08ba"></a>
 
 ## Triglycerides, Fasting (TG, TRIG, patient was fasting)
 
@@ -2801,7 +2593,7 @@ Test Method Variance:
 Other:
 
 
-<a id="org3b717bf"></a>
+<a id="org134d295"></a>
 
 ## Triglycerides, Random (TG, TRIG, not known if patient was fasting, or known that
 
@@ -2833,7 +2625,7 @@ Test Method Variance:
 Other:
 
 
-<a id="org3572be0"></a>
+<a id="orgf1871b5"></a>
 
 ## TSH (Thyroid Stimulating Hormone, Thyrotropin)
 
@@ -2889,7 +2681,7 @@ TRH). Thyroid hormone levels may also be altered by a variety of thyroid disease
 the amount of TSH present in the blood.
 
 
-<a id="org3291768"></a>
+<a id="orgff52976"></a>
 
 ## TSH Beta Subunit (Thyroid Stimulating Hormone Beta Subunit), Quantitative
 
@@ -2948,7 +2740,7 @@ make more thyroid hormone). Thyroid hormone levels may also be altered by a vari
 thyroid diseases regardless of the amount of TSH present in the blood.
 
 
-<a id="org9a6590e"></a>
+<a id="orgb4c55b9"></a>
 
 ## TSH Long Acting (Thyroid Stimulator Long Acting)
 
@@ -2972,7 +2764,7 @@ Test Method Variance:
 Other:
 
 
-<a id="orgc9c8a30"></a>
+<a id="org042a164"></a>
 
 ## TSH Screen (Thyroid Stimulating Hormone, Screen), Blood
 
@@ -3027,7 +2819,7 @@ dysfunction, then the amount of TSH will be inversely related to the thyroid dys
 TSH will be low with overactive thyroid).
 
 
-<a id="org1238469"></a>
+<a id="org8dfe179"></a>
 
 ## TROP\_I\_QN (Troponin I Cardiac Quantitative)
 
@@ -3065,7 +2857,7 @@ Test Method Variance:
 Other:
 
 
-<a id="org31f8f75"></a>
+<a id="orge4a49c0"></a>
 
 ## TROP\_T\_QL (Troponin T Cardiac - Qualitative)
 
@@ -3103,7 +2895,7 @@ Test Method Variance:
 Other:
 
 
-<a id="orgee5daad"></a>
+<a id="org23679c7"></a>
 
 ## TROP\_T\_QN (Troponin T Cardiac - Quantitative)
 
@@ -3139,7 +2931,7 @@ Test Method Variance:
 Other:
 
 
-<a id="org0896784"></a>
+<a id="org5efe564"></a>
 
 ## U\_ACR (Microalbumin [or albumin] to creatinine ratio in urine)
 
@@ -3177,7 +2969,7 @@ Test Method Variance:
 Other:
 
 
-<a id="orgc6a44be"></a>
+<a id="org8746da2"></a>
 
 ## U\_CREAT (Creatinine in Urine)
 
@@ -3211,7 +3003,7 @@ Test Method Variance:
 Other:
 
 
-<a id="org19d913b"></a>
+<a id="orgc7a7d5b"></a>
 
 ## U\_CREAT24 (24-Hour Creatinine in Urine)
 
@@ -3244,7 +3036,7 @@ Test Method Variance:
 Other:
 
 
-<a id="orgc128724"></a>
+<a id="org19edfd5"></a>
 
 ## U\_MIC\_ALB (Microalbumin [or albumin] in urine)
 
@@ -3281,7 +3073,7 @@ Test Method Variance:
 Other:
 
 
-<a id="org8831943"></a>
+<a id="orgdb21c74"></a>
 
 ## U\_MICALB24 (24-Hour Microalbumin in urine)
 
@@ -3319,7 +3111,7 @@ Test Method Variance:
 Other:
 
 
-<a id="org14b73d2"></a>
+<a id="orgc667eb4"></a>
 
 ## U\_PCR (Protein to creatinine ratio in urine)
 
@@ -3354,7 +3146,7 @@ Test Method Variance:
 Other:
 
 
-<a id="orga03e445"></a>
+<a id="orgdbf003d"></a>
 
 ## U\_PROT (Protein in urine; total protein in urine)
 
@@ -3393,7 +3185,7 @@ Test Method Variance:
 Other:
 
 
-<a id="org964d429"></a>
+<a id="org54844cb"></a>
 
 ## U\_PROT\_24 (24-hour urine protein; total protein in urine)
 
@@ -3428,7 +3220,7 @@ Test Method Variance:
 Other:
 
 
-<a id="orgc21ef30"></a>
+<a id="org99e938a"></a>
 
 ## U\_PROT\_DIP (Protein in Urine by Dipstick, qualitative)
 
@@ -3468,7 +3260,7 @@ Test Method Variance:
 Other:
 
 
-<a id="orgd823fa3"></a>
+<a id="org98a231e"></a>
 
 ## Uric Acid
 
@@ -3499,7 +3291,7 @@ Test Method Variance:
 Other:
 
 
-<a id="orge78a4af"></a>
+<a id="org0f18618"></a>
 
 ## Vitamin B12 (Cobalamin)
 
@@ -3533,7 +3325,7 @@ Test Method Variance:
 Other:
 
 
-<a id="org37f11db"></a>
+<a id="orgade4d80"></a>
 
 ## Vitamin D (25-hydroxy-vitamin D)
 
@@ -3560,7 +3352,7 @@ Test Method Variance:
 Other:
 
 
-<a id="orgba8cbc7"></a>
+<a id="org39a6c7a"></a>
 
 ## WBC (Total White Blood Cell Count [in blood])
 
@@ -3592,12 +3384,304 @@ Test Method Variance: &#x2013;
 Other: &#x2013;
 
 
-<a id="orgbd65c5f"></a>
+<a id="org8a4937a"></a>
+
+# Glucose Tolerance Tests Oral Glucose Tolerance Tests
+
+
+<a id="orgc6594c2"></a>
+
+## Glucose, Fasting Serum/Plasma (patient was fasting)
+
+Common Name: Fasting serum glucose
+Long Name: Blood Sugar Fasting
+Test Type: GLU\_F
+Panels:
+Equivalent Tests: Fasting plasma glucose, whole blood fasting glucose
+Not Equivalent Tests: Random glucose or fasting period not specified; glucose tolerance test
+(although may include a fasting glucose); 2-hour post parandial (after meal); glucose on other
+body fluid such as cerebrospinal fluid, urine, synovial, plueral or peritoneal fluids; glucose
+phosphate isomerase; glucose-6-phosphate dehydrogenase; glucocorticoids. Many tests using
+GLY prefix are not a blood glucose level.
+Indications: Fasting glucose is used for screening for diabetes or hypoglycemia and to monitor
+progression or control of diabetes. Also, fasting glucose is used to assist in determining
+medication adjustments for managing diabetes. Certain drugs used to treat conditions other
+than diabetes can also affect Fasting Blood Sugar.
+Description: In general, it is recommended that you fast 8 hours before having a fasting blood
+glucose test. In persons with diabetes, however, glucose levels are often checked both while
+fasting and after meals to provide the best control of diabetes.
+Related Tests:
+Approximate Reference Range (Each site will have slight variations): Approximately 65-
+115 mg/dL
+Comments: Delay in transport or delay in separating serum from cells can falsely decrease
+glucose values.
+Test Method Variance: Capillary specimens can vary from serum/plasma values by 10%.
+Some meters have different settings for different lot numbers of test strips. "Lack of circulation"
+may invalidate capillary glucose. Preferred specimen is a plasma from fluoride/oxalate
+anticoagulated specimen tube to prevent cells from metabolizing glucose during transport.
+Other: &#x2013;
+
+
+<a id="orga5abcb8"></a>
+
+## Glucose, Random (not known if patient was fasting or known that patient was not fasting)
+
+Common Name: Glucose Random, Glucose-fasting period not indicated
+Long Name: Blood Sugar Random or Not Specified
+Test Type: GLU\_RAN
+Panels: Basic metabolic panel, comprehensive metabolic profile
+Equivalent Tests: plasma glucose, whole blood glucose
+Not Equivalent Tests: Fasting glucose. Glucose tolerance (although may include a fasting
+glucose). 2-Hour post parandial (after meal). Glucose on other body fluid such as cerebral
+spinal fluid, urine, synovial, pleural or peritoneal fluids. Glucose phosphate isomerase, Glucose-
+6-Phosphate Dehydrogenase, Glucocorticoids. Many tests using GLY prefix are not a glucose
+level.
+Indications: Random glucose is used for screening for diabetes or hypoglycemia and to
+monitor progression or control of diabetes. Also used to adjust medication dosage for diabetes.
+Certain drugs used to treat conditions other than diabetes can also affect blood glucose.
+Description: In general, regardless of whether food or drink has been consumed, blood
+glucose test should be less than 200 mg/dL. Some will use 150 mg/dL if it has been > 1 hour
+since consuming small meal or beverage. If random is greater than ~200, follow-up testing is
+indicated. Can also be used to validate glucose meter results.
+Related Tests:
+Approximate Reference Range (Each site will have slight variations): Approximately <200
+mg/dL
+Comments: Delay in transport or delay in separating serum from cells can falsely decrease
+glucose values.
+Test Method Variance: Capillary specimens can vary from serum/plasma values by 10%.
+Some meters have different settings for different lot numbers of test strips. "Lack of circulation"
+may invalidate capillary glucose. Preferred specimen is a plasma from fluoride/oxalate
+anticoagulated specimen tube to prevent cells from metabolizing glucose during transport.
+Other:
+
+
+<a id="org9934abf"></a>
+
+## GTT Test\_Types
+
+(NOTE: Information about all
+the numerous GTT TEST\_TYPES is included in this document)
+Common Name: OGTT; GTT; Oral glucose tolerance test; glucose tolerance test
+Test Types and Long Names: See Table 1.
+Table 1. Glucose Tolerance Test TEST\_TYPE and Long Name
+TEST\_TYPE LONGNAME
+
+
+<a id="org2a84ae8"></a>
+
+### GTT\_0\_5 Glucose Tolerance 1/2 hour post XXX challenge (glucose dose not specified)
+
+
+<a id="orgcd7f4e4"></a>
+
+### GTT\_1 Glucose Tolerance 1 hour post XXX challenge (glucose dose not specified)
+
+
+<a id="org671fdcc"></a>
+
+### GTT\_1\_5 Glucose Tolerance 1 1/2 hour post XXX challenge (glucose dose not specified)
+
+
+<a id="org20f498a"></a>
+
+### GTT\_2 Glucose Tolerance 2 hour post XXX challenge (glucose dose not specified)
+
+
+<a id="orgf8cd6a2"></a>
+
+### GTT\_3 Glucose Tolerance 3 hour post XXX challenge (glucose dose not specified)
+
+
+<a id="org526a316"></a>
+
+### GTT\_4 Glucose Tolerance 4 hour post XXX challenge (glucose dose not specified)
+
+
+<a id="orgbb61f4e"></a>
+
+### GTT\_5 Glucose Tolerance 5 hour post XXX challenge (glucose dose not specified)
+
+
+<a id="org8f6e074"></a>
+
+### GTT\_6 Glucose Tolerance 6 hour post XXX challenge (glucose dose not specified)
+
+
+<a id="org1544a1c"></a>
+
+### GTT\_7 Glucose Tolerance 7 hour post XXX challenge (glucose dose not specified)
+
+
+<a id="org9481338"></a>
+
+### GTT50\_1 Glucose Tolerance 1 hour post 50 g oral challenge
+
+
+<a id="org03f935a"></a>
+
+### GTT75\_1 Glucose Tolerance 1 hour post 75 g oral challenge
+
+
+<a id="orge779256"></a>
+
+### GTT75\_1\_5 Glucose Tolerance 1 1/2 hour post 75 g oral challenge
+
+
+<a id="org3c6892b"></a>
+
+### GTT75\_2 Glucose Tolerance 2 hour post 75 g oral challenge
+
+
+<a id="org34f16df"></a>
+
+### GTT100\_0\_5 Glucose Tolerance 1/2 hour post 100 g oral challenge
+
+
+<a id="org522e1b1"></a>
+
+### GTT100\_1 Glucose Tolerance 1 hour post 100 g oral challenge
+
+
+<a id="org0a62d69"></a>
+
+### GTT100\_1\_5 Glucose Tolerance 1 1/2 hour post 100 g oral challenge
+
+
+<a id="org3a688f3"></a>
+
+### GTT100\_2 Glucose Tolerance 2 hour post 100 g oral challenge
+
+
+<a id="orgda99c69"></a>
+
+### GTT100\_3 Glucose Tolerance 3 hour post 100 g oral challenge
+
+
+<a id="org511ec57"></a>
+
+### GTT100\_3\_5 Glucose Tolerance 3 1/2 hour post 100 g oral challenge
+
+
+<a id="org33ada3a"></a>
+
+### GTT100\_4 Glucose Tolerance 4 hour post 100 g oral challenge
+
+
+<a id="org89e92bf"></a>
+
+### GTT100\_5 Glucose Tolerance 5 hour post 100 g oral challenge
+
+
+<a id="orgff19e65"></a>
+
+### GTT100\_6 Glucose Tolerance 6 hour post 100 g oral challenge
+
+
+<a id="orga9c593b"></a>
+
+### GTT100\_PRE Glucose pre 100 g oral challenge (fasting)
+
+
+<a id="org8b22814"></a>
+
+### GTT50\_PRE Glucose pre 50 g oral challenge (fasting)
+
+
+<a id="org1a6ef68"></a>
+
+### GTT75\_PRE Glucose pre 75 g oral challenge (fasting)
+
+
+<a id="org72115e2"></a>
+
+### GTT\_PRE Glucose pre oral challenge (fasting; glucose dose not specified)
+
+It is anticipated that each site will populate some subset of the TEST\_TYPEs listed above. Sites
+are not expected to find that all are in use at their locations. It is also anticipated that the 1 hour
+and 2 hour TEST\_TYPEs will be the more common time points (see below).
+Panels: NA
+Equivalent Tests: The test types in Table 1 that contain “pre” in the test type name are fasting
+glucose values (i.e., values obtained prior to the patient drinking the glucose load). For research
+projects where fasting glucose tests are assessed, it may be appropriate to ask the investigator
+whether he/she also wants to include these fasting glucose tests that were obtained as part of a
+GTT challenge test. The GTT “pre” tests are not included in the GLU\_F (fasting glucose test
+type) in the VDW since they are included in the GTT test types.
+Not Equivalent Tests: Do not include any tests where the name or title of the test includes
+“post prandial” or “lactose tolerance.” GGT (or GGTP, gamma-glutamyl transpeptidase) is an
+unrelated test. Random glucose tests are related but not equivalent tests.
+Indications: The oral glucose tolerance test (GTT) is considered a “challenge test” in that it is
+used to assess the presence of gestational diabetes in pregnant women based on a “challenge”
+or loading dose of glucose. It is also used (not common) to assess patients who have signs and
+symptoms of diabetes mellitus but whose fasting plasma glucose is normal or suggests
+prediabetes. The GTT provides information about both the ability of the pancreas to secrete
+insulin after a glucose “load” and the body’s response to insulin. Interpretation of the results of
+the GTT is usually based on both the blood glucose concentrations measured before the
+glucose load is ingested and at set time points after drinking the glucose load.
+In women who had gestational diabetes, a postpartum glucose evaluation is also often done. In
+this situation, either a 2 hour post 75 g glucose load test (see below) or a standard fasting
+glucose is obtained within 6 weeks after delivery.
+Description: A standard 50-, 75-, or 100-gram dose of an oral glucose solution is ingested
+(over 5 minutes for the 75-g dose) after an overnight fast. Blood samples are usually drawn
+before the test, between 0 and 2 hours, and at 2 hours.
+In pregnant women, a “screening” challenge GTT test is often done that measures plasma
+glucose 1 hour after a 50-g glucose load. If the glucose level is > 130 mg/dL, then a 100-g
+glucose load is done (see Table 2). Glucose concentrations are drawn before drinking the
+glucose load for the test, and at 1 hour, 2 hours, and 3 hours after drinking the glucose load.
+Time periods beyond 4 hours are not routinely used for gestational diabetes assessment.
+We anticipate that the 75 g GTT test will be used more often as we go forward in time. This is
+because the 2011 American Diabetes Association (ADA) criteria for gestational diabetes
+mellitus recommend a 75g GTT in all pregnant women at 24-28 weeks gestation. The times and
+values used in this newly-recommended standard include a fasting result, and a 1 hr and 2 hr
+result as part of the GTT. A 75g 2hr value >153 mg/dl during pregnancy is diagnostic for
+gestational diabetes mellitus.
+Related Tests: Fasting glucose, random glucose
+Approximate Reference Range: Values above which the test results are considered abnormal
+or high or indicative of diabetes at 1, 2, and/or 3 hours are shown in Table 2.
+Table 2. Threshold Values for Diagnosis Diabetes Mellitus Using the Glucose Tolerance Test
+Glucose Load for
+GTT
+Fasting Plasma
+Glucose
+(mg/dL)
+GTT Value at 1
+hour (or 30 or
+90 minutes)
+GTT Value
+at 2 hours
+GTT Value
+at 3 hours
+Gestational diabetes
+50 g < 95 > 130
+75 g < 95 > 153
+100 g < 95 >180 \* >155 \* >140 \*
+Assessing glucose tolerance in individual who is not pregnant (75 g load)
+Normal < 100 < 200 < 140
+Prediabetes 100 – 125 > 200 140-199
+Diabetes > 126 > 200 > 200
+If 2 or more glucose levels exceed the threshold, then a diagnosis of gestational diabetes is made.
+Comments: Component test names for the GTT vary widely from site to site. Sometimes the
+words “gestational,” “gestational diabetes,” or “OB screen” are in the name. Sometimes the
+word “tolerance” is in the name, but not always.
+Test Method Variance: See statements above about the varying glucose loads that are used.
+Other: Some sites do not use unique CPT or LOINC codes for different glucose loads. There
+may be unique codes for the different time increments (1hr, 2 hr, etc), but not always. The text
+string field usually specifies the hour (for example, a GTT 3 hr may have three rows of data in
+which the text string specifies the specific hour [1 hr, 2 hr, 3 hr]).
+Loading dose of glucose is not included in electronic data at all sites. Because the loading dose
+of glucose is not always indicated in the electronic lab data stream, it is crucial to ensure the
+abnormal flags are populated in the VDW. As shown in Table 2, the criteria for determining
+whether or not the lab results are abnormal vary, not only based on the time the sample was
+obtained, but also based on the glucose load the individual ingested. The abnormal flag, along
+with the result value, may be the only way to conclusively know whether or not the test result
+was abnormal.
+
+
+<a id="orgefc0e1d"></a>
 
 # Opioid Urine Toxicity
 
 
-<a id="org99eca64"></a>
+<a id="org24fc6b0"></a>
 
 ## U\_BUPRENORPHINE\_CNF (Buprenorphine in Urine)
 
@@ -3622,7 +3706,7 @@ For opioid results place the component value from the EverLOINC.SAS table into t
 -   Other:
 
 
-<a id="orgcdb182d"></a>
+<a id="orgd78db75"></a>
 
 ## U\_BUPRENORPHINE\_SCR (Buprenorphine in Urine)
 
@@ -3647,7 +3731,7 @@ For opioid results place the component value from the EverLOINC.SAS table into t
 -   Other:
 
 
-<a id="orga34953b"></a>
+<a id="org224ff67"></a>
 
 ## U\_BUTORPHANOL\_CNF (Butorphanol in Urine)
 
@@ -3672,7 +3756,7 @@ For opioid results place the component value from the EverLOINC.SAS table into t
 -   Other:
 
 
-<a id="org89fd1ab"></a>
+<a id="org0010ea2"></a>
 
 ## U\_BUTORPHANOL\_SCR (Butorphanol in Urine)
 
@@ -3697,7 +3781,7 @@ For opioid results place the component value from the EverLOINC.SAS table into t
 -   Other:
 
 
-<a id="orgaa5a951"></a>
+<a id="org8c767f2"></a>
 
 ## U\_CODEINE\_CNF (Codeine in Urine)
 
@@ -3722,7 +3806,7 @@ For opioid results place the component value from the EverLOINC.SAS table into t
 -   Other:
 
 
-<a id="org6579545"></a>
+<a id="orgd9098de"></a>
 
 ## U\_CODEINE\_SCR (Codeine in Urine)
 
@@ -3747,7 +3831,7 @@ For opioid results place the component value from the EverLOINC.SAS table into t
 -   Other:
 
 
-<a id="org2877051"></a>
+<a id="org8ae9737"></a>
 
 ## U\_DIPIPANONE\_CNF (Dipipanone in Urine)
 
@@ -3772,7 +3856,7 @@ For opioid results place the component value from the EverLOINC.SAS table into t
 -   Other:
 
 
-<a id="orgb932d46"></a>
+<a id="orgafa7a9b"></a>
 
 ## U\_DIPIPANONE\_SCR (Dipipanone in Urine)
 
@@ -3797,7 +3881,7 @@ For opioid results place the component value from the EverLOINC.SAS table into t
 -   Other:
 
 
-<a id="orgfe770fc"></a>
+<a id="org4907a19"></a>
 
 ## U\_FENTANYL\_CNF (Fentanyl in Urine)
 
@@ -3822,7 +3906,7 @@ For opioid results place the component value from the EverLOINC.SAS table into t
 -   Other:
 
 
-<a id="org71f9fce"></a>
+<a id="org5750641"></a>
 
 ## U\_FENTANYL\_SCR (Fentanyl in Urine)
 
@@ -3847,7 +3931,7 @@ For opioid results place the component value from the EverLOINC.SAS table into t
 -   Other:
 
 
-<a id="org53dd6e5"></a>
+<a id="org007e7e3"></a>
 
 ## TEST NAME—FOR FUTURE USE
 
@@ -3866,12 +3950,12 @@ Test Method Variance:
 Other:
 
 
-<a id="org6243612"></a>
+<a id="org48c0256"></a>
 
 # Hematology and Coagulation
 
 
-<a id="orgd3712ef"></a>
+<a id="org50f18d1"></a>
 
 ## TEST NAME—FOR FUTURE USE
 
@@ -3890,12 +3974,12 @@ Test Method Variance:
 Other:
 
 
-<a id="org4293c14"></a>
+<a id="org0c9076f"></a>
 
 # Cell Markers
 
 
-<a id="org59d8c2d"></a>
+<a id="orgfc57b07"></a>
 
 ## TEST NAME—FOR FUTURE USE
 
@@ -3914,12 +3998,12 @@ Test Method Variance:
 Other:
 
 
-<a id="org6b21ca7"></a>
+<a id="orge3e7a3c"></a>
 
 # Microbiology
 
 
-<a id="org266abd7"></a>
+<a id="org85a5487"></a>
 
 ## TEST NAME—FOR FUTURE USE
 
@@ -3938,12 +4022,12 @@ Test Method Variance:
 Other:
 
 
-<a id="org575ec0c"></a>
+<a id="orgfe03208"></a>
 
 # Influenza
 
 
-<a id="orga6a36fe"></a>
+<a id="orga36a273"></a>
 
 ## TEST NAME—FOR FUTURE USE
 
@@ -3962,12 +4046,12 @@ Test Method Variance:
 Other:
 
 
-<a id="org1f6befb"></a>
+<a id="orgfa17fc3"></a>
 
 # COVID-19
 
 
-<a id="org478e980"></a>
+<a id="org286bd2d"></a>
 
 ## TEST NAME—FOR FUTURE USE
 
@@ -3986,26 +4070,26 @@ Test Method Variance:
 Other:
 
 
-<a id="orgfe882e9"></a>
+<a id="org323b99b"></a>
 
 # Blank Template
 
 
-<a id="org2ccd62c"></a>
+<a id="orgac9ac26"></a>
 
 ## TEST NAME—FOR FUTURE USE
 
-Common Name:
-Long Name:
-Test Type:
-Panels:
-Equivalent Tests:
-Not Equivalent Tests:
-Indications:
-Description:
-Related Tests:
-Approximate Reference Range (Each site will have slight variations):
-Comments:
-Test Method Variance:
-Other:
+-   Common Name:
+-   Long Name:
+-   Test Type:
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications:
+-   Description:
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations):
+-   Comments:
+-   Test Method Variance:
+-   Other:
 
