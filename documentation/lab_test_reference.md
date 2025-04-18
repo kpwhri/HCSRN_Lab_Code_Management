@@ -1,239 +1,147 @@
 
 # Table of Contents
 
-1.  [Table of Contents](#orgb95b445)
-2.  [Chemistry Lab Tests](#orge5627a7)
-    1.  [A\_G\_RATIO (Albumin to globulin ratio)](#orgf5c6fb3)
-    2.  [Albumin (Albumin, total in blood/serum)](#org26ba858)
-    3.  [ALP (Alkaline phosphatase)](#org705075e)
-    4.  [ALT (Alanine Aminotransferase, SGPT)](#org8b14970)
-    5.  [AST (Aspartate Aminotransferase, SGOT)](#org2a35e2c)
-    6.  [Bilirubin, Direct](#org1bd374e)
-    7.  [Bilirubin, Indirect](#org2bd42fd)
-    8.  [HCT (Hematocrit)](#org28049c8)
-    9.  [Hemoglobin A1c (Glycated Hemoglobin)](#org603d4c2)
-    10. [HGB (Hemoglobin)](#org3729234)
-    11. [HDL (High density lipoprotein cholesterol)](#orge589913)
-    12. [Human Papilloma Virus (HPV) DNA Test, Cervical Specimen](#org99666fa)
-    13. [Human Papilloma Virus (HPV) DNA Test, Specimen Source/Site Unknown](#orgf5ff5a0)
-    14. [INR (International Normalization Ratio)](#orgad1f87c)
-    15. [LDH (Lactate dehydrogenase, total in blood/serum)](#orgc766fa7)
-    16. [LDL, Calculated, Fasting (Low density lipoprotein cholesterol, calculated, patient](#orgac9d0c5)
-    17. [LDL, Calculated, Random (Low density lipoprotein cholesterol, calculated](#orgfb60838)
-    18. [LDL Direct (Low density lipoprotein cholesterol, direct measure, fasting status](#orge067b70)
-    19. [LDL Method not Indicated (Low density lipoprotein cholesterol, not known](#org94bd95e)
-    20. [Magnesium](#org075cbd7)
-    21. [Platelets](#orga71c5ac)
-    22. [Potassium, Serum](#org565644b)
-    23. [PSA, Free (Prostate specific antigen free in blood/serum/plasma)](#org5a564ef)
-    24. [PSA, Percent Free (Prostate specific antigen [Ag], ratio of free to total)](#org277ab3a)
-    25. [PSA, Seminal Fluid (Prostate specific antigen, total in seminal fluid)](#org97fcde7)
-    26. [PSA, Seminal Fluid, Free (Prostate specific antigen in seminal fluid, free)](#org60ee3a5)
-    27. [PSA, Total, Blood/Serum/Plasma (Prostate specific antigen, total)](#orgc07b5a4)
-    28. [PT (Prothrombin time)](#org80dbc91)
-    29. [RBC (Red Blood Cell Count [in blood])](#orga0b7c96)
-    30. [Sodium (Blood or Serum Sodium)](#org71e854e)
-    31. [Thyroxine (T4) Free](#org39b2f2a)
-    32. [Thyroxine (T4) Free Index](#orga8780ed)
-    33. [Thyroxine (T4) Total](#org6b72c61)
-    34. [TOT\_PROT (Protein, total in blood/serum)](#orgf2ab1cd)
-    35. [Triglycerides, Fasting (TG, TRIG, patient was fasting)](#org02b9e6b)
-    36. [Triglycerides, Random (TG, TRIG, not known if patient was fasting, or known that](#orgb7f4ea5)
-    37. [TSH (Thyroid Stimulating Hormone, Thyrotropin)](#org19d2185)
-    38. [TSH Beta Subunit (Thyroid Stimulating Hormone Beta Subunit), Quantitative](#orgdeaabd9)
-    39. [TSH Long Acting (Thyroid Stimulator Long Acting)](#org556a817)
-    40. [TSH Screen (Thyroid Stimulating Hormone, Screen), Blood](#org9177206)
-    41. [TROP\_I\_QN (Troponin I Cardiac Quantitative)](#org631af62)
-    42. [TROP\_T\_QL (Troponin T Cardiac - Qualitative)](#org3f80239)
-    43. [TROP\_T\_QN (Troponin T Cardiac - Quantitative)](#org3e47c23)
-    44. [U\_ACR (Microalbumin [or albumin] to creatinine ratio in urine)](#orgb432e7a)
-    45. [U\_CREAT (Creatinine in Urine)](#orgc96bfe1)
-    46. [U\_CREAT24 (24-Hour Creatinine in Urine)](#org8b37128)
-    47. [U\_MIC\_ALB (Microalbumin [or albumin] in urine)](#orgfa3a5b8)
-    48. [U\_MICALB24 (24-Hour Microalbumin in urine)](#org459e569)
-    49. [U\_PCR (Protein to creatinine ratio in urine)](#org5520968)
-    50. [U\_PROT (Protein in urine; total protein in urine)](#org2487d02)
-    51. [U\_PROT\_24 (24-hour urine protein; total protein in urine)](#org73e5383)
-    52. [U\_PROT\_DIP (Protein in Urine by Dipstick, qualitative)](#org54765f4)
-    53. [Uric Acid](#orgb4aa094)
-    54. [Vitamin B12 (Cobalamin)](#orgd16d4f4)
-    55. [Vitamin D (25-hydroxy-vitamin D)](#org60b171f)
-    56. [WBC (Total White Blood Cell Count [in blood])](#orgc1ae928)
-3.  [Opioid Urine Toxicity](#orgbc0900d)
-    1.  [U\_BUPRENORPHINE\_CNF (Buprenorphine in Urine)](#org737ae5c)
-    2.  [U\_BUPRENORPHINE\_SCR (Buprenorphine in Urine)](#orgec22434)
-    3.  [U\_BUTORPHANOL\_CNF (Butorphanol in Urine)](#orgabb6ccc)
-    4.  [U\_BUTORPHANOL\_SCR (Butorphanol in Urine)](#org614b808)
-    5.  [U\_CODEINE\_CNF (Codeine in Urine)](#org63e9022)
-    6.  [U\_CODEINE\_SCR (Codeine in Urine)](#orgdd0bbbf)
-    7.  [U\_DIPIPANONE\_CNF (Dipipanone in Urine)](#org8ddc49c)
-    8.  [U\_DIPIPANONE\_SCR (Dipipanone in Urine)](#orgdd1728d)
-    9.  [U\_FENTANYL\_CNF (Fentanyl in Urine)](#org9a40fd4)
-    10. [U\_FENTANYL\_SCR (Fentanyl in Urine)](#org846a579)
-    11. [TEST NAME—FOR FUTURE USE](#org57778cc)
-4.  [Hematology and Coagulation](#org789ae34)
-    1.  [TEST NAME—FOR FUTURE USE](#org6f68e69)
-5.  [Cell Markers](#orgca9573d)
-    1.  [TEST NAME—FOR FUTURE USE](#org82fe585)
-6.  [Microbiology](#orgef738e7)
-    1.  [TEST NAME—FOR FUTURE USE](#orgc7d3c56)
-7.  [Influenza](#orga8f167c)
-    1.  [TEST NAME—FOR FUTURE USE](#orgbcd8be9)
-8.  [COVID-19](#org46d6acb)
-    1.  [TEST NAME—FOR FUTURE USE](#org52f8e01)
-9.  [Blank Template](#org4f73b39)
-    1.  [TEST NAME—FOR FUTURE USE](#orgf6f3c66)
+1.  [Chemistry Lab Tests](#org9404bfd)
+    1.  [A\_G\_RATIO (Albumin to globulin ratio)](#org6ad7e84)
+    2.  [Albumin (Albumin, total in blood/serum)](#org500fb10)
+    3.  [ALP (Alkaline phosphatase)](#orgb8026f7)
+    4.  [ALT (Alanine Aminotransferase, SGPT)](#orge8b1d52)
+    5.  [AST (Aspartate Aminotransferase, SGOT)](#org4a0be65)
+    6.  [Bilirubin, Direct](#org6939d86)
+    7.  [Bilirubin, Indirect](#org6ef45fe)
+    8.  [Bilirubin, Total](#orgf5bb425)
+    9.  [BNP (Brain Natriuretic Peptide)](#orga03efd1)
+    10. [BUN (Urea nitrogen in blood/serum)](#orgcdf4193)
+    11. [Calcium (Total Serum Calcium)](#org3385500)
+    12. [CA125 (Cancer Antigen 125), Quantitative in Blood](#org3c8786d)
+    13. [CA125 (Cancer Antigen 125), Qualitative in Blood](#org9f65235)
+    14. [CA125 (Cancer Antigen 125), Titer in Blood](#orga69c1ef)
+    15. [CA125 (Cancer Antigen 125), Quantitative in Body Fluid](#orgb667e98)
+    16. [CA125 (Cancer Antigen 125) Titer in Body Fluid](#orgacf1156)
+    17. [Cholesterol, Total](#org4cd1bac)
+    18. [CK (Creatine Kinase)](#org82afc29)
+    19. [CK BB (Creatine Kinase BB) (Not a TEST\_TYPE but a common reference](#org1ff319f)
+    20. [CK\_CSF (Creatine Kinase CSF Quantitative)](#orge4cd236)
+    21. [CK\_MB (Creatine Kinase MB - analytic method not specified)](#org6bda219)
+    22. [CK\_MB\_EIA (Creatine Kinase MB – Enzyme Immunoassay)](#org1468d86)
+    23. [CK\_MB\_EP (Creatine Kinase MB - Electrophoresis)](#org65e0b38)
+    24. [CK\_MBI\_CLC (Creatine Kinase MB/Creatine Kinase Total Calculated)](#org56fbb57)
+    25. [CK\_MBI\_EIA (Creatine Kinase MB/Creatine Kinase Total Enzyme Immunoassay)](#orgef1c992)
+    26. [CK\_MBI\_EP (Creatine Kinase MB/ Creatine Kinase Total Electrophoresis)](#orgbcf6aab)
+    27. [CK\_MM\_EP (Creatine Kinase MM Electrophoresis)](#orgc7a297b)
+    28. [Creatinine, Blood/Serum/Plasma](#orgf358b39)
+    29. [CRP (C-reactive protein serum/plasma concentration)](#org3b9c4ca)
+    30. [CRPHS (High-sensitivity C-reactive protein in serum/plasma)](#org2670440)
+    31. [D-Dimer](#orgdccfe3b)
+    32. [FOBT (Fecal Occult Blood Test)](#org46bcb42)
+    33. [FOB1 (Fecal Occult Blood Test One Specimen)](#org5064311)
+    34. [Fecal Occult Blood Test, Quantitative](#org3c24272)
+    35. [Fecal Immunologic (Immunochemical) Test](#org5f96263)
+    36. [Ferritin](#orge527367)
+    37. [Folate](#org90f6832)
+    38. [HCT (Hematocrit)](#org65e8e2b)
+    39. [Hemoglobin A1c (Glycated Hemoglobin)](#org563230d)
+    40. [HGB (Hemoglobin)](#org1ab19da)
+    41. [HDL (High density lipoprotein cholesterol)](#org3bf7405)
+    42. [Human Papilloma Virus (HPV) DNA Test, Cervical Specimen](#org8d18783)
+    43. [Human Papilloma Virus (HPV) DNA Test, Specimen Source/Site Unknown](#orgca7ab0e)
+    44. [INR (International Normalization Ratio)](#orgc51eb15)
+    45. [LDH (Lactate dehydrogenase, total in blood/serum)](#orgf67c1b0)
+    46. [LDL, Calculated, Fasting (Low density lipoprotein cholesterol, calculated, patient was fasting)](#orgfbfbf9b)
+    47. [LDL, Calculated, Random (Low density lipoprotein cholesterol, calculated](#orge4bc613)
+    48. [LDL Direct (Low density lipoprotein cholesterol, direct measure, fasting status](#orgfb49f5d)
+    49. [LDL Method not Indicated (Low density lipoprotein cholesterol, not known](#org2be26b1)
+    50. [Magnesium](#orgb277e26)
+    51. [Platelets](#org0ca3078)
+    52. [Potassium, Serum](#org7ac4a86)
+    53. [PSA, Free (Prostate specific antigen free in blood/serum/plasma)](#orgd6ac777)
+    54. [PSA, Percent Free (Prostate specific antigen [Ag], ratio of free to total)](#orgba6cdd3)
+    55. [PSA, Seminal Fluid (Prostate specific antigen, total in seminal fluid)](#orga152a23)
+    56. [PSA, Seminal Fluid, Free (Prostate specific antigen in seminal fluid, free)](#orgd6b8f2d)
+    57. [PSA, Total, Blood/Serum/Plasma (Prostate specific antigen, total)](#org0b7fefa)
+    58. [PT (Prothrombin time)](#org16c332c)
+    59. [RBC (Red Blood Cell Count [in blood])](#org677cd8a)
+    60. [Sodium (Blood or Serum Sodium)](#orgaa04487)
+    61. [Thyroxine (T4) Free](#org3ebddcb)
+    62. [Thyroxine (T4) Free Index](#orgba16ca9)
+    63. [Thyroxine (T4) Total](#orgf878752)
+    64. [TOT\_PROT (Protein, total in blood/serum)](#org6f044ea)
+    65. [Triglycerides, Fasting (TG, TRIG, patient was fasting)](#org4074b24)
+    66. [Triglycerides, Random (TG, TRIG, not known if patient was fasting, or known that](#org3b717bf)
+    67. [TSH (Thyroid Stimulating Hormone, Thyrotropin)](#org3572be0)
+    68. [TSH Beta Subunit (Thyroid Stimulating Hormone Beta Subunit), Quantitative](#org3291768)
+    69. [TSH Long Acting (Thyroid Stimulator Long Acting)](#org9a6590e)
+    70. [TSH Screen (Thyroid Stimulating Hormone, Screen), Blood](#orgc9c8a30)
+    71. [TROP\_I\_QN (Troponin I Cardiac Quantitative)](#org1238469)
+    72. [TROP\_T\_QL (Troponin T Cardiac - Qualitative)](#org31f8f75)
+    73. [TROP\_T\_QN (Troponin T Cardiac - Quantitative)](#orgee5daad)
+    74. [U\_ACR (Microalbumin [or albumin] to creatinine ratio in urine)](#org0896784)
+    75. [U\_CREAT (Creatinine in Urine)](#orgc6a44be)
+    76. [U\_CREAT24 (24-Hour Creatinine in Urine)](#org19d913b)
+    77. [U\_MIC\_ALB (Microalbumin [or albumin] in urine)](#orgc128724)
+    78. [U\_MICALB24 (24-Hour Microalbumin in urine)](#org8831943)
+    79. [U\_PCR (Protein to creatinine ratio in urine)](#org14b73d2)
+    80. [U\_PROT (Protein in urine; total protein in urine)](#orga03e445)
+    81. [U\_PROT\_24 (24-hour urine protein; total protein in urine)](#org964d429)
+    82. [U\_PROT\_DIP (Protein in Urine by Dipstick, qualitative)](#orgc21ef30)
+    83. [Uric Acid](#orgd823fa3)
+    84. [Vitamin B12 (Cobalamin)](#orge78a4af)
+    85. [Vitamin D (25-hydroxy-vitamin D)](#org37f11db)
+    86. [WBC (Total White Blood Cell Count [in blood])](#orgba8cbc7)
+2.  [Opioid Urine Toxicity](#orgbd65c5f)
+    1.  [U\_BUPRENORPHINE\_CNF (Buprenorphine in Urine)](#org99eca64)
+    2.  [U\_BUPRENORPHINE\_SCR (Buprenorphine in Urine)](#orgcdb182d)
+    3.  [U\_BUTORPHANOL\_CNF (Butorphanol in Urine)](#orga34953b)
+    4.  [U\_BUTORPHANOL\_SCR (Butorphanol in Urine)](#org89fd1ab)
+    5.  [U\_CODEINE\_CNF (Codeine in Urine)](#orgaa5a951)
+    6.  [U\_CODEINE\_SCR (Codeine in Urine)](#org6579545)
+    7.  [U\_DIPIPANONE\_CNF (Dipipanone in Urine)](#org2877051)
+    8.  [U\_DIPIPANONE\_SCR (Dipipanone in Urine)](#orgb932d46)
+    9.  [U\_FENTANYL\_CNF (Fentanyl in Urine)](#orgfe770fc)
+    10. [U\_FENTANYL\_SCR (Fentanyl in Urine)](#org71f9fce)
+    11. [TEST NAME—FOR FUTURE USE](#org53dd6e5)
+3.  [Hematology and Coagulation](#org6243612)
+    1.  [TEST NAME—FOR FUTURE USE](#orgd3712ef)
+4.  [Cell Markers](#org4293c14)
+    1.  [TEST NAME—FOR FUTURE USE](#org59d8c2d)
+5.  [Microbiology](#org6b21ca7)
+    1.  [TEST NAME—FOR FUTURE USE](#org266abd7)
+6.  [Influenza](#org575ec0c)
+    1.  [TEST NAME—FOR FUTURE USE](#orga6a36fe)
+7.  [COVID-19](#org1f6befb)
+    1.  [TEST NAME—FOR FUTURE USE](#org478e980)
+8.  [Blank Template](#orgfe882e9)
+    1.  [TEST NAME—FOR FUTURE USE](#org2ccd62c)
 
-Version 1.6, December 2011
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
+**Version 2, April 2025**
+
+This reference document is not inclusive of all lab tests that have been deemed priority tests to
 incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
+content is expanded in the VDW. 
 
 
-<a id="orgb95b445"></a>
-
-# Table of Contents
-
-A\_G\_RATIO (Albumin to globulin ratio) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..5
-Albumin (Albumin, total in blood/serum) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;6
-ALT (Alanine Aminotransferase, SGPT) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..8
-AST (Aspartate Aminotransferase, SGOT) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.9
-Bilirubin, Direct &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.10
-Bilirubin, Indirect &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.12
-Bilirubin, Total&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;14
-BNP (Brain Natriuretic Peptide)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..16
-BUN (Urea nitrogen in blood/serum)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;17
-Calcium (Total Serum Calcium)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..18
-CA125 (Cancer Antigen 125), Quantitative in Blood&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..19
-CA125 (Cancer Antigen 125), Qualitative in Blood &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.20
-CA125 (Cancer Antigen 125), Titer in Blood&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;21
-CA125 (Cancer Antigen 125), Quantitative in Body Fluid &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..22
-CA125 (Cancer Antigen 125) Titer in Body Fluid &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.23
-Cholesterol, Total&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.24
-CK (Creatine Kinase) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.25
-CK BB (Creatine Kinase BB)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.26
-CK\_CSF (Creatine Kinase CSF Quantitative) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.27
-CK\_MB (Creatine Kinase MB - analytic method not specified) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..28
-CK\_MB\_EIA (Creatine Kinase MB – Enzyme Immunoassay) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..29
-CK\_MB\_EP (Creatine Kinase MB - Electrophoresis)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.30
-CK\_MBI\_CLC (Creatine Kinase MB/Creatine Kinase Total Calculated)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.31
-CK\_MBI\_EIA (Creatine Kinase MB/Creatine Kinase Total Enzyme Immunoassay)&#x2026;&#x2026;&#x2026;&#x2026;32
-CK\_MBI\_EP (Creatine Kinase MB/ Creatine Kinase Total Electrophoresis) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..33
-CK\_MM\_EP (Creatine Kinase MM Electrophoresis) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..34
-Creatinine, Blood/Serum/Plasma &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..35
-CRP (C-reactive protein serum/plasma concentration) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..36
-CRPHS (High-sensitivity C-reactive protein in serum/plasma) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..37
-D-Dimer &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..38
-FOBT; Fecal Occult Blood Test &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..40
-FOB1; Fecal Occult Blood Test One Specimen &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;42
-Fecal Occult Blood Test, Quantitative &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;44
-Fecal Immunologic (Immunochemical) Test &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..45
-Ferritin&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.46
-Folate &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..47
-GGT (GGTP, Gamma-glutamyl transpeptidase [or transferase] in blood/serum)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;48
-GFR (Glomerular Filtration Rate), MDRD&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..49
-GFR (Glomerular Filtration Rate), MDRD, African American &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;51
-GFR (Glomerular Filtration Rate), MDRD, Non-African American&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.53
-GFR (Glomerular Filtration Rate), Schwartz&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;55
-Glucose, Fasting Serum/Plasma (patient was fasting)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.56
-Glucose, Random (not known if patient was fasting or known that patient was not
-fasting) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;57
-Glucose Tolerance Tests Oral Glucose Tolerance Tests&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;58
-HCT (Hematocrit) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.61
-Hemoglobin A1c (Glycated Hemoglobin) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.62
-HGB (Hemoglobin)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..63
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-3
-HDL (High density lipoprotein cholesterol)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.64
-Human Papilloma Virus (HPV) DNA Test, Cervical Specimen&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.65
-Human Papilloma Virus (HPV) DNA Test, Specimen Source/Site Unknown&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..66
-INR (International Normalization Ratio) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.67
-LDH (Lactate dehydrogenase, total in blood/serum)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.68
-LDL, Calculated, Fasting (Low density lipoprotein cholesterol, calculated, patient was
-fasting) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;69
-LDL, Calculated, Random (Low density lipoprotein cholesterol, calculated measure, not
-known if patient was fasting)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;70
-LDL Direct (Low density lipoprotein cholesterol, direct measure, fasting status not a
-consideration) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;71
-LDL Method not Indicated (Low density lipoprotein cholesterol, not known whether
-calculated or direct, fasting status not considered)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..72
-Magnesium &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..73
-Platelets &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.74
-Potassium, Serum&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;75
-PSA, Free (Prostate specific antigen free in blood/serum/plasma) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.76
-PSA, Percent Free (Prostate specific antigen [Ag], ratio of free to total)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.77
-PSA, Seminal Fluid (Prostate specific antigen, total in seminal fluid)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;78
-PSA, Seminal Fluid, Free (Prostate specific antigen in seminal fluid, free) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;79
-PSA, Total, Blood/Serum/Plasma (Prostate specific antigen, total)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.80
-PT (Prothrombin time) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..81
-RBC (Red Blood Cell Count [in blood])&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..82
-Sodium (Blood or Serum Sodium) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;83
-Thyroxine (T4) Free&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.84
-Thyroxine (T4) Free Index &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..85
-Thyroxine (T4) Total&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;86
-TOT\_PROT (Protein, total in blood/serum)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..87
-Triglycerides, Fasting (TG, TRIG, patient was fasting)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.88
-Triglycerides, Random (TG, TRIG, not known if patient was fasting, or known that patient
-was not fasting)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.89
-TSH (Thyroid Stimulating Hormone, Thyrotropin)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..90
-TSH Beta Subunit (Thyroid Stimulating Hormone Beta Subunit), Quantitative&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;92
-TSH Long Acting (Thyroid Stimulator Long Acting)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..94
-TSH Screen (Thyroid Stimulating Hormone, Screen), Blood&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;95
-TROP\_I\_QN (Troponin I Cardiac Quantitative)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..97
-TROP\_T\_QL (Troponin T Cardiac - Qualitative)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;98
-TROP\_T\_QN (Troponin T Cardiac - Quantitative) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;99
-U\_ACR (Microalbumin [or albumin] to creatinine ratio in urine) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.100
-U\_CREAT (Creatinine in Urine)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.101
-U\_CREAT24 (24-Hour Creatinine in Urine) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;102
-U\_MIC\_ALB (Microalbumin [or albumin] in urine)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;103
-U\_MICALB24 (24-Hour Microalbumin in urine) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..104
-U\_PCR (Protein to creatinine ratio in urine)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.105
-U\_PROT (Protein in urine; total protein in urine)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..106
-U\_PROT\_24 (24-hour urine protein; total protein in urine)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.107
-U\_PROT\_DIP (Protein in Urine by Dipstick, qualitative) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..108
-Uric Acid &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.109
-Vitamin B12 (Cobalamin)&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..110
-Vitamin D (25-hydroxy-vitamin D) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;..111
-
-
-<a id="orge5627a7"></a>
+<a id="org9404bfd"></a>
 
 # Chemistry Lab Tests
 
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-4
-WBC (Total White Blood Cell Count [in blood]) &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;.112
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-5
 
-
-<a id="orgf5c6fb3"></a>
+<a id="org6ad7e84"></a>
 
 ## A\_G\_RATIO (Albumin to globulin ratio)
 
-Common Name: Albumin/globulin (A/G) ratio
-Long Name: Albumin to globulin ratio; A/G ratio in blood/serum
-Test Type: A\_G\_RATIO
-Panels: N/A
-Equivalent Tests: N/A
-Not Equivalent Tests: N/A
-Indications: To screen for some liver and kidney disorders as well as other diseases; to
+-   Common Name: Albumin/globulin (A/G) ratio
+-   Long Name: Albumin to globulin ratio; A/G ratio in blood/serum
+-   Test Type: A\_G\_RATIO
+-   Panels: N/A
+-   Equivalent Tests: N/A
+-   Not Equivalent Tests: N/A
+-   Indications:
+
+To screen for some liver and kidney disorders as well as other diseases; to
 investigate the cause of abnormal pooling of fluid in tissue (edema).
-Description: Proteins form the structural part of most organs and make up enzymes and
+
+-   Description: Proteins form the structural part of most organs and make up enzymes and
+
 hormones that regulate body functions. There are two classes of proteins found in the blood,
 albumin and globulin. Albumin is a carrier of many small molecules, but its main purpose is to
 keep fluid from leaking out of blood vessels through osmotic pressure. Globulin proteins include
@@ -249,19 +157,15 @@ circulation as occurs with kidney disease (nephrotic syndrome). A high A/G ratio
 underproduction of immunoglobulins as may be seen in some genetic deficiencies and in some
 leukemias. More specific tests, such as albumin, liver enzyme tests, and serum protein
 electrophoresis must be performed to make an accurate diagnosis.
-Related Tests: Albumin; Liver panel; Protein electrophoresis
-Approximate Reference Range: Ratio of 1.7 - 2.2 to 1
-Comments:
-Test Method Variance:
-Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
+
+-   Related Tests: Albumin; Liver panel; Protein electrophoresis
+-   Approximate Reference Range: Ratio of 1.7 - 2.2 to 1
+-   Comments:
+-   Test Method Variance:
+-   Other:
 
 
-<a id="org26ba858"></a>
+<a id="org500fb10"></a>
 
 ## Albumin (Albumin, total in blood/serum)
 
@@ -294,11 +198,11 @@ Other:
 Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
 incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
 content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
+
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org705075e"></a>
+<a id="orgb8026f7"></a>
 
 ## ALP (Alkaline phosphatase)
 
@@ -335,11 +239,9 @@ Other:
 Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
 incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
 content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org8b14970"></a>
+<a id="orge8b1d52"></a>
 
 ## ALT (Alanine Aminotransferase, SGPT)
 
@@ -368,11 +270,9 @@ Other:
 Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
 incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
 content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org2a35e2c"></a>
+<a id="org4a0be65"></a>
 
 ## AST (Aspartate Aminotransferase, SGOT)
 
@@ -400,11 +300,9 @@ Other:
 Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
 incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
 content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org1bd374e"></a>
+<a id="org6939d86"></a>
 
 ## Bilirubin, Direct
 
@@ -446,19 +344,12 @@ tissues. This situation usually resolves itself within a few days. In other inst
 Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
 incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
 content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 blood cells may be being destroyed because of blood incompatibilities between the baby and
 her mother, called hemolytic disease of the newborn.
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org2bd42fd"></a>
+<a id="org6ef45fe"></a>
 
 ## Bilirubin, Indirect
 
@@ -497,21 +388,15 @@ high bilirubin level. After birth, newborns begin breaking down the excess red b
 (RBCs) they are born with and, since the newborn’s liver is not fully mature, it is unable to
 process the extra bilirubin, causing the infant's bilirubin levels to rise in the blood and other body
 tissues. This situation usually resolves itself within a few days. In other instances, newborns’ red
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-13
+
 blood cells may be being destroyed because of blood incompatibilities between the baby and
 her mother, called hemolytic disease of the newborn.
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-14
-Bilirubin, Total
+
+
+<a id="orgf5bb425"></a>
+
+## Bilirubin, Total
+
 Common Name: Total Bilirubin
 Long Name: Bilirubin, total in blood/serum
 Test Type: BILI\_TOT
@@ -547,12 +432,6 @@ Total bilirubin levels in newborns less than 7 days old
 Age Premature baby Full-term baby
 Less than 24 hours < 8.0 mg/dL (< 137 mmol/L) < 6.0 mg/dL (< 103 mmol/L)
 Less than 48 hours < 12.0 mg/dL (< 205 mmol/L) < 10.0 mg/dL (< 170 mmol/L)
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-15
 3 to 5 days < 15.0 mg/dL (< 256 mmol/L) < 12.0 mg/dL (< 205 mmol/L)
 7 days or older < 15.0 mg/dL ( < 256 mmol/L) < 10.0 mg/dL (< 170 mmol/L)
 Comments: Bilirubin levels tend to be slightly higher in males than females, while African
@@ -567,13 +446,12 @@ process the extra bilirubin, causing the infant's bilirubin levels to rise in th
 tissues. This situation usually resolves itself within a few days. In other instances, newborns’ red
 blood cells may be being destroyed because of blood incompatibilities between the baby and
 her mother, called hemolytic disease of the newborn.
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-16
-BNP (Brain Natriuretic Peptide)
+
+
+<a id="orga03efd1"></a>
+
+## BNP (Brain Natriuretic Peptide)
+
 Common Name: BNP
 Long Name: Natriuretic Peptide B or B-type; Brain Natriuretic Peptide
 Test Type: BNP
@@ -600,13 +478,12 @@ heart failure. Levels of BNP tend to increase with age and are increased in pers
 disease.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-17
-BUN (Urea nitrogen in blood/serum)
+
+
+<a id="orgcdf4193"></a>
+
+## BUN (Urea nitrogen in blood/serum)
+
 Common Name: BUN
 Long Name: Urea nitrogen in blood/serum
 Test Type: BUN
@@ -638,13 +515,12 @@ kidney is fully functional, BUN concentrations may be normal even when significa
 is present in the other kidney.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-18
-Calcium (Total Serum Calcium)
+
+
+<a id="org3385500"></a>
+
+## Calcium (Total Serum Calcium)
+
 Common Name: Total serum calcium; Ca++
 Long Name: Calcium, total in serum/blood
 Test Type: CALCIUM
@@ -663,13 +539,12 @@ since calcium in the blood is attached to albumin; ionized calcium is not attach
 Certain antacids and calcium supplements may affect levels.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-19
-CA125 (Cancer Antigen 125), Quantitative in Blood
+
+
+<a id="org3c8786d"></a>
+
+## CA125 (Cancer Antigen 125), Quantitative in Blood
+
 Common Name: CA125
 Long Name: Cancer Antigen 125
 Test Type: CA125
@@ -701,13 +576,12 @@ In this case, the ovarian cancer may not be producing CA-125 so it is not a good
 disease progression.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-20
-CA125 (Cancer Antigen 125), Qualitative in Blood
+
+
+<a id="org9f65235"></a>
+
+## CA125 (Cancer Antigen 125), Qualitative in Blood
+
 Common Name: CA125
 Long Name: CA 125 Qualitative
 Test Type: CA125\_QL
@@ -739,13 +613,12 @@ In this case, the ovarian cancer may not be producing CA-125 so it is not a good
 disease progression.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-21
-CA125 (Cancer Antigen 125), Titer in Blood
+
+
+<a id="orga69c1ef"></a>
+
+## CA125 (Cancer Antigen 125), Titer in Blood
+
 Common Name: CA125 titer
 Long Name: CA 125 titer
 Test Type: CA125\_T
@@ -776,33 +649,24 @@ In this case, the ovarian cancer may not be producing CA-125 so it is not a good
 disease progression.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-22
-CA125 (Cancer Antigen 125), Quantitative in Body Fluid
+
+
+<a id="orgb667e98"></a>
+
+## CA125 (Cancer Antigen 125), Quantitative in Body Fluid
+
 Common Name: CA125 in body fluid
 Long Name: CA 125 Body Fluid
 Test Type: CA125\_BF
 Panels:
 Equivalent Tests:
 Not Equivalent Tests:
-Indications: A doctor may order a CA-125 test before a woman starts ovarian cancer
-treatment as a baseline to compare against future measurements. During therapy, physicians
-order CA-125 testing at intervals to monitor response to therapy. CA-125 may also be measured
-periodically after therapy is completed. An increase in CA-125 may indicate that the cancer has
-returned.
-Description: CA-125 is primarily used to monitor therapy during treatment for ovarian cancer.
-CA-125 is also used to detect whether cancer has come back after treatment is complete.
-Series of CA-125 tests that show rising or falling concentrations are often more useful than a
-single result. This test is sometimes used to test and monitor high-risk women who have a
-family history of ovarian cancer but who do not yet have the disease. This test is not used to
-screen for ovarian cancer because it is non-specific. Levels in the blood can be elevated in
-other conditions such as normal menstruation, pregnancy, endometriosis, and pelvic
-inflammatory disease.
-Related Tests: Tumor markers, BRCA-1, BRCA-2
+Indications:
+A doctor may order a CA-125 test before a woman starts ovarian cancer treatment as a baseline to compare against future measurements. During therapy, physicians order CA-125 testing at intervals to monitor response to therapy. CA-125 may also be measured periodically after therapy is completed. An increase in CA-125 may indicate that the cancer has returned.
+Description:
+CA-125 is primarily used to monitor therapy during treatment for ovarian cancer. CA-125 is also used to detect whether cancer has come back after treatment is complete.  Series of CA-125 tests that show rising or falling concentrations are often more useful than a single result. This test is sometimes used to test and monitor high-risk women who have a family history of ovarian cancer but who do not yet have the disease. This test is not used to screen for ovarian cancer because it is non-specific. Levels in the blood can be elevated in other conditions such as normal menstruation, pregnancy, endometriosis, and pelvic inflammatory disease.
+Related Tests:
+Tumor markers, BRCA-1, BRCA-2
 Approximate Reference Range (Each site will have slight variations):
 Comments: If CA-125 levels fall during therapy, this generally indicates that the cancer is
 responding to treatment. If CA-125 levels rise or stay the same, then the cancer may not be
@@ -813,13 +677,12 @@ In this case, the ovarian cancer may not be producing CA-125 so it is not a good
 disease progression.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-23
-CA125 (Cancer Antigen 125) Titer in Body Fluid
+
+
+<a id="orgacf1156"></a>
+
+## CA125 (Cancer Antigen 125) Titer in Body Fluid
+
 Common Name: CA125 titer in body fluid
 Long Name: CA 125 Titer, Body Fluid
 Test Type: CA125\_BF\_T
@@ -850,13 +713,12 @@ In this case, the ovarian cancer may not be producing CA-125 so it is not a good
 disease progression.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-24
-Cholesterol, Total
+
+
+<a id="org4cd1bac"></a>
+
+## Cholesterol, Total
+
 Common Name: Cholesterol, Total
 Long Name: Cholesterol Total
 Test Type: TOT\_CHOLES
@@ -881,13 +743,12 @@ Approximate Reference Range (Each site will have slight variations):
 Comments:
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-25
-CK (Creatine Kinase)
+
+
+<a id="org82afc29"></a>
+
+## CK (Creatine Kinase)
+
 Common Name: CK
 Long Name: Creatine Kinase or CPK - total concentration in blood of all CK subtypes
 Test Type: CK
@@ -919,13 +780,12 @@ CK. Drinking excessive amounts of alcohol also may increase CK. Early pregnancy 
 decrease CK levels.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-26
-CK BB (Creatine Kinase BB) (Not a TEST\_TYPE but a common reference
+
+
+<a id="org1ff319f"></a>
+
+## CK BB (Creatine Kinase BB) (Not a TEST\_TYPE but a common reference
+
 document for all CK BB TEST\_TYPES)
 NOTE: This single reference document contains information pertinent to the
 individual TEST\_TYPES CK\_BB\_EP, and the indexes CK\_BBI, or CK\_BBI\_EP.
@@ -949,13 +809,12 @@ Approximate Reference Range:
 Comments: < 1% of total CK
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-27
-CK\_CSF (Creatine Kinase CSF Quantitative)
+
+
+<a id="orge4cd236"></a>
+
+## CK\_CSF (Creatine Kinase CSF Quantitative)
+
 Common Name: CSF CK
 Long Name: Creatine Kinase in Cerebral Spinal Fluid
 Test Type: CK\_CSF
@@ -972,13 +831,12 @@ Approximate Reference Range:
 Comments: Creatine kinase is not normally present in cerebrospinal fluid (CSF).
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-28
-CK\_MB (Creatine Kinase MB - analytic method not specified)
+
+
+<a id="org6bda219"></a>
+
+## CK\_MB (Creatine Kinase MB - analytic method not specified)
+
 Common Name: CK\_MB (also known as CPK MB)
 Long Name: Creatine Kinase-MB
 Test Type: CK\_MB
@@ -1011,13 +869,12 @@ Test Method Variance: Can be measured by test methods such as enzyme immunoassay
 column chromatography, or electrophoresis. If the test method is specified, that TEST\_TYPE
 should be used rather than CK\_MB.
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-29
-CK\_MB\_EIA (Creatine Kinase MB – Enzyme Immunoassay)
+
+
+<a id="org1468d86"></a>
+
+## CK\_MB\_EIA (Creatine Kinase MB – Enzyme Immunoassay)
+
 Common Name: CK\_MB by immunoassay (also known as CPK MB)
 Long Name: Creatine Kinase MB – Enzyme Immunoassay
 Test Type: CK\_MB\_EIA
@@ -1049,13 +906,12 @@ electrophoresis, column chromatography, or immunoassay. Immunoassay methods for
 isoenzymes can be accomplished rapidly, are highly sensitive and specific, and do not show the
 interferences common to traditional electrophoresis.
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-30
-CK\_MB\_EP (Creatine Kinase MB - Electrophoresis)
+
+
+<a id="org65e0b38"></a>
+
+## CK\_MB\_EP (Creatine Kinase MB - Electrophoresis)
+
 Common Name: CK\_MB by electrophoresis (also known as CPK MB)
 Long Name: Creatine Kinase MB - Electrophoresis
 Test Type: CK\_MB\_EP
@@ -1088,13 +944,12 @@ mobile, CK\_MB is intermediate, and CK\_MM is neutral. Although electrophoresis 
 less sensitive than column chromatography or immunoassay, there has been extensive
 experience and it is adequate for routine clinical use.
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-31
-CK\_MBI\_CLC (Creatine Kinase MB/Creatine Kinase Total Calculated)
+
+
+<a id="org56fbb57"></a>
+
+## CK\_MBI\_CLC (Creatine Kinase MB/Creatine Kinase Total Calculated)
+
 Common Name: CK\_MB / CK (calculated ratio)
 Long Name: Creatine Kinase MB/Creatine Kinase Total Calculated
 Test Type: CK\_MBI\_CLC
@@ -1122,13 +977,12 @@ elevations of CK\_MB arising from skeletal muscle. No definitive diagnosis can b
 established without serial determinations to detect a rise.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-32
-CK\_MBI\_EIA (Creatine Kinase MB/Creatine Kinase Total Enzyme Immunoassay)
+
+
+<a id="orgef1c992"></a>
+
+## CK\_MBI\_EIA (Creatine Kinase MB/Creatine Kinase Total Enzyme Immunoassay)
+
 Common Name: CK\_MB/CK (ratio determined by enzyme immunoassay)
 Long Name: Creatine Kinase MB/Creatine Kinase Total Enzyme Immunoassay
 Test Type: CK\_MBI\_EIA
@@ -1157,13 +1011,12 @@ elevations of CK\_MB arising from skeletal muscle. No definitive diagnosis can b
 established without serial determinations to detect a rise.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-33
-CK\_MBI\_EP (Creatine Kinase MB/ Creatine Kinase Total Electrophoresis)
+
+
+<a id="orgbcf6aab"></a>
+
+## CK\_MBI\_EP (Creatine Kinase MB/ Creatine Kinase Total Electrophoresis)
+
 Common Name: CK\_MB/CK (ratio determined by electrophoresis)
 Long Name: Creatine Kinase MB/ Creatine Kinase Total Electrophoresis
 Test Type: CK\_MBI\_EP
@@ -1190,13 +1043,12 @@ elevations of CK\_MB arising from skeletal muscle. No definitive diagnosis can b
 established without serial determinations to detect a rise.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-34
-CK\_MM\_EP (Creatine Kinase MM Electrophoresis)
+
+
+<a id="orgc7a297b"></a>
+
+## CK\_MM\_EP (Creatine Kinase MM Electrophoresis)
+
 Common Name: CK\_MM (also known as CPK-MM)
 Long Name: Creatine Kinase MM Electrophoresis
 Test Type: CK\_MM\_EP
@@ -1220,13 +1072,12 @@ exercise sessions) can also increase CK-MM. Other forms of muscle damage, such a
 fall, a car accident, surgery, or a shot (injection), can also increase CK\_MM.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-35
-Creatinine, Blood/Serum/Plasma
+
+
+<a id="orgf358b39"></a>
+
+## Creatinine, Blood/Serum/Plasma
+
 Common Name: Serum creatinine
 Long Name: Blood/Serum/Plasma Creatinine
 Test Type: CREATININE
@@ -1249,13 +1100,12 @@ Comments: Some cephalosporins will react with Jaffre reagent causing falsely ele
 creatinine
 Test Method Variance: Not common
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-36
-CRP (C-reactive protein serum/plasma concentration)
+
+
+<a id="org3b9c4ca"></a>
+
+## CRP (C-reactive protein serum/plasma concentration)
+
 Common Name: CRP
 Long Name: C-Reactive Protein
 Test Type: CRP
@@ -1289,13 +1139,12 @@ be elevated in the later stages of pregnancy as well as with use of birth contro
 replacement therapy. Higher levels of CRP have also been observed in obese individuals.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-37
-CRPHS (High-sensitivity C-reactive protein in serum/plasma)
+
+
+<a id="org2670440"></a>
+
+## CRPHS (High-sensitivity C-reactive protein in serum/plasma)
+
 Common Name: hsCRP
 Long Name: High-sensitivity C-Reactive Protein
 Test Type: CRPHS
@@ -1327,13 +1176,12 @@ be elevated in the later stages of pregnancy as well as with use of birth contro
 replacement therapy. Higher levels of CRP have also been observed in the obese.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-38
-D-Dimer
+
+
+<a id="orgdccfe3b"></a>
+
+## D-Dimer
+
 Common Name: Fragment D-dimer; fibrin degradation fragment
 Long Name: D-dimer fibrin derivatives;
 Test Type: D-dimer
@@ -1373,13 +1221,10 @@ are only reported as the magnitude (whether FEU or DDU type is not reported). In
 ranges and abnormal flags can assist in guiding the interpretation, but it is not always possible
 to assign magnitude. Do not make assumptions if you cannot determine the magnitude of the
 results.
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-39
-Comments: A normal or negative D-dimer result means that it is most likely that the person
+
+-   Comments:
+
+A normal or negative D-dimer result means that it is most likely that the person
 tested does not have an acute condition or disease that is causing abnormal clot formation and
 breakdown. The test is used to help rule out clotting as the cause of symptoms. A positive Ddimer
 result may indicate the presence of an abnormally high level of fibrin degradation
@@ -1391,14 +1236,13 @@ not used as the only test to diagnose a condition.
 Test Method Variance: There are several different methods of testing for D-dimer. Most of the
 D-dimer tests that yield quantitative results are done in a hospital lab, while those that yield
 qualitative or semi-quantitative results are performed at the patient's bedside (point of care).
-Other: &#x2013;
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-40
-FOBT; Fecal Occult Blood Test
+Other:
+
+
+<a id="org46bcb42"></a>
+
+## FOBT (Fecal Occult Blood Test)
+
 Common Name: FOBT; fecal occult blood test
 Long Name: FOBT qualitative; fecal occult blood; occult blood in stool; guaiac
 Test Type: FOB\_GUAI (NOTE: This is likely to be the FOBT TEST\_TYPE where the majority of
@@ -1438,12 +1282,6 @@ paper and noting the color change (any trace of blue on any smear is a positive 
 qualitative in that the result is negative, positive or not interpetable.
 At some sites, the results may be reported individually for each of the boxes (i.e., specimens). If
 all specimens are reported as negative the test result is negative. If even one specimen is
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-41
 reported as positive the test result is positive. Any color change for any of the specimens
 constitutes a positive test. The following LOINC codes correspond to the individual specimens
 when results are reported individually for each box:
@@ -1460,13 +1298,12 @@ Comments: High does of vitamin C (or other strong anti-oxidant) may inhibit the 
 and cause a false negative. Consumption of meat has been shown to cause false positives for
 guaiac testing by providing a source of hemoglobin other than blood.
 Test Method Variance:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-42
-FOB1; Fecal Occult Blood Test One Specimen
+
+
+<a id="org5064311"></a>
+
+## FOB1 (Fecal Occult Blood Test One Specimen)
+
 Common Name: FOBT; fecal occult blood test, first specimen
 Long Name: FOBT qualitative; fecal occult blood; occult blood in stool; guaiac, single specimen
 Test Type: FOB1\_GUAI (NOTE: This TEST\_TYPE is intended to be used ONLY when the
@@ -1503,23 +1340,16 @@ smears is considered a positive test. The test is qualitative in that the result
 or not interpetable.
 Related Tests: See the following TEST\_TYPES: FOB\_GUAI, FOB\_QN, and FOB\_IMMUN
 Approximate Reference Range: N/A
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-43
 Comments: High does of vitamin C (or other strong anti-oxidant) may inhibit the color reaction
 and cause a false negative. Consumption of meat has been shown to cause false positives for
 guaiac testing by providing a source of hemoglobin other than blood.
 Test Method Variance:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-44
-Fecal Occult Blood Test, Quantitative
+
+
+<a id="org3c24272"></a>
+
+## Fecal Occult Blood Test, Quantitative
+
 Common Name: Quantitative FOBT test
 Long Name: FOBT quantitative; fecal occult blood; occult blood in stool; guaiac
 Test Type: FOB\_QN (NOTE: We are not aware that any site is using a quantitative FOBT test
@@ -1548,13 +1378,12 @@ Related Tests: See the following TEST\_TYPES: FOB\_GUAI, FOB1\_GUAI, and FOB\_IM
 Approximate Reference Range:
 Comments:
 Test Method Variance:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-45
-Fecal Immunologic (Immunochemical) Test
+
+
+<a id="org5f96263"></a>
+
+## Fecal Immunologic (Immunochemical) Test
+
 Common Name: FIT (fecal immunochemical test0, iFOBT
 Long Name: FOBT qualitative; quick test; HFH test; occult blood in stool; immunologic
 Test Type: FOB\_IMMUN
@@ -1590,13 +1419,12 @@ Comments: Remember that this is a stool test; the material being tested is human
 conducting string searches of databases to locate iFOBT tests, it may be useful to use terms
 such as “fecal”, “stool” and “occult”, and to ascertain that stool is the medium being tested.
 Test Method Variance:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-46
-Ferritin
+
+
+<a id="orge527367"></a>
+
+## Ferritin
+
 Common Name: Ferritin
 Long Name: Ferritin in blood, serum, or plasma
 Test Type: FERRITIN
@@ -1619,13 +1447,12 @@ hematocrit are low and their red blood cells are smaller and paler than normal (
 iron deficiency anemia).
 Test Method Variance: Results can also be reported as ng/mL
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-47
-Folate
+
+
+<a id="org90f6832"></a>
+
+## Folate
+
 Common Name Folate
 Long Name: Folate
 Test Type: FOLATE
@@ -2099,7 +1926,7 @@ content is expanded in the VDW. View the most current version of this document o
 lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org28049c8"></a>
+<a id="org65e8e2b"></a>
 
 ## HCT (Hematocrit)
 
@@ -2134,14 +1961,9 @@ decreased oxygen available at high altitude).
 See also the comments for the related test hemoglobin.
 Test Method Variance: &#x2013;
 Other: &#x2013;
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org603d4c2"></a>
+<a id="org563230d"></a>
 
 ## Hemoglobin A1c (Glycated Hemoglobin)
 
@@ -2170,14 +1992,9 @@ Comments: High pressure liquid or column chromatography and immunoassay test met
 are commonly used.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org3729234"></a>
+<a id="org1ab19da"></a>
 
 ## HGB (Hemoglobin)
 
@@ -2214,14 +2031,9 @@ among those who live in high altitudes because the body produces more red blood 
 response to the decreased oxygen available at high altitude.
 Test Method Variance: &#x2013;
 Other: &#x2013;
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="orge589913"></a>
+<a id="org3bf7405"></a>
 
 ## HDL (High density lipoprotein cholesterol)
 
@@ -2252,14 +2064,9 @@ levels greater than 60 mg/dL may actually protect people from heart disease and 
 atherosclerotic plaques.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org99666fa"></a>
+<a id="org8d18783"></a>
 
 ## Human Papilloma Virus (HPV) DNA Test, Cervical Specimen
 
@@ -2300,14 +2107,9 @@ associated with vulvar, penile, and anal intraepithelial neoplasia and cancer. I
 distinguish specimen body source, only specimens taken from the cervix should be include in
 this test type. A test does not need to test for every high risk strain to be included.
 Test Method Variance: N/A
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="orgf5ff5a0"></a>
+<a id="orgca7ab0e"></a>
 
 ## Human Papilloma Virus (HPV) DNA Test, Specimen Source/Site Unknown
 
@@ -2341,14 +2143,9 @@ strain(s); normal = no high risk HPV strains found. The HPV DNA tests came into 
 use in cervical cancer screening and prevention programs in the mid 2000s. HPV is also
 associated with vulvar, penile, and anal intraepithelial neoplasia and cancer.
 Test Method Variance: N/A
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="orgad1f87c"></a>
+<a id="orgc51eb15"></a>
 
 ## INR (International Normalization Ratio)
 
@@ -2373,14 +2170,9 @@ regimens are being titrated or adjusted.
 The risk of bleeding increases as INR increases.
 Test Method Variance: &#x2013;
 Other: &#x2013;
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="orgc766fa7"></a>
+<a id="orgf67c1b0"></a>
 
 ## LDH (Lactate dehydrogenase, total in blood/serum)
 
@@ -2420,18 +2212,12 @@ cause temporary elevations in LDH; hemolysis of the blood specimen can cause fal
 elevated results; if platelet count is increased, serum LDH can be artificially high.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="orgac9d0c5"></a>
+<a id="orgfbfbf9b"></a>
 
-## LDL, Calculated, Fasting (Low density lipoprotein cholesterol, calculated, patient
+## LDL, Calculated, Fasting (Low density lipoprotein cholesterol, calculated, patient was fasting)
 
-was fasting)
 Common Name: LDL
 Long Name: Cholesterol Low Density Lipoprotein Calculated Fasting
 Test Type: LDL\_CLC\_F
@@ -2459,14 +2245,9 @@ performed on the remaining supernatant. The preferred specimen is fasting. Calcu
 not accurate on specimens that have triglycerides levels exceeding 400.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="orgfb60838"></a>
+<a id="orge4bc613"></a>
 
 ## LDL, Calculated, Random (Low density lipoprotein cholesterol, calculated
 
@@ -2499,14 +2280,9 @@ indicated with the lab result determines if it is categorized as fasting or fast
 Calculated LDL is not accurate on specimens that have triglycerides levels exceeding 400.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="orge067b70"></a>
+<a id="orgfb49f5d"></a>
 
 ## LDL Direct (Low density lipoprotein cholesterol, direct measure, fasting status
 
@@ -2535,14 +2311,9 @@ Comments: The direct method reflects the reagent system for testing. In contrast
 triglyceride concentrations greater than 400.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org94bd95e"></a>
+<a id="org2be26b1"></a>
 
 ## LDL Method not Indicated (Low density lipoprotein cholesterol, not known
 
@@ -2573,14 +2344,9 @@ Comments: Use this test type only for those LDL test results where you cannot de
 the method was calculated or direct.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org075cbd7"></a>
+<a id="orgb277e26"></a>
 
 ## Magnesium
 
@@ -2602,14 +2368,9 @@ Comments: Many antacids and laxatives contain magnesium and may affect blood lev
 Magnesium blood levels may be low normally in the second and third trimesters of pregnancy.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="orga71c5ac"></a>
+<a id="org0ca3078"></a>
 
 ## Platelets
 
@@ -2644,14 +2405,9 @@ without any other medical condition or with myeloproliferative disorders. The pl
 individuals with myeloproliferative disorders often do not function normally.
 Test Method Variance: &#x2013;
 Other: &#x2013;
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org565644b"></a>
+<a id="org7ac4a86"></a>
 
 ## Potassium, Serum
 
@@ -2679,14 +2435,9 @@ select among multiple test results..
 Test Method Variance:
 Other: Studies show fist pumping can increase a patient’s potassium as much as 20%, in
 addition to ionized calcium.
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org5a564ef"></a>
+<a id="orgd6ac777"></a>
 
 ## PSA, Free (Prostate specific antigen free in blood/serum/plasma)
 
@@ -2706,14 +2457,9 @@ conditions (such as BPH), there is usually more free PSA, while cancer usually p
 of the protein bound form.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org277ab3a"></a>
+<a id="orgba6cdd3"></a>
 
 ## PSA, Percent Free (Prostate specific antigen [Ag], ratio of free to total)
 
@@ -2731,14 +2477,9 @@ Expressed as a percent of unbound PSA over total PSA
 Comments:
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org97fcde7"></a>
+<a id="orga152a23"></a>
 
 ## PSA, Seminal Fluid (Prostate specific antigen, total in seminal fluid)
 
@@ -2759,14 +2500,9 @@ and 4.0 ng/mL.
 Comments: May be usefull to evaluate fertility and prostate disease.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org60ee3a5"></a>
+<a id="orgd6b8f2d"></a>
 
 ## PSA, Seminal Fluid, Free (Prostate specific antigen in seminal fluid, free)
 
@@ -2785,14 +2521,9 @@ seminal fluid are approximately 106-fold higher than PSA concenration in serum.
 Comments: May be useful to evaluate fertility and prostate disease.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="orgc07b5a4"></a>
+<a id="org0b7fefa"></a>
 
 ## PSA, Total, Blood/Serum/Plasma (Prostate specific antigen, total)
 
@@ -2822,14 +2553,9 @@ Test Method Variance: Different manufacturers have different molecular specifici
 Comparing values over time need to consider different reagent systems if lab changes are
 made. Results between manufacturer/instrumentation may not be linear.
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org80dbc91"></a>
+<a id="org16c332c"></a>
 
 ## PT (Prothrombin time)
 
@@ -2859,14 +2585,9 @@ the INR was created to adjust for the sensitivity of the thromboplastin reagent 
 PT.
 Test Method Variance: The test results depend on the method used. .
 Other: &#x2013;
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="orga0b7c96"></a>
+<a id="org677cd8a"></a>
 
 ## RBC (Red Blood Cell Count [in blood])
 
@@ -2900,14 +2621,9 @@ increases in RBCs. RBC counts are higher among those who live in high altitudes 
 body produces more red RBCs in response to decreased oxygen available at high altitude.
 Test Method Variance: &#x2013;
 Other: &#x2013;
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org71e854e"></a>
+<a id="orgaa04487"></a>
 
 ## Sodium (Blood or Serum Sodium)
 
@@ -2928,14 +2644,9 @@ mmol/L
 Comments:
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org39b2f2a"></a>
+<a id="org3ebddcb"></a>
 
 ## Thyroxine (T4) Free
 
@@ -2967,14 +2678,9 @@ pregnancy.
 Test Method Variance: There are 4 different assays to evaluate free T4. Results commonly
 reported as ng/dL but can also include pmol/L or pg/dL.
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="orga8780ed"></a>
+<a id="orgba16ca9"></a>
 
 ## Thyroxine (T4) Free Index
 
@@ -3000,14 +2706,9 @@ Comments: In general, high T4 index results may indicate an overactive thyroid g
 (hypothyroidism).
 Test Method Variance:
 Other: Thyroxine free index is rarely used today.
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org6b72c61"></a>
+<a id="orgf878752"></a>
 
 ## Thyroxine (T4) Total
 
@@ -3037,14 +2738,9 @@ of protein in the blood.
 Test Method Variance:
 Other: Usually ordered along with or following a TSH test. Do not include T4 total from newborn
 genetic screening.
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="orgf2ab1cd"></a>
+<a id="org6f044ea"></a>
 
 ## TOT\_PROT (Protein, total in blood/serum)
 
@@ -3075,14 +2771,9 @@ that the test result for total protein will be falsely elevated. Drugs that may 
 levels include estrogens and oral contraceptives.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org02b9e6b"></a>
+<a id="org4074b24"></a>
 
 ## Triglycerides, Fasting (TG, TRIG, patient was fasting)
 
@@ -3108,14 +2799,9 @@ dietary predictor of triglycerides. Diets high in carbohydrates can lead to tran
 triglycerides. This is why fasting specimens are usually preferred.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="orgb7f4ea5"></a>
+<a id="org3b717bf"></a>
 
 ## Triglycerides, Random (TG, TRIG, not known if patient was fasting, or known that
 
@@ -3145,14 +2831,9 @@ sometimes used to identify risk that was not predicted by a standard fasting lip
 non-fasting test is most valuable when the sample is taken two to four hours after a meal.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org19d2185"></a>
+<a id="org3572be0"></a>
 
 ## TSH (Thyroid Stimulating Hormone, Thyrotropin)
 
@@ -3194,12 +2875,6 @@ the rate at which the body uses energy. When concentrations decrease in the bloo
 hypothalamus (an organ in the brain) releases thyrotropin releasing hormone (TRH). This
 stimulates the release of TSH by the pituitary gland. The TSH in turn stimulates the production
 and release of T4 and T3 by the thyroid gland, a small butterfly-shaped gland that lies in the
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-
 neck flat against the windpipe. When all three organs are functioning normally, thyroid
 production turns on and off to maintain constant blood thyroid hormone levels. If there is
 pituitary dysfunction, then increased or decreased amounts of TSH may result. When TSH
@@ -3212,14 +2887,9 @@ constipation, cold intolerance, and fatigue. In addition to pituitary dysfunctio
 hypothyroidism can occur if there is a problem with the hypothalamus (insufficient or excessive
 TRH). Thyroid hormone levels may also be altered by a variety of thyroid diseases regardless of
 the amount of TSH present in the blood.
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="orgdeaabd9"></a>
+<a id="org3291768"></a>
 
 ## TSH Beta Subunit (Thyroid Stimulating Hormone Beta Subunit), Quantitative
 
@@ -3261,12 +2931,6 @@ the rate at which the body uses energy. When concentrations decrease in the bloo
 hypothalamus (an organ in the brain) releases thyrotropin releasing hormone (TRH). This
 stimulates the release of TSH by the pituitary gland. The TSH in turn stimulates the production
 and release of T4 and T3 by the thyroid gland, a small butterfly-shaped gland that lies in the
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-
 neck flat against the windpipe. When all three organs are functioning normally, thyroid
 production turns on and off to maintain constant blood thyroid hormone levels.
 If there is pituitary dysfunction, then increased or decreased amounts of TSH may result. When
@@ -3282,14 +2946,9 @@ the hypothalamus (insufficient or excessive TRH). Usually, by the time TSH is me
 patient with hypothyroidism, the TSH is very high (i.e., the pituitary is trying to get the thyroid to
 make more thyroid hormone). Thyroid hormone levels may also be altered by a variety of
 thyroid diseases regardless of the amount of TSH present in the blood.
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org556a817"></a>
+<a id="org9a6590e"></a>
 
 ## TSH Long Acting (Thyroid Stimulator Long Acting)
 
@@ -3311,14 +2970,9 @@ thyroid-hormone replacement therapy — can interfere with the TSH test, so the 
 be informed about any drugs that are being taken.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org9177206"></a>
+<a id="orgc9c8a30"></a>
 
 ## TSH Screen (Thyroid Stimulating Hormone, Screen), Blood
 
@@ -3361,12 +3015,6 @@ Test Method Variance:
 Other: This test measures the amount of thyroid-stimulating hormone (TSH) in your blood. TSH
 is produced by the pituitary gland, a tiny organ located below the brain and behind the sinus
 cavities. It is part of the body’s feedback system to maintain stable amounts of the thyroid
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
-
 hormones thyroxine (T4) and triiodothyronine (T3) in the blood. Thyroid hormones help control
 the rate at which the body uses energy. When concentrations decrease in the blood, the
 hypothalamus (an organ in the brain) releases thyrotropin releasing hormone (TRH). This
@@ -3377,14 +3025,9 @@ production turns on and off to maintain constant blood thyroid hormone levels. I
 pituitary dysfunction, then increased or decreased amounts of TSH may result. If there is thyroid
 dysfunction, then the amount of TSH will be inversely related to the thyroid dysfunction (i.e.,
 TSH will be low with overactive thyroid).
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org631af62"></a>
+<a id="org1238469"></a>
 
 ## TROP\_I\_QN (Troponin I Cardiac Quantitative)
 
@@ -3420,14 +3063,9 @@ troponin values, it is likely that the heart has not been injured. The test is n
 damage to other muscles.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org3f80239"></a>
+<a id="org31f8f75"></a>
 
 ## TROP\_T\_QL (Troponin T Cardiac - Qualitative)
 
@@ -3463,14 +3101,9 @@ troponin values, it is likely that the heart has not been injured. The test is n
 damage to other muscles.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org3e47c23"></a>
+<a id="orgee5daad"></a>
 
 ## TROP\_T\_QN (Troponin T Cardiac - Quantitative)
 
@@ -3504,14 +3137,9 @@ patient with chest pain/known stable angina has normal troponin values, it is li
 has not been injured. The test is not affected by damage to other muscles.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="orgb432e7a"></a>
+<a id="org0896784"></a>
 
 ## U\_ACR (Microalbumin [or albumin] to creatinine ratio in urine)
 
@@ -3547,14 +3175,9 @@ Comments: Elevated results may also be caused by vigorous exercise, blood in the
 urinary tract infection, dehydration, and some drugs.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="orgc96bfe1"></a>
+<a id="orgc6a44be"></a>
 
 ## U\_CREAT (Creatinine in Urine)
 
@@ -3586,14 +3209,9 @@ kidney damage and so creatinine is monitored. Other drugs, such as cephalosprins
 may increase creatinine concentration without reflecting kidney damage.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org8b37128"></a>
+<a id="org19d913b"></a>
 
 ## U\_CREAT24 (24-Hour Creatinine in Urine)
 
@@ -3624,14 +3242,9 @@ creatinine is monitored. Other drugs, such as cephalosprins (cefoxitin), may inc
 concentration without reflecting kidney damage.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="orgfa3a5b8"></a>
+<a id="orgc128724"></a>
 
 ## U\_MIC\_ALB (Microalbumin [or albumin] in urine)
 
@@ -3666,14 +3279,9 @@ be confirmed by retesting and, if positive on 2 of 3 determinations over a 3-6 m
 considered to be present and appropriate treatment is advised.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org459e569"></a>
+<a id="org8831943"></a>
 
 ## U\_MICALB24 (24-Hour Microalbumin in urine)
 
@@ -3709,14 +3317,9 @@ be confirmed by retesting and, if positive on 2 of 3 determinations over a 3-6 m
 considered to be present and appropriate treatment is advised.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org5520968"></a>
+<a id="org14b73d2"></a>
 
 ## U\_PCR (Protein to creatinine ratio in urine)
 
@@ -3749,14 +3352,9 @@ higher excretion of protein into their urine during the day than at night. Monit
 intervals is conducted to determine if the amount of proteinuria changes over time.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org2487d02"></a>
+<a id="orga03e445"></a>
 
 ## U\_PROT (Protein in urine; total protein in urine)
 
@@ -3793,14 +3391,9 @@ Approximate Reference Range: <8mg/dL
 Comments:
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org73e5383"></a>
+<a id="org964d429"></a>
 
 ## U\_PROT\_24 (24-hour urine protein; total protein in urine)
 
@@ -3833,14 +3426,9 @@ Comments: A 24-hour urine sample gives the protein excretion rate over 24 hours 
 accurate only if all of the urine is collected.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org54765f4"></a>
+<a id="orgc21ef30"></a>
 
 ## U\_PROT\_DIP (Protein in Urine by Dipstick, qualitative)
 
@@ -3878,14 +3466,9 @@ proteinuria without apparent kidney dysfunction and may have a higher excretion 
 their urine during the day than at night.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="orgb4aa094"></a>
+<a id="orgd823fa3"></a>
 
 ## Uric Acid
 
@@ -3914,14 +3497,9 @@ levels. In the diagnosis of tumor lysis syndrome, serum uric acid levels are inc
 to serum potassium and phosphate levels while serum calcium levels are lowered.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="orgd16d4f4"></a>
+<a id="orge78a4af"></a>
 
 ## Vitamin B12 (Cobalamin)
 
@@ -3953,14 +3531,9 @@ cause of neuropathy. High levels of B12 and folate are not usually clinically mo
 Increased B12 may be seen in conditions such as leukemia or liver dysfunction.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="org60b171f"></a>
+<a id="org37f11db"></a>
 
 ## Vitamin D (25-hydroxy-vitamin D)
 
@@ -3985,14 +3558,9 @@ absorption and distribution. Vitamin D toxicity is usually presented with hyperc
 hyperphosphatemia, soft tissue calcification, and renal failure.
 Test Method Variance:
 Other:
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="orgc1ae928"></a>
+<a id="orgba8cbc7"></a>
 
 ## WBC (Total White Blood Cell Count [in blood])
 
@@ -4022,19 +3590,14 @@ leukopenia. On average, infants have higher WBC counts than do adults. Some drug
 smoking can affect the WBC count.
 Test Method Variance: &#x2013;
 Other: &#x2013;
-Version 1.6. This reference document is not inclusive of all lab tests that have been deemed priority tests to
-incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory
-content is expanded in the VDW. View the most current version of this document on the CRN Portal
-(<https://appliedresearch.cancer.gov/crnportal/data-resources/vdw/site-data-managers/file-buildingguidelines/>
-lab/VDWLabTestReferenceDocument.pdf/view)
 
 
-<a id="orgbc0900d"></a>
+<a id="orgbd65c5f"></a>
 
 # Opioid Urine Toxicity
 
 
-<a id="org737ae5c"></a>
+<a id="org99eca64"></a>
 
 ## U\_BUPRENORPHINE\_CNF (Buprenorphine in Urine)
 
@@ -4059,7 +3622,7 @@ For opioid results place the component value from the EverLOINC.SAS table into t
 -   Other:
 
 
-<a id="orgec22434"></a>
+<a id="orgcdb182d"></a>
 
 ## U\_BUPRENORPHINE\_SCR (Buprenorphine in Urine)
 
@@ -4084,7 +3647,7 @@ For opioid results place the component value from the EverLOINC.SAS table into t
 -   Other:
 
 
-<a id="orgabb6ccc"></a>
+<a id="orga34953b"></a>
 
 ## U\_BUTORPHANOL\_CNF (Butorphanol in Urine)
 
@@ -4109,7 +3672,7 @@ For opioid results place the component value from the EverLOINC.SAS table into t
 -   Other:
 
 
-<a id="org614b808"></a>
+<a id="org89fd1ab"></a>
 
 ## U\_BUTORPHANOL\_SCR (Butorphanol in Urine)
 
@@ -4134,7 +3697,7 @@ For opioid results place the component value from the EverLOINC.SAS table into t
 -   Other:
 
 
-<a id="org63e9022"></a>
+<a id="orgaa5a951"></a>
 
 ## U\_CODEINE\_CNF (Codeine in Urine)
 
@@ -4159,7 +3722,7 @@ For opioid results place the component value from the EverLOINC.SAS table into t
 -   Other:
 
 
-<a id="orgdd0bbbf"></a>
+<a id="org6579545"></a>
 
 ## U\_CODEINE\_SCR (Codeine in Urine)
 
@@ -4184,7 +3747,7 @@ For opioid results place the component value from the EverLOINC.SAS table into t
 -   Other:
 
 
-<a id="org8ddc49c"></a>
+<a id="org2877051"></a>
 
 ## U\_DIPIPANONE\_CNF (Dipipanone in Urine)
 
@@ -4209,7 +3772,7 @@ For opioid results place the component value from the EverLOINC.SAS table into t
 -   Other:
 
 
-<a id="orgdd1728d"></a>
+<a id="orgb932d46"></a>
 
 ## U\_DIPIPANONE\_SCR (Dipipanone in Urine)
 
@@ -4234,7 +3797,7 @@ For opioid results place the component value from the EverLOINC.SAS table into t
 -   Other:
 
 
-<a id="org9a40fd4"></a>
+<a id="orgfe770fc"></a>
 
 ## U\_FENTANYL\_CNF (Fentanyl in Urine)
 
@@ -4259,7 +3822,7 @@ For opioid results place the component value from the EverLOINC.SAS table into t
 -   Other:
 
 
-<a id="org846a579"></a>
+<a id="org71f9fce"></a>
 
 ## U\_FENTANYL\_SCR (Fentanyl in Urine)
 
@@ -4284,7 +3847,7 @@ For opioid results place the component value from the EverLOINC.SAS table into t
 -   Other:
 
 
-<a id="org57778cc"></a>
+<a id="org53dd6e5"></a>
 
 ## TEST NAME—FOR FUTURE USE
 
@@ -4303,12 +3866,12 @@ Test Method Variance:
 Other:
 
 
-<a id="org789ae34"></a>
+<a id="org6243612"></a>
 
 # Hematology and Coagulation
 
 
-<a id="org6f68e69"></a>
+<a id="orgd3712ef"></a>
 
 ## TEST NAME—FOR FUTURE USE
 
@@ -4327,12 +3890,12 @@ Test Method Variance:
 Other:
 
 
-<a id="orgca9573d"></a>
+<a id="org4293c14"></a>
 
 # Cell Markers
 
 
-<a id="org82fe585"></a>
+<a id="org59d8c2d"></a>
 
 ## TEST NAME—FOR FUTURE USE
 
@@ -4351,12 +3914,12 @@ Test Method Variance:
 Other:
 
 
-<a id="orgef738e7"></a>
+<a id="org6b21ca7"></a>
 
 # Microbiology
 
 
-<a id="orgc7d3c56"></a>
+<a id="org266abd7"></a>
 
 ## TEST NAME—FOR FUTURE USE
 
@@ -4375,12 +3938,12 @@ Test Method Variance:
 Other:
 
 
-<a id="orga8f167c"></a>
+<a id="org575ec0c"></a>
 
 # Influenza
 
 
-<a id="orgbcd8be9"></a>
+<a id="orga6a36fe"></a>
 
 ## TEST NAME—FOR FUTURE USE
 
@@ -4399,12 +3962,12 @@ Test Method Variance:
 Other:
 
 
-<a id="org46d6acb"></a>
+<a id="org1f6befb"></a>
 
 # COVID-19
 
 
-<a id="org52f8e01"></a>
+<a id="org478e980"></a>
 
 ## TEST NAME—FOR FUTURE USE
 
@@ -4423,12 +3986,12 @@ Test Method Variance:
 Other:
 
 
-<a id="org4f73b39"></a>
+<a id="orgfe882e9"></a>
 
 # Blank Template
 
 
-<a id="orgf6f3c66"></a>
+<a id="org2ccd62c"></a>
 
 ## TEST NAME—FOR FUTURE USE
 
