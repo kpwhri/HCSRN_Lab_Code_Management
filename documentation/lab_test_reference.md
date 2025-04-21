@@ -1,5 +1,13 @@
+<a id="org5db2a57"></a>
 
-# Table of Contents
+# Laboratory Test Types
+
+**A Reference for the HCSRN VDW Laboratory Results Test Type.**
+**Version 2, April 2025**
+
+This reference document is not inclusive of all lab tests that have been deemed priority tests to incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory content is expanded in the VDW.
+
+## Table of Contents
 
 1.  [Laboratory Test Types](#org5db2a57)
         1.  [Chemistry Lab Tests](#org8ffb5e1)
@@ -136,19 +144,10 @@
 
 
 
-<a id="org5db2a57"></a>
-
-# Laboratory Test Types
-
-**A Reference for the HCSRN VDW Laboratory Results Test Type.**
-**Version 2, April 2025**
-
-This reference document is not inclusive of all lab tests that have been deemed priority tests to incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory content is expanded in the VDW.
-
 
 <a id="org8ffb5e1"></a>
 
-### Chemistry Lab Tests
+## Chemistry Lab Tests
 
 
 <a id="org9846945"></a>
