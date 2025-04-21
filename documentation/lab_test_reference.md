@@ -1,142 +1,4 @@
 
-# Table of Contents
-
-1.  [Laboratory Test Types](#org5db2a57)
-        1.  [Chemistry Lab Tests](#org8ffb5e1)
-        2.  [A\_G\_RATIO (Albumin to globulin ratio)](#org9846945)
-        3.  [ALBUMIN (Albumin, total in blood/serum)](#orgb60ae09)
-        4.  [ALP (Alkaline phosphatase)](#org998e2e2)
-        5.  [ALT (Alanine Aminotransferase, SGPT)](#orgd4e97b2)
-        6.  [AST (Aspartate Aminotransferase, SGOT)](#org686b548)
-        7.  [AMYLASE (Amylase, total in blood)](#org2e703c1)
-        8.  [BILI\_DIR (Bilirubin, Direct)](#org9ddfc85)
-        9.  [BILI\_INDIR (Bilirubin, Indirect)](#org0b7674e)
-        10. [BILI\_TOT (Bilirubin, Total)](#org5b1b6dd)
-        11. [BNP (Brain Natriuretic Peptide)](#org511491d)
-        12. [BUN (Urea nitrogen in blood/serum)](#orgf7427d0)
-        13. [CALCIUM (Total Serum Calcium)](#orgb1f588b)
-        14. [CA125 (Cancer Antigen 125), Quantitative in Blood](#org765e5e1)
-        15. [CA125\_QL (Cancer Antigen 125), Qualitative in Blood](#orgdc054a7)
-        16. [CA125\_T (Cancer Antigen 125), Titer in Blood](#orgcffc72a)
-        17. [CA125\_BF (Cancer Antigen 125), Quantitative in Body Fluid](#org0853a61)
-        18. [CA125\_BF\_T (Cancer Antigen 125) Titer in Body Fluid](#orgb60be3c)
-        19. [Cholesterol, Total](#org8b6114e)
-        20. [CK (Creatine Kinase)](#orgd4a69fe)
-        21. [CK\_BBI (Creatine Kinase BB)](#orga066dc1)
-        22. [CK\_BB\_EP (Creatine Kinase BB Electrophoresis)](#org57078d2)
-        23. [CK\_BF (Creatine Kinase Body Fluid Quantitative)](#org2fa11af)
-        24. [CK\_CSF (Creatine Kinase CSF Quantitative)](#orga01684c)
-        25. [CK\_ISO (Creatine Kinase Isoenzymes)](#org6a3111a)
-        26. [CK\_MB (Creatine Kinase MB - analytic method not specified)](#org005142c)
-        27. [CK\_MB\_EIA (Creatine Kinase MB – Enzyme Immunoassay)](#orgb18556c)
-        28. [CK\_MB\_EP (Creatine Kinase MB - Electrophoresis)](#org697be69)
-        29. [CK\_MBI\_CLC (Creatine Kinase MB/Creatine Kinase Total Calculated)](#org26b4a14)
-        30. [CK\_MBI\_EIA (Creatine Kinase MB/Creatine Kinase Total Enzyme Immunoassay)](#org9951aa9)
-        31. [CK\_MBI\_EP (Creatine Kinase MB/ Creatine Kinase Total Electrophoresis)](#org4b5b44a)
-        32. [CK\_MM\_EP (Creatine Kinase MM Electrophoresis)](#orgae0ae4a)
-        33. [Creatinine, Blood/Serum/Plasma](#org64ba400)
-        34. [CRP (C-reactive protein serum/plasma concentration)](#orgc9ddac1)
-        35. [CRPHS (High-sensitivity C-reactive protein in serum/plasma)](#orgc07c336)
-        36. [D-Dimer](#org3c0038b)
-        37. [FOBT (Fecal Occult Blood Test)](#org3585f92)
-        38. [FOB1 (Fecal Occult Blood Test One Specimen)](#org847c449)
-        39. [Fecal Occult Blood Test, Quantitative](#org13dc211)
-        40. [Fecal Immunologic (Immunochemical) Test](#org88be059)
-        41. [Folate](#org837c2db)
-        42. [GGT (GGTP, Gamma-glutamyl transpeptidase [or transferase] in blood/serum)](#orgc48761f)
-        43. [GFR (Glomerular Filtration Rate), MDRD](#orged8e32c)
-        44. [GFR (Glomerular Filtration Rate), MDRD, African American](#org664b403)
-        45. [GFR (Glomerular Filtration Rate), MDRD, Non-African American](#org55b5446)
-        46. [GFR (Glomerular Filtration Rate), Schwartz](#orgfe50865)
-        47. [HDL (High density lipoprotein cholesterol)](#org859f97d)
-        48. [Human Papilloma Virus (HPV) DNA Test, Cervical Specimen](#org9f1f4c9)
-        49. [Human Papilloma Virus (HPV) DNA Test, Specimen Source/Site Unknown](#orgbd3877b)
-        50. [LDH (Lactate dehydrogenase, total in blood/serum)](#org77e6f3b)
-        51. [LDL, Calculated, Fasting (Low density lipoprotein cholesterol, calculated, patient was fasting)](#org596d003)
-        52. [LDL, Calculated, Random (Low density lipoprotein cholesterol, calculated](#org17a3f85)
-        53. [LDL Direct (Low density lipoprotein cholesterol, direct measure, fasting status](#orgc2bcbb2)
-        54. [LDL Method not Indicated (Low density lipoprotein cholesterol, not known](#orgb1a7cdc)
-        55. [Magnesium](#org4accfca)
-        56. [Potassium, Serum](#org1e1fa79)
-        57. [PSA, Free (Prostate specific antigen free in blood/serum/plasma)](#orgd9344c2)
-        58. [PSA, Percent Free (Prostate specific antigen [Ag], ratio of free to total)](#orgea050db)
-        59. [PSA, Seminal Fluid (Prostate specific antigen, total in seminal fluid)](#org176c60d)
-        60. [PSA, Seminal Fluid, Free (Prostate specific antigen in seminal fluid, free)](#org5942d58)
-        61. [PSA, Total, Blood/Serum/Plasma (Prostate specific antigen, total)](#org2f39db5)
-        62. [Sodium (Blood or Serum Sodium)](#org7b083fc)
-        63. [Thyroxine (T4) Free](#org86bbe4c)
-        64. [Thyroxine (T4) Free Index](#orgfcf00b7)
-        65. [Thyroxine (T4) Total](#orgeef2a59)
-        66. [TOT\_PROT (Protein, total in blood/serum)](#org5babbdf)
-        67. [Triglycerides, Fasting (TG, TRIG, patient was fasting)](#orgcd62f6c)
-        68. [Triglycerides, Random (TG, TRIG, not known if patient was fasting, or known that](#org969d807)
-        69. [TSH (Thyroid Stimulating Hormone, Thyrotropin)](#org423c2fc)
-        70. [TSH Beta Subunit (Thyroid Stimulating Hormone Beta Subunit), Quantitative](#org659e2d6)
-        71. [TSH Long Acting (Thyroid Stimulator Long Acting)](#orga3af35c)
-        72. [TSH Screen (Thyroid Stimulating Hormone, Screen), Blood](#org80cc122)
-        73. [TROP\_I\_QN (Troponin I Cardiac Quantitative)](#orga089965)
-        74. [TROP\_T\_QL (Troponin T Cardiac - Qualitative)](#orgb236b2e)
-        75. [TROP\_T\_QN (Troponin T Cardiac - Quantitative)](#org9e49982)
-        76. [U\_ACR (Microalbumin [or albumin] to creatinine ratio in urine)](#org6583930)
-        77. [U\_CREAT (Creatinine in Urine)](#org0cbd80a)
-        78. [U\_CREAT24 (24-Hour Creatinine in Urine)](#orge3db3eb)
-        79. [U\_MIC\_ALB (Microalbumin [or albumin] in urine)](#orgef48e9a)
-        80. [U\_MICALB24 (24-Hour Microalbumin in urine)](#org7fe6990)
-        81. [U\_PCR (Protein to creatinine ratio in urine)](#org2333546)
-        82. [U\_PROT (Protein in urine; total protein in urine)](#orge6e4a1f)
-        83. [U\_PROT\_24 (24-hour urine protein; total protein in urine)](#orgc23a8a7)
-        84. [U\_PROT\_DIP (Protein in Urine by Dipstick, qualitative)](#org8871fa7)
-        85. [Uric Acid](#org25a9a31)
-        86. [VIT\_B12 (Vitamin B12; Cobalamin)](#orgb2b7213)
-        87. [VIT\_D\_250H (Vitamin D; 25-hydroxy-vitamin D)](#org74bf494)
-    1.  [Glucose Tolerance Tests Oral Glucose Tolerance Tests](#org9247121)
-        1.  [Glucose, Fasting Serum/Plasma (patient was fasting)](#orgb20dd2b)
-        2.  [Glucose, Random (not known if patient was fasting or known that patient was not fasting)](#org1900f63)
-        3.  [GTT Test\_Types](#orgbf9db6c)
-    2.  [Opioid Urine Toxicity](#org4392eea)
-        1.  [U\_BUPRENORPHINE\_CNF (Buprenorphine in Urine)](#orgdd79053)
-        2.  [U\_BUPRENORPHINE\_SCR (Buprenorphine in Urine)](#org4317a1d)
-        3.  [U\_BUTORPHANOL\_CNF (Butorphanol in Urine)](#org9c5067e)
-        4.  [U\_BUTORPHANOL\_SCR (Butorphanol in Urine)](#orga4b0b20)
-        5.  [U\_CODEINE\_CNF (Codeine in Urine)](#orgea2de41)
-        6.  [U\_CODEINE\_SCR (Codeine in Urine)](#orgd3ceaf4)
-        7.  [U\_DIPIPANONE\_CNF (Dipipanone in Urine)](#org49cb6c3)
-        8.  [U\_DIPIPANONE\_SCR (Dipipanone in Urine)](#org309573e)
-        9.  [U\_FENTANYL\_CNF (Fentanyl in Urine)](#orgcf1c80c)
-        10. [U\_FENTANYL\_SCR (Fentanyl in Urine)](#orgb7a532d)
-        11. [TEST NAME—FOR FUTURE USE](#org35edaa8)
-    3.  [Hematology and Coagulation](#orgfaa3ae5)
-        1.  [FERRITIN (Ferritin in blood)](#orgcaf4f1f)
-        2.  [Hemoglobin A1c (Glycated Hemoglobin)](#org984060b)
-        3.  [HGB (Hemoglobin)](#orga63577c)
-        4.  [HCT (Hematocrit)](#orgc73fbf6)
-        5.  [INR (International Normalization Ratio)](#orgc1e95b0)
-        6.  [Platelets](#orge7bbef4)
-        7.  [PT (Prothrombin time)](#org08a8386)
-        8.  [PTT (activated Partial throomboplastin time)](#org0001821)
-        9.  [RBC (Red Blood Cell Count [in blood])](#org6476d9a)
-        10. [WBC (Total White Blood Cell Count)](#org7a2aad6)
-        11. [WBC\_A (White Blood Cell, automated count)](#org9a56008)
-        12. [WBC\_COR (White blood cell total, corrected for nucleated red blood cells)](#org40e47f0)
-        13. [WBC\_COR\_A (White blood cell total, corrected for nucleated red blood cells)](#orga221049)
-        14. [WBC\_M (White Blood Cell Count, manual count)](#org32b0d4d)
-        15. [WBC\_OTH\_C (White blood cell other leukocytes, count)](#orgc39ffbd)
-        16. [WBC\_OTH\_P (White blood cell other leukocytes, percent)](#orgd42407e)
-        17. [TEST NAME—FOR FUTURE USE](#orgc3b43bc)
-    4.  [Cell Markers](#org13fc2ad)
-        1.  [TEST NAME—FOR FUTURE USE](#org8413cce)
-    5.  [Microbiology](#org533b745)
-        1.  [TEST NAME—FOR FUTURE USE](#org5d933a3)
-    6.  [Influenza](#org5e02668)
-        1.  [TEST NAME—FOR FUTURE USE](#org1dc060f)
-    7.  [COVID-19](#orgfe2c1c6)
-        1.  [TEST NAME—FOR FUTURE USE](#org05b7e91)
-2.  [Blank Template](#org11956ca)
-        1.  [TEST NAME—FOR FUTURE USE](#org63c41bf)
-
-
-
-<a id="org5db2a57"></a>
 
 # Laboratory Test Types
 
@@ -146,12 +8,8 @@
 This reference document is not inclusive of all lab tests that have been deemed priority tests to incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory content is expanded in the VDW.
 
 
-<a id="org8ffb5e1"></a>
+## Chemistry Lab Tests
 
-### Chemistry Lab Tests
-
-
-<a id="org9846945"></a>
 
 ### A\_G\_RATIO (Albumin to globulin ratio)
 
@@ -191,39 +49,41 @@ electrophoresis must be performed to make an accurate diagnosis.
 -   Other:
 
 
-<a id="orgb60ae09"></a>
-
 ### ALBUMIN (Albumin, total in blood/serum)
 
 Common Name: Albumin
+
 Long Name: Albumin, total in blood/serum
+
 Test Type: ALBUMIN
+
 Panels: Liver Panel
+
 Equivalent Tests: N/A
+
 Not Equivalent Tests: Prealbumin, microalbumin, urinalysis, liver panel
-Indications: To screen for a liver disorder or kidney disease, or to evaluate nutritional status,
-along with or instead of a prealbumin test.
-Description: This test measures the level of albumin in the blood. Albumin is the most
-abundant protein in the fluid portion of the blood (plasma). Albumin keeps fluid from leaking out
-of blood vessels, nourishes tissues, and transports hormones, vitamins, drugs, and ions like
-calcium throughout the body. Albumin is made in the liver. The concentration of albumin drops
-when the liver is damaged, when a person has a kidney disease that causes nephrotic
-syndrome, when a person is malnourished, has inflammation, or is in shock. Albumin levels can
-rise when a person is dehydrated. This is a relative increase that occurs as the volume of
-plasma decreases.
-Related Tests: Prealbumin, microalbumin, urinalysis, liver panel
+
+Indications:
+To screen for a liver disorder or kidney disease, or to evaluate nutritional status, along with or instead of a prealbumin test.
+
+Description:
+This test measures the level of albumin in the blood. Albumin is the most abundant protein in the fluid portion of the blood (plasma). Albumin keeps fluid from leaking out of blood vessels, nourishes tissues, and transports hormones, vitamins, drugs, and ions like calcium throughout the body. Albumin is made in the liver. The concentration of albumin drops when the liver is damaged, when a person has a kidney disease that causes nephrotic syndrome, when a person is malnourished, has inflammation, or is in shock. Albumin levels can rise when a person is dehydrated. This is a relative increase that occurs as the volume of plasma decreases.
+
+Related Tests:
+Prealbumin, microalbumin, urinalysis, liver panel
 Approximate Reference Range: 3.5 – 5.5 g/dL.
+
 Comments: An albumin test may be ordered as part of a liver panel to evaluate liver function,
 along with a creatinine and BUN (Blood Urea Nitrogen) to evaluate kidney function, or along
 with a prealbumin to evaluate nutritional status.
 Certain drugs increase albumin in the blood, including anabolic steroids, androgens, growth
 hormones, and insulin. Receiving large amounts of intravenous fluids may make the test results
 inaccurate for a short time after the intravenous fluids are administered.
+
 Test Method Variance:
+
 Other:
 
-
-<a id="org998e2e2"></a>
 
 ### ALP (Alkaline phosphatase)
 
@@ -259,8 +119,6 @@ Test Method Variance:
 Other:
 
 
-<a id="orgd4e97b2"></a>
-
 ### ALT (Alanine Aminotransferase, SGPT)
 
 Common Name: ALT/SGPT
@@ -287,8 +145,6 @@ liter.
 Other:
 
 
-<a id="org686b548"></a>
-
 ### AST (Aspartate Aminotransferase, SGOT)
 
 Common Name: AST/SGOT
@@ -314,12 +170,8 @@ liter
 Other:
 
 
-<a id="org2e703c1"></a>
-
 ### AMYLASE (Amylase, total in blood)
 
-
-<a id="org9ddfc85"></a>
 
 ### BILI\_DIR (Bilirubin, Direct)
 
@@ -363,8 +215,6 @@ blood cells may be being destroyed because of blood incompatibilities between th
 her mother, called hemolytic disease of the newborn.
 
 
-<a id="org0b7674e"></a>
-
 ### BILI\_INDIR (Bilirubin, Indirect)
 
 Common Name: Indirect Bilirubin
@@ -406,8 +256,6 @@ tissues. This situation usually resolves itself within a few days. In other inst
 blood cells may be being destroyed because of blood incompatibilities between the baby and
 her mother, called hemolytic disease of the newborn.
 
-
-<a id="org5b1b6dd"></a>
 
 ### BILI\_TOT (Bilirubin, Total)
 
@@ -462,8 +310,6 @@ blood cells may be being destroyed because of blood incompatibilities between th
 her mother, called hemolytic disease of the newborn.
 
 
-<a id="org511491d"></a>
-
 ### BNP (Brain Natriuretic Peptide)
 
 Common Name: BNP
@@ -493,8 +339,6 @@ disease.
 Test Method Variance:
 Other:
 
-
-<a id="orgf7427d0"></a>
 
 ### BUN (Urea nitrogen in blood/serum)
 
@@ -531,8 +375,6 @@ Test Method Variance:
 Other:
 
 
-<a id="orgb1f588b"></a>
-
 ### CALCIUM (Total Serum Calcium)
 
 Common Name: Total serum calcium; Ca++
@@ -554,8 +396,6 @@ Certain antacids and calcium supplements may affect levels.
 Test Method Variance:
 Other:
 
-
-<a id="org765e5e1"></a>
 
 ### CA125 (Cancer Antigen 125), Quantitative in Blood
 
@@ -592,8 +432,6 @@ Test Method Variance:
 Other:
 
 
-<a id="orgdc054a7"></a>
-
 ### CA125\_QL (Cancer Antigen 125), Qualitative in Blood
 
 Common Name: CA125
@@ -629,8 +467,6 @@ Test Method Variance:
 Other:
 
 
-<a id="orgcffc72a"></a>
-
 ### CA125\_T (Cancer Antigen 125), Titer in Blood
 
 Common Name: CA125 titer
@@ -665,8 +501,6 @@ Test Method Variance:
 Other:
 
 
-<a id="org0853a61"></a>
-
 ### CA125\_BF (Cancer Antigen 125), Quantitative in Body Fluid
 
 Common Name: CA125 in body fluid
@@ -692,8 +526,6 @@ disease progression.
 Test Method Variance:
 Other:
 
-
-<a id="orgb60be3c"></a>
 
 ### CA125\_BF\_T (Cancer Antigen 125) Titer in Body Fluid
 
@@ -729,8 +561,6 @@ Test Method Variance:
 Other:
 
 
-<a id="org8b6114e"></a>
-
 ### Cholesterol, Total
 
 Common Name: Cholesterol, Total
@@ -758,8 +588,6 @@ Comments:
 Test Method Variance:
 Other:
 
-
-<a id="orgd4a69fe"></a>
 
 ### CK (Creatine Kinase)
 
@@ -796,8 +624,6 @@ Test Method Variance:
 Other:
 
 
-<a id="orga066dc1"></a>
-
 ### CK\_BBI (Creatine Kinase BB)
 
 NOTE: This single reference document contains information pertinent to the
@@ -823,8 +649,6 @@ Comments: < 1% of total CK
 Test Method Variance:
 Other:
 
-
-<a id="org57078d2"></a>
 
 ### CK\_BB\_EP (Creatine Kinase BB Electrophoresis)
 
@@ -852,8 +676,6 @@ Test Method Variance:
 Other:
 
 
-<a id="org2fa11af"></a>
-
 ### CK\_BF (Creatine Kinase Body Fluid Quantitative)
 
 NOTE: This single reference document contains information pertinent to the
@@ -880,8 +702,6 @@ Test Method Variance:
 Other:
 
 
-<a id="orga01684c"></a>
-
 ### CK\_CSF (Creatine Kinase CSF Quantitative)
 
 Common Name: CSF CK
@@ -902,14 +722,10 @@ Test Method Variance:
 Other:
 
 
-<a id="org6a3111a"></a>
-
 ### CK\_ISO (Creatine Kinase Isoenzymes)
 
 Creatine Kinase Isoenzymes Interpretation - analytic method not specified
 
-
-<a id="org005142c"></a>
 
 ### CK\_MB (Creatine Kinase MB - analytic method not specified)
 
@@ -947,8 +763,6 @@ should be used rather than CK\_MB.
 Other:
 
 
-<a id="orgb18556c"></a>
-
 ### CK\_MB\_EIA (Creatine Kinase MB – Enzyme Immunoassay)
 
 Common Name: CK\_MB by immunoassay (also known as CPK MB)
@@ -983,8 +797,6 @@ isoenzymes can be accomplished rapidly, are highly sensitive and specific, and d
 interferences common to traditional electrophoresis.
 Other:
 
-
-<a id="org697be69"></a>
 
 ### CK\_MB\_EP (Creatine Kinase MB - Electrophoresis)
 
@@ -1022,8 +834,6 @@ experience and it is adequate for routine clinical use.
 Other:
 
 
-<a id="org26b4a14"></a>
-
 ### CK\_MBI\_CLC (Creatine Kinase MB/Creatine Kinase Total Calculated)
 
 Common Name: CK\_MB / CK (calculated ratio)
@@ -1054,8 +864,6 @@ established without serial determinations to detect a rise.
 Test Method Variance:
 Other:
 
-
-<a id="org9951aa9"></a>
 
 ### CK\_MBI\_EIA (Creatine Kinase MB/Creatine Kinase Total Enzyme Immunoassay)
 
@@ -1089,8 +897,6 @@ Test Method Variance:
 Other:
 
 
-<a id="org4b5b44a"></a>
-
 ### CK\_MBI\_EP (Creatine Kinase MB/ Creatine Kinase Total Electrophoresis)
 
 Common Name: CK\_MB/CK (ratio determined by electrophoresis)
@@ -1121,8 +927,6 @@ Test Method Variance:
 Other:
 
 
-<a id="orgae0ae4a"></a>
-
 ### CK\_MM\_EP (Creatine Kinase MM Electrophoresis)
 
 Common Name: CK\_MM (also known as CPK-MM)
@@ -1150,8 +954,6 @@ Test Method Variance:
 Other:
 
 
-<a id="org64ba400"></a>
-
 ### Creatinine, Blood/Serum/Plasma
 
 Common Name: Serum creatinine
@@ -1177,8 +979,6 @@ creatinine
 Test Method Variance: Not common
 Other:
 
-
-<a id="orgc9ddac1"></a>
 
 ### CRP (C-reactive protein serum/plasma concentration)
 
@@ -1217,8 +1017,6 @@ Test Method Variance:
 Other:
 
 
-<a id="orgc07c336"></a>
-
 ### CRPHS (High-sensitivity C-reactive protein in serum/plasma)
 
 Common Name: hsCRP
@@ -1253,8 +1051,6 @@ replacement therapy. Higher levels of CRP have also been observed in the obese.
 Test Method Variance:
 Other:
 
-
-<a id="org3c0038b"></a>
 
 ### D-Dimer
 
@@ -1315,8 +1111,6 @@ qualitative or semi-quantitative results are performed at the patient's bedside 
 Other:
 
 
-<a id="org3585f92"></a>
-
 ### FOBT (Fecal Occult Blood Test)
 
 Common Name: FOBT; fecal occult blood test
@@ -1376,8 +1170,6 @@ guaiac testing by providing a source of hemoglobin other than blood.
 Test Method Variance:
 
 
-<a id="org847c449"></a>
-
 ### FOB1 (Fecal Occult Blood Test One Specimen)
 
 Common Name: FOBT; fecal occult blood test, first specimen
@@ -1422,8 +1214,6 @@ guaiac testing by providing a source of hemoglobin other than blood.
 Test Method Variance:
 
 
-<a id="org13dc211"></a>
-
 ### Fecal Occult Blood Test, Quantitative
 
 Common Name: Quantitative FOBT test
@@ -1455,8 +1245,6 @@ Approximate Reference Range:
 Comments:
 Test Method Variance:
 
-
-<a id="org88be059"></a>
 
 ### Fecal Immunologic (Immunochemical) Test
 
@@ -1497,8 +1285,6 @@ such as “fecal”, “stool” and “occult”, and to ascertain that stool i
 Test Method Variance:
 
 
-<a id="org837c2db"></a>
-
 ### Folate
 
 Common Name Folate
@@ -1529,8 +1315,6 @@ with pernicious anemia and with vegetarian diets.
 Test Method Variance:
 Other:
 
-
-<a id="orgc48761f"></a>
 
 ### GGT (GGTP, Gamma-glutamyl transpeptidase [or transferase] in blood/serum)
 
@@ -1567,8 +1351,6 @@ GGT.
 Test Method Variance:
 Other:
 
-
-<a id="orged8e32c"></a>
 
 ### GFR (Glomerular Filtration Rate), MDRD
 
@@ -1613,8 +1395,6 @@ appear that there were declines in renal function over time, however part of the
 an artifact of the change in the equation. Identify when your site lab changed equations.
 Other: &#x2013;
 
-
-<a id="org664b403"></a>
 
 ### GFR (Glomerular Filtration Rate), MDRD, African American
 
@@ -1662,8 +1442,6 @@ Identify when your site lab changed equations.
 Other: &#x2013;
 
 
-<a id="org55b5446"></a>
-
 ### GFR (Glomerular Filtration Rate), MDRD, Non-African American
 
 Common Name: Estimated GFR, eGFR
@@ -1708,8 +1486,6 @@ decline is an artifact of the equation change. Identify when your site lab chang
 Other: &#x2013;
 
 
-<a id="orgfe50865"></a>
-
 ### GFR (Glomerular Filtration Rate), Schwartz
 
 Common Name: Estimated GFR, eGFR
@@ -1751,8 +1527,6 @@ Test Method Variance: &#x2013;
 Other: &#x2013;
 
 
-<a id="org859f97d"></a>
-
 ### HDL (High density lipoprotein cholesterol)
 
 Common Name: HDL
@@ -1783,8 +1557,6 @@ atherosclerotic plaques.
 Test Method Variance:
 Other:
 
-
-<a id="org9f1f4c9"></a>
 
 ### Human Papilloma Virus (HPV) DNA Test, Cervical Specimen
 
@@ -1827,8 +1599,6 @@ this test type. A test does not need to test for every high risk strain to be in
 Test Method Variance: N/A
 
 
-<a id="orgbd3877b"></a>
-
 ### Human Papilloma Virus (HPV) DNA Test, Specimen Source/Site Unknown
 
 Common Name: HPV DNA, specimen source/site unknown
@@ -1862,8 +1632,6 @@ use in cervical cancer screening and prevention programs in the mid 2000s. HPV i
 associated with vulvar, penile, and anal intraepithelial neoplasia and cancer.
 Test Method Variance: N/A
 
-
-<a id="org77e6f3b"></a>
 
 ### LDH (Lactate dehydrogenase, total in blood/serum)
 
@@ -1905,8 +1673,6 @@ Test Method Variance:
 Other:
 
 
-<a id="org596d003"></a>
-
 ### LDL, Calculated, Fasting (Low density lipoprotein cholesterol, calculated, patient was fasting)
 
 Common Name: LDL
@@ -1937,8 +1703,6 @@ not accurate on specimens that have triglycerides levels exceeding 400.
 Test Method Variance:
 Other:
 
-
-<a id="org17a3f85"></a>
 
 ### LDL, Calculated, Random (Low density lipoprotein cholesterol, calculated
 
@@ -1973,8 +1737,6 @@ Test Method Variance:
 Other:
 
 
-<a id="orgc2bcbb2"></a>
-
 ### LDL Direct (Low density lipoprotein cholesterol, direct measure, fasting status
 
 not a consideration)
@@ -2003,8 +1765,6 @@ triglyceride concentrations greater than 400.
 Test Method Variance:
 Other:
 
-
-<a id="orgb1a7cdc"></a>
 
 ### LDL Method not Indicated (Low density lipoprotein cholesterol, not known
 
@@ -2037,8 +1797,6 @@ Test Method Variance:
 Other:
 
 
-<a id="org4accfca"></a>
-
 ### Magnesium
 
 Common Name: Serum Magnesium, Mg++
@@ -2060,8 +1818,6 @@ Magnesium blood levels may be low normally in the second and third trimesters of
 Test Method Variance:
 Other:
 
-
-<a id="org1e1fa79"></a>
 
 ### Potassium, Serum
 
@@ -2091,8 +1847,6 @@ Other: Studies show fist pumping can increase a patient’s potassium as much as
 addition to ionized calcium.
 
 
-<a id="orgd9344c2"></a>
-
 ### PSA, Free (Prostate specific antigen free in blood/serum/plasma)
 
 Common Name: Free PSA
@@ -2113,8 +1867,6 @@ Test Method Variance:
 Other:
 
 
-<a id="orgea050db"></a>
-
 ### PSA, Percent Free (Prostate specific antigen [Ag], ratio of free to total)
 
 Common Name: Percent Free PSA
@@ -2132,8 +1884,6 @@ Comments:
 Test Method Variance:
 Other:
 
-
-<a id="org176c60d"></a>
 
 ### PSA, Seminal Fluid (Prostate specific antigen, total in seminal fluid)
 
@@ -2156,8 +1906,6 @@ Test Method Variance:
 Other:
 
 
-<a id="org5942d58"></a>
-
 ### PSA, Seminal Fluid, Free (Prostate specific antigen in seminal fluid, free)
 
 Common Name: Seminal Fluid Free PSA
@@ -2176,8 +1924,6 @@ Comments: May be useful to evaluate fertility and prostate disease.
 Test Method Variance:
 Other:
 
-
-<a id="org2f39db5"></a>
 
 ### PSA, Total, Blood/Serum/Plasma (Prostate specific antigen, total)
 
@@ -2209,8 +1955,6 @@ made. Results between manufacturer/instrumentation may not be linear.
 Other:
 
 
-<a id="org7b083fc"></a>
-
 ### Sodium (Blood or Serum Sodium)
 
 Common Name: Serum Sodium; Na+
@@ -2231,8 +1975,6 @@ Comments:
 Test Method Variance:
 Other:
 
-
-<a id="org86bbe4c"></a>
 
 ### Thyroxine (T4) Free
 
@@ -2266,8 +2008,6 @@ reported as ng/dL but can also include pmol/L or pg/dL.
 Other:
 
 
-<a id="orgfcf00b7"></a>
-
 ### Thyroxine (T4) Free Index
 
 Common Name: FTI
@@ -2293,8 +2033,6 @@ Comments: In general, high T4 index results may indicate an overactive thyroid g
 Test Method Variance:
 Other: Thyroxine free index is rarely used today.
 
-
-<a id="orgeef2a59"></a>
 
 ### Thyroxine (T4) Total
 
@@ -2325,8 +2063,6 @@ Test Method Variance:
 Other: Usually ordered along with or following a TSH test. Do not include T4 total from newborn
 genetic screening.
 
-
-<a id="org5babbdf"></a>
 
 ### TOT\_PROT (Protein, total in blood/serum)
 
@@ -2359,8 +2095,6 @@ Test Method Variance:
 Other:
 
 
-<a id="orgcd62f6c"></a>
-
 ### Triglycerides, Fasting (TG, TRIG, patient was fasting)
 
 Common Name: Triglycerides, fasting
@@ -2386,8 +2120,6 @@ triglycerides. This is why fasting specimens are usually preferred.
 Test Method Variance:
 Other:
 
-
-<a id="org969d807"></a>
 
 ### Triglycerides, Random (TG, TRIG, not known if patient was fasting, or known that
 
@@ -2418,8 +2150,6 @@ non-fasting test is most valuable when the sample is taken two to four hours aft
 Test Method Variance:
 Other:
 
-
-<a id="org423c2fc"></a>
 
 ### TSH (Thyroid Stimulating Hormone, Thyrotropin)
 
@@ -2474,8 +2204,6 @@ hypothyroidism can occur if there is a problem with the hypothalamus (insufficie
 TRH). Thyroid hormone levels may also be altered by a variety of thyroid diseases regardless of
 the amount of TSH present in the blood.
 
-
-<a id="org659e2d6"></a>
 
 ### TSH Beta Subunit (Thyroid Stimulating Hormone Beta Subunit), Quantitative
 
@@ -2534,8 +2262,6 @@ make more thyroid hormone). Thyroid hormone levels may also be altered by a vari
 thyroid diseases regardless of the amount of TSH present in the blood.
 
 
-<a id="orga3af35c"></a>
-
 ### TSH Long Acting (Thyroid Stimulator Long Acting)
 
 Common Name: Long Acting Thyroid Stimulator
@@ -2557,8 +2283,6 @@ be informed about any drugs that are being taken.
 Test Method Variance:
 Other:
 
-
-<a id="org80cc122"></a>
 
 ### TSH Screen (Thyroid Stimulating Hormone, Screen), Blood
 
@@ -2613,8 +2337,6 @@ dysfunction, then the amount of TSH will be inversely related to the thyroid dys
 TSH will be low with overactive thyroid).
 
 
-<a id="orga089965"></a>
-
 ### TROP\_I\_QN (Troponin I Cardiac Quantitative)
 
 Common Name: Cardiac-specific troponin (I)
@@ -2650,8 +2372,6 @@ damage to other muscles.
 Test Method Variance:
 Other:
 
-
-<a id="orgb236b2e"></a>
 
 ### TROP\_T\_QL (Troponin T Cardiac - Qualitative)
 
@@ -2689,8 +2409,6 @@ Test Method Variance:
 Other:
 
 
-<a id="org9e49982"></a>
-
 ### TROP\_T\_QN (Troponin T Cardiac - Quantitative)
 
 Common Name: Cardiac-specific troponin (T)
@@ -2724,8 +2442,6 @@ has not been injured. The test is not affected by damage to other muscles.
 Test Method Variance:
 Other:
 
-
-<a id="org6583930"></a>
 
 ### U\_ACR (Microalbumin [or albumin] to creatinine ratio in urine)
 
@@ -2763,8 +2479,6 @@ Test Method Variance:
 Other:
 
 
-<a id="org0cbd80a"></a>
-
 ### U\_CREAT (Creatinine in Urine)
 
 Common Name: Urine Creatinine (spot or random)
@@ -2797,8 +2511,6 @@ Test Method Variance:
 Other:
 
 
-<a id="orge3db3eb"></a>
-
 ### U\_CREAT24 (24-Hour Creatinine in Urine)
 
 Common Name: 24 Hour Urine Creatinine
@@ -2829,8 +2541,6 @@ concentration without reflecting kidney damage.
 Test Method Variance:
 Other:
 
-
-<a id="orgef48e9a"></a>
 
 ### U\_MIC\_ALB (Microalbumin [or albumin] in urine)
 
@@ -2866,8 +2576,6 @@ considered to be present and appropriate treatment is advised.
 Test Method Variance:
 Other:
 
-
-<a id="org7fe6990"></a>
 
 ### U\_MICALB24 (24-Hour Microalbumin in urine)
 
@@ -2905,8 +2613,6 @@ Test Method Variance:
 Other:
 
 
-<a id="org2333546"></a>
-
 ### U\_PCR (Protein to creatinine ratio in urine)
 
 Common Name: Urine Protein to Creatinine Ratio (UPCR)
@@ -2939,8 +2645,6 @@ intervals is conducted to determine if the amount of proteinuria changes over ti
 Test Method Variance:
 Other:
 
-
-<a id="orge6e4a1f"></a>
 
 ### U\_PROT (Protein in urine; total protein in urine)
 
@@ -2979,8 +2683,6 @@ Test Method Variance:
 Other:
 
 
-<a id="orgc23a8a7"></a>
-
 ### U\_PROT\_24 (24-hour urine protein; total protein in urine)
 
 Common Name: 24-Hour Urine Protein
@@ -3013,8 +2715,6 @@ accurate only if all of the urine is collected.
 Test Method Variance:
 Other:
 
-
-<a id="org8871fa7"></a>
 
 ### U\_PROT\_DIP (Protein in Urine by Dipstick, qualitative)
 
@@ -3054,8 +2754,6 @@ Test Method Variance:
 Other:
 
 
-<a id="org25a9a31"></a>
-
 ### Uric Acid
 
 Common Name: Uric acid
@@ -3084,8 +2782,6 @@ to serum potassium and phosphate levels while serum calcium levels are lowered.
 Test Method Variance:
 Other:
 
-
-<a id="orgb2b7213"></a>
 
 ### VIT\_B12 (Vitamin B12; Cobalamin)
 
@@ -3119,8 +2815,6 @@ Test Method Variance:
 Other:
 
 
-<a id="org74bf494"></a>
-
 ### VIT\_D\_250H (Vitamin D; 25-hydroxy-vitamin D)
 
 Common Name: Vitamin D
@@ -3146,12 +2840,809 @@ Test Method Variance:
 Other:
 
 
-<a id="org9247121"></a>
-
-## Glucose Tolerance Tests Oral Glucose Tolerance Tests
+## Hematology and Coagulation
 
 
-<a id="orgb20dd2b"></a>
+### FERRITIN (Ferritin in blood)
+
+Common Name: Ferritin
+Long Name: Ferritin in blood, serum, or plasma
+Test Type: FERRITIN
+Panels: Iron Panel
+Equivalent Tests: None
+Not Equivalent Tests: Serum iron
+Indications: Ferritin testing is often used in detecting iron deficiency anemia or iron overload.
+Description: Ferritin is a globular protein complex that plays a significant role in the absorption,
+storage, and release of iron for the body. The amount of ferritin reflects the amount of iron
+stored as a soluble and non-toxic form to buffer against iron deficiency and iron overload.
+Related Tests: Serum iron, transferrin, total iron-binding capacity
+Approximate Reference Range: Males: 30-300 mcg/L; Females: 10-200 mcg/L
+Comments: A low serum ferritin value is thought to be the best laboratory indicator of iron
+depletion (iron deficiency). Ferritin levels are elevated in those with hemochromatosis and other
+excess iron storage disorders and in those who have had multiple blood transfusions. Ferritin is
+an acute phase reactant, therefore serum ferritin concentrations can be increased by chronic
+infections, fever, and inflammatory reactions. The ferritin test may be ordered, along with other
+iron tests, when a complete blood count (CBC) shows that a person's hemoglobin and
+hematocrit are low and their red blood cells are smaller and paler than normal (i.e., potentially
+iron deficiency anemia).
+Test Method Variance: Results can also be reported as ng/mL
+Other:
+
+
+### Hemoglobin A1c (Glycated Hemoglobin)
+
+Common Name: Hemoglobin A1c
+Long Name: Hemoglobin A1C
+Test Type: HGBA1C
+Panels: N/A
+Equivalent Tests: N/A
+Not Equivalent Tests: Do not include absolute glycated hemoglobins (reported in g/dL), total
+hemoglobin, variant hemoglobins such as S (sickle), F (fetal), A2, sulfhemoglobin,
+methemoglobin, oxy-(O2), carboxy-(CO), reduced-(H), or hemoglobin in other body fluids such
+as urine or serous fluids.
+Indications: Indicates average blood glucose concentration over previous ~3 month time
+period. Recently suggested for screening for diabletes.
+Description: Glucose is covalently bound to hemoglobin during translation in a rate
+proportional to glucose concentration. Testing by a chromatography method can yield falsely
+elevated HBGA1C in people who have elevated hemoglobin variants fractions ("fast
+hemoglobins"). HBGA1C testing by immunochemical methods is not affected by "fast
+hemoglobins."
+Related Tests: Fructosamine test measures glycosylation of other plasma proteins with the
+glycated albumin being the major species. Fructosamine test is useful to validate questionable
+HBGA1C or when HBGA1C is not reliable due to interfering factors.
+Approximate Reference Range (Each site will have slight variations): ~ 4-6%. American
+Diabetis Association recommends values be <7%
+Comments: High pressure liquid or column chromatography and immunoassay test methods
+are commonly used.
+Test Method Variance:
+Other:
+
+
+### HGB (Hemoglobin)
+
+Common Name: Hemoglobin; Hgb; Hb
+Long Name: Hemoglobin
+Test Type: HGB
+Panels: Complete blood count
+Equivalent Tests: &#x2013;
+Not Equivalent Tests: Red blood cell count (RBC); hematocrit (HCT); hemoglobin A1C
+(HGBA1C)
+Indications: To assess whether either anemia or polycythemia is present, and if so, to assess
+the severity of the condition. Also, hemoglobin is used to monitor response to treatment and to
+make decisions about the need for, and effectiveness of, transfusions.
+Description: Hemoglobin is a protein found in red blood cells. The amount of hemoglobin in
+the blood is an indication of the ability of the blood to deliver oxygen to organs and tissues and
+to transport carbon dioxide to the lungs.
+Related Tests: One component of the complete blood count (CBC) is hemoglobin. (Other
+components of the CBC include hematocrit, red blood cells, platelets, and white blood cells).
+Approximate Reference Range (Each site will have slight variations): 12 to 16 or 18 g/dL
+(12 to 18 g/100 milliliters or 12 to 18 grams/dL) among normal adults. There are separate age
+related reference ranges for males and female. The ranges are higher in newborns than in
+adults and children have slightly lower normal ranges.
+Comments: Hemoglobin increases when the number of red blood cells increases. Hemoglobin
+falls when production of red blood cells decreases, when there is increased destruction of red
+blood cells, or when there is significant bleeding. Elevated hemoglobin concentrations can be
+seen with dehydration, excess production of red blood cells by the bone marrow, severe lung
+disease, and other conditions.
+Low hemoglobin (anemia) can be the result of conditions such as iron, B12, or folate deficiency,
+inherited hemoglobin defects (e.g., sickle cell anemia or thalassemia), other inherited
+conditions, cirrhosis of the liver, bleeding, red cell destruction, kidney disease, aplastic anemia,
+other chronic illnesses, and certain cancers.
+Heavy smokers have higher hemoglobin levels than nonsmokers. Hemoglobin values are higher
+among those who live in high altitudes because the body produces more red blood cells in
+response to the decreased oxygen available at high altitude.
+Test Method Variance: &#x2013;
+Other: &#x2013;
+
+
+### HCT (Hematocrit)
+
+Common Name: Hematocrit, Hct, Crit;
+Long Name: Hematocrit
+Test Type: HCT
+Panels: Complete blood count
+Equivalent Tests: Packed cell volume (PCV)
+Not Equivalent Tests: Hemoglobin (HBG); red blood cell count (RBC); mean corpuscular
+volume (MCV)
+Indications: To assess whether anemia, polycythemia, or dehydration is present. To assess
+response to treatment of anemia or polycythemia. To make decisions about need for transfusion
+and assess effectiveness of transfusions.
+Description: The hematocrit is a measurement of the proportion of blood that is made up of
+red blood cells. The value is expressed as a percentage (fraction, proportion) of cells in blood.
+For example, a hematocrit of 36% means that there are 36 milliliters of red blood cells in 100
+milliliters of blood.
+Related Tests: HGB; red blood cells; MCV; One component of the complete blood count
+(CBC) is hematocrit. (Other components of the CBC include hemoglobin, red blood cells,
+platelets, and white blood cells).
+Approximate Reference Range (Each site will have slight variations): 36% to 48% (usually
+a higher reference range for higher altitudes)
+Comments: The hematocrit rises when the number of red blood cells increases or when the
+plasma volume is reduced such as with dehydration. Elevated hematocrit can also indicate
+polycythemia vera. The hematocrit falls when the body decreases its production of red blood
+cells, increases destruction of red blood cells, or when there is blood loss (e.g., with bleeding).
+Decreased hematocrit indicates anemia.
+The hematocrit reflects both the number and the volume of red blood cells.
+Hematocrit values are higher among those who live in high altitudes because of an increase in
+the number of red blood cells (i.e., the body produces more red blood cells in response to the
+decreased oxygen available at high altitude).
+See also the comments for the related test hemoglobin.
+Test Method Variance: &#x2013;
+Other: &#x2013;
+
+
+### INR (International Normalization Ratio)
+
+Common Name: INR
+Long Name: International Normalization Ratio
+Test Type: INR
+Panels: &#x2013;
+Equivalent Tests: &#x2013;
+Not Equivalent Tests: Prothrombin time [PT]; activated clotting time [ACT]; partial
+thromboplastin time [PTT]
+Indications: To monitor the effectiveness of anti-coagulants such as warfarin which are
+prescribed to prevent the formation of blood clots.
+Description: The INR was created to standardize PT readings which vary from lab to lab. It is
+calculated by taking the PT ratio and exponeniating it by the international sensitivity index of the
+thromboplastin used to measure PT.
+Related Tests: PT; ACT; PTT; platelet count, platelet function test
+Approximate Reference Range: The goal of therapy for most patients is an INR of 2.0 to 3.0.
+The goal INR for some patients with a high risk of clot formation is 2.5 to 3.5.
+Comments: Patients’ warfarin therapy must be titrated to reach these therapeutic ranges.
+Therefore, INR values may vary from higher or lower than the recommended ranges as
+regimens are being titrated or adjusted.
+The risk of bleeding increases as INR increases.
+Test Method Variance: &#x2013;
+Other: &#x2013;
+
+
+### Platelets
+
+Common Name: Platelet count; thrombocyte count; PLT
+Long Name: Platelets
+Test Type: PLATELETS
+Panels: Complete blood count
+Equivalent Tests: &#x2013;
+Not Equivalent Tests: Platelet aggregation; other tests of platelet function
+Indications: Platelet counts are used to diagnose bleeding disorders and diseases of the bone
+marrow. Platelet counts are ordered when an individual has unexplained bruising. Platelet
+counts are also used when an individual seems to take an excessive amount of time to stop
+bleeding from cuts and wounds that are not large.
+Description: The platelet count is used to determine the number of platelets in your blood.
+Platelets, also known as thrombocytes, are small pieces of larger cells known as
+megakarycytes. Megakarycytes are made in the bone marrow. Platelets are released from the
+bone marrow and circulate in the blood. Platelets are the “first responders” when there is injury
+to a tissue or blood vessel. Platelets begin the formation of a blood clot in response to injury.
+Related Tests: Platelet aggregation; One component of the complete blood count (CBC) is
+platelets. (Other components of the CBC include hemoglobin, red blood cells, hematocrit, and
+white blood cells).
+Approximate Reference Range (Each site will have slight variations): 150,000 to 450,000
+per microliter (mcl or μL or 10-6/Liter) of blood.
+Comments: Platelet counts are used to help diagnose bleeding disorders and bone marrow
+diseases such as leukemia. Other causes of low platelets include autoimmune diseases, drug
+reactions, chemotherapy, diseases such as thrombocytopenic purpura (TTP), heparin induced
+thrombocytopenia, hemolytic uremia syndrome, and pooling of platelets in the spleen.
+When platelet counts fall below 10,000 – 20,000 per microliter, bleeding can occur even in the
+absence of apparent injury. Very low platelet counts are called thrombocytopenia.
+Platelet counts can also be too high (aka thrombocytosis). Thrombocytosis sometimes occurs
+without any other medical condition or with myeloproliferative disorders. The platelets in
+individuals with myeloproliferative disorders often do not function normally.
+Test Method Variance: &#x2013;
+Other: &#x2013;
+
+
+### PT (Prothrombin time)
+
+Common Name: PT; Prothrombin Time; Pro Time; Protime
+Long Name: Prothrombin time
+Test Type: PT
+Panels: Coagulation
+Equivalent Tests: &#x2013;
+Not Equivalent Tests: International normalization ratio [INR]; activated clotting time [ACT];
+partial thromboplastin time [PTT]; thrombin time, prothrombin factor assay (factor 2),
+prothrombin gene polymorphism, i.e., prothrombin 20210A
+Indications: There are several indications for measuring PT. It can be used to: monitor
+coagulation for patients on blood thinners; assess bleeding disorders/screening for
+coagulopathies in patients not on blood thinners; assure normal clotting ability among patients
+undergoing surgery; and assess liver function.
+Description: The prothrombin time test measures how long it takes for blood to clot. More
+specifically it measures the time it takes for the clotting factor prothrombin to be converted to
+thrombin. Clotting factors in the intrinsic and extrinsic coagulation pathways impact prothrombin
+time. If either factors I (fibrinogen), II (prothrombin), V, VII, or X are missing, deficient, or
+defective, clotting time may be delayed.
+Related Tests: INR; ACT; PTT; platelet count, platelet function test
+Approximate Reference Range: The unit of measurement is “seconds.” Each site will have
+slight variations due to the reagent and instrumentation used.
+Comments: A PT of 20 seconds in one lab may not represent the same degree of
+anticoagulation as a PT of 20 seconds in another lab. Because of the variation in PT reporting,
+the INR was created to adjust for the sensitivity of the thromboplastin reagent used to measure
+PT.
+Test Method Variance: The test results depend on the method used. .
+Other: &#x2013;
+
+
+### PTT (activated Partial throomboplastin time)
+
+Common Name: PT; Prothrombin Time; Pro Time; Protime
+Long Name: Prothrombin time
+Test Type: PT
+Panels: Coagulation
+Equivalent Tests: &#x2013;
+Not Equivalent Tests: International normalization ratio [INR]; activated clotting time [ACT];
+partial thromboplastin time [PTT]; thrombin time, prothrombin factor assay (factor 2),
+prothrombin gene polymorphism, i.e., prothrombin 20210A
+Indications: There are several indications for measuring PT. It can be used to: monitor
+coagulation for patients on blood thinners; assess bleeding disorders/screening for
+coagulopathies in patients not on blood thinners; assure normal clotting ability among patients
+undergoing surgery; and assess liver function.
+Description: The prothrombin time test measures how long it takes for blood to clot. More
+specifically it measures the time it takes for the clotting factor prothrombin to be converted to
+thrombin. Clotting factors in the intrinsic and extrinsic coagulation pathways impact prothrombin
+time. If either factors I (fibrinogen), II (prothrombin), V, VII, or X are missing, deficient, or
+defective, clotting time may be delayed.
+Related Tests: INR; ACT; PTT; platelet count, platelet function test
+Approximate Reference Range: The unit of measurement is “seconds.” Each site will have
+slight variations due to the reagent and instrumentation used.
+Comments: A PT of 20 seconds in one lab may not represent the same degree of
+anticoagulation as a PT of 20 seconds in another lab. Because of the variation in PT reporting,
+the INR was created to adjust for the sensitivity of the thromboplastin reagent used to measure
+PT.
+Test Method Variance: The test results depend on the method used. .
+Other: &#x2013;
+
+
+### RBC (Red Blood Cell Count [in blood])
+
+Common Name: Red blood cell count; RBC count; erythrocyte count; red count
+Long Name: Red blood cell count
+Test Type: RBC
+Panels: Complete blood count
+Equivalent Tests: &#x2013;
+Not Equivalent Tests: Hemoglobin (HGB); hematocrit (HCT); mean corpuscular volume
+(MCV)
+Indications: To assess whether the number of RBCs in whole blood is within the normal range,
+and to aid in diagnosing hematologic disorders, bleeding problems, anemias, and polycythemia.
+Description: The RBC is used to evaluate the number of red blood cells in blood.
+Related Tests: Blood smear; complete blood count (CBC) (Other components of the CBC
+include hemoglobin, hematocrit, platelets, and white blood cells).
+Approximate Reference Range (Each site will have slight variations): Male: 4.7 &#x2013; 6.1
+million cells per microliter (mcl or μL or 10-6/Liter) of blood; Female: 4.2 – 5.4 million cells per
+microliter (mcl or μL or 10-6/Liter) of blood
+Comments: RBC counts must be interpreted along with HGB, HCT, and/or red blood cell
+indices (MCV, mean corpuscular hemoglobin concentration [MCHC], and mean corpuscular
+hemoglobin [MCH]). RBCs are made in the bone marrow and carry oxygen from the lungs to
+body cells and transport carbon dioxide from cells back to the lungs. Changes in RBC count are
+usually associated with changes in HGB levels. When the RBC falls below normal, anemia
+occurs. A decreased number of RBCs can result from blood loss. A slight decrease in RBC is
+seen in pregnancy as a result of expansion of body fluids. Disorders such as RBC destruction
+(e.g., hemolytic anemia) or decreased RBC production (e.g., iron deficiency anemia) can result
+in low RBC counts.
+When RBC rises about normal, polycythemia occurs. Dehydration, congenital heart diseases,
+some pulmonary diseases, and tissue hypoxia over an extended period of time can result in
+increases in RBCs. RBC counts are higher among those who live in high altitudes because the
+body produces more red RBCs in response to decreased oxygen available at high altitude.
+Test Method Variance: &#x2013;
+Other: &#x2013;
+
+
+### WBC (Total White Blood Cell Count)
+
+Common Name: WBC count; Leukocyte count; White count
+Long Name: Total white blood cell count
+Test Type: WBC
+Panels: Complete blood count
+Equivalent Tests: &#x2013;
+Not Equivalent Tests: Tests of individual types of WBCs (neutrophils, lymphocytes,
+monocytes, eosinophils, or basophils).
+Indications: To assist in determining the presence of an infection or a disease (e.g., leukemia)
+that affects the production of white blood cells; to monitor treatment and bone marrow function.
+Description: The white blood cell (WBC) count is used to evaluate the number of white blood
+cells in blood. White blood cells are made in the bone marrow and protect the body against
+infection as well as aiding in the immune response. If there is an infection, white blood cells will
+attack and destroy the pathogen causing the infection.
+Related Tests: Blood smear; tests of individual types of WBCs (neutrophils, lymphocytes,
+monocytes, eosinophils, or basophils). One component of the complete blood count (CBC);
+(Other components of the CBC include hemoglobin, red blood cells, hematocrit, and platelets).
+Approximate Reference Range (Each site will have slight variations): 4,500 – 10,000
+WBCs per microliter (mcl or μL or 10-6/Liter) of blood
+Comments: White blood cells are also called leukocytes. Conditions that inhibit WBC
+proliferation and/or weaken the immune system (e.g., HIV infection, chemotherapy) cause a
+decrease in the number of WBCs.
+An elevated number of WBCs is called leukocytosis. A decreased WBC count is called
+leukopenia. On average, infants have higher WBC counts than do adults. Some drugs and
+smoking can affect the WBC count.
+Test Method Variance: &#x2013;
+Other: &#x2013;
+
+
+### WBC\_A (White Blood Cell, automated count)
+
+Common Name: WBC count; Leukocyte count; White count
+Long Name: Total white blood cell count
+Test Type: WBC
+Panels: Complete blood count
+Equivalent Tests: &#x2013;
+Not Equivalent Tests: Tests of individual types of WBCs (neutrophils, lymphocytes,
+monocytes, eosinophils, or basophils).
+Indications: To assist in determining the presence of an infection or a disease (e.g., leukemia)
+that affects the production of white blood cells; to monitor treatment and bone marrow function.
+Description: The white blood cell (WBC) count is used to evaluate the number of white blood
+cells in blood. White blood cells are made in the bone marrow and protect the body against
+infection as well as aiding in the immune response. If there is an infection, white blood cells will
+attack and destroy the pathogen causing the infection.
+Related Tests: Blood smear; tests of individual types of WBCs (neutrophils, lymphocytes,
+monocytes, eosinophils, or basophils). One component of the complete blood count (CBC);
+(Other components of the CBC include hemoglobin, red blood cells, hematocrit, and platelets).
+Approximate Reference Range (Each site will have slight variations): 4,500 – 10,000
+WBCs per microliter (mcl or μL or 10-6/Liter) of blood
+Comments: White blood cells are also called leukocytes. Conditions that inhibit WBC
+proliferation and/or weaken the immune system (e.g., HIV infection, chemotherapy) cause a
+decrease in the number of WBCs.
+An elevated number of WBCs is called leukocytosis. A decreased WBC count is called
+leukopenia. On average, infants have higher WBC counts than do adults. Some drugs and
+smoking can affect the WBC count.
+Test Method Variance: &#x2013;
+Other: &#x2013;
+
+
+### WBC\_COR (White blood cell total, corrected for nucleated red blood cells)
+
+Common Name: WBC count; Leukocyte count; White count
+Long Name: Total white blood cell count
+Test Type: WBC
+Panels: Complete blood count
+Equivalent Tests: &#x2013;
+Not Equivalent Tests: Tests of individual types of WBCs (neutrophils, lymphocytes,
+monocytes, eosinophils, or basophils).
+Indications: To assist in determining the presence of an infection or a disease (e.g., leukemia)
+that affects the production of white blood cells; to monitor treatment and bone marrow function.
+Description: The white blood cell (WBC) count is used to evaluate the number of white blood
+cells in blood. White blood cells are made in the bone marrow and protect the body against
+infection as well as aiding in the immune response. If there is an infection, white blood cells will
+attack and destroy the pathogen causing the infection.
+Related Tests: Blood smear; tests of individual types of WBCs (neutrophils, lymphocytes,
+monocytes, eosinophils, or basophils). One component of the complete blood count (CBC);
+(Other components of the CBC include hemoglobin, red blood cells, hematocrit, and platelets).
+Approximate Reference Range (Each site will have slight variations): 4,500 – 10,000
+WBCs per microliter (mcl or μL or 10-6/Liter) of blood
+Comments: White blood cells are also called leukocytes. Conditions that inhibit WBC
+proliferation and/or weaken the immune system (e.g., HIV infection, chemotherapy) cause a
+decrease in the number of WBCs.
+An elevated number of WBCs is called leukocytosis. A decreased WBC count is called
+leukopenia. On average, infants have higher WBC counts than do adults. Some drugs and
+smoking can affect the WBC count.
+Test Method Variance: &#x2013;
+Other: &#x2013;
+
+
+### WBC\_COR\_A (White blood cell total, corrected for nucleated red blood cells)
+
+Common Name: WBC count; Leukocyte count; White count
+Long Name: Total white blood cell count
+Test Type: WBC
+Panels: Complete blood count
+Equivalent Tests: &#x2013;
+Not Equivalent Tests: Tests of individual types of WBCs (neutrophils, lymphocytes,
+monocytes, eosinophils, or basophils).
+Indications: To assist in determining the presence of an infection or a disease (e.g., leukemia)
+that affects the production of white blood cells; to monitor treatment and bone marrow function.
+Description: The white blood cell (WBC) count is used to evaluate the number of white blood
+cells in blood. White blood cells are made in the bone marrow and protect the body against
+infection as well as aiding in the immune response. If there is an infection, white blood cells will
+attack and destroy the pathogen causing the infection.
+Related Tests: Blood smear; tests of individual types of WBCs (neutrophils, lymphocytes,
+monocytes, eosinophils, or basophils). One component of the complete blood count (CBC);
+(Other components of the CBC include hemoglobin, red blood cells, hematocrit, and platelets).
+Approximate Reference Range (Each site will have slight variations): 4,500 – 10,000
+WBCs per microliter (mcl or μL or 10-6/Liter) of blood
+Comments: White blood cells are also called leukocytes. Conditions that inhibit WBC
+proliferation and/or weaken the immune system (e.g., HIV infection, chemotherapy) cause a
+decrease in the number of WBCs.
+An elevated number of WBCs is called leukocytosis. A decreased WBC count is called
+leukopenia. On average, infants have higher WBC counts than do adults. Some drugs and
+smoking can affect the WBC count.
+Test Method Variance: &#x2013;
+Other: &#x2013;
+
+
+### WBC\_M (White Blood Cell Count, manual count)
+
+Common Name: WBC count; Leukocyte count; White count
+Long Name: Total white blood cell count
+Test Type: WBC
+Panels: Complete blood count
+Equivalent Tests: &#x2013;
+Not Equivalent Tests: Tests of individual types of WBCs (neutrophils, lymphocytes,
+monocytes, eosinophils, or basophils).
+Indications: To assist in determining the presence of an infection or a disease (e.g., leukemia)
+that affects the production of white blood cells; to monitor treatment and bone marrow function.
+Description: The white blood cell (WBC) count is used to evaluate the number of white blood
+cells in blood. White blood cells are made in the bone marrow and protect the body against
+infection as well as aiding in the immune response. If there is an infection, white blood cells will
+attack and destroy the pathogen causing the infection.
+Related Tests: Blood smear; tests of individual types of WBCs (neutrophils, lymphocytes,
+monocytes, eosinophils, or basophils). One component of the complete blood count (CBC);
+(Other components of the CBC include hemoglobin, red blood cells, hematocrit, and platelets).
+Approximate Reference Range (Each site will have slight variations): 4,500 – 10,000
+WBCs per microliter (mcl or μL or 10-6/Liter) of blood
+Comments: White blood cells are also called leukocytes. Conditions that inhibit WBC
+proliferation and/or weaken the immune system (e.g., HIV infection, chemotherapy) cause a
+decrease in the number of WBCs.
+An elevated number of WBCs is called leukocytosis. A decreased WBC count is called
+leukopenia. On average, infants have higher WBC counts than do adults. Some drugs and
+smoking can affect the WBC count.
+Test Method Variance: &#x2013;
+Other: &#x2013;
+
+
+### WBC\_OTH\_C (White blood cell other leukocytes, count)
+
+Common Name: WBC count; Leukocyte count; White count
+Long Name: Total white blood cell count
+Test Type: WBC
+Panels: Complete blood count
+Equivalent Tests: &#x2013;
+Not Equivalent Tests: Tests of individual types of WBCs (neutrophils, lymphocytes,
+monocytes, eosinophils, or basophils).
+Indications: To assist in determining the presence of an infection or a disease (e.g., leukemia)
+that affects the production of white blood cells; to monitor treatment and bone marrow function.
+Description: The white blood cell (WBC) count is used to evaluate the number of white blood
+cells in blood. White blood cells are made in the bone marrow and protect the body against
+infection as well as aiding in the immune response. If there is an infection, white blood cells will
+attack and destroy the pathogen causing the infection.
+Related Tests: Blood smear; tests of individual types of WBCs (neutrophils, lymphocytes,
+monocytes, eosinophils, or basophils). One component of the complete blood count (CBC);
+(Other components of the CBC include hemoglobin, red blood cells, hematocrit, and platelets).
+Approximate Reference Range (Each site will have slight variations): 4,500 – 10,000
+WBCs per microliter (mcl or μL or 10-6/Liter) of blood
+Comments: White blood cells are also called leukocytes. Conditions that inhibit WBC
+proliferation and/or weaken the immune system (e.g., HIV infection, chemotherapy) cause a
+decrease in the number of WBCs.
+An elevated number of WBCs is called leukocytosis. A decreased WBC count is called
+leukopenia. On average, infants have higher WBC counts than do adults. Some drugs and
+smoking can affect the WBC count.
+Test Method Variance: &#x2013;
+Other: &#x2013;
+
+
+### WBC\_OTH\_P (White blood cell other leukocytes, percent)
+
+Common Name: WBC count; Leukocyte count; White count
+Long Name: Total white blood cell count
+Test Type: WBC
+Panels: Complete blood count
+Equivalent Tests: &#x2013;
+Not Equivalent Tests: Tests of individual types of WBCs (neutrophils, lymphocytes,
+monocytes, eosinophils, or basophils).
+Indications: To assist in determining the presence of an infection or a disease (e.g., leukemia)
+that affects the production of white blood cells; to monitor treatment and bone marrow function.
+Description: The white blood cell (WBC) count is used to evaluate the number of white blood
+cells in blood. White blood cells are made in the bone marrow and protect the body against
+infection as well as aiding in the immune response. If there is an infection, white blood cells will
+attack and destroy the pathogen causing the infection.
+Related Tests: Blood smear; tests of individual types of WBCs (neutrophils, lymphocytes,
+monocytes, eosinophils, or basophils). One component of the complete blood count (CBC);
+(Other components of the CBC include hemoglobin, red blood cells, hematocrit, and platelets).
+Approximate Reference Range (Each site will have slight variations): 4,500 – 10,000
+WBCs per microliter (mcl or μL or 10-6/Liter) of blood
+Comments: White blood cells are also called leukocytes. Conditions that inhibit WBC
+proliferation and/or weaken the immune system (e.g., HIV infection, chemotherapy) cause a
+decrease in the number of WBCs.
+An elevated number of WBCs is called leukocytosis. A decreased WBC count is called
+leukopenia. On average, infants have higher WBC counts than do adults. Some drugs and
+smoking can affect the WBC count.
+Test Method Variance: &#x2013;
+Other: &#x2013;
+
+
+### TEST NAME—FOR FUTURE USE
+
+Common Name:
+Long Name:
+Test Type:
+Panels:
+Equivalent Tests:
+Not Equivalent Tests:
+Indications:
+Description:
+Related Tests:
+Approximate Reference Range (Each site will have slight variations):
+Comments:
+Test Method Variance:
+Other:
+
+
+## Influenza
+
+
+### TEST NAME—FOR FUTURE USE
+
+Common Name:
+Long Name:
+Test Type:
+Panels:
+Equivalent Tests:
+Not Equivalent Tests:
+Indications:
+Description:
+Related Tests:
+Approximate Reference Range (Each site will have slight variations):
+Comments:
+Test Method Variance:
+Other:
+
+
+## COVID-19
+
+
+### TEST NAME—FOR FUTURE USE
+
+Common Name:
+Long Name:
+Test Type:
+Panels:
+Equivalent Tests:
+Not Equivalent Tests:
+Indications:
+Description:
+Related Tests:
+Approximate Reference Range (Each site will have slight variations):
+Comments:
+Test Method Variance:
+Other:
+
+
+## Opioid Urine Toxicity
+
+
+### U\_BUPRENORPHINE\_CNF (Buprenorphine in Urine)
+
+-   Common Name: Buprenorphine in Urine by Confirmatory method
+-   Long Name:
+-   Test Type:
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications:
+-   Description:
+
+-   Related Tests:
+
+Approximate Reference Range (Each site will have slight variations):
+
+-   Comments:
+
+For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+
+-   Test Method Variance:
+-   Other:
+
+
+### U\_BUPRENORPHINE\_SCR (Buprenorphine in Urine)
+
+-   Common Name: Buprenorphine in Urine by Screen method
+-   Long Name:
+-   Test Type:
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications:
+-   Description:
+
+-   Related Tests:
+
+Approximate Reference Range (Each site will have slight variations):
+
+-   Comments:
+
+For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+
+-   Test Method Variance:
+-   Other:
+
+
+### U\_BUTORPHANOL\_CNF (Butorphanol in Urine)
+
+-   Common Name: Butorphanol in Urine by Confirmatory method
+-   Long Name:
+-   Test Type:
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications:
+-   Description:
+
+-   Related Tests:
+
+Approximate Reference Range (Each site will have slight variations):
+
+-   Comments:
+
+For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+
+-   Test Method Variance:
+-   Other:
+
+
+### U\_BUTORPHANOL\_SCR (Butorphanol in Urine)
+
+-   Common Name: Butorphanol in Urine by Screen method
+-   Long Name:
+-   Test Type:
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications:
+-   Description:
+
+-   Related Tests:
+
+Approximate Reference Range (Each site will have slight variations):
+
+-   Comments:
+
+For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+
+-   Test Method Variance:
+-   Other:
+
+
+### U\_CODEINE\_CNF (Codeine in Urine)
+
+-   Common Name: Codeine in Urine by Confirmatory method
+-   Long Name:
+-   Test Type:
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications:
+-   Description:
+
+-   Related Tests:
+
+Approximate Reference Range (Each site will have slight variations):
+
+-   Comments:
+
+For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+
+-   Test Method Variance:
+-   Other:
+
+
+### U\_CODEINE\_SCR (Codeine in Urine)
+
+-   Common Name: Codeine in Urine by Screen method
+-   Long Name:
+-   Test Type:
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications:
+-   Description:
+
+-   Related Tests:
+
+Approximate Reference Range (Each site will have slight variations):
+
+-   Comments:
+
+For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+
+-   Test Method Variance:
+-   Other:
+
+
+### U\_DIPIPANONE\_CNF (Dipipanone in Urine)
+
+-   Common Name: Dipipanone in Urine by Confirmatory method
+-   Long Name:
+-   Test Type:
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications:
+-   Description:
+
+-   Related Tests:
+
+Approximate Reference Range (Each site will have slight variations):
+
+-   Comments:
+
+For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+
+-   Test Method Variance:
+-   Other:
+
+
+### U\_DIPIPANONE\_SCR (Dipipanone in Urine)
+
+-   Common Name: Dipipanone in Urine by Screen method
+-   Long Name:
+-   Test Type:
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications:
+-   Description:
+
+-   Related Tests:
+
+Approximate Reference Range (Each site will have slight variations):
+
+-   Comments:
+
+For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+
+-   Test Method Variance:
+-   Other:
+
+
+### U\_FENTANYL\_CNF (Fentanyl in Urine)
+
+-   Common Name: Fentanyl in Urine by Confirmatory method
+-   Long Name:
+-   Test Type:
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications:
+-   Description:
+
+-   Related Tests:
+
+Approximate Reference Range (Each site will have slight variations):
+
+-   Comments:
+
+For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+
+-   Test Method Variance:
+-   Other:
+
+
+### U\_FENTANYL\_SCR (Fentanyl in Urine)
+
+-   Common Name: Fentanyl in Urine by Screen method
+-   Long Name:
+-   Test Type:
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications:
+-   Description:
+
+-   Related Tests:
+
+Approximate Reference Range (Each site will have slight variations):
+
+-   Comments:
+
+For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+
+-   Test Method Variance:
+-   Other:
+
+
+### TEST NAME—FOR FUTURE USE
+
+Common Name:
+Long Name:
+Test Type:
+Panels:
+Equivalent Tests:
+Not Equivalent Tests:
+Indications:
+Description:
+Related Tests:
+Approximate Reference Range (Each site will have slight variations):
+Comments:
+Test Method Variance:
+Other:
+
+
+## Glucose Tolerance Tests (GTT)
+
 
 ### Glucose, Fasting Serum/Plasma (patient was fasting)
 
@@ -3184,8 +3675,6 @@ anticoagulated specimen tube to prevent cells from metabolizing glucose during t
 Other: &#x2013;
 
 
-<a id="org1900f63"></a>
-
 ### Glucose, Random (not known if patient was fasting or known that patient was not fasting)
 
 Common Name: Glucose Random, Glucose-fasting period not indicated
@@ -3216,8 +3705,6 @@ may invalidate capillary glucose. Preferred specimen is a plasma from fluoride/o
 anticoagulated specimen tube to prevent cells from metabolizing glucose during transport.
 Other:
 
-
-<a id="orgbf9db6c"></a>
 
 ### GTT Test\_Types
 
@@ -3360,834 +3847,9 @@ TEST\_TYPE LONGNAME
     was abnormal.
 
 
-<a id="org4392eea"></a>
-
-## Opioid Urine Toxicity
-
-
-<a id="orgdd79053"></a>
-
-### U\_BUPRENORPHINE\_CNF (Buprenorphine in Urine)
-
--   Common Name: Buprenorphine in Urine by Confirmatory method
--   Long Name:
--   Test Type:
--   Panels:
--   Equivalent Tests:
--   Not Equivalent Tests:
--   Indications:
--   Description:
-
--   Related Tests:
-
-Approximate Reference Range (Each site will have slight variations):
-
--   Comments:
-
-For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
-
--   Test Method Variance:
--   Other:
-
-
-<a id="org4317a1d"></a>
-
-### U\_BUPRENORPHINE\_SCR (Buprenorphine in Urine)
-
--   Common Name: Buprenorphine in Urine by Screen method
--   Long Name:
--   Test Type:
--   Panels:
--   Equivalent Tests:
--   Not Equivalent Tests:
--   Indications:
--   Description:
-
--   Related Tests:
-
-Approximate Reference Range (Each site will have slight variations):
-
--   Comments:
-
-For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
-
--   Test Method Variance:
--   Other:
-
-
-<a id="org9c5067e"></a>
-
-### U\_BUTORPHANOL\_CNF (Butorphanol in Urine)
-
--   Common Name: Butorphanol in Urine by Confirmatory method
--   Long Name:
--   Test Type:
--   Panels:
--   Equivalent Tests:
--   Not Equivalent Tests:
--   Indications:
--   Description:
-
--   Related Tests:
-
-Approximate Reference Range (Each site will have slight variations):
-
--   Comments:
-
-For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
-
--   Test Method Variance:
--   Other:
-
-
-<a id="orga4b0b20"></a>
-
-### U\_BUTORPHANOL\_SCR (Butorphanol in Urine)
-
--   Common Name: Butorphanol in Urine by Screen method
--   Long Name:
--   Test Type:
--   Panels:
--   Equivalent Tests:
--   Not Equivalent Tests:
--   Indications:
--   Description:
-
--   Related Tests:
-
-Approximate Reference Range (Each site will have slight variations):
-
--   Comments:
-
-For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
-
--   Test Method Variance:
--   Other:
-
-
-<a id="orgea2de41"></a>
-
-### U\_CODEINE\_CNF (Codeine in Urine)
-
--   Common Name: Codeine in Urine by Confirmatory method
--   Long Name:
--   Test Type:
--   Panels:
--   Equivalent Tests:
--   Not Equivalent Tests:
--   Indications:
--   Description:
-
--   Related Tests:
-
-Approximate Reference Range (Each site will have slight variations):
-
--   Comments:
-
-For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
-
--   Test Method Variance:
--   Other:
-
-
-<a id="orgd3ceaf4"></a>
-
-### U\_CODEINE\_SCR (Codeine in Urine)
-
--   Common Name: Codeine in Urine by Screen method
--   Long Name:
--   Test Type:
--   Panels:
--   Equivalent Tests:
--   Not Equivalent Tests:
--   Indications:
--   Description:
-
--   Related Tests:
-
-Approximate Reference Range (Each site will have slight variations):
-
--   Comments:
-
-For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
-
--   Test Method Variance:
--   Other:
-
-
-<a id="org49cb6c3"></a>
-
-### U\_DIPIPANONE\_CNF (Dipipanone in Urine)
-
--   Common Name: Dipipanone in Urine by Confirmatory method
--   Long Name:
--   Test Type:
--   Panels:
--   Equivalent Tests:
--   Not Equivalent Tests:
--   Indications:
--   Description:
-
--   Related Tests:
-
-Approximate Reference Range (Each site will have slight variations):
-
--   Comments:
-
-For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
-
--   Test Method Variance:
--   Other:
-
-
-<a id="org309573e"></a>
-
-### U\_DIPIPANONE\_SCR (Dipipanone in Urine)
-
--   Common Name: Dipipanone in Urine by Screen method
--   Long Name:
--   Test Type:
--   Panels:
--   Equivalent Tests:
--   Not Equivalent Tests:
--   Indications:
--   Description:
-
--   Related Tests:
-
-Approximate Reference Range (Each site will have slight variations):
-
--   Comments:
-
-For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
-
--   Test Method Variance:
--   Other:
-
-
-<a id="orgcf1c80c"></a>
-
-### U\_FENTANYL\_CNF (Fentanyl in Urine)
-
--   Common Name: Fentanyl in Urine by Confirmatory method
--   Long Name:
--   Test Type:
--   Panels:
--   Equivalent Tests:
--   Not Equivalent Tests:
--   Indications:
--   Description:
-
--   Related Tests:
-
-Approximate Reference Range (Each site will have slight variations):
-
--   Comments:
-
-For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
-
--   Test Method Variance:
--   Other:
-
-
-<a id="orgb7a532d"></a>
-
-### U\_FENTANYL\_SCR (Fentanyl in Urine)
-
--   Common Name: Fentanyl in Urine by Screen method
--   Long Name:
--   Test Type:
--   Panels:
--   Equivalent Tests:
--   Not Equivalent Tests:
--   Indications:
--   Description:
-
--   Related Tests:
-
-Approximate Reference Range (Each site will have slight variations):
-
--   Comments:
-
-For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
-
--   Test Method Variance:
--   Other:
-
-
-<a id="org35edaa8"></a>
-
-### TEST NAME—FOR FUTURE USE
-
-Common Name:
-Long Name:
-Test Type:
-Panels:
-Equivalent Tests:
-Not Equivalent Tests:
-Indications:
-Description:
-Related Tests:
-Approximate Reference Range (Each site will have slight variations):
-Comments:
-Test Method Variance:
-Other:
-
-
-<a id="orgfaa3ae5"></a>
-
-## Hematology and Coagulation
-
-
-<a id="orgcaf4f1f"></a>
-
-### FERRITIN (Ferritin in blood)
-
-Common Name: Ferritin
-Long Name: Ferritin in blood, serum, or plasma
-Test Type: FERRITIN
-Panels: Iron Panel
-Equivalent Tests: None
-Not Equivalent Tests: Serum iron
-Indications: Ferritin testing is often used in detecting iron deficiency anemia or iron overload.
-Description: Ferritin is a globular protein complex that plays a significant role in the absorption,
-storage, and release of iron for the body. The amount of ferritin reflects the amount of iron
-stored as a soluble and non-toxic form to buffer against iron deficiency and iron overload.
-Related Tests: Serum iron, transferrin, total iron-binding capacity
-Approximate Reference Range: Males: 30-300 mcg/L; Females: 10-200 mcg/L
-Comments: A low serum ferritin value is thought to be the best laboratory indicator of iron
-depletion (iron deficiency). Ferritin levels are elevated in those with hemochromatosis and other
-excess iron storage disorders and in those who have had multiple blood transfusions. Ferritin is
-an acute phase reactant, therefore serum ferritin concentrations can be increased by chronic
-infections, fever, and inflammatory reactions. The ferritin test may be ordered, along with other
-iron tests, when a complete blood count (CBC) shows that a person's hemoglobin and
-hematocrit are low and their red blood cells are smaller and paler than normal (i.e., potentially
-iron deficiency anemia).
-Test Method Variance: Results can also be reported as ng/mL
-Other:
-
-
-<a id="org984060b"></a>
-
-### Hemoglobin A1c (Glycated Hemoglobin)
-
-Common Name: Hemoglobin A1c
-Long Name: Hemoglobin A1C
-Test Type: HGBA1C
-Panels: N/A
-Equivalent Tests: N/A
-Not Equivalent Tests: Do not include absolute glycated hemoglobins (reported in g/dL), total
-hemoglobin, variant hemoglobins such as S (sickle), F (fetal), A2, sulfhemoglobin,
-methemoglobin, oxy-(O2), carboxy-(CO), reduced-(H), or hemoglobin in other body fluids such
-as urine or serous fluids.
-Indications: Indicates average blood glucose concentration over previous ~3 month time
-period. Recently suggested for screening for diabletes.
-Description: Glucose is covalently bound to hemoglobin during translation in a rate
-proportional to glucose concentration. Testing by a chromatography method can yield falsely
-elevated HBGA1C in people who have elevated hemoglobin variants fractions ("fast
-hemoglobins"). HBGA1C testing by immunochemical methods is not affected by "fast
-hemoglobins."
-Related Tests: Fructosamine test measures glycosylation of other plasma proteins with the
-glycated albumin being the major species. Fructosamine test is useful to validate questionable
-HBGA1C or when HBGA1C is not reliable due to interfering factors.
-Approximate Reference Range (Each site will have slight variations): ~ 4-6%. American
-Diabetis Association recommends values be <7%
-Comments: High pressure liquid or column chromatography and immunoassay test methods
-are commonly used.
-Test Method Variance:
-Other:
-
-
-<a id="orga63577c"></a>
-
-### HGB (Hemoglobin)
-
-Common Name: Hemoglobin; Hgb; Hb
-Long Name: Hemoglobin
-Test Type: HGB
-Panels: Complete blood count
-Equivalent Tests: &#x2013;
-Not Equivalent Tests: Red blood cell count (RBC); hematocrit (HCT); hemoglobin A1C
-(HGBA1C)
-Indications: To assess whether either anemia or polycythemia is present, and if so, to assess
-the severity of the condition. Also, hemoglobin is used to monitor response to treatment and to
-make decisions about the need for, and effectiveness of, transfusions.
-Description: Hemoglobin is a protein found in red blood cells. The amount of hemoglobin in
-the blood is an indication of the ability of the blood to deliver oxygen to organs and tissues and
-to transport carbon dioxide to the lungs.
-Related Tests: One component of the complete blood count (CBC) is hemoglobin. (Other
-components of the CBC include hematocrit, red blood cells, platelets, and white blood cells).
-Approximate Reference Range (Each site will have slight variations): 12 to 16 or 18 g/dL
-(12 to 18 g/100 milliliters or 12 to 18 grams/dL) among normal adults. There are separate age
-related reference ranges for males and female. The ranges are higher in newborns than in
-adults and children have slightly lower normal ranges.
-Comments: Hemoglobin increases when the number of red blood cells increases. Hemoglobin
-falls when production of red blood cells decreases, when there is increased destruction of red
-blood cells, or when there is significant bleeding. Elevated hemoglobin concentrations can be
-seen with dehydration, excess production of red blood cells by the bone marrow, severe lung
-disease, and other conditions.
-Low hemoglobin (anemia) can be the result of conditions such as iron, B12, or folate deficiency,
-inherited hemoglobin defects (e.g., sickle cell anemia or thalassemia), other inherited
-conditions, cirrhosis of the liver, bleeding, red cell destruction, kidney disease, aplastic anemia,
-other chronic illnesses, and certain cancers.
-Heavy smokers have higher hemoglobin levels than nonsmokers. Hemoglobin values are higher
-among those who live in high altitudes because the body produces more red blood cells in
-response to the decreased oxygen available at high altitude.
-Test Method Variance: &#x2013;
-Other: &#x2013;
-
-
-<a id="orgc73fbf6"></a>
-
-### HCT (Hematocrit)
-
-Common Name: Hematocrit, Hct, Crit;
-Long Name: Hematocrit
-Test Type: HCT
-Panels: Complete blood count
-Equivalent Tests: Packed cell volume (PCV)
-Not Equivalent Tests: Hemoglobin (HBG); red blood cell count (RBC); mean corpuscular
-volume (MCV)
-Indications: To assess whether anemia, polycythemia, or dehydration is present. To assess
-response to treatment of anemia or polycythemia. To make decisions about need for transfusion
-and assess effectiveness of transfusions.
-Description: The hematocrit is a measurement of the proportion of blood that is made up of
-red blood cells. The value is expressed as a percentage (fraction, proportion) of cells in blood.
-For example, a hematocrit of 36% means that there are 36 milliliters of red blood cells in 100
-milliliters of blood.
-Related Tests: HGB; red blood cells; MCV; One component of the complete blood count
-(CBC) is hematocrit. (Other components of the CBC include hemoglobin, red blood cells,
-platelets, and white blood cells).
-Approximate Reference Range (Each site will have slight variations): 36% to 48% (usually
-a higher reference range for higher altitudes)
-Comments: The hematocrit rises when the number of red blood cells increases or when the
-plasma volume is reduced such as with dehydration. Elevated hematocrit can also indicate
-polycythemia vera. The hematocrit falls when the body decreases its production of red blood
-cells, increases destruction of red blood cells, or when there is blood loss (e.g., with bleeding).
-Decreased hematocrit indicates anemia.
-The hematocrit reflects both the number and the volume of red blood cells.
-Hematocrit values are higher among those who live in high altitudes because of an increase in
-the number of red blood cells (i.e., the body produces more red blood cells in response to the
-decreased oxygen available at high altitude).
-See also the comments for the related test hemoglobin.
-Test Method Variance: &#x2013;
-Other: &#x2013;
-
-
-<a id="orgc1e95b0"></a>
-
-### INR (International Normalization Ratio)
-
-Common Name: INR
-Long Name: International Normalization Ratio
-Test Type: INR
-Panels: &#x2013;
-Equivalent Tests: &#x2013;
-Not Equivalent Tests: Prothrombin time [PT]; activated clotting time [ACT]; partial
-thromboplastin time [PTT]
-Indications: To monitor the effectiveness of anti-coagulants such as warfarin which are
-prescribed to prevent the formation of blood clots.
-Description: The INR was created to standardize PT readings which vary from lab to lab. It is
-calculated by taking the PT ratio and exponeniating it by the international sensitivity index of the
-thromboplastin used to measure PT.
-Related Tests: PT; ACT; PTT; platelet count, platelet function test
-Approximate Reference Range: The goal of therapy for most patients is an INR of 2.0 to 3.0.
-The goal INR for some patients with a high risk of clot formation is 2.5 to 3.5.
-Comments: Patients’ warfarin therapy must be titrated to reach these therapeutic ranges.
-Therefore, INR values may vary from higher or lower than the recommended ranges as
-regimens are being titrated or adjusted.
-The risk of bleeding increases as INR increases.
-Test Method Variance: &#x2013;
-Other: &#x2013;
-
-
-<a id="orge7bbef4"></a>
-
-### Platelets
-
-Common Name: Platelet count; thrombocyte count; PLT
-Long Name: Platelets
-Test Type: PLATELETS
-Panels: Complete blood count
-Equivalent Tests: &#x2013;
-Not Equivalent Tests: Platelet aggregation; other tests of platelet function
-Indications: Platelet counts are used to diagnose bleeding disorders and diseases of the bone
-marrow. Platelet counts are ordered when an individual has unexplained bruising. Platelet
-counts are also used when an individual seems to take an excessive amount of time to stop
-bleeding from cuts and wounds that are not large.
-Description: The platelet count is used to determine the number of platelets in your blood.
-Platelets, also known as thrombocytes, are small pieces of larger cells known as
-megakarycytes. Megakarycytes are made in the bone marrow. Platelets are released from the
-bone marrow and circulate in the blood. Platelets are the “first responders” when there is injury
-to a tissue or blood vessel. Platelets begin the formation of a blood clot in response to injury.
-Related Tests: Platelet aggregation; One component of the complete blood count (CBC) is
-platelets. (Other components of the CBC include hemoglobin, red blood cells, hematocrit, and
-white blood cells).
-Approximate Reference Range (Each site will have slight variations): 150,000 to 450,000
-per microliter (mcl or μL or 10-6/Liter) of blood.
-Comments: Platelet counts are used to help diagnose bleeding disorders and bone marrow
-diseases such as leukemia. Other causes of low platelets include autoimmune diseases, drug
-reactions, chemotherapy, diseases such as thrombocytopenic purpura (TTP), heparin induced
-thrombocytopenia, hemolytic uremia syndrome, and pooling of platelets in the spleen.
-When platelet counts fall below 10,000 – 20,000 per microliter, bleeding can occur even in the
-absence of apparent injury. Very low platelet counts are called thrombocytopenia.
-Platelet counts can also be too high (aka thrombocytosis). Thrombocytosis sometimes occurs
-without any other medical condition or with myeloproliferative disorders. The platelets in
-individuals with myeloproliferative disorders often do not function normally.
-Test Method Variance: &#x2013;
-Other: &#x2013;
-
-
-<a id="org08a8386"></a>
-
-### PT (Prothrombin time)
-
-Common Name: PT; Prothrombin Time; Pro Time; Protime
-Long Name: Prothrombin time
-Test Type: PT
-Panels: Coagulation
-Equivalent Tests: &#x2013;
-Not Equivalent Tests: International normalization ratio [INR]; activated clotting time [ACT];
-partial thromboplastin time [PTT]; thrombin time, prothrombin factor assay (factor 2),
-prothrombin gene polymorphism, i.e., prothrombin 20210A
-Indications: There are several indications for measuring PT. It can be used to: monitor
-coagulation for patients on blood thinners; assess bleeding disorders/screening for
-coagulopathies in patients not on blood thinners; assure normal clotting ability among patients
-undergoing surgery; and assess liver function.
-Description: The prothrombin time test measures how long it takes for blood to clot. More
-specifically it measures the time it takes for the clotting factor prothrombin to be converted to
-thrombin. Clotting factors in the intrinsic and extrinsic coagulation pathways impact prothrombin
-time. If either factors I (fibrinogen), II (prothrombin), V, VII, or X are missing, deficient, or
-defective, clotting time may be delayed.
-Related Tests: INR; ACT; PTT; platelet count, platelet function test
-Approximate Reference Range: The unit of measurement is “seconds.” Each site will have
-slight variations due to the reagent and instrumentation used.
-Comments: A PT of 20 seconds in one lab may not represent the same degree of
-anticoagulation as a PT of 20 seconds in another lab. Because of the variation in PT reporting,
-the INR was created to adjust for the sensitivity of the thromboplastin reagent used to measure
-PT.
-Test Method Variance: The test results depend on the method used. .
-Other: &#x2013;
-
-
-<a id="org0001821"></a>
-
-### PTT (activated Partial throomboplastin time)
-
-Common Name: PT; Prothrombin Time; Pro Time; Protime
-Long Name: Prothrombin time
-Test Type: PT
-Panels: Coagulation
-Equivalent Tests: &#x2013;
-Not Equivalent Tests: International normalization ratio [INR]; activated clotting time [ACT];
-partial thromboplastin time [PTT]; thrombin time, prothrombin factor assay (factor 2),
-prothrombin gene polymorphism, i.e., prothrombin 20210A
-Indications: There are several indications for measuring PT. It can be used to: monitor
-coagulation for patients on blood thinners; assess bleeding disorders/screening for
-coagulopathies in patients not on blood thinners; assure normal clotting ability among patients
-undergoing surgery; and assess liver function.
-Description: The prothrombin time test measures how long it takes for blood to clot. More
-specifically it measures the time it takes for the clotting factor prothrombin to be converted to
-thrombin. Clotting factors in the intrinsic and extrinsic coagulation pathways impact prothrombin
-time. If either factors I (fibrinogen), II (prothrombin), V, VII, or X are missing, deficient, or
-defective, clotting time may be delayed.
-Related Tests: INR; ACT; PTT; platelet count, platelet function test
-Approximate Reference Range: The unit of measurement is “seconds.” Each site will have
-slight variations due to the reagent and instrumentation used.
-Comments: A PT of 20 seconds in one lab may not represent the same degree of
-anticoagulation as a PT of 20 seconds in another lab. Because of the variation in PT reporting,
-the INR was created to adjust for the sensitivity of the thromboplastin reagent used to measure
-PT.
-Test Method Variance: The test results depend on the method used. .
-Other: &#x2013;
-
-
-<a id="org6476d9a"></a>
-
-### RBC (Red Blood Cell Count [in blood])
-
-Common Name: Red blood cell count; RBC count; erythrocyte count; red count
-Long Name: Red blood cell count
-Test Type: RBC
-Panels: Complete blood count
-Equivalent Tests: &#x2013;
-Not Equivalent Tests: Hemoglobin (HGB); hematocrit (HCT); mean corpuscular volume
-(MCV)
-Indications: To assess whether the number of RBCs in whole blood is within the normal range,
-and to aid in diagnosing hematologic disorders, bleeding problems, anemias, and polycythemia.
-Description: The RBC is used to evaluate the number of red blood cells in blood.
-Related Tests: Blood smear; complete blood count (CBC) (Other components of the CBC
-include hemoglobin, hematocrit, platelets, and white blood cells).
-Approximate Reference Range (Each site will have slight variations): Male: 4.7 &#x2013; 6.1
-million cells per microliter (mcl or μL or 10-6/Liter) of blood; Female: 4.2 – 5.4 million cells per
-microliter (mcl or μL or 10-6/Liter) of blood
-Comments: RBC counts must be interpreted along with HGB, HCT, and/or red blood cell
-indices (MCV, mean corpuscular hemoglobin concentration [MCHC], and mean corpuscular
-hemoglobin [MCH]). RBCs are made in the bone marrow and carry oxygen from the lungs to
-body cells and transport carbon dioxide from cells back to the lungs. Changes in RBC count are
-usually associated with changes in HGB levels. When the RBC falls below normal, anemia
-occurs. A decreased number of RBCs can result from blood loss. A slight decrease in RBC is
-seen in pregnancy as a result of expansion of body fluids. Disorders such as RBC destruction
-(e.g., hemolytic anemia) or decreased RBC production (e.g., iron deficiency anemia) can result
-in low RBC counts.
-When RBC rises about normal, polycythemia occurs. Dehydration, congenital heart diseases,
-some pulmonary diseases, and tissue hypoxia over an extended period of time can result in
-increases in RBCs. RBC counts are higher among those who live in high altitudes because the
-body produces more red RBCs in response to decreased oxygen available at high altitude.
-Test Method Variance: &#x2013;
-Other: &#x2013;
-
-
-<a id="org7a2aad6"></a>
-
-### WBC (Total White Blood Cell Count)
-
-Common Name: WBC count; Leukocyte count; White count
-Long Name: Total white blood cell count
-Test Type: WBC
-Panels: Complete blood count
-Equivalent Tests: &#x2013;
-Not Equivalent Tests: Tests of individual types of WBCs (neutrophils, lymphocytes,
-monocytes, eosinophils, or basophils).
-Indications: To assist in determining the presence of an infection or a disease (e.g., leukemia)
-that affects the production of white blood cells; to monitor treatment and bone marrow function.
-Description: The white blood cell (WBC) count is used to evaluate the number of white blood
-cells in blood. White blood cells are made in the bone marrow and protect the body against
-infection as well as aiding in the immune response. If there is an infection, white blood cells will
-attack and destroy the pathogen causing the infection.
-Related Tests: Blood smear; tests of individual types of WBCs (neutrophils, lymphocytes,
-monocytes, eosinophils, or basophils). One component of the complete blood count (CBC);
-(Other components of the CBC include hemoglobin, red blood cells, hematocrit, and platelets).
-Approximate Reference Range (Each site will have slight variations): 4,500 – 10,000
-WBCs per microliter (mcl or μL or 10-6/Liter) of blood
-Comments: White blood cells are also called leukocytes. Conditions that inhibit WBC
-proliferation and/or weaken the immune system (e.g., HIV infection, chemotherapy) cause a
-decrease in the number of WBCs.
-An elevated number of WBCs is called leukocytosis. A decreased WBC count is called
-leukopenia. On average, infants have higher WBC counts than do adults. Some drugs and
-smoking can affect the WBC count.
-Test Method Variance: &#x2013;
-Other: &#x2013;
-
-
-<a id="org9a56008"></a>
-
-### WBC\_A (White Blood Cell, automated count)
-
-Common Name: WBC count; Leukocyte count; White count
-Long Name: Total white blood cell count
-Test Type: WBC
-Panels: Complete blood count
-Equivalent Tests: &#x2013;
-Not Equivalent Tests: Tests of individual types of WBCs (neutrophils, lymphocytes,
-monocytes, eosinophils, or basophils).
-Indications: To assist in determining the presence of an infection or a disease (e.g., leukemia)
-that affects the production of white blood cells; to monitor treatment and bone marrow function.
-Description: The white blood cell (WBC) count is used to evaluate the number of white blood
-cells in blood. White blood cells are made in the bone marrow and protect the body against
-infection as well as aiding in the immune response. If there is an infection, white blood cells will
-attack and destroy the pathogen causing the infection.
-Related Tests: Blood smear; tests of individual types of WBCs (neutrophils, lymphocytes,
-monocytes, eosinophils, or basophils). One component of the complete blood count (CBC);
-(Other components of the CBC include hemoglobin, red blood cells, hematocrit, and platelets).
-Approximate Reference Range (Each site will have slight variations): 4,500 – 10,000
-WBCs per microliter (mcl or μL or 10-6/Liter) of blood
-Comments: White blood cells are also called leukocytes. Conditions that inhibit WBC
-proliferation and/or weaken the immune system (e.g., HIV infection, chemotherapy) cause a
-decrease in the number of WBCs.
-An elevated number of WBCs is called leukocytosis. A decreased WBC count is called
-leukopenia. On average, infants have higher WBC counts than do adults. Some drugs and
-smoking can affect the WBC count.
-Test Method Variance: &#x2013;
-Other: &#x2013;
-
-
-<a id="org40e47f0"></a>
-
-### WBC\_COR (White blood cell total, corrected for nucleated red blood cells)
-
-Common Name: WBC count; Leukocyte count; White count
-Long Name: Total white blood cell count
-Test Type: WBC
-Panels: Complete blood count
-Equivalent Tests: &#x2013;
-Not Equivalent Tests: Tests of individual types of WBCs (neutrophils, lymphocytes,
-monocytes, eosinophils, or basophils).
-Indications: To assist in determining the presence of an infection or a disease (e.g., leukemia)
-that affects the production of white blood cells; to monitor treatment and bone marrow function.
-Description: The white blood cell (WBC) count is used to evaluate the number of white blood
-cells in blood. White blood cells are made in the bone marrow and protect the body against
-infection as well as aiding in the immune response. If there is an infection, white blood cells will
-attack and destroy the pathogen causing the infection.
-Related Tests: Blood smear; tests of individual types of WBCs (neutrophils, lymphocytes,
-monocytes, eosinophils, or basophils). One component of the complete blood count (CBC);
-(Other components of the CBC include hemoglobin, red blood cells, hematocrit, and platelets).
-Approximate Reference Range (Each site will have slight variations): 4,500 – 10,000
-WBCs per microliter (mcl or μL or 10-6/Liter) of blood
-Comments: White blood cells are also called leukocytes. Conditions that inhibit WBC
-proliferation and/or weaken the immune system (e.g., HIV infection, chemotherapy) cause a
-decrease in the number of WBCs.
-An elevated number of WBCs is called leukocytosis. A decreased WBC count is called
-leukopenia. On average, infants have higher WBC counts than do adults. Some drugs and
-smoking can affect the WBC count.
-Test Method Variance: &#x2013;
-Other: &#x2013;
-
-
-<a id="orga221049"></a>
-
-### WBC\_COR\_A (White blood cell total, corrected for nucleated red blood cells)
-
-Common Name: WBC count; Leukocyte count; White count
-Long Name: Total white blood cell count
-Test Type: WBC
-Panels: Complete blood count
-Equivalent Tests: &#x2013;
-Not Equivalent Tests: Tests of individual types of WBCs (neutrophils, lymphocytes,
-monocytes, eosinophils, or basophils).
-Indications: To assist in determining the presence of an infection or a disease (e.g., leukemia)
-that affects the production of white blood cells; to monitor treatment and bone marrow function.
-Description: The white blood cell (WBC) count is used to evaluate the number of white blood
-cells in blood. White blood cells are made in the bone marrow and protect the body against
-infection as well as aiding in the immune response. If there is an infection, white blood cells will
-attack and destroy the pathogen causing the infection.
-Related Tests: Blood smear; tests of individual types of WBCs (neutrophils, lymphocytes,
-monocytes, eosinophils, or basophils). One component of the complete blood count (CBC);
-(Other components of the CBC include hemoglobin, red blood cells, hematocrit, and platelets).
-Approximate Reference Range (Each site will have slight variations): 4,500 – 10,000
-WBCs per microliter (mcl or μL or 10-6/Liter) of blood
-Comments: White blood cells are also called leukocytes. Conditions that inhibit WBC
-proliferation and/or weaken the immune system (e.g., HIV infection, chemotherapy) cause a
-decrease in the number of WBCs.
-An elevated number of WBCs is called leukocytosis. A decreased WBC count is called
-leukopenia. On average, infants have higher WBC counts than do adults. Some drugs and
-smoking can affect the WBC count.
-Test Method Variance: &#x2013;
-Other: &#x2013;
-
-
-<a id="org32b0d4d"></a>
-
-### WBC\_M (White Blood Cell Count, manual count)
-
-Common Name: WBC count; Leukocyte count; White count
-Long Name: Total white blood cell count
-Test Type: WBC
-Panels: Complete blood count
-Equivalent Tests: &#x2013;
-Not Equivalent Tests: Tests of individual types of WBCs (neutrophils, lymphocytes,
-monocytes, eosinophils, or basophils).
-Indications: To assist in determining the presence of an infection or a disease (e.g., leukemia)
-that affects the production of white blood cells; to monitor treatment and bone marrow function.
-Description: The white blood cell (WBC) count is used to evaluate the number of white blood
-cells in blood. White blood cells are made in the bone marrow and protect the body against
-infection as well as aiding in the immune response. If there is an infection, white blood cells will
-attack and destroy the pathogen causing the infection.
-Related Tests: Blood smear; tests of individual types of WBCs (neutrophils, lymphocytes,
-monocytes, eosinophils, or basophils). One component of the complete blood count (CBC);
-(Other components of the CBC include hemoglobin, red blood cells, hematocrit, and platelets).
-Approximate Reference Range (Each site will have slight variations): 4,500 – 10,000
-WBCs per microliter (mcl or μL or 10-6/Liter) of blood
-Comments: White blood cells are also called leukocytes. Conditions that inhibit WBC
-proliferation and/or weaken the immune system (e.g., HIV infection, chemotherapy) cause a
-decrease in the number of WBCs.
-An elevated number of WBCs is called leukocytosis. A decreased WBC count is called
-leukopenia. On average, infants have higher WBC counts than do adults. Some drugs and
-smoking can affect the WBC count.
-Test Method Variance: &#x2013;
-Other: &#x2013;
-
-
-<a id="orgc39ffbd"></a>
-
-### WBC\_OTH\_C (White blood cell other leukocytes, count)
-
-Common Name: WBC count; Leukocyte count; White count
-Long Name: Total white blood cell count
-Test Type: WBC
-Panels: Complete blood count
-Equivalent Tests: &#x2013;
-Not Equivalent Tests: Tests of individual types of WBCs (neutrophils, lymphocytes,
-monocytes, eosinophils, or basophils).
-Indications: To assist in determining the presence of an infection or a disease (e.g., leukemia)
-that affects the production of white blood cells; to monitor treatment and bone marrow function.
-Description: The white blood cell (WBC) count is used to evaluate the number of white blood
-cells in blood. White blood cells are made in the bone marrow and protect the body against
-infection as well as aiding in the immune response. If there is an infection, white blood cells will
-attack and destroy the pathogen causing the infection.
-Related Tests: Blood smear; tests of individual types of WBCs (neutrophils, lymphocytes,
-monocytes, eosinophils, or basophils). One component of the complete blood count (CBC);
-(Other components of the CBC include hemoglobin, red blood cells, hematocrit, and platelets).
-Approximate Reference Range (Each site will have slight variations): 4,500 – 10,000
-WBCs per microliter (mcl or μL or 10-6/Liter) of blood
-Comments: White blood cells are also called leukocytes. Conditions that inhibit WBC
-proliferation and/or weaken the immune system (e.g., HIV infection, chemotherapy) cause a
-decrease in the number of WBCs.
-An elevated number of WBCs is called leukocytosis. A decreased WBC count is called
-leukopenia. On average, infants have higher WBC counts than do adults. Some drugs and
-smoking can affect the WBC count.
-Test Method Variance: &#x2013;
-Other: &#x2013;
-
-
-<a id="orgd42407e"></a>
-
-### WBC\_OTH\_P (White blood cell other leukocytes, percent)
-
-Common Name: WBC count; Leukocyte count; White count
-Long Name: Total white blood cell count
-Test Type: WBC
-Panels: Complete blood count
-Equivalent Tests: &#x2013;
-Not Equivalent Tests: Tests of individual types of WBCs (neutrophils, lymphocytes,
-monocytes, eosinophils, or basophils).
-Indications: To assist in determining the presence of an infection or a disease (e.g., leukemia)
-that affects the production of white blood cells; to monitor treatment and bone marrow function.
-Description: The white blood cell (WBC) count is used to evaluate the number of white blood
-cells in blood. White blood cells are made in the bone marrow and protect the body against
-infection as well as aiding in the immune response. If there is an infection, white blood cells will
-attack and destroy the pathogen causing the infection.
-Related Tests: Blood smear; tests of individual types of WBCs (neutrophils, lymphocytes,
-monocytes, eosinophils, or basophils). One component of the complete blood count (CBC);
-(Other components of the CBC include hemoglobin, red blood cells, hematocrit, and platelets).
-Approximate Reference Range (Each site will have slight variations): 4,500 – 10,000
-WBCs per microliter (mcl or μL or 10-6/Liter) of blood
-Comments: White blood cells are also called leukocytes. Conditions that inhibit WBC
-proliferation and/or weaken the immune system (e.g., HIV infection, chemotherapy) cause a
-decrease in the number of WBCs.
-An elevated number of WBCs is called leukocytosis. A decreased WBC count is called
-leukopenia. On average, infants have higher WBC counts than do adults. Some drugs and
-smoking can affect the WBC count.
-Test Method Variance: &#x2013;
-Other: &#x2013;
-
-
-<a id="orgc3b43bc"></a>
-
-### TEST NAME—FOR FUTURE USE
-
-Common Name:
-Long Name:
-Test Type:
-Panels:
-Equivalent Tests:
-Not Equivalent Tests:
-Indications:
-Description:
-Related Tests:
-Approximate Reference Range (Each site will have slight variations):
-Comments:
-Test Method Variance:
-Other:
-
-
-<a id="org13fc2ad"></a>
-
 ## Cell Markers
 
 
-<a id="org8413cce"></a>
-
 ### TEST NAME—FOR FUTURE USE
 
 Common Name:
@@ -4204,14 +3866,10 @@ Comments:
 Test Method Variance:
 Other:
 
-
-<a id="org533b745"></a>
 
 ## Microbiology
 
 
-<a id="org5d933a3"></a>
-
 ### TEST NAME—FOR FUTURE USE
 
 Common Name:
@@ -4229,60 +3887,8 @@ Test Method Variance:
 Other:
 
 
-<a id="org5e02668"></a>
+## Blank Template
 
-## Influenza
-
-
-<a id="org1dc060f"></a>
-
-### TEST NAME—FOR FUTURE USE
-
-Common Name:
-Long Name:
-Test Type:
-Panels:
-Equivalent Tests:
-Not Equivalent Tests:
-Indications:
-Description:
-Related Tests:
-Approximate Reference Range (Each site will have slight variations):
-Comments:
-Test Method Variance:
-Other:
-
-
-<a id="orgfe2c1c6"></a>
-
-## COVID-19
-
-
-<a id="org05b7e91"></a>
-
-### TEST NAME—FOR FUTURE USE
-
-Common Name:
-Long Name:
-Test Type:
-Panels:
-Equivalent Tests:
-Not Equivalent Tests:
-Indications:
-Description:
-Related Tests:
-Approximate Reference Range (Each site will have slight variations):
-Comments:
-Test Method Variance:
-Other:
-
-
-<a id="org11956ca"></a>
-
-# Blank Template
-
-
-<a id="org63c41bf"></a>
 
 ### TEST NAME—FOR FUTURE USE
 
