@@ -8,7 +8,6 @@
 This reference document is not inclusive of all lab tests that have been deemed priority tests to incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory content is expanded in the VDW.
 
 
-
 ## Chemistry Lab Tests
 
 
@@ -48,6 +47,11 @@ electrophoresis must be performed to make an accurate diagnosis.
 -   Comments:
 -   Test Method Variance:
 -   Other:
+
+
+### AFP (Alpha-1 Fetoprotein)
+
+***NEEDS TO BE UPDATED***
 
 
 ### ALBUMIN (Albumin, total in blood/serum)
@@ -146,6 +150,9 @@ liter.
 Other:
 
 
+### AMYLASE (Amylase, total in blood)
+
+
 ### AST (Aspartate Aminotransferase, SGOT)
 
 Common Name: AST/SGOT
@@ -171,144 +178,141 @@ liter
 Other:
 
 
-### AMYLASE (Amylase, total in blood)
+### (BILI) Bilirubin Test Types
 
+1.  BILI\_DIR (Bilirubin, Direct)
 
-### BILI\_DIR (Bilirubin, Direct)
+    -   Common Name: Direct Bilirubin
+    
+    Long Name: Bilirubin, direct/conjugated/glucuronidated in blood/serum
+    Test Type: BILI\_DIR
+    Panels: Hepatic/Liver Function Panel
+    Equivalent Tests: Direct bilirubin; Conjugated bilirubin;
+    Not Equivalent Tests:
+    Indications: The bilirubin test is used to check liver function and watch for signs of liver
+    disease, such as hepatitis or cirrhosis, or the effects of medicines that can damage the liver.
+    The test is also used to find out if something is blocking the bile ducts. This may occur if
+    gallstones, tumors of the pancreas, or other conditions are present. Bilirubin tests are also used
+    to diagnose conditions that cause increased destruction of red blood cells, such as hemolytic
+    anemia or hemolytic disease of the newborn.
+    Description: Bilirubin testing checks for levels of bilirubin — an orange-yellow pigment — in
+    blood. Bilirubin results from the normal breakdown of red blood cells. As a normal process,
+    bilirubin is carried in the blood and passes through your liver. Too much bilirubin may indicate
+    liver damage or disease. Before reaching the liver, as a breakdown product of red blood cells,
+    the bilirubin is called indirect (unconjugated) bilirubin. Once in the liver, most bilirubin attaches
+    to certain sugars creating direct (conjugated) bilirubin. Direct bilirubin is released into bile and
+    stored in the gallbladder before eventually being excreted in stool. Higher than normal levels of
+    direct or indirect bilirubin may indicate different types of liver problems.
+    Related Tests: Other tests related to liver function (alanine transaminase [ALT], aspartate
+    transaminase [AST], alkaline phosphatase [ALP], albumin and total protein, gammaglutamyltransferase
+    [GGT], lactate dehydrogenase [LDH], prothrombin time [PT])
+    Approximate Reference Range (Each site will have slight variations): 0.1 – 0.3 mg/dL or
+    1.7 – 5.1 mmol/L
+    Comments: Bilirubin levels tend to be slightly higher in males than females, while African
+    Americans show lower values. Strenuous exercise may also increase bilirubin levels.
+    Test Method Variance: Urine levels of bilirubin may also be clinically significant.
+    Other: It is not uncommon to see high bilirubin levels in newborns, typically 1 to 3 days old. This
+    is sometimes called physiologic jaundice of the newborn. Within the first 24 hours of life, up to
+    50% of full-term newborns, and an even greater percentage of pre-term babies, may have a
+    high bilirubin level. After birth, newborns begin breaking down the excess red blood cells
+    (RBCs) they are born with and, since the newborn’s liver is not fully mature, it is unable to
+    process the extra bilirubin, causing the infant's bilirubin levels to rise in the blood and other body
+    tissues. This situation usually resolves itself within a few days. In other instances, newborns’ red
+    blood cells may be being destroyed because of blood incompatibilities between the baby and
+    her mother, called hemolytic disease of the newborn.
 
--   Common Name: Direct Bilirubin
+2.  BILI\_INDIR (Bilirubin, Indirect)
 
-Long Name: Bilirubin, direct/conjugated/glucuronidated in blood/serum
-Test Type: BILI\_DIR
-Panels: Hepatic/Liver Function Panel
-Equivalent Tests: Direct bilirubin; Conjugated bilirubin;
-Not Equivalent Tests:
-Indications: The bilirubin test is used to check liver function and watch for signs of liver
-disease, such as hepatitis or cirrhosis, or the effects of medicines that can damage the liver.
-The test is also used to find out if something is blocking the bile ducts. This may occur if
-gallstones, tumors of the pancreas, or other conditions are present. Bilirubin tests are also used
-to diagnose conditions that cause increased destruction of red blood cells, such as hemolytic
-anemia or hemolytic disease of the newborn.
-Description: Bilirubin testing checks for levels of bilirubin — an orange-yellow pigment — in
-blood. Bilirubin results from the normal breakdown of red blood cells. As a normal process,
-bilirubin is carried in the blood and passes through your liver. Too much bilirubin may indicate
-liver damage or disease. Before reaching the liver, as a breakdown product of red blood cells,
-the bilirubin is called indirect (unconjugated) bilirubin. Once in the liver, most bilirubin attaches
-to certain sugars creating direct (conjugated) bilirubin. Direct bilirubin is released into bile and
-stored in the gallbladder before eventually being excreted in stool. Higher than normal levels of
-direct or indirect bilirubin may indicate different types of liver problems.
-Related Tests: Other tests related to liver function (alanine transaminase [ALT], aspartate
-transaminase [AST], alkaline phosphatase [ALP], albumin and total protein, gammaglutamyltransferase
-[GGT], lactate dehydrogenase [LDH], prothrombin time [PT])
-Approximate Reference Range (Each site will have slight variations): 0.1 – 0.3 mg/dL or
-1.7 – 5.1 mmol/L
-Comments: Bilirubin levels tend to be slightly higher in males than females, while African
-Americans show lower values. Strenuous exercise may also increase bilirubin levels.
-Test Method Variance: Urine levels of bilirubin may also be clinically significant.
-Other: It is not uncommon to see high bilirubin levels in newborns, typically 1 to 3 days old. This
-is sometimes called physiologic jaundice of the newborn. Within the first 24 hours of life, up to
-50% of full-term newborns, and an even greater percentage of pre-term babies, may have a
-high bilirubin level. After birth, newborns begin breaking down the excess red blood cells
-(RBCs) they are born with and, since the newborn’s liver is not fully mature, it is unable to
-process the extra bilirubin, causing the infant's bilirubin levels to rise in the blood and other body
-tissues. This situation usually resolves itself within a few days. In other instances, newborns’ red
-blood cells may be being destroyed because of blood incompatibilities between the baby and
-her mother, called hemolytic disease of the newborn.
+    Common Name: Indirect Bilirubin
+    Long Name: Bilirubin, indirect/unconjugated/nonglucuronidated in blood/serum
+    Test Type: BILI\_INDIR
+    Panels: Hepatic/Liver Function Panel
+    Equivalent Tests: Indirect bilirubin; unconjugated bilirubin
+    Not Equivalent Tests:
+    Indications: The bilirubin test is used to check liver function and watch for signs of liver
+    disease, such as hepatitis or cirrhosis, or the effects of medicines that can damage the liver.
+    The test is also used to find out if something is blocking the bile ducts. This may occur if
+    gallstones, tumors of the pancreas, or other conditions are present. Bilirubin tests are also used
+    to diagnose conditions that cause increased destruction of red blood cells, such as hemolytic
+    anemia or hemolytic disease of the newborn.
+    Description: Bilirubin testing checks for levels of bilirubin — an orange-yellow pigment — in
+    blood. Bilirubin results from the normal breakdown of red blood cells. As a normal process,
+    bilirubin is carried in the blood and passes through your liver. Too much bilirubin may indicate
+    liver damage or disease. Before reaching the liver, as a break-down product of red blood cells,
+    the bilirubin is called indirect (unconjugated) bilirubin. Once in the liver, most bilirubin attaches
+    to certain sugars creating what's called direct (conjugated) bilirubin. Direct bilirubin is released
+    into bile and stored in the gallbladder before eventually being excreted in stool. Higher than
+    normal levels of direct or indirect bilirubin may indicate different types of liver problems.
+    Related Tests: Other tests related to liver function (alanine transaminase [ALT], aspartate
+    transaminase [AST], alkaline phosphatase [ALP], albumin and total protein, gammaglutamyltransferase
+    [GGT], lactate dehydrogenase [LDH], prothrombin time [PT])
+    Approximate Reference Range (Each site will have slight variations): 0.2 – 0.8 mg/dL or
+    3.4 – 12.0 mmol/L
+    Comments: Bilirubin levels tend to be slightly higher in males than females, while African
+    Americans show lower values. Strenuous exercise may also increase bilirubin levels.
+    Test Method Variance:
+    Other: It is not uncommon to see high bilirubin levels in newborns, typically 1 to 3 days old.
+    This is sometimes called physiologic jaundice of the newborn. Within the first 24 hours of life, up
+    to 50% of full-term newborns, and an even greater percentage of pre-term babies, may have a
+    high bilirubin level. After birth, newborns begin breaking down the excess red blood cells
+    (RBCs) they are born with and, since the newborn’s liver is not fully mature, it is unable to
+    process the extra bilirubin, causing the infant's bilirubin levels to rise in the blood and other body
+    tissues. This situation usually resolves itself within a few days. In other instances, newborns’ red
+    
+    blood cells may be being destroyed because of blood incompatibilities between the baby and
+    her mother, called hemolytic disease of the newborn.
 
+3.  BILI\_TOT (Bilirubin, Total)
 
-### BILI\_INDIR (Bilirubin, Indirect)
-
-Common Name: Indirect Bilirubin
-Long Name: Bilirubin, indirect/unconjugated/nonglucuronidated in blood/serum
-Test Type: BILI\_INDIR
-Panels: Hepatic/Liver Function Panel
-Equivalent Tests: Indirect bilirubin; unconjugated bilirubin
-Not Equivalent Tests:
-Indications: The bilirubin test is used to check liver function and watch for signs of liver
-disease, such as hepatitis or cirrhosis, or the effects of medicines that can damage the liver.
-The test is also used to find out if something is blocking the bile ducts. This may occur if
-gallstones, tumors of the pancreas, or other conditions are present. Bilirubin tests are also used
-to diagnose conditions that cause increased destruction of red blood cells, such as hemolytic
-anemia or hemolytic disease of the newborn.
-Description: Bilirubin testing checks for levels of bilirubin — an orange-yellow pigment — in
-blood. Bilirubin results from the normal breakdown of red blood cells. As a normal process,
-bilirubin is carried in the blood and passes through your liver. Too much bilirubin may indicate
-liver damage or disease. Before reaching the liver, as a break-down product of red blood cells,
-the bilirubin is called indirect (unconjugated) bilirubin. Once in the liver, most bilirubin attaches
-to certain sugars creating what's called direct (conjugated) bilirubin. Direct bilirubin is released
-into bile and stored in the gallbladder before eventually being excreted in stool. Higher than
-normal levels of direct or indirect bilirubin may indicate different types of liver problems.
-Related Tests: Other tests related to liver function (alanine transaminase [ALT], aspartate
-transaminase [AST], alkaline phosphatase [ALP], albumin and total protein, gammaglutamyltransferase
-[GGT], lactate dehydrogenase [LDH], prothrombin time [PT])
-Approximate Reference Range (Each site will have slight variations): 0.2 – 0.8 mg/dL or
-3.4 – 12.0 mmol/L
-Comments: Bilirubin levels tend to be slightly higher in males than females, while African
-Americans show lower values. Strenuous exercise may also increase bilirubin levels.
-Test Method Variance:
-Other: It is not uncommon to see high bilirubin levels in newborns, typically 1 to 3 days old.
-This is sometimes called physiologic jaundice of the newborn. Within the first 24 hours of life, up
-to 50% of full-term newborns, and an even greater percentage of pre-term babies, may have a
-high bilirubin level. After birth, newborns begin breaking down the excess red blood cells
-(RBCs) they are born with and, since the newborn’s liver is not fully mature, it is unable to
-process the extra bilirubin, causing the infant's bilirubin levels to rise in the blood and other body
-tissues. This situation usually resolves itself within a few days. In other instances, newborns’ red
-
-blood cells may be being destroyed because of blood incompatibilities between the baby and
-her mother, called hemolytic disease of the newborn.
-
-
-### BILI\_TOT (Bilirubin, Total)
-
-Common Name: Total Bilirubin
-Long Name: Bilirubin, total in blood/serum
-Test Type: BILI\_TOT
-Panels: Hepatic/Liver Function Panel
-Equivalent Tests: Total bilirubin; TBIL; Neonatal bilirubin
-Not Equivalent Tests: The following bilirubin tests are subsets (components) of total bilirubin
-but are not the same as total bilirubin and have separate TEST\_TYPES: Direct bilirubin;
-Conjugated bilirubin; Indirect bilirubin; Unconjugated bilirubin.
-Indications: The bilirubin test is used to check liver function and watch for signs of liver
-disease, such as hepatitis or cirrhosis, or the effects of medicines that can damage the liver.
-The test is also used to find out if something is blocking the bile ducts. This may occur if
-gallstones, tumors of the pancreas, or other conditions are present. Bilirubin tests are also used
-to diagnose conditions that cause increased destruction of red blood cells, such as hemolytic
-anemia or hemolytic disease of the newborn.
-Description: Bilirubin testing checks for levels of bilirubin — an orange-yellow pigment — in
-blood. Bilirubin results from the normal breakdown of red blood cells. As a normal process,
-bilirubin is carried in the blood and passes through your liver. Too much bilirubin may indicate
-liver damage or disease. Before reaching the liver, as a break-down product of red blood cells,
-the bilirubin is called indirect (unconjugated) bilirubin. Once in the liver, most bilirubin attaches
-to certain sugars creating what's called direct (conjugated) bilirubin. Direct bilirubin is released
-into bile and stored in the gallbladder before eventually being excreted in stool. Higher than
-normal levels of direct or indirect bilirubin may indicate different types of liver problems. Total
-bilirubin is indirect plus direct bilirubin plus various amounts of uncommon bilirubin subsets all
-combined into the total bilirubin measurement.
-Related Tests: Other tests related to liver function (alanine transaminase [ALT], aspartate
-transaminase [AST], alkaline phosphatase [ALP], albumin and total protein, gammaglutamyltransferase
-[GGT], lactate dehydrogenase [LDH], prothrombin time [PT])
-Approximate Reference Range (Each site will have slight variations): 0.3 – 1.0 mg/dL or
-5.1 – 17.0 mmol/L
-Normal Values in Newborns: Normal values in newborns depend on the age of the baby in
-hours and whether the baby was premature or full term. Normal values may vary from lab to lab.
-Total bilirubin levels in newborns less than 7 days old
-Age Premature baby Full-term baby
-Less than 24 hours < 8.0 mg/dL (< 137 mmol/L) < 6.0 mg/dL (< 103 mmol/L)
-Less than 48 hours < 12.0 mg/dL (< 205 mmol/L) < 10.0 mg/dL (< 170 mmol/L)
-3 to 5 days < 15.0 mg/dL (< 256 mmol/L) < 12.0 mg/dL (< 205 mmol/L)
-7 days or older < 15.0 mg/dL ( < 256 mmol/L) < 10.0 mg/dL (< 170 mmol/L)
-Comments: Bilirubin levels tend to be slightly higher in males than females, while African
-Americans show lower values. Strenuous exercise may also increase bilirubin levels.
-Test Method Variance:
-Other: It is not uncommon to see high bilirubin levels in newborns, typically 1 to 3 days old.
-This is sometimes called physiologic jaundice of the newborn. Within the first 24 hours of life, up
-to 50% of full-term newborns, and an even greater percentage of pre-term babies, may have a
-high bilirubin level. After birth, newborns begin breaking down the excess red blood cells
-(RBCs) they are born with and, since the newborn’s liver is not fully mature, it is unable to
-process the extra bilirubin, causing the infant's bilirubin levels to rise in the blood and other body
-tissues. This situation usually resolves itself within a few days. In other instances, newborns’ red
-blood cells may be being destroyed because of blood incompatibilities between the baby and
-her mother, called hemolytic disease of the newborn.
+    Common Name: Total Bilirubin
+    Long Name: Bilirubin, total in blood/serum
+    Test Type: BILI\_TOT
+    Panels: Hepatic/Liver Function Panel
+    Equivalent Tests: Total bilirubin; TBIL; Neonatal bilirubin
+    Not Equivalent Tests: The following bilirubin tests are subsets (components) of total bilirubin
+    but are not the same as total bilirubin and have separate TEST\_TYPES: Direct bilirubin;
+    Conjugated bilirubin; Indirect bilirubin; Unconjugated bilirubin.
+    Indications: The bilirubin test is used to check liver function and watch for signs of liver
+    disease, such as hepatitis or cirrhosis, or the effects of medicines that can damage the liver.
+    The test is also used to find out if something is blocking the bile ducts. This may occur if
+    gallstones, tumors of the pancreas, or other conditions are present. Bilirubin tests are also used
+    to diagnose conditions that cause increased destruction of red blood cells, such as hemolytic
+    anemia or hemolytic disease of the newborn.
+    Description: Bilirubin testing checks for levels of bilirubin — an orange-yellow pigment — in
+    blood. Bilirubin results from the normal breakdown of red blood cells. As a normal process,
+    bilirubin is carried in the blood and passes through your liver. Too much bilirubin may indicate
+    liver damage or disease. Before reaching the liver, as a break-down product of red blood cells,
+    the bilirubin is called indirect (unconjugated) bilirubin. Once in the liver, most bilirubin attaches
+    to certain sugars creating what's called direct (conjugated) bilirubin. Direct bilirubin is released
+    into bile and stored in the gallbladder before eventually being excreted in stool. Higher than
+    normal levels of direct or indirect bilirubin may indicate different types of liver problems. Total
+    bilirubin is indirect plus direct bilirubin plus various amounts of uncommon bilirubin subsets all
+    combined into the total bilirubin measurement.
+    Related Tests: Other tests related to liver function (alanine transaminase [ALT], aspartate
+    transaminase [AST], alkaline phosphatase [ALP], albumin and total protein, gammaglutamyltransferase
+    [GGT], lactate dehydrogenase [LDH], prothrombin time [PT])
+    Approximate Reference Range (Each site will have slight variations): 0.3 – 1.0 mg/dL or
+    5.1 – 17.0 mmol/L
+    Normal Values in Newborns: Normal values in newborns depend on the age of the baby in
+    hours and whether the baby was premature or full term. Normal values may vary from lab to lab.
+    Total bilirubin levels in newborns less than 7 days old
+    Age Premature baby Full-term baby
+    Less than 24 hours < 8.0 mg/dL (< 137 mmol/L) < 6.0 mg/dL (< 103 mmol/L)
+    Less than 48 hours < 12.0 mg/dL (< 205 mmol/L) < 10.0 mg/dL (< 170 mmol/L)
+    3 to 5 days < 15.0 mg/dL (< 256 mmol/L) < 12.0 mg/dL (< 205 mmol/L)
+    7 days or older < 15.0 mg/dL ( < 256 mmol/L) < 10.0 mg/dL (< 170 mmol/L)
+    Comments: Bilirubin levels tend to be slightly higher in males than females, while African
+    Americans show lower values. Strenuous exercise may also increase bilirubin levels.
+    Test Method Variance:
+    Other: It is not uncommon to see high bilirubin levels in newborns, typically 1 to 3 days old.
+    This is sometimes called physiologic jaundice of the newborn. Within the first 24 hours of life, up
+    to 50% of full-term newborns, and an even greater percentage of pre-term babies, may have a
+    high bilirubin level. After birth, newborns begin breaking down the excess red blood cells
+    (RBCs) they are born with and, since the newborn’s liver is not fully mature, it is unable to
+    process the extra bilirubin, causing the infant's bilirubin levels to rise in the blood and other body
+    tissues. This situation usually resolves itself within a few days. In other instances, newborns’ red
+    blood cells may be being destroyed because of blood incompatibilities between the baby and
+    her mother, called hemolytic disease of the newborn.
 
 
 ### BNP (Brain Natriuretic Peptide)
@@ -339,6 +343,11 @@ heart failure. Levels of BNP tend to increase with age and are increased in pers
 disease.
 Test Method Variance:
 Other:
+
+
+### BNP\_PROHORMONE (Natriuretic peptide.B prohormone N-Terminal)
+
+***NEEDS TO BE UPDATED***
 
 
 ### BUN (Urea nitrogen in blood/serum)
@@ -376,6 +385,188 @@ Test Method Variance:
 Other:
 
 
+### (CA) Cancer Antigen Test Types
+
+1.  CA125 (Cancer Antigen 125), Quantitative in Blood
+
+    Common Name: CA125
+    Long Name: Cancer Antigen 125
+    Test Type: CA125
+    Panels:
+    Equivalent Tests: Blood CA125
+    Not Equivalent Tests:
+    Indications: A doctor may order a CA-125 test before a woman starts ovarian cancer
+    treatment as a baseline to compare against future measurements. During therapy, physicians
+    order CA-125 testing at intervals to monitor response to therapy. CA-125 may also be measured
+    periodically after therapy is completed. An increase in CA-125 may indicate that the cancer has
+    returned.
+    Description: CA-125 is primarily used to monitor therapy during treatment for ovarian cancer.
+    CA-125 is also used to detect whether cancer has come back after treatment is complete.
+    Series of CA-125 tests that show rising or falling concentrations are often more useful than a
+    single result. This test is sometimes used to test and monitor high-risk women who have a
+    family history of ovarian cancer but who do not yet have the disease. This test is not used to
+    screen for ovarian cancer because it is non-specific. Levels in the blood can be elevated in
+    other conditions such as normal menstruation, pregnancy, endometriosis, and pelvic
+    inflammatory disease.
+    Related Tests: Tumor markers, BRCA-1, BRCA-2
+    Approximate Reference Range (Each site will have slight variations): Normal range less
+    that 35 U/ml
+    Comments: If CA-125 levels fall during therapy, this generally indicates that the cancer is
+    responding to treatment. If CA-125 levels rise or stay the same, then the cancer may not be
+    responding to therapy. High CA-125 levels after treatment is complete may indicate that the
+    cancer has come back. If a woman who has been diagnosed with ovarian cancer has a baseline
+    CA-125 level that is normal, then the test is not likely to be useful to monitor her ovarian cancer.
+    In this case, the ovarian cancer may not be producing CA-125 so it is not a good marker of
+    disease progression.
+    Test Method Variance:
+    Other:
+
+2.  CA125\_BF (Cancer Antigen 125), Quantitative in Body Fluid
+
+    Common Name: CA125 in body fluid
+    Long Name: CA 125 Body Fluid
+    Test Type: CA125\_BF
+    Panels:
+    Equivalent Tests:
+    Not Equivalent Tests:
+    Indications:
+    A doctor may order a CA-125 test before a woman starts ovarian cancer treatment as a baseline to compare against future measurements. During therapy, physicians order CA-125 testing at intervals to monitor response to therapy. CA-125 may also be measured periodically after therapy is completed. An increase in CA-125 may indicate that the cancer has returned.
+    Description:
+    CA-125 is primarily used to monitor therapy during treatment for ovarian cancer. CA-125 is also used to detect whether cancer has come back after treatment is complete.  Series of CA-125 tests that show rising or falling concentrations are often more useful than a single result. This test is sometimes used to test and monitor high-risk women who have a family history of ovarian cancer but who do not yet have the disease. This test is not used to screen for ovarian cancer because it is non-specific. Levels in the blood can be elevated in other conditions such as normal menstruation, pregnancy, endometriosis, and pelvic inflammatory disease.
+    Related Tests:
+    Tumor markers, BRCA-1, BRCA-2
+    Approximate Reference Range (Each site will have slight variations):
+    Comments: If CA-125 levels fall during therapy, this generally indicates that the cancer is
+    responding to treatment. If CA-125 levels rise or stay the same, then the cancer may not be
+    responding to therapy. High CA-125 levels after treatment is complete may indicate that the
+    cancer has come back. If a woman who has been diagnosed with ovarian cancer has a baseline
+    CA-125 level that is normal, then the test is not likely to be useful to monitor her ovarian cancer.
+    In this case, the ovarian cancer may not be producing CA-125 so it is not a good marker of
+    disease progression.
+    Test Method Variance:
+    Other:
+
+3.  CA125\_BF\_T (Cancer Antigen 125) Titer in Body Fluid
+
+    Common Name: CA125 titer in body fluid
+    Long Name: CA 125 Titer, Body Fluid
+    Test Type: CA125\_BF\_T
+    Panels:
+    Equivalent Tests:
+    Not Equivalent Tests:
+    Indications: A doctor may order a CA-125 test before a woman starts ovarian cancer
+    treatment as a baseline to compare against future measurements. During therapy, physicians
+    order CA-125 testing at intervals to monitor response to therapy. CA-125 may also be measured
+    periodically after therapy is completed. An increase in CA-125 may indicate that the cancer has
+    returned.
+    Description: CA-125 is primarily used to monitor therapy during treatment for ovarian cancer.
+    CA-125 is also used to detect whether cancer has come back after treatment is complete.
+    Series of CA-125 tests that show rising or falling concentrations are often more useful than a
+    single result. This test is sometimes used to test and monitor high-risk women who have a
+    family history of ovarian cancer but who do not yet have the disease. This test is not used to
+    screen for ovarian cancer because it is non-specific. Levels in the blood can be elevated in
+    other conditions such as normal menstruation, pregnancy, endometriosis, and pelvic
+    inflammatory disease.
+    Related Tests: Tumor markers, BRCA-1, BRCA-2
+    Approximate Reference Range (Each site will have slight variations):
+    Comments: If CA-125 levels fall during therapy, this generally indicates that the cancer is
+    responding to treatment. If CA-125 levels rise or stay the same, then the cancer may not be
+    responding to therapy. High CA-125 levels after treatment is complete may indicate that the
+    cancer has come back. If a woman who has been diagnosed with ovarian cancer has a baseline
+    CA-125 level that is normal, then the test is not likely to be useful to monitor her ovarian cancer.
+    In this case, the ovarian cancer may not be producing CA-125 so it is not a good marker of
+    disease progression.
+    Test Method Variance:
+    Other:
+
+4.  CA125\_T (Cancer Antigen 125), Titer in Blood
+
+    Common Name: CA125 titer
+    Long Name: CA 125 titer
+    Test Type: CA125\_T
+    Panels:
+    Equivalent Tests:
+    Not Equivalent Tests:
+    Indications: A doctor may order a CA-125 test before a woman starts ovarian cancer
+    treatment as a baseline to compare against future measurements. During therapy, physicians
+    order CA-125 testing at intervals to monitor response to therapy. CA-125 may also be measured
+    periodically after therapy is completed. An increase in CA-125 may indicate that the cancer has
+    returned.
+    Description: CA-125 is primarily used to monitor therapy during treatment for ovarian cancer.
+    CA-125 is also used to detect whether cancer has come back after treatment is complete.
+    Series of CA-125 tests that show rising or falling concentrations are often more useful than a
+    single result. This test is sometimes used to test and monitor high-risk women who have a
+    family history of ovarian cancer but who do not yet have the disease.
+    This test is not used to screen for ovarian cancer because it is non-specific. Levels in the blood
+    can be elevated in other conditions such as normal menstruation, pregnancy, endometriosis,
+    and pelvic inflammatory disease.
+    Related Tests: Tumor markers, BRCA-1, BRCA-2
+    Approximate Reference Range (Each site will have slight variations):
+    Comments: If CA-125 levels fall during therapy, this generally indicates that the cancer is
+    responding to treatment. If CA-125 levels rise or stay the same, then the cancer may not be
+    responding to therapy. High CA-125 levels after treatment is complete may indicate that the
+    cancer has come back. If a woman who has been diagnosed with ovarian cancer has a baseline
+    CA-125 level that is normal, then the test is not likely to be useful to monitor her ovarian cancer.
+    In this case, the ovarian cancer may not be producing CA-125 so it is not a good marker of
+    disease progression.
+    Test Method Variance:
+    Other:
+
+5.  CA125\_QL (Cancer Antigen 125), Qualitative in Blood
+
+    Common Name: CA125
+    Long Name: CA 125 Qualitative
+    Test Type: CA125\_QL
+    Panels:
+    Equivalent Tests:
+    Not Equivalent Tests:
+    Indications: A doctor may order a CA-125 test before a woman starts ovarian cancer
+    treatment as a baseline to compare against future measurements. During therapy, physicians
+    order CA-125 testing at intervals to monitor response to therapy. CA-125 may also be measured
+    periodically after therapy is completed. An increase in CA-125 may indicate that the cancer has
+    returned.
+    Description: CA-125 is primarily used to monitor therapy during treatment for ovarian cancer.
+    CA-125 is also used to detect whether cancer has come back after treatment is complete.
+    Series of CA-125 tests that show rising or falling concentrations are often more useful than a
+    single result. This test is sometimes used to test and monitor high-risk women who have a
+    family history of ovarian cancer but who do not yet have the disease. This test is not used to
+    screen for ovarian cancer because it is non-specific. Levels in the blood can be elevated in
+    other conditions such as normal menstruation, pregnancy, endometriosis, and pelvic
+    inflammatory disease.
+    Related Tests: Tumor markers, BRCA-1, BRCA-2
+    Approximate Reference Range (Each site will have slight variations): Not applicable
+    (qualitative test)
+    Comments: If CA-125 levels fall during therapy, this generally indicates that the cancer is
+    responding to treatment. If CA-125 levels rise or stay the same, then the cancer may not be
+    responding to therapy. High CA-125 levels after treatment is complete may indicate that the
+    cancer has come back. If a woman who has been diagnosed with ovarian cancer has a baseline
+    CA-125 level that is normal, then the test is not likely to be useful to monitor her ovarian cancer.
+    In this case, the ovarian cancer may not be producing CA-125 so it is not a good marker of
+    disease progression.
+    Test Method Variance:
+    Other:
+
+6.  CA15\_3 (Cancer Ag 15-3 Qn)
+
+    ***NEEDS TO BE UPDATED***
+
+7.  CA15\_3\_QL (Cancer Ag 15-3 Ql)
+
+    ***NEEDS TO BE UPDATED***
+
+8.  CA199 (Cancer Ag 19-9)
+
+    ***NEEDS TO BE UPDATED***
+
+9.  CA27\_29 (Cancer Ag 27-29 Qn)
+
+    ***NEEDS TO BE UPDATED***
+
+10. CA27\_29\_QL (Cancer Ag 27-29 Ql)
+
+    ***NEEDS TO BE UPDATED***
+
+
 ### CALCIUM (Total Serum Calcium)
 
 Common Name: Total serum calcium; Ca++
@@ -398,564 +589,492 @@ Test Method Variance:
 Other:
 
 
-### CA125 (Cancer Antigen 125), Quantitative in Blood
+### CEA (Carcinoembryonic Ag)
 
-Common Name: CA125
-Long Name: Cancer Antigen 125
-Test Type: CA125
-Panels:
-Equivalent Tests: Blood CA125
-Not Equivalent Tests:
-Indications: A doctor may order a CA-125 test before a woman starts ovarian cancer
-treatment as a baseline to compare against future measurements. During therapy, physicians
-order CA-125 testing at intervals to monitor response to therapy. CA-125 may also be measured
-periodically after therapy is completed. An increase in CA-125 may indicate that the cancer has
-returned.
-Description: CA-125 is primarily used to monitor therapy during treatment for ovarian cancer.
-CA-125 is also used to detect whether cancer has come back after treatment is complete.
-Series of CA-125 tests that show rising or falling concentrations are often more useful than a
-single result. This test is sometimes used to test and monitor high-risk women who have a
-family history of ovarian cancer but who do not yet have the disease. This test is not used to
-screen for ovarian cancer because it is non-specific. Levels in the blood can be elevated in
-other conditions such as normal menstruation, pregnancy, endometriosis, and pelvic
-inflammatory disease.
-Related Tests: Tumor markers, BRCA-1, BRCA-2
-Approximate Reference Range (Each site will have slight variations): Normal range less
-that 35 U/ml
-Comments: If CA-125 levels fall during therapy, this generally indicates that the cancer is
-responding to treatment. If CA-125 levels rise or stay the same, then the cancer may not be
-responding to therapy. High CA-125 levels after treatment is complete may indicate that the
-cancer has come back. If a woman who has been diagnosed with ovarian cancer has a baseline
-CA-125 level that is normal, then the test is not likely to be useful to monitor her ovarian cancer.
-In this case, the ovarian cancer may not be producing CA-125 so it is not a good marker of
-disease progression.
-Test Method Variance:
-Other:
+***NEEDS TO BE UPDATED***
 
 
-### CA125\_QL (Cancer Antigen 125), Qualitative in Blood
+### CHLORIDE (Chloride, total)
 
-Common Name: CA125
-Long Name: CA 125 Qualitative
-Test Type: CA125\_QL
-Panels:
-Equivalent Tests:
-Not Equivalent Tests:
-Indications: A doctor may order a CA-125 test before a woman starts ovarian cancer
-treatment as a baseline to compare against future measurements. During therapy, physicians
-order CA-125 testing at intervals to monitor response to therapy. CA-125 may also be measured
-periodically after therapy is completed. An increase in CA-125 may indicate that the cancer has
-returned.
-Description: CA-125 is primarily used to monitor therapy during treatment for ovarian cancer.
-CA-125 is also used to detect whether cancer has come back after treatment is complete.
-Series of CA-125 tests that show rising or falling concentrations are often more useful than a
-single result. This test is sometimes used to test and monitor high-risk women who have a
-family history of ovarian cancer but who do not yet have the disease. This test is not used to
-screen for ovarian cancer because it is non-specific. Levels in the blood can be elevated in
-other conditions such as normal menstruation, pregnancy, endometriosis, and pelvic
-inflammatory disease.
-Related Tests: Tumor markers, BRCA-1, BRCA-2
-Approximate Reference Range (Each site will have slight variations): Not applicable
-(qualitative test)
-Comments: If CA-125 levels fall during therapy, this generally indicates that the cancer is
-responding to treatment. If CA-125 levels rise or stay the same, then the cancer may not be
-responding to therapy. High CA-125 levels after treatment is complete may indicate that the
-cancer has come back. If a woman who has been diagnosed with ovarian cancer has a baseline
-CA-125 level that is normal, then the test is not likely to be useful to monitor her ovarian cancer.
-In this case, the ovarian cancer may not be producing CA-125 so it is not a good marker of
-disease progression.
-Test Method Variance:
-Other:
+***NEEDS TO BE UPDATED***
 
 
-### CA125\_T (Cancer Antigen 125), Titer in Blood
+### (CK) Creatine Kinase Test Types
 
-Common Name: CA125 titer
-Long Name: CA 125 titer
-Test Type: CA125\_T
-Panels:
-Equivalent Tests:
-Not Equivalent Tests:
-Indications: A doctor may order a CA-125 test before a woman starts ovarian cancer
-treatment as a baseline to compare against future measurements. During therapy, physicians
-order CA-125 testing at intervals to monitor response to therapy. CA-125 may also be measured
-periodically after therapy is completed. An increase in CA-125 may indicate that the cancer has
-returned.
-Description: CA-125 is primarily used to monitor therapy during treatment for ovarian cancer.
-CA-125 is also used to detect whether cancer has come back after treatment is complete.
-Series of CA-125 tests that show rising or falling concentrations are often more useful than a
-single result. This test is sometimes used to test and monitor high-risk women who have a
-family history of ovarian cancer but who do not yet have the disease.
-This test is not used to screen for ovarian cancer because it is non-specific. Levels in the blood
-can be elevated in other conditions such as normal menstruation, pregnancy, endometriosis,
-and pelvic inflammatory disease.
-Related Tests: Tumor markers, BRCA-1, BRCA-2
-Approximate Reference Range (Each site will have slight variations):
-Comments: If CA-125 levels fall during therapy, this generally indicates that the cancer is
-responding to treatment. If CA-125 levels rise or stay the same, then the cancer may not be
-responding to therapy. High CA-125 levels after treatment is complete may indicate that the
-cancer has come back. If a woman who has been diagnosed with ovarian cancer has a baseline
-CA-125 level that is normal, then the test is not likely to be useful to monitor her ovarian cancer.
-In this case, the ovarian cancer may not be producing CA-125 so it is not a good marker of
-disease progression.
-Test Method Variance:
-Other:
+1.  CK (Creatine Kinase)
 
+    Common Name: CK
+    Long Name: Creatine Kinase or CPK - total concentration in blood of all CK subtypes
+    Test Type: CK
+    Panels: N/A
+    Equivalent Tests: N/A
+    Not Equivalent Tests: BNP; Troponin
+    Indications: Blood levels of CK rise when muscle or heart cells are injured. This test is used if a
+    patient has chest pain or other signs and symptoms of a heart attack. In the first 4 to 6 hours
+    after a heart attack, the concentration of CK in blood begins to rise. It reaches its highest level in
+    18 to 24 hours and returns to normal within 2 to 3 days. This test is also used to monitor skeletal
+    muscles damage.
+    Description: Creatine kinase is an enzyme found in the heart, brain, skeletal muscle, and other
+    tissues. Enzymes are proteins that help cells to perform their normal functions. In muscle and
+    heart cells, most of this energy is used when muscles contract. There are three different forms
+    (or isoenzymes) of CK: CK-MM (found in skeletal muscles and heart); CK-MB (found mostly in
+    the heart); and CK-BB (found mostly in the brain). The small amount of CK that is normally in
+    the blood comes mainly from muscles and not the brain.
+    Related Tests: CK\_MB; CK\_MB; CK\_BB\_EP, CK\_BBI, CK\_BBI\_EP; CK\_BF, CK\_CSF;
+    CK\_ISO; CK\_ISO\_EP; CK\_MB; CK\_MB\_EIA; CK\_MB\_EP; CK\_MBI\_CLC; CK\_MBI\_EIA;
+    CK\_MBI\_EP; CK\_MM\_EP; CK\_MMI; CK\_MMI\_EP; CK\_QN; Troponin; BNP
+    Approximate Reference Range (Normal values vary from lab to lab and from one type of
+    testing protocol to another): Male: 38 - 174 units/L; Female: 96 - 140 units/L
+    Comments: People who have greater muscle mass have higher CK levels than those who do
+    not. African-Americans may have higher CK levels than other racial/ethnic groups. Very heavy
+    exercise can also increase CK. Other forms of muscle damage, such as from a fall, a car
+    accident, surgery, or an injection, can also increase CK.
+    Several drugs, including cholesterol-lowering drugs (statins), can damage muscle and increase
+    CK. Drinking excessive amounts of alcohol also may increase CK. Early pregnancy can
+    decrease CK levels.
+    Test Method Variance:
+    Other:
 
-### CA125\_BF (Cancer Antigen 125), Quantitative in Body Fluid
+2.  CK\_BB\_EP (Creatine Kinase BB Electrophoresis)
 
-Common Name: CA125 in body fluid
-Long Name: CA 125 Body Fluid
-Test Type: CA125\_BF
-Panels:
-Equivalent Tests:
-Not Equivalent Tests:
-Indications:
-A doctor may order a CA-125 test before a woman starts ovarian cancer treatment as a baseline to compare against future measurements. During therapy, physicians order CA-125 testing at intervals to monitor response to therapy. CA-125 may also be measured periodically after therapy is completed. An increase in CA-125 may indicate that the cancer has returned.
-Description:
-CA-125 is primarily used to monitor therapy during treatment for ovarian cancer. CA-125 is also used to detect whether cancer has come back after treatment is complete.  Series of CA-125 tests that show rising or falling concentrations are often more useful than a single result. This test is sometimes used to test and monitor high-risk women who have a family history of ovarian cancer but who do not yet have the disease. This test is not used to screen for ovarian cancer because it is non-specific. Levels in the blood can be elevated in other conditions such as normal menstruation, pregnancy, endometriosis, and pelvic inflammatory disease.
-Related Tests:
-Tumor markers, BRCA-1, BRCA-2
-Approximate Reference Range (Each site will have slight variations):
-Comments: If CA-125 levels fall during therapy, this generally indicates that the cancer is
-responding to treatment. If CA-125 levels rise or stay the same, then the cancer may not be
-responding to therapy. High CA-125 levels after treatment is complete may indicate that the
-cancer has come back. If a woman who has been diagnosed with ovarian cancer has a baseline
-CA-125 level that is normal, then the test is not likely to be useful to monitor her ovarian cancer.
-In this case, the ovarian cancer may not be producing CA-125 so it is not a good marker of
-disease progression.
-Test Method Variance:
-Other:
+    NOTE: This single reference document contains information pertinent to the
+    individual TEST\_TYPES CK\_BB\_EP, and the indexes CK\_BBI, or CK\_BBI\_EP.
+    Common Name: CK BB (also known as CPK BB)
+    Long Name: Creatine Kinase BB (Brain-type)
+    Test Types: CK\_BB\_EP is CK\_BB by the testing method electrophoresis
+    CK\_BBI is the Creatine Kinase BB/Creatine Kinase Total as a ratio or index
+    CK\_BBI\_EP is the Creatine Kinase BB/Creatine Kinase Total as a ratio or index by the testing
+    method electrophoresis
+    Panels: N/A
+    Equivalent Tests: N/A
+    Not Equivalent Tests: All other CK TEST\_TYPES that do not contain “BB” in name.
+    Indications: Blood levels of CK rise when muscle, brain or heart cells are injured. CK\_BB is
+    found primarily in the brain. CK\_BB is sometimes used in diagnosing of cancer of the lung and
+    stomach. However, CK\_BB is expressed in all tissues at low levels and has little clinical
+    relevance.
+    Description: CK\_BB is one of three separate forms (isoenzymes) of the enzyme creatine
+    kinase (CK). CK\_BB is found mostly in the brain, lungs, intestinal tract and smooth muscle.
+    Related Tests: CK; CK\_BB\_EP, CK\_BBI, CK\_BBI\_EP; CK\_CSF; CK\_ISO; CK\_ISO\_EP
+    Approximate Reference Range:
+    Comments: < 1% of total CK
+    Test Method Variance:
+    Other:
 
+3.  CK\_BBI (Creatine Kinase BB Total)
 
-### CA125\_BF\_T (Cancer Antigen 125) Titer in Body Fluid
+    NOTE: This single reference document contains information pertinent to the
+    individual TEST\_TYPES CK\_BB\_EP, and the indexes CK\_BBI, or CK\_BBI\_EP.
+    Common Name: CK BB (also known as CPK BB)
+    Long Name: Creatine Kinase BB (Brain-type)
+    Test Types: CK\_BB\_EP is CK\_BB by the testing method electrophoresis
+    CK\_BBI is the Creatine Kinase BB/Creatine Kinase Total as a ratio or index
+    CK\_BBI\_EP is the Creatine Kinase BB/Creatine Kinase Total as a ratio or index by the testing
+    method electrophoresis
+    Panels: N/A
+    Equivalent Tests: N/A
+    Not Equivalent Tests: All other CK TEST\_TYPES that do not contain “BB” in name.
+    Indications: Blood levels of CK rise when muscle, brain or heart cells are injured. CK\_BB is
+    found primarily in the brain. CK\_BB is sometimes used in diagnosing of cancer of the lung and
+    stomach. However, CK\_BB is expressed in all tissues at low levels and has little clinical
+    relevance.
+    Description: CK\_BB is one of three separate forms (isoenzymes) of the enzyme creatine
+    kinase (CK). CK\_BB is found mostly in the brain, lungs, intestinal tract and smooth muscle.
+    Related Tests: CK; CK\_BB\_EP, CK\_BBI, CK\_BBI\_EP; CK\_CSF; CK\_ISO; CK\_ISO\_EP
+    Approximate Reference Range:
+    Comments: < 1% of total CK
+    Test Method Variance:
+    Other:
 
-Common Name: CA125 titer in body fluid
-Long Name: CA 125 Titer, Body Fluid
-Test Type: CA125\_BF\_T
-Panels:
-Equivalent Tests:
-Not Equivalent Tests:
-Indications: A doctor may order a CA-125 test before a woman starts ovarian cancer
-treatment as a baseline to compare against future measurements. During therapy, physicians
-order CA-125 testing at intervals to monitor response to therapy. CA-125 may also be measured
-periodically after therapy is completed. An increase in CA-125 may indicate that the cancer has
-returned.
-Description: CA-125 is primarily used to monitor therapy during treatment for ovarian cancer.
-CA-125 is also used to detect whether cancer has come back after treatment is complete.
-Series of CA-125 tests that show rising or falling concentrations are often more useful than a
-single result. This test is sometimes used to test and monitor high-risk women who have a
-family history of ovarian cancer but who do not yet have the disease. This test is not used to
-screen for ovarian cancer because it is non-specific. Levels in the blood can be elevated in
-other conditions such as normal menstruation, pregnancy, endometriosis, and pelvic
-inflammatory disease.
-Related Tests: Tumor markers, BRCA-1, BRCA-2
-Approximate Reference Range (Each site will have slight variations):
-Comments: If CA-125 levels fall during therapy, this generally indicates that the cancer is
-responding to treatment. If CA-125 levels rise or stay the same, then the cancer may not be
-responding to therapy. High CA-125 levels after treatment is complete may indicate that the
-cancer has come back. If a woman who has been diagnosed with ovarian cancer has a baseline
-CA-125 level that is normal, then the test is not likely to be useful to monitor her ovarian cancer.
-In this case, the ovarian cancer may not be producing CA-125 so it is not a good marker of
-disease progression.
-Test Method Variance:
-Other:
+4.  CK\_BBI\_EP (Creatine Kinase BB Total Electrophoresis)
 
+    NOTE: This single reference document contains information pertinent to the
+    individual TEST\_TYPES CK\_BB\_EP, and the indexes CK\_BBI, or CK\_BBI\_EP.
+    Common Name: CK BB (also known as CPK BB)
+    Long Name: Creatine Kinase BB (Brain-type)
+    Test Types: CK\_BB\_EP is CK\_BB by the testing method electrophoresis
+    CK\_BBI is the Creatine Kinase BB/Creatine Kinase Total as a ratio or index
+    CK\_BBI\_EP is the Creatine Kinase BB/Creatine Kinase Total as a ratio or index by the testing
+    method electrophoresis
+    Panels: N/A
+    Equivalent Tests: N/A
+    Not Equivalent Tests: All other CK TEST\_TYPES that do not contain “BB” in name.
+    Indications: Blood levels of CK rise when muscle, brain or heart cells are injured. CK\_BB is
+    found primarily in the brain. CK\_BB is sometimes used in diagnosing of cancer of the lung and
+    stomach. However, CK\_BB is expressed in all tissues at low levels and has little clinical
+    relevance.
+    Description: CK\_BB is one of three separate forms (isoenzymes) of the enzyme creatine
+    kinase (CK). CK\_BB is found mostly in the brain, lungs, intestinal tract and smooth muscle.
+    Related Tests: CK; CK\_BB\_EP, CK\_BBI, CK\_BBI\_EP; CK\_CSF; CK\_ISO; CK\_ISO\_EP
+    Approximate Reference Range:
+    Comments: < 1% of total CK
+    Test Method Variance:
+    Other:
 
-### Cholesterol, Total
+5.  CK\_BF (Creatine Kinase Body Fluid Quantitative)
 
-Common Name: Cholesterol, Total
-Long Name: Cholesterol Total
-Test Type: TOT\_CHOLES
-Panels: LIPID PROFILE
-Equivalent Tests:
-Not Equivalent Tests: LDL - very low density lipoprotein Cholesterol, LDL - Low Density
-lipoprotein Cholesterol, HDL - High Density lipoprotein Cholesterol, any apolipoproteins
-Indications:
-Description: Cholesterol is a molecule (chemically a steroid) that is essential for life. It forms
-the membranes for cells in all organs and tissues in your body. It is used to make hormones
-essential for development, growth, and reproduction. It forms bile acids that are needed to
-absorb nutrients from food. Levels of cholesterol are influenced by its production in the liver and
-the ingestion of dietary fats. Bile acids are released into the intestine, aid in digestion, and then
-are mostly reabsorbed. A small amount of your body’s cholesterol circulates in the blood in
-complex particles called lipoproteins. These lipoproteins include some particles that carry
-excess cholesterol away for disposal (i.e., HDL cholesterol) and some particles that deposit
-cholesterol in tissues and organs (i.e., LDL cholesterol). The test for cholesterol measures total
-cholesterol (good [HDL] and bad [e.g., LDL]) that is carried in the blood by lipoproteins.
-Lowering LDL cholesterol reduces coronary heart disease and ischemic stroke.
-Related Tests:
-Approximate Reference Range (Each site will have slight variations):
-Comments:
-Test Method Variance:
-Other:
+    NOTE: This single reference document contains information pertinent to the
+    individual TEST\_TYPES CK\_BB\_EP, and the indexes CK\_BBI, or CK\_BBI\_EP.
+    Common Name: CK BB (also known as CPK BB)
+    Long Name: Creatine Kinase BB (Brain-type)
+    Test Types: CK\_BB\_EP is CK\_BB by the testing method electrophoresis
+    CK\_BBI is the Creatine Kinase BB/Creatine Kinase Total as a ratio or index
+    CK\_BBI\_EP is the Creatine Kinase BB/Creatine Kinase Total as a ratio or index by the testing
+    method electrophoresis
+    Panels: N/A
+    Equivalent Tests: N/A
+    Not Equivalent Tests: All other CK TEST\_TYPES that do not contain “BB” in name.
+    Indications: Blood levels of CK rise when muscle, brain or heart cells are injured. CK\_BB is
+    found primarily in the brain. CK\_BB is sometimes used in diagnosing of cancer of the lung and
+    stomach. However, CK\_BB is expressed in all tissues at low levels and has little clinical
+    relevance.
+    Description: CK\_BB is one of three separate forms (isoenzymes) of the enzyme creatine
+    kinase (CK). CK\_BB is found mostly in the brain, lungs, intestinal tract and smooth muscle.
+    Related Tests: CK; CK\_BB\_EP, CK\_BBI, CK\_BBI\_EP; CK\_CSF; CK\_ISO; CK\_ISO\_EP
+    Approximate Reference Range:
+    Comments: < 1% of total CK
+    Test Method Variance:
+    Other:
 
+6.  CK\_CSF (Creatine Kinase CSF Quantitative)
 
-### CK (Creatine Kinase)
+    Common Name: CSF CK
+    Long Name: Creatine Kinase in Cerebral Spinal Fluid
+    Test Type: CK\_CSF
+    Panels: N/A
+    Equivalent Tests: N/A
+    Not Equivalent Tests: All other CK TEST\_TYPES.
+    Indications: CK activity in CSF is indicative of cerebral injury (brain damage).
+    Description: Creatine kinase is an enzyme found in the heart, brain, skeletal muscle, and other
+    tissues. For more information on CK total, refer to CK information document.
+    Related Tests: CK; CK\_MB; CK\_MB; CK\_BB\_EP, CK\_BBI, CK\_BBI\_EP; CK\_BF, CK\_ISO;
+    CK\_ISO\_EP; CK\_MB; CK\_MB\_EIA; CK\_MB\_EP; CK\_MBI\_CLC; CK\_MBI\_EIA; CK\_MBI\_EP;
+    CK\_MM\_EP; CK\_MMI; CK\_MMI\_EP; CK\_QN
+    Approximate Reference Range:
+    Comments: Creatine kinase is not normally present in cerebrospinal fluid (CSF).
+    Test Method Variance:
+    Other:
 
-Common Name: CK
-Long Name: Creatine Kinase or CPK - total concentration in blood of all CK subtypes
-Test Type: CK
-Panels: N/A
-Equivalent Tests: N/A
-Not Equivalent Tests: BNP; Troponin
-Indications: Blood levels of CK rise when muscle or heart cells are injured. This test is used if a
-patient has chest pain or other signs and symptoms of a heart attack. In the first 4 to 6 hours
-after a heart attack, the concentration of CK in blood begins to rise. It reaches its highest level in
-18 to 24 hours and returns to normal within 2 to 3 days. This test is also used to monitor skeletal
-muscles damage.
-Description: Creatine kinase is an enzyme found in the heart, brain, skeletal muscle, and other
-tissues. Enzymes are proteins that help cells to perform their normal functions. In muscle and
-heart cells, most of this energy is used when muscles contract. There are three different forms
-(or isoenzymes) of CK: CK-MM (found in skeletal muscles and heart); CK-MB (found mostly in
-the heart); and CK-BB (found mostly in the brain). The small amount of CK that is normally in
-the blood comes mainly from muscles and not the brain.
-Related Tests: CK\_MB; CK\_MB; CK\_BB\_EP, CK\_BBI, CK\_BBI\_EP; CK\_BF, CK\_CSF;
-CK\_ISO; CK\_ISO\_EP; CK\_MB; CK\_MB\_EIA; CK\_MB\_EP; CK\_MBI\_CLC; CK\_MBI\_EIA;
-CK\_MBI\_EP; CK\_MM\_EP; CK\_MMI; CK\_MMI\_EP; CK\_QN; Troponin; BNP
-Approximate Reference Range (Normal values vary from lab to lab and from one type of
-testing protocol to another): Male: 38 - 174 units/L; Female: 96 - 140 units/L
-Comments: People who have greater muscle mass have higher CK levels than those who do
-not. African-Americans may have higher CK levels than other racial/ethnic groups. Very heavy
-exercise can also increase CK. Other forms of muscle damage, such as from a fall, a car
-accident, surgery, or an injection, can also increase CK.
-Several drugs, including cholesterol-lowering drugs (statins), can damage muscle and increase
-CK. Drinking excessive amounts of alcohol also may increase CK. Early pregnancy can
-decrease CK levels.
-Test Method Variance:
-Other:
+7.  CK\_ISO (Creatine Kinase Isoenzymes)
 
+    Creatine Kinase Isoenzymes Interpretation - analytic method not specified
 
-### CK\_BBI (Creatine Kinase BB)
+8.  CK\_ISO\_EP (Creatine Kinase Isoenzymes Electrophoresis)
 
-NOTE: This single reference document contains information pertinent to the
-individual TEST\_TYPES CK\_BB\_EP, and the indexes CK\_BBI, or CK\_BBI\_EP.
-Common Name: CK BB (also known as CPK BB)
-Long Name: Creatine Kinase BB (Brain-type)
-Test Types: CK\_BB\_EP is CK\_BB by the testing method electrophoresis
-CK\_BBI is the Creatine Kinase BB/Creatine Kinase Total as a ratio or index
-CK\_BBI\_EP is the Creatine Kinase BB/Creatine Kinase Total as a ratio or index by the testing
-method electrophoresis
-Panels: N/A
-Equivalent Tests: N/A
-Not Equivalent Tests: All other CK TEST\_TYPES that do not contain “BB” in name.
-Indications: Blood levels of CK rise when muscle, brain or heart cells are injured. CK\_BB is
-found primarily in the brain. CK\_BB is sometimes used in diagnosing of cancer of the lung and
-stomach. However, CK\_BB is expressed in all tissues at low levels and has little clinical
-relevance.
-Description: CK\_BB is one of three separate forms (isoenzymes) of the enzyme creatine
-kinase (CK). CK\_BB is found mostly in the brain, lungs, intestinal tract and smooth muscle.
-Related Tests: CK; CK\_BB\_EP, CK\_BBI, CK\_BBI\_EP; CK\_CSF; CK\_ISO; CK\_ISO\_EP
-Approximate Reference Range:
-Comments: < 1% of total CK
-Test Method Variance:
-Other:
+    Creatine Kinase Isoenzymes Interpretation - analytic method not specified
 
+9.  CK\_MB (Creatine Kinase MB - analytic method not specified)
 
-### CK\_BB\_EP (Creatine Kinase BB Electrophoresis)
+    Common Name: CK\_MB (also known as CPK MB)
+    Long Name: Creatine Kinase-MB
+    Test Type: CK\_MB
+    Panels: N/A
+    Equivalent Tests: Use this TEST\_TYPE ONLY when the analytic method is not specified in the
+    lab data.
+    Not Equivalent Tests: All other CK TEST\_TYPES.
+    Indications: B lood levels of CK rise when muscle or heart cells are injured. CK\_MB levels
+    (along with total CK) are tested in persons who have chest pain to diagnose if they have had a
+    heart attack. Since a high total CK could indicate damage to either the heart or other muscles,
+    CK\_MB helps to distinguish between these two sources.
+    Description: CK–MB is one of three separate forms (isoenzymes) of the enzyme creatine
+    kinase. CK–MB is found mostly in heart muscle. It rises when there is damage to heart muscle
+    cells.
+    Related Tests: CK; CK\_MB; CK\_BB\_EP, CK\_BBI, CK\_BBI\_EP; CK\_BF, CK\_CSF; CK\_ISO;
+    CK\_ISO\_EP; CK\_MB; CK\_MB\_EIA; CK\_MB\_EP; CK\_MBI\_CLC; CK\_MBI\_EIA; CK\_MBI\_EP;
+    CK\_MM\_EP; CK\_MMI; CK\_MMI\_EP; CK\_QN; Troponin; BNP
+    Approximate Reference Range: Normal CK-MB is 5% or less of total CK, often 5 – 25 IU/L.
+    Comments: If the value of CK\_MB is elevated and the ratio of CK\_MB to total CK (relative
+    index) is high, it is likely that the heart was damaged. A high CK with a low relative index
+    suggests that skeletal muscles were damaged.
+    Although CK\_MB is a good test, it has been largely replaced by troponin, which is more specific
+    for damage to the heart. Sometimes persons who are having trouble breathing have to use their
+    chest muscles. Chest muscles have more CK\_MB than other muscles, which would raise the
+    amount of CK\_MB in the blood. Persons whose kidneys have failed can also have high CK\_MB
+    levels without having had a heart attack. Rarely, chronic muscle disease, low thyroid hormone
+    levels, and alcohol abuse can increase CK\_MB, producing changes similar to those seen in a
+    heart attack.
+    Test Method Variance: Can be measured by test methods such as enzyme immunoassay,
+    column chromatography, or electrophoresis. If the test method is specified, that TEST\_TYPE
+    should be used rather than CK\_MB.
+    Other:
 
-NOTE: This single reference document contains information pertinent to the
-individual TEST\_TYPES CK\_BB\_EP, and the indexes CK\_BBI, or CK\_BBI\_EP.
-Common Name: CK BB (also known as CPK BB)
-Long Name: Creatine Kinase BB (Brain-type)
-Test Types: CK\_BB\_EP is CK\_BB by the testing method electrophoresis
-CK\_BBI is the Creatine Kinase BB/Creatine Kinase Total as a ratio or index
-CK\_BBI\_EP is the Creatine Kinase BB/Creatine Kinase Total as a ratio or index by the testing
-method electrophoresis
-Panels: N/A
-Equivalent Tests: N/A
-Not Equivalent Tests: All other CK TEST\_TYPES that do not contain “BB” in name.
-Indications: Blood levels of CK rise when muscle, brain or heart cells are injured. CK\_BB is
-found primarily in the brain. CK\_BB is sometimes used in diagnosing of cancer of the lung and
-stomach. However, CK\_BB is expressed in all tissues at low levels and has little clinical
-relevance.
-Description: CK\_BB is one of three separate forms (isoenzymes) of the enzyme creatine
-kinase (CK). CK\_BB is found mostly in the brain, lungs, intestinal tract and smooth muscle.
-Related Tests: CK; CK\_BB\_EP, CK\_BBI, CK\_BBI\_EP; CK\_CSF; CK\_ISO; CK\_ISO\_EP
-Approximate Reference Range:
-Comments: < 1% of total CK
-Test Method Variance:
-Other:
+10. CK\_MB\_EIA (Creatine Kinase MB – Enzyme Immunoassay)
 
+    Common Name: CK\_MB by immunoassay (also known as CPK MB)
+    Long Name: Creatine Kinase MB – Enzyme Immunoassay
+    Test Type: CK\_MB\_EIA
+    Panels: N/A
+    Equivalent Tests: Use the TEST\_TYPE only when the test method is stated to be enzyme
+    immunoassay
+    Not Equivalent Tests: All other CK TEST\_TYPES.
+    Indications: Blood levels of CK rise when muscle or heart cells are injured. CK\_MB levels,
+    along with total CK, are tested in persons who have chest pain to diagnose whether they have
+    had a heart attack. Since a high total CK could indicate damage to either the heart or other
+    muscles, CK\_MB helps to distinguish between these two sources.
+    Description: CK\_MB is one of three separate forms (isoenzymes) of the enzyme creatine
+    kinase (CK). CK\_MB is found mostly in heart muscle. It rises when there is damage to heart
+    muscle cells.
+    Related Tests: CK; CK\_MB; CK\_BB\_EP, CK\_BBI, CK\_BBI\_EP; CK\_BF, CK\_CSF; CK\_ISO;
+    CK\_ISO\_EP; CK\_MB; CK\_MB\_EP; CK\_MBI\_CLC; CK\_MBI\_EIA; CK\_MBI\_EP; CK\_MM\_EP;
+    CK\_MMI; CK\_MMI\_EP; CK\_QN; Troponin; BNP
+    Approximate Reference Range: Normal CK-MB is 5% or less of CK, often 5 to 25 IU/L.
+    Comments: If the value of CK\_MB is elevated and the ratio of CK\_MB to total CK (relative
+    index) is high, it is likely that the heart was damaged. A high CK with a low relative index
+    suggests that skeletal muscles were damaged.
+    Although CK-MB is a good test, it has been largely replaced by troponin, which is more specific
+    for damage to the heart. Persons whose kidneys have failed or who are having trouble
+    breathing can have high CK\_MB levels without having had a heart attack. Rarely, chronic
+    muscle disease, low thyroid hormone levels, and alcohol abuse can increase CK\_MB,
+    producing changes similar to those seen in a heart attack.
+    Test Method Variance: Separation of CK into isoenzymes may be accomplished by
+    electrophoresis, column chromatography, or immunoassay. Immunoassay methods for
+    isoenzymes can be accomplished rapidly, are highly sensitive and specific, and do not show the
+    interferences common to traditional electrophoresis.
+    Other:
 
-### CK\_BF (Creatine Kinase Body Fluid Quantitative)
+11. CK\_MB\_EP (Creatine Kinase MB - Electrophoresis)
 
-NOTE: This single reference document contains information pertinent to the
-individual TEST\_TYPES CK\_BB\_EP, and the indexes CK\_BBI, or CK\_BBI\_EP.
-Common Name: CK BB (also known as CPK BB)
-Long Name: Creatine Kinase BB (Brain-type)
-Test Types: CK\_BB\_EP is CK\_BB by the testing method electrophoresis
-CK\_BBI is the Creatine Kinase BB/Creatine Kinase Total as a ratio or index
-CK\_BBI\_EP is the Creatine Kinase BB/Creatine Kinase Total as a ratio or index by the testing
-method electrophoresis
-Panels: N/A
-Equivalent Tests: N/A
-Not Equivalent Tests: All other CK TEST\_TYPES that do not contain “BB” in name.
-Indications: Blood levels of CK rise when muscle, brain or heart cells are injured. CK\_BB is
-found primarily in the brain. CK\_BB is sometimes used in diagnosing of cancer of the lung and
-stomach. However, CK\_BB is expressed in all tissues at low levels and has little clinical
-relevance.
-Description: CK\_BB is one of three separate forms (isoenzymes) of the enzyme creatine
-kinase (CK). CK\_BB is found mostly in the brain, lungs, intestinal tract and smooth muscle.
-Related Tests: CK; CK\_BB\_EP, CK\_BBI, CK\_BBI\_EP; CK\_CSF; CK\_ISO; CK\_ISO\_EP
-Approximate Reference Range:
-Comments: < 1% of total CK
-Test Method Variance:
-Other:
+    Common Name: CK\_MB by electrophoresis (also known as CPK MB)
+    Long Name: Creatine Kinase MB - Electrophoresis
+    Test Type: CK\_MB\_EP
+    Panels: N/A
+    Equivalent Tests: Use this TEST\_TYPE only when the test method is stated to be
+    electrophoresis.
+    Not Equivalent Tests: All other CK TEST\_TYPES.
+    Indications: Blood levels of CK rise when muscle or heart cells are injured. CK\_MB levels,
+    along with total CK, are tested in persons who have chest pain to diagnose whether they have
+    had a heart attack. Since a high total CK could indicate damage to either the heart or other
+    muscles, CK\_MB helps to distinguish between these two sources.
+    Description: CK\_MB is one of three separate forms (isoenzymes) of the enzyme creatine
+    kinase (CK). CK\_MB is found mostly in heart muscle. It rises when there is damage to heart
+    muscle cells.
+    Related Tests: CK; CK\_MB; CK\_BB\_EP, CK\_BBI, CK\_BBI\_EP; CK\_BF, CK\_CSF; CK\_ISO;
+    CK\_ISO\_EP; CK\_MB; CK\_MB\_EIA; CK\_MBI\_CLC; CK\_MBI\_EIA; CK\_MBI\_EP; CK\_MM\_EP;
+    CK\_MMI; CK\_MMI\_EP; CK\_QN; Troponin; BNP
+    Approximate Reference Range: Normal CK-MB is 5% or less of CK, or 5 to 25 IU/L.
+    Comments: If the value of CK\_MB is elevated and the ratio of CK\_MB to total CK (relative
+    index) is high, it is likely that the heart was damaged. A high CK with a low relative index
+    suggests that skeletal muscles were damaged.
+    Although CK-MB is a good test, it has been largely replaced by troponin, which is more specific
+    for damage to the heart. Persons whose kidneys have failed or who are having trouble
+    breathing can have high CK–MB levels without having had a heart attack. Rarely, chronic
+    muscle disease, low thyroid hormone levels, and alcohol abuse can increase CK–MB,
+    producing changes similar to those seen in a heart attack.
+    Test Method Variance: Separation of CK into isoenzymes may be accomplished by
+    electrophoresis, column chromatography, or immunoassay. Electrophoretically, CK\_BB is most
+    mobile, CK\_MB is intermediate, and CK\_MM is neutral. Although electrophoresis is possibly
+    less sensitive than column chromatography or immunoassay, there has been extensive
+    experience and it is adequate for routine clinical use.
+    Other:
 
+12. CK\_MBI\_CLC (Creatine Kinase MB/Creatine Kinase Total Calculated)
 
-### CK\_CSF (Creatine Kinase CSF Quantitative)
+    Common Name: CK\_MB / CK (calculated ratio)
+    Long Name: Creatine Kinase MB/Creatine Kinase Total Calculated
+    Test Type: CK\_MBI\_CLC
+    Panels: N/A
+    Equivalent Tests: Use this TEST\_TYPE only when the result is a ratio of CK\_MB to CK total as
+    a calculated ratio.
+    Not Equivalent Tests: All other CK tests.
+    Indications: Blood levels of CK rise when muscle or heart cells are injured. CK\_MB levels,
+    along with total CK, are tested in persons who have chest pain to diagnose whether they have
+    had a heart attack. Since a high total CK could indicate damage to either the heart or other
+    muscles, the ratio of CK\_MB to total CK helps to distinguish between these two sources.
+    Description: CK\_MB is one of three separate forms (isoenzymes) of the enzyme creatine
+    kinase (CK). CK\_MB is found mostly in heart muscle. It rises when there is damage to heart
+    muscle cells. This test is the calculated ratio (or relative index) of the CK\_MB to the total amount
+    of the three CK isoenzymes.
+    Related Tests: CK; CK\_MB; CK\_BB\_EP, CK\_BBI, CK\_BBI\_EP; CK\_BF, CK\_CSF; CK\_ISO;
+    CK\_ISO\_EP; CK\_MB; CK\_MB\_EIA; CK\_MB\_EP; CK\_MBI\_EIA; CK\_MBI\_EP; CK\_MM\_EP;
+    CK\_MMI; CK\_MMI\_EP; CK\_QN; Troponin; BNP
+    Approximate Reference Range: If the calculated ratio of CK\_MB to the total CK (relative
+    index) is more than 2.5 – 3 (some say more than 5), it is likely that the source is cardiac (and
+    that the heart was damaged). Ratios between 3 and 5 represent a gray zone. A ratio less than
+    2.5 – 3 is consistent with a skeletal muscle source.
+    Comments: CK\_MB to total CK (often multiplied by 100) can assist in differentiating falsepositive
+    elevations of CK\_MB arising from skeletal muscle. No definitive diagnosis can be
+    established without serial determinations to detect a rise.
+    Test Method Variance:
+    Other:
 
-Common Name: CSF CK
-Long Name: Creatine Kinase in Cerebral Spinal Fluid
-Test Type: CK\_CSF
-Panels: N/A
-Equivalent Tests: N/A
-Not Equivalent Tests: All other CK TEST\_TYPES.
-Indications: CK activity in CSF is indicative of cerebral injury (brain damage).
-Description: Creatine kinase is an enzyme found in the heart, brain, skeletal muscle, and other
-tissues. For more information on CK total, refer to CK information document.
-Related Tests: CK; CK\_MB; CK\_MB; CK\_BB\_EP, CK\_BBI, CK\_BBI\_EP; CK\_BF, CK\_ISO;
-CK\_ISO\_EP; CK\_MB; CK\_MB\_EIA; CK\_MB\_EP; CK\_MBI\_CLC; CK\_MBI\_EIA; CK\_MBI\_EP;
-CK\_MM\_EP; CK\_MMI; CK\_MMI\_EP; CK\_QN
-Approximate Reference Range:
-Comments: Creatine kinase is not normally present in cerebrospinal fluid (CSF).
-Test Method Variance:
-Other:
+13. CK\_MBI\_EIA (Creatine Kinase MB/Creatine Kinase Total Enzyme Immunoassay)
 
+    Common Name: CK\_MB/CK (ratio determined by enzyme immunoassay)
+    Long Name: Creatine Kinase MB/Creatine Kinase Total Enzyme Immunoassay
+    Test Type: CK\_MBI\_EIA
+    Panels: N/A
+    Equivalent Tests: Use this TEST\_TYPE only when the result is a ratio of CK\_MB to CK total
+    determined by enzyme immunoassay (EIA).
+    Not Equivalent Tests: All other CK tests.
+    Indications: Blood levels of CK rise when muscle or heart cells are injured. CK\_MB levels,
+    along with total CK, are tested in persons who have chest pain to diagnose whether they have
+    had a heart attack. Since a high total CK could indicate damage to either the heart or other
+    muscles, the ratio of CK\_MB to total CK helps to distinguish between these two sources.
+    Description: CK\_MB is one of three separate forms of CK. CK\_MB is found mostly in heart
+    muscle. It rises when there is damage to heart muscle cells. Separation of CK into isoenzymes
+    may be accomplished by electrophoresis, column chromatography, or immunoassay.
+    Immunoassay methods for isoenzymes can be accomplished rapidly and is highly sensitive and
+    specific. Further, it does not show the interferences common to traditional electrophoresis.
+    Related Tests: CK; CK\_MB; CK\_BB\_EP, CK\_BBI, CK\_BBI\_EP; CK\_BF, CK\_CSF; CK\_ISO;
+    CK\_ISO\_EP; CK\_MB; CK\_MB\_EIA; CK\_MB\_EP; CK\_MBI\_CLC; CK\_MBI\_EP; CK\_MM\_EP;
+    CK\_MMI; CK\_MMI\_EP; CK\_QN; Troponin; BNP
+    Approximate Reference Range: If the ratio of CK\_MB to the total CK is more than 2.5 – 3
+    (some say more than 5), it is likely that the source is cardiac (and that the heart was damaged).
+    Ratios between 3 and 5 represent a gray zone. A ratio less than 2.5 – 3 is consistent with a
+    skeletal muscle source.
+    Comments: CK\_MB to total CK (often multiplied by 100) can assist in differentiating falsepositive
+    elevations of CK\_MB arising from skeletal muscle. No definitive diagnosis can be
+    established without serial determinations to detect a rise.
+    Test Method Variance:
+    Other:
 
-### CK\_ISO (Creatine Kinase Isoenzymes)
+14. CK\_MBI\_EP (Creatine Kinase MB/ Creatine Kinase Total Electrophoresis)
 
-Creatine Kinase Isoenzymes Interpretation - analytic method not specified
+    Common Name: CK\_MB/CK (ratio determined by electrophoresis)
+    Long Name: Creatine Kinase MB/ Creatine Kinase Total Electrophoresis
+    Test Type: CK\_MBI\_EP
+    Panels: N/A
+    Equivalent Tests: Use this TEST\_TYPE only when the result is a ratio of CK\_MB to CK total
+    determined by electrophoresis.
+    Not Equivalent Tests: All other CK tests.
+    Indications: Blood levels of CK rise when muscle or heart cells are injured. CK\_MB levels,
+    along with total CK, are tested in persons who have chest pain to diagnose whether they have
+    had a heart attack. Since a high total CK could indicate damage to either the heart or other
+    muscles, the ratio of CK\_MB to total CK helps to distinguish between these two sources.
+    Description: CK\_MB is one of three separate forms of CK. CK\_MB is found mostly in heart
+    muscle. It rises when there is damage to heart muscle cells. Separation of CK into isoenzymes
+    may be accomplished by electrophoresis, column chromatography, or immunoassay.
+    Related Tests: CK; CK\_MB; CK\_BB\_EP, CK\_BBI, CK\_BBI\_EP; CK\_BF, CK\_CSF; CK\_ISO;
+    CK\_ISO\_EP; CK\_MB; CK\_MB\_EIA; CK\_MB\_EP; CK\_MBI\_CLC; CK\_MBI\_EIA; CK\_MM\_EP;
+    CK\_MMI; CK\_MMI\_EP; CK\_QN; Troponin; BNP
+    Approximate Reference Range: Normal If the ratio of CK\_MB to the total CK is more than 2.5
+    – 3 (some say more than 5), it is likely that the source is cardiac (and that the heart was
+    damaged). Ratios between 3 and 5 represent a gray zone. A ratio less than 2.5 – 3 is consistent
+    with a skeletal muscle source.
+    Comments: CK\_MB to total CK (often multiplied by 100) can assist in differentiating falsepositive
+    elevations of CK\_MB arising from skeletal muscle. No definitive diagnosis can be
+    established without serial determinations to detect a rise.
+    Test Method Variance:
+    Other:
 
+15. CK\_MMI (Creatine Kinase MM)
 
-### CK\_MB (Creatine Kinase MB - analytic method not specified)
+    Common Name: CK\_MM (also known as CPK-MM)
+    Long Name: Creatine Kinase MM Electrophoresis
+    Test Type: CK\_MM\_EP
+    Panels: N/A
+    Equivalent Tests: Use this TEST\_TYPE only when the result CK\_MM determined by
+    electrophoresis.
+    Not Equivalent Tests: All other CK tests.
+    Indications: Blood levels of CK-MM rise when muscle or heart cells are injured.
+    Description: Creatine kinase is an enzyme found in the heart, brain, skeletal muscle, and other
+    tissues. There are three different forms CK. CK\_MM is the CK isoenzyme found in primarily in
+    skeletal muscles and heart. The small amount of CK that is normally in the blood comes mainly
+    from muscles. CK-MM makes up over 95% of total CK in skeletal muscle.
+    Related Tests: CK; CK\_MB; CK\_BB\_EP, CK\_BBI, CK\_BBI\_EP; CK\_BF, CK\_CSF; CK\_ISO;
+    CK\_ISO\_EP; CK\_MB; CK\_MB\_EIA; CK\_MB\_EP; CK\_MBI\_CLC; CK\_MBI\_EIA; CK\_MBI\_EP;
+    CK\_MMI; CK\_MMI\_EP; CK\_QN
+    Approximate Reference Range (varies from lab to lab): Adult males: 52 – 336 U/L; adult
+    females: 38 – 176 U/L; children 6 – 17: 53 – 499 U/L
+    Comments: People who have greater muscle mass have higher CK and CK\_MM levels than
+    those who do not. Very heavy exercise (such as in weight lifting, contact sports, or long
+    exercise sessions) can also increase CK-MM. Other forms of muscle damage, such as from a
+    fall, a car accident, surgery, or a shot (injection), can also increase CK\_MM.
+    Test Method Variance:
+    Other:
 
-Common Name: CK\_MB (also known as CPK MB)
-Long Name: Creatine Kinase-MB
-Test Type: CK\_MB
-Panels: N/A
-Equivalent Tests: Use this TEST\_TYPE ONLY when the analytic method is not specified in the
-lab data.
-Not Equivalent Tests: All other CK TEST\_TYPES.
-Indications: B lood levels of CK rise when muscle or heart cells are injured. CK\_MB levels
-(along with total CK) are tested in persons who have chest pain to diagnose if they have had a
-heart attack. Since a high total CK could indicate damage to either the heart or other muscles,
-CK\_MB helps to distinguish between these two sources.
-Description: CK–MB is one of three separate forms (isoenzymes) of the enzyme creatine
-kinase. CK–MB is found mostly in heart muscle. It rises when there is damage to heart muscle
-cells.
-Related Tests: CK; CK\_MB; CK\_BB\_EP, CK\_BBI, CK\_BBI\_EP; CK\_BF, CK\_CSF; CK\_ISO;
-CK\_ISO\_EP; CK\_MB; CK\_MB\_EIA; CK\_MB\_EP; CK\_MBI\_CLC; CK\_MBI\_EIA; CK\_MBI\_EP;
-CK\_MM\_EP; CK\_MMI; CK\_MMI\_EP; CK\_QN; Troponin; BNP
-Approximate Reference Range: Normal CK-MB is 5% or less of total CK, often 5 – 25 IU/L.
-Comments: If the value of CK\_MB is elevated and the ratio of CK\_MB to total CK (relative
-index) is high, it is likely that the heart was damaged. A high CK with a low relative index
-suggests that skeletal muscles were damaged.
-Although CK\_MB is a good test, it has been largely replaced by troponin, which is more specific
-for damage to the heart. Sometimes persons who are having trouble breathing have to use their
-chest muscles. Chest muscles have more CK\_MB than other muscles, which would raise the
-amount of CK\_MB in the blood. Persons whose kidneys have failed can also have high CK\_MB
-levels without having had a heart attack. Rarely, chronic muscle disease, low thyroid hormone
-levels, and alcohol abuse can increase CK\_MB, producing changes similar to those seen in a
-heart attack.
-Test Method Variance: Can be measured by test methods such as enzyme immunoassay,
-column chromatography, or electrophoresis. If the test method is specified, that TEST\_TYPE
-should be used rather than CK\_MB.
-Other:
+16. CK\_MMI\_EP (Creatine Kinase MM Electrophoresis)
 
+    Common Name: CK\_MM (also known as CPK-MM)
+    Long Name: Creatine Kinase MM Electrophoresis
+    Test Type: CK\_MM\_EP
+    Panels: N/A
+    Equivalent Tests: Use this TEST\_TYPE only when the result CK\_MM determined by
+    electrophoresis.
+    Not Equivalent Tests: All other CK tests.
+    Indications: Blood levels of CK-MM rise when muscle or heart cells are injured.
+    Description: Creatine kinase is an enzyme found in the heart, brain, skeletal muscle, and other
+    tissues. There are three different forms CK. CK\_MM is the CK isoenzyme found in primarily in
+    skeletal muscles and heart. The small amount of CK that is normally in the blood comes mainly
+    from muscles. CK-MM makes up over 95% of total CK in skeletal muscle.
+    Related Tests: CK; CK\_MB; CK\_BB\_EP, CK\_BBI, CK\_BBI\_EP; CK\_BF, CK\_CSF; CK\_ISO;
+    CK\_ISO\_EP; CK\_MB; CK\_MB\_EIA; CK\_MB\_EP; CK\_MBI\_CLC; CK\_MBI\_EIA; CK\_MBI\_EP;
+    CK\_MMI; CK\_MMI\_EP; CK\_QN
+    Approximate Reference Range (varies from lab to lab): Adult males: 52 – 336 U/L; adult
+    females: 38 – 176 U/L; children 6 – 17: 53 – 499 U/L
+    Comments: People who have greater muscle mass have higher CK and CK\_MM levels than
+    those who do not. Very heavy exercise (such as in weight lifting, contact sports, or long
+    exercise sessions) can also increase CK-MM. Other forms of muscle damage, such as from a
+    fall, a car accident, surgery, or a shot (injection), can also increase CK\_MM.
+    Test Method Variance:
+    Other:
 
-### CK\_MB\_EIA (Creatine Kinase MB – Enzyme Immunoassay)
+17. CK\_QN (Creatinine Kinase Macromolecular Quantitative)
 
-Common Name: CK\_MB by immunoassay (also known as CPK MB)
-Long Name: Creatine Kinase MB – Enzyme Immunoassay
-Test Type: CK\_MB\_EIA
-Panels: N/A
-Equivalent Tests: Use the TEST\_TYPE only when the test method is stated to be enzyme
-immunoassay
-Not Equivalent Tests: All other CK TEST\_TYPES.
-Indications: Blood levels of CK rise when muscle or heart cells are injured. CK\_MB levels,
-along with total CK, are tested in persons who have chest pain to diagnose whether they have
-had a heart attack. Since a high total CK could indicate damage to either the heart or other
-muscles, CK\_MB helps to distinguish between these two sources.
-Description: CK\_MB is one of three separate forms (isoenzymes) of the enzyme creatine
-kinase (CK). CK\_MB is found mostly in heart muscle. It rises when there is damage to heart
-muscle cells.
-Related Tests: CK; CK\_MB; CK\_BB\_EP, CK\_BBI, CK\_BBI\_EP; CK\_BF, CK\_CSF; CK\_ISO;
-CK\_ISO\_EP; CK\_MB; CK\_MB\_EP; CK\_MBI\_CLC; CK\_MBI\_EIA; CK\_MBI\_EP; CK\_MM\_EP;
-CK\_MMI; CK\_MMI\_EP; CK\_QN; Troponin; BNP
-Approximate Reference Range: Normal CK-MB is 5% or less of CK, often 5 to 25 IU/L.
-Comments: If the value of CK\_MB is elevated and the ratio of CK\_MB to total CK (relative
-index) is high, it is likely that the heart was damaged. A high CK with a low relative index
-suggests that skeletal muscles were damaged.
-Although CK-MB is a good test, it has been largely replaced by troponin, which is more specific
-for damage to the heart. Persons whose kidneys have failed or who are having trouble
-breathing can have high CK\_MB levels without having had a heart attack. Rarely, chronic
-muscle disease, low thyroid hormone levels, and alcohol abuse can increase CK\_MB,
-producing changes similar to those seen in a heart attack.
-Test Method Variance: Separation of CK into isoenzymes may be accomplished by
-electrophoresis, column chromatography, or immunoassay. Immunoassay methods for
-isoenzymes can be accomplished rapidly, are highly sensitive and specific, and do not show the
-interferences common to traditional electrophoresis.
-Other:
-
-
-### CK\_MB\_EP (Creatine Kinase MB - Electrophoresis)
-
-Common Name: CK\_MB by electrophoresis (also known as CPK MB)
-Long Name: Creatine Kinase MB - Electrophoresis
-Test Type: CK\_MB\_EP
-Panels: N/A
-Equivalent Tests: Use this TEST\_TYPE only when the test method is stated to be
-electrophoresis.
-Not Equivalent Tests: All other CK TEST\_TYPES.
-Indications: Blood levels of CK rise when muscle or heart cells are injured. CK\_MB levels,
-along with total CK, are tested in persons who have chest pain to diagnose whether they have
-had a heart attack. Since a high total CK could indicate damage to either the heart or other
-muscles, CK\_MB helps to distinguish between these two sources.
-Description: CK\_MB is one of three separate forms (isoenzymes) of the enzyme creatine
-kinase (CK). CK\_MB is found mostly in heart muscle. It rises when there is damage to heart
-muscle cells.
-Related Tests: CK; CK\_MB; CK\_BB\_EP, CK\_BBI, CK\_BBI\_EP; CK\_BF, CK\_CSF; CK\_ISO;
-CK\_ISO\_EP; CK\_MB; CK\_MB\_EIA; CK\_MBI\_CLC; CK\_MBI\_EIA; CK\_MBI\_EP; CK\_MM\_EP;
-CK\_MMI; CK\_MMI\_EP; CK\_QN; Troponin; BNP
-Approximate Reference Range: Normal CK-MB is 5% or less of CK, or 5 to 25 IU/L.
-Comments: If the value of CK\_MB is elevated and the ratio of CK\_MB to total CK (relative
-index) is high, it is likely that the heart was damaged. A high CK with a low relative index
-suggests that skeletal muscles were damaged.
-Although CK-MB is a good test, it has been largely replaced by troponin, which is more specific
-for damage to the heart. Persons whose kidneys have failed or who are having trouble
-breathing can have high CK–MB levels without having had a heart attack. Rarely, chronic
-muscle disease, low thyroid hormone levels, and alcohol abuse can increase CK–MB,
-producing changes similar to those seen in a heart attack.
-Test Method Variance: Separation of CK into isoenzymes may be accomplished by
-electrophoresis, column chromatography, or immunoassay. Electrophoretically, CK\_BB is most
-mobile, CK\_MB is intermediate, and CK\_MM is neutral. Although electrophoresis is possibly
-less sensitive than column chromatography or immunoassay, there has been extensive
-experience and it is adequate for routine clinical use.
-Other:
-
-
-### CK\_MBI\_CLC (Creatine Kinase MB/Creatine Kinase Total Calculated)
-
-Common Name: CK\_MB / CK (calculated ratio)
-Long Name: Creatine Kinase MB/Creatine Kinase Total Calculated
-Test Type: CK\_MBI\_CLC
-Panels: N/A
-Equivalent Tests: Use this TEST\_TYPE only when the result is a ratio of CK\_MB to CK total as
-a calculated ratio.
-Not Equivalent Tests: All other CK tests.
-Indications: Blood levels of CK rise when muscle or heart cells are injured. CK\_MB levels,
-along with total CK, are tested in persons who have chest pain to diagnose whether they have
-had a heart attack. Since a high total CK could indicate damage to either the heart or other
-muscles, the ratio of CK\_MB to total CK helps to distinguish between these two sources.
-Description: CK\_MB is one of three separate forms (isoenzymes) of the enzyme creatine
-kinase (CK). CK\_MB is found mostly in heart muscle. It rises when there is damage to heart
-muscle cells. This test is the calculated ratio (or relative index) of the CK\_MB to the total amount
-of the three CK isoenzymes.
-Related Tests: CK; CK\_MB; CK\_BB\_EP, CK\_BBI, CK\_BBI\_EP; CK\_BF, CK\_CSF; CK\_ISO;
-CK\_ISO\_EP; CK\_MB; CK\_MB\_EIA; CK\_MB\_EP; CK\_MBI\_EIA; CK\_MBI\_EP; CK\_MM\_EP;
-CK\_MMI; CK\_MMI\_EP; CK\_QN; Troponin; BNP
-Approximate Reference Range: If the calculated ratio of CK\_MB to the total CK (relative
-index) is more than 2.5 – 3 (some say more than 5), it is likely that the source is cardiac (and
-that the heart was damaged). Ratios between 3 and 5 represent a gray zone. A ratio less than
-2.5 – 3 is consistent with a skeletal muscle source.
-Comments: CK\_MB to total CK (often multiplied by 100) can assist in differentiating falsepositive
-elevations of CK\_MB arising from skeletal muscle. No definitive diagnosis can be
-established without serial determinations to detect a rise.
-Test Method Variance:
-Other:
-
-
-### CK\_MBI\_EIA (Creatine Kinase MB/Creatine Kinase Total Enzyme Immunoassay)
-
-Common Name: CK\_MB/CK (ratio determined by enzyme immunoassay)
-Long Name: Creatine Kinase MB/Creatine Kinase Total Enzyme Immunoassay
-Test Type: CK\_MBI\_EIA
-Panels: N/A
-Equivalent Tests: Use this TEST\_TYPE only when the result is a ratio of CK\_MB to CK total
-determined by enzyme immunoassay (EIA).
-Not Equivalent Tests: All other CK tests.
-Indications: Blood levels of CK rise when muscle or heart cells are injured. CK\_MB levels,
-along with total CK, are tested in persons who have chest pain to diagnose whether they have
-had a heart attack. Since a high total CK could indicate damage to either the heart or other
-muscles, the ratio of CK\_MB to total CK helps to distinguish between these two sources.
-Description: CK\_MB is one of three separate forms of CK. CK\_MB is found mostly in heart
-muscle. It rises when there is damage to heart muscle cells. Separation of CK into isoenzymes
-may be accomplished by electrophoresis, column chromatography, or immunoassay.
-Immunoassay methods for isoenzymes can be accomplished rapidly and is highly sensitive and
-specific. Further, it does not show the interferences common to traditional electrophoresis.
-Related Tests: CK; CK\_MB; CK\_BB\_EP, CK\_BBI, CK\_BBI\_EP; CK\_BF, CK\_CSF; CK\_ISO;
-CK\_ISO\_EP; CK\_MB; CK\_MB\_EIA; CK\_MB\_EP; CK\_MBI\_CLC; CK\_MBI\_EP; CK\_MM\_EP;
-CK\_MMI; CK\_MMI\_EP; CK\_QN; Troponin; BNP
-Approximate Reference Range: If the ratio of CK\_MB to the total CK is more than 2.5 – 3
-(some say more than 5), it is likely that the source is cardiac (and that the heart was damaged).
-Ratios between 3 and 5 represent a gray zone. A ratio less than 2.5 – 3 is consistent with a
-skeletal muscle source.
-Comments: CK\_MB to total CK (often multiplied by 100) can assist in differentiating falsepositive
-elevations of CK\_MB arising from skeletal muscle. No definitive diagnosis can be
-established without serial determinations to detect a rise.
-Test Method Variance:
-Other:
-
-
-### CK\_MBI\_EP (Creatine Kinase MB/ Creatine Kinase Total Electrophoresis)
-
-Common Name: CK\_MB/CK (ratio determined by electrophoresis)
-Long Name: Creatine Kinase MB/ Creatine Kinase Total Electrophoresis
-Test Type: CK\_MBI\_EP
-Panels: N/A
-Equivalent Tests: Use this TEST\_TYPE only when the result is a ratio of CK\_MB to CK total
-determined by electrophoresis.
-Not Equivalent Tests: All other CK tests.
-Indications: Blood levels of CK rise when muscle or heart cells are injured. CK\_MB levels,
-along with total CK, are tested in persons who have chest pain to diagnose whether they have
-had a heart attack. Since a high total CK could indicate damage to either the heart or other
-muscles, the ratio of CK\_MB to total CK helps to distinguish between these two sources.
-Description: CK\_MB is one of three separate forms of CK. CK\_MB is found mostly in heart
-muscle. It rises when there is damage to heart muscle cells. Separation of CK into isoenzymes
-may be accomplished by electrophoresis, column chromatography, or immunoassay.
-Related Tests: CK; CK\_MB; CK\_BB\_EP, CK\_BBI, CK\_BBI\_EP; CK\_BF, CK\_CSF; CK\_ISO;
-CK\_ISO\_EP; CK\_MB; CK\_MB\_EIA; CK\_MB\_EP; CK\_MBI\_CLC; CK\_MBI\_EIA; CK\_MM\_EP;
-CK\_MMI; CK\_MMI\_EP; CK\_QN; Troponin; BNP
-Approximate Reference Range: Normal If the ratio of CK\_MB to the total CK is more than 2.5
-– 3 (some say more than 5), it is likely that the source is cardiac (and that the heart was
-damaged). Ratios between 3 and 5 represent a gray zone. A ratio less than 2.5 – 3 is consistent
-with a skeletal muscle source.
-Comments: CK\_MB to total CK (often multiplied by 100) can assist in differentiating falsepositive
-elevations of CK\_MB arising from skeletal muscle. No definitive diagnosis can be
-established without serial determinations to detect a rise.
-Test Method Variance:
-Other:
+    Common Name: Serum creatinine
+    Long Name: Blood/Serum/Plasma Creatinine
+    Test Type: CREATININE
+    Panels: Basic metabolic panel, comprehensive metabolic profile
+    Equivalent Tests: Plasma creatinine, whole blood creatinine
+    Not Equivalent Tests: 24 hour creatinine; creatinine clearance; microalbumin/creatinine ratio;
+    creatine. Body fluids other than blood are commonly tested i.e., urine creatinine, peritoneal
+    dialysis fluid, amniotic fluid.
+    Indications: Estimate kidney function
+    Description: Urinary excretion of creatinine is relatively constant from day to day. Creatinine
+    measurement can also be used to provide an internal reference for comparing other tests that
+    are reported with creatinine, for example, the microalbumin/creatinine ratio. Creatinine tests that
+    are reported per creatinine unit such as 24 hour urine creatinine tests relate serum values to
+    urine values. Kidney function is approximately the inverse of the creatinine value, i.e.,
+    creatinine of 2.0 ~ 1/2 of normal kidney function.
+    Related Tests: Calculated glomerular filtration rate, creatinine clearance
+    Approximate Reference Range (Each site will have slight variations): Approximately 0.5-
+    1.5 mg/dL. Reference range for females is usually slightly lower than reference range for males.
+    Comments: Some cephalosporins will react with Jaffre reagent causing falsely elevated
+    creatinine
+    Test Method Variance: Not common
+    Other:
 
 
-### CK\_MM\_EP (Creatine Kinase MM Electrophoresis)
+### (CO2) Carbon Dioxide Test Types
 
-Common Name: CK\_MM (also known as CPK-MM)
-Long Name: Creatine Kinase MM Electrophoresis
-Test Type: CK\_MM\_EP
-Panels: N/A
-Equivalent Tests: Use this TEST\_TYPE only when the result CK\_MM determined by
-electrophoresis.
-Not Equivalent Tests: All other CK tests.
-Indications: Blood levels of CK-MM rise when muscle or heart cells are injured.
-Description: Creatine kinase is an enzyme found in the heart, brain, skeletal muscle, and other
-tissues. There are three different forms CK. CK\_MM is the CK isoenzyme found in primarily in
-skeletal muscles and heart. The small amount of CK that is normally in the blood comes mainly
-from muscles. CK-MM makes up over 95% of total CK in skeletal muscle.
-Related Tests: CK; CK\_MB; CK\_BB\_EP, CK\_BBI, CK\_BBI\_EP; CK\_BF, CK\_CSF; CK\_ISO;
-CK\_ISO\_EP; CK\_MB; CK\_MB\_EIA; CK\_MB\_EP; CK\_MBI\_CLC; CK\_MBI\_EIA; CK\_MBI\_EP;
-CK\_MMI; CK\_MMI\_EP; CK\_QN
-Approximate Reference Range (varies from lab to lab): Adult males: 52 – 336 U/L; adult
-females: 38 – 176 U/L; children 6 – 17: 53 – 499 U/L
-Comments: People who have greater muscle mass have higher CK and CK\_MM levels than
-those who do not. Very heavy exercise (such as in weight lifting, contact sports, or long
-exercise sessions) can also increase CK-MM. Other forms of muscle damage, such as from a
-fall, a car accident, surgery, or a shot (injection), can also increase CK\_MM.
-Test Method Variance:
-Other:
+1.  CO2\_A (Carbon dioxide, total [Moles/volume] in Arterial blood)
+
+    ***NEEDS TO BE UPDATED***
+
+2.  CO2\_C (Carbon dioxide, total [Moles/volume] in Arterial blood)
+
+    ***NEEDS TO BE UPDATED***
+
+3.  CO2\_V (Carbon dioxide, total [Moles/volume] in Arterial blood)
+
+    ***NEEDS TO BE UPDATED***
+
+4.  CO2\_NS (Carbon dioxide, total [Moles/volume] in Arterial blood)
+
+    ***NEEDS TO BE UPDATED***
+
+5.  CO2\_A\_CLC (Carbon dioxide, total [Moles/volume] in Arterial blood)
+
+    ***NEEDS TO BE UPDATED***
+
+6.  CO2\_C\_CLC (Carbon dioxide, total [Moles/volume] in Arterial blood)
+
+    ***NEEDS TO BE UPDATED***
+
+7.  CO2\_V\_CLC (Carbon dioxide, total [Moles/volume] in Arterial blood)
+
+    ***NEEDS TO BE UPDATED***
+
+8.  CO2\_NS\_CLC (Carbon dioxide, total [Moles/volume] in Arterial blood)
+
+    ***NEEDS TO BE UPDATED***
 
 
-### Creatinine, Blood/Serum/Plasma
+### COLOGUARD (Noninvasive colorectal cancer screen)
+
+***NEEDS TO BE UPDATED***
+
+
+### CREATININE (Creatinine Blood/Serum/Plasma)
 
 Common Name: Serum creatinine
 Long Name: Blood/Serum/Plasma Creatinine
@@ -981,7 +1100,46 @@ Test Method Variance: Not common
 Other:
 
 
-### CRP (C-reactive protein serum/plasma concentration)
+### CRP (C-reactive protein)
+
+Common Name: CRP
+Long Name: C-Reactive Protein
+Test Type: CRP
+Panels: N/A
+Equivalent Tests: N/A
+Not Equivalent Tests: High-sensitivity C-reactive protein (hs-CRP); Erythrocyte sedimentation
+rate (ESR)
+Indications: To identify the presence of inflammation and to monitor response to treatment for
+patients with inflammatory disorder (arthritis; rheumatoid arthritis, lupus and other autoimmune
+disorders; inflammatory bowel disease) or to monitor for infection (after surgery, organ
+transplants, or burns).
+Description: C-reactive protein (CRP) is an acute phase reactant, a substance made by the
+liver and secreted into the bloodstream within a few hours after the start of an infection or
+inflammation. Increased levels are observed after a heart attack, in sepsis, and after a surgical
+procedure. Its rise in the blood can also precede pain, fever, or other clinical indicators. The
+level of CRP can jump a thousand-fold in response to inflammation and can be valuable in
+monitoring disease activity. High normal levels of CRP in otherwise healthy individuals have
+been found to be predictive of the future risk of a heart attack, stroke, sudden cardiac death,
+and peripheral arterial disease, even when cholesterol levels are within an acceptable range.
+Related Tests: High-sensitivity C-reactive protein (hs-CRP); Erythrocyte sedimentation rate
+(ESR)
+Approximate Reference Range (Each site will have slight variations): 0 – 5 mg/L (0.0 – 0.5
+mg/dL).
+Comments: CRP levels < 1 mg/L are considered low relative cardiovascular risk; CRP levels 1
+– 3 mg/L are considered average relative cardiovascular risk; CRP levels 3.1 – 10 are
+considered high relative cardiovascular risk; CRP levels persistently > 10 mg/L may represent
+non-cardiovascular inflammation.
+NSAIDs, aspirin or statins may reduce CRP levels in blood. Recent illness, tissue injury,
+infection, or other acute or chronic inflammation will raise the amount of CRP. CRP levels can
+be elevated in the later stages of pregnancy as well as with use of birth control pills or hormone
+replacement therapy. Higher levels of CRP have also been observed in obese individuals.
+Test Method Variance:
+Other:
+
+
+### CRP\_TIT (C-reactive protein titer)
+
+***NEEDS TO BE UPDATED***
 
 Common Name: CRP
 Long Name: C-Reactive Protein
@@ -1053,240 +1211,531 @@ Test Method Variance:
 Other:
 
 
-### D-Dimer
+### CRPHS\_QUIN (High-sensitivity C-reactive protein quintile)
 
-Common Name: Fragment D-dimer; fibrin degradation fragment
-Long Name: D-dimer fibrin derivatives;
-Test Type: D-dimer
-Panels: None
-Equivalent Tests: None
-Related, but Not Equivalent, Tests: Fibrin Degradation Products (FDP); Fibrin Split Products
-(FSP); Prothrombin Time (PT); Partial Thromboplastin Time (PTT); Fibrinogen; Platelet Count
-Indications: D-dimer tests are ordered to help rule out the presence of a clot (thrombus). Some
-of the conditions that the d-dimer test is used to help rule out include deep vein thrombosis
-(DVT), pulmonary embolism (PE), strokes. The D-dimer test may be used to determine if further
-testing is necessary to help diagnose diseases and conditions that cause inappropriate clotting.
-A D-dimer level may be used to help diagnose disseminated intravascular coagulation (DIC)
-and to monitor the effectiveness of DIC treatment.
-Description: D-dimer is one of the protein fragments produced when a blood clot dissolves in
-the body. It is a specific plasmin-mediated breakdown product of crosslinked fibrin. When a
-blood vessel or tissue is injured and bleeds, the body creates a blood clot to stop the bleeding.
-During this process, threads of a protein called fibrin are produced. These threads crosslink
-together to form a fibrin net, which, together with platelets, helps hold the forming blood clot in
-place at the site of the injury until it heals. Once the clot is no longer needed, the body uses an
-enzyme called plasmin to break up the clot. The fragments of the disintegrating fibrin in the clot
-are called fibrin degradation products (FDP). One of the fibrin degradation products produced is
-D-dimer.
-D-dimer is normally undetectable. It is produced only after a clot has formed and is in the
-process of being broken down. When there is significant formation and breakdown of blood clots
-in the body, the D-dimer blood level rises. A positive d-dimer test cannot predict whether or not
-a clot is present, but rather indicates that further testing is required. A negative D- dimer test
-means that it is unlikely that a clot is present. A normal D-dimer result has a negative predictive
-value of approximately 95% for the exclusion of acute PE or DVT when there is low or moderate
-pretest PE probability.
-Approximate Reference Range: A normal qualitative D-dimer result is “undetectable: or
-“negative” or “not detected.” Quantitative results of < = 250 ng/mL D-Dimer Units (DDU) OR < =
-0.5 mcg/mL Fibrinogen Equivalent Units (FEU) are normal. The normal reportable range is
-sometimes listed as 110 - 250 ng/mL DDU OR 0.22 - 0.50 mcg/mL FEU. Results can be
-reported in as many as eight different combinations of types (e.g., FEU, DDU) and magnitude
-(e.g., ng/mL, mcg/L [μg/L], mcg/ml [μg/mL], mg/L) of units. Unfortunately, at times result units
-are only reported as the magnitude (whether FEU or DDU type is not reported). In these cases,
-ranges and abnormal flags can assist in guiding the interpretation, but it is not always possible
-to assign magnitude. Do not make assumptions if you cannot determine the magnitude of the
-results.
-
--   Comments:
-
-A normal or negative D-dimer result means that it is most likely that the person
-tested does not have an acute condition or disease that is causing abnormal clot formation and
-breakdown. The test is used to help rule out clotting as the cause of symptoms. A positive Ddimer
-result may indicate the presence of an abnormally high level of fibrin degradation
-products. It tells the doctor that there may be significant blood clot formation and breakdown in
-the body, but it does not tell the location or cause. An elevated D-dimer does not always
-indicate the presence of a clot because a number of other factors can cause an increased level
-(e.g., recent surgery, pregnancy, trauma, infection, heart disease, some cancers). D-dimer is
-not used as the only test to diagnose a condition.
-Test Method Variance: There are several different methods of testing for D-dimer. Most of the
-D-dimer tests that yield quantitative results are done in a hospital lab, while those that yield
-qualitative or semi-quantitative results are performed at the patient's bedside (point of care).
+***NEEDS TO BE UPDATED***
+Common Name: hsCRP
+Long Name: High-sensitivity C-Reactive Protein
+Test Type: CRPHS
+Panels: N/A
+Equivalent Tests: N/A
+Not Equivalent Tests: C-reactive protein (CRP); Erythrocyte sedimentation rate (ESR)
+Indications: To assess risk of developing heart disease, cardiovascular disease (CVD), or other
+processes involving inflammation. Inflammation plays a major role in atherosclerosis, which is
+often associated with CVD. Studies have shown that measuring CRP with the improved
+methodology of the highly sensitive assay can identify the risk level for CVD in apparently
+healthy people; the hs-CRP test may be used to screen healthy people.
+Description: CRP is made by the liver and secreted into the bloodstream. It can be measured
+with two different tests: CRP and hs-CRP, each measuring different blood ranges. The hs-CRP
+test can more accurately detect lower concentrations of the protein that may be within the
+normal range than the standard CRP test. Individuals with hs-CRP results in the high end of the
+normal range have 1.5 to 4 times the risk of having a heart attack as those with hs-CRP values
+at the low end of the normal range.
+Related Tests: Lipid profile, Cardiac risk assessment, CRP, Erythrocyte sedimentation rate
+(ESR)
+Approximate Reference Range: 0 – 5 mg/L (0.0 – 0.5 mg/dL).
+Comments: Hs-CRP usually is ordered as one of several tests in a cardiovascular risk profile,
+often along with tests for cholesterol and triglycerides.
+The American Heart Association and US Centers for Disease Control and Prevention have
+defined risk groups as follows: Low risk (< 1.0 mg/L); Average risk (1.0 to 3.0 mg/L); High risk >
+3.0 mg/L)
+NSAIDs, aspirin or statins may reduce CRP levels in blood. Recent illness, tissue injury,
+infection, or other acute or chronic inflammation will raise the amount of CRP. CRP levels can
+be elevated in the later stages of pregnancy as well as with use of birth control pills or hormone
+replacement therapy. Higher levels of CRP have also been observed in the obese.
+Test Method Variance:
 Other:
 
 
-### FOBT (Fecal Occult Blood Test)
+### CYSTATIN\_C (Cystatin C [Mass/volume])
 
-Common Name: FOBT; fecal occult blood test
-Long Name: FOBT qualitative; fecal occult blood; occult blood in stool; guaiac
-Test Type: FOB\_GUAI (NOTE: This is likely to be the FOBT TEST\_TYPE where the majority of
-your site’s FOBT tests will be mapped as this is the “Home FOBT” [see below]).
-Panels:
-Equivalent tests: FOBT is a general name applied to stool tests that detect blood “hidden”
-(occult) in the stool. Two basic technologies are employed: the older guaiac tests and the newer
-immunochemical tests (see test type FOB\_IMMUN). These two tests are sometimes
-distinguished as “guaiac test” or gFOBT versus fecal immunochemical test (FIT), or iFOBT. The
-information on this sheet applies to the guaiac test (gFOBT) which can also be listed as
-Hemoccult® or similar (e.g., Hemoccult II®, Hemoccult II ® SENSA®, Hemoccult II ®
-SENSA®elite, ColoScreen®, Colocare®, EZ Detect®, Seracult®, Sure Vue®). Please refer to
-other sections of this Reference for information about other stool blood tests.
-Not equivalent tests: The test must be from stool (feces). Text searches for “hemoccult” may
-or may not be productive. Text searches on feces, “fecal”, or “occult blood” may be useful, but
-many of these tests are unrelated to FOBT. Do not confuse FOBT with other tests related to
-blood. Be cautious when considering tests that contain the word “heme” because, although
-FOBT recognizes the “heme” portion of hemoglobin, hemoglobin is the oxygen-carrying
-molecule in blood and many tests containing the root “heme” are not FOBT.
-There were formerly two applications of the FOBT test. “Office FOBT” is no longer
-recommended. In that procedure, the provider collected a smear of fecal sample coincident with
-a digital rectal exam, and applied it to a single test card. “Home FOBT” is the recommended
-procedure, in which the provider gives the patient a test kit to complete at home (the kit often
-contains 3 cards, allowing for collection of 2 samples per day for 3 days). This TEST\_TYPE is
-for the home FOBT.
-Indications: The FOBT detects blood in stool. The test can be used to screen for colorectal
-cancer (CRC), or to diagnose other conditions that cause bleeding into the gastrointestinal (GI)
-tract. Occult (not visible to the eye).blood in feces may be due to CRC, polyps, or other GI
-conditions (e.g., hemorrhoids, anal fissures, ulcers, inflammatory bowel disease).
-Description: The guaiac is qualitative, i.e., any color change indicates a positive test. A typical
-guaiac test card contains 3 or 6 “windows.” The patient takes the test card home and collects
-fecal samples over 3 days. The patient applies a thin smear of feces to Window A of the card,
-and then applies a second smear from a different part of the stool to Window B, etc. A complete
-test consists of a card containing 6 smears. The patient returns the sample to a laboratory or
-medical office for development. The test is read by adding drops of developer to the guaiac
-paper and noting the color change (any trace of blue on any smear is a positive test). The test is
-qualitative in that the result is negative, positive or not interpetable.
-At some sites, the results may be reported individually for each of the boxes (i.e., specimens). If
-all specimens are reported as negative the test result is negative. If even one specimen is
-reported as positive the test result is positive. Any color change for any of the specimens
-constitutes a positive test. The following LOINC codes correspond to the individual specimens
-when results are reported individually for each box:
-2nd specimen 14564-9
-3rd specimen 14565-6
-4th specimen 12503-9
-5th specimen 10504-7
-6th specimen 27401-9
-7th specimen 27925-7
-8th specimen 27926-5
-Related Tests: See the following TEST\_TYPES: FOB1\_GUAI, FOB\_QN, and FOB\_IMMUN
-Approximate Reference Range: N/A
-Comments: High does of vitamin C (or other strong anti-oxidant) may inhibit the color reaction
-and cause a false negative. Consumption of meat has been shown to cause false positives for
-guaiac testing by providing a source of hemoglobin other than blood.
-Test Method Variance:
+***NEEDS TO BE UPDATED***
 
 
-### FOB1 (Fecal Occult Blood Test One Specimen)
+### (D-DIME) D-dimer fibrin derivatives Test Types
 
-Common Name: FOBT; fecal occult blood test, first specimen
-Long Name: FOBT qualitative; fecal occult blood; occult blood in stool; guaiac, single specimen
-Test Type: FOB1\_GUAI (NOTE: This TEST\_TYPE is intended to be used ONLY when the
-Office FOBT is performed [see below]. Some sites will not use this TEST\_TYPE at all).
-Panels:
-Equivalent tests: FOBT is a general name applied to stool tests that detect blood “hidden”
-(occult) in the stool. Two basic technologies are employed: the guaiac test (older, routinely
-used), and newer immunochemical tests (see test type FOB\_IMMUN). These two tests are
-sometimes distinguished as “guaiac test” or gFOBT, versus fecal immunochemical test (FIT), or
-iFOBT. This information applies to the older guaiac test (gFOBT).The FOBT test can be listed
-as Hemoccult® or similar (e.g., Hemoccult II®, Hemoccult II ® SENSA®, Hemoccult II ®
-SENSA®elite, ColoScreen®, Colocare®, EZ Detect®, Seracult®, Sure Vue®). Please refer to
-other section of the Reference Document for information about other stool blood tests.
-Not equivalent tests: The test must be from stool (feces). Text searches for “hemoccult” may
-or may not be productive. Text searches on “feces”, “fecal”, or “occult blood” may be useful, but
-do not over-generalize; many of these tests are unrelated to FOBT. Do not to confuse FOBT
-with other tests related to blood. Be cautious when considering tests that contain the word
-“heme” because, although FOBT recognizes the “heme” portion of hemoglobin, hemoglobin is
-the oxygen-carrying molecule in blood and many tests containing the root “heme” are not FOBT.
-There were formerly two applications of the FOBT test. “Office FOBT” is no longer
-recommended. In that procedure, the provider collects a smear of fecal sample coincident with a
-digital rectal exam, and applies it to a single test card. “Home FOBT” is the recommended
-procedure, in which the provider gives the patient a test kit to complete at home (the kit often
-contains 3 cards, allowing for collection of 2 samples per day for 3 days). This TEST\_TYPE is
-for the office FOBT.
-Indications: The fecal occult blood test (FOBT) detects blood in stool. The test may be
-performed to screen for colorectal cancer (CRC), or to diagnose other conditions that cause
-bleeding into the gastrointestinal (GI) tract. Occult blood in feces may be due to CRC, polyps, or
-other GI conditions (e.g., hemorrhoids, anal fissures, ulcers, inflammatory bowel disease).
-Description: The guaiac is qualitative, i.e., any color change indicates a positive test. In the
-office FOBT, typically the smear is applied to a single card. The test is read by adding drops of
-developer to the guaiac paper and noting the color change. Any trace of blue on any of the fecal
-smears is considered a positive test. The test is qualitative in that the result is negative, positive
-or not interpetable.
-Related Tests: See the following TEST\_TYPES: FOB\_GUAI, FOB\_QN, and FOB\_IMMUN
-Approximate Reference Range: N/A
-Comments: High does of vitamin C (or other strong anti-oxidant) may inhibit the color reaction
-and cause a false negative. Consumption of meat has been shown to cause false positives for
-guaiac testing by providing a source of hemoglobin other than blood.
-Test Method Variance:
+1.  D-DIME\_DDU (D-dimer fibrin derivatives, quantitative, D-Dimer Units)
+
+    ***NEEDS TO BE UPDATED***
+    Common Name: Fragment D-dimer; fibrin degradation fragment
+    Long Name: D-dimer fibrin derivatives;
+    Test Type: D-dimer
+    Panels: None
+    Equivalent Tests: None
+    Related, but Not Equivalent, Tests: Fibrin Degradation Products (FDP); Fibrin Split Products
+    (FSP); Prothrombin Time (PT); Partial Thromboplastin Time (PTT); Fibrinogen; Platelet Count
+    Indications: D-dimer tests are ordered to help rule out the presence of a clot (thrombus). Some
+    of the conditions that the d-dimer test is used to help rule out include deep vein thrombosis
+    (DVT), pulmonary embolism (PE), strokes. The D-dimer test may be used to determine if further
+    testing is necessary to help diagnose diseases and conditions that cause inappropriate clotting.
+    A D-dimer level may be used to help diagnose disseminated intravascular coagulation (DIC)
+    and to monitor the effectiveness of DIC treatment.
+    Description: D-dimer is one of the protein fragments produced when a blood clot dissolves in
+    the body. It is a specific plasmin-mediated breakdown product of crosslinked fibrin. When a
+    blood vessel or tissue is injured and bleeds, the body creates a blood clot to stop the bleeding.
+    During this process, threads of a protein called fibrin are produced. These threads crosslink
+    together to form a fibrin net, which, together with platelets, helps hold the forming blood clot in
+    place at the site of the injury until it heals. Once the clot is no longer needed, the body uses an
+    enzyme called plasmin to break up the clot. The fragments of the disintegrating fibrin in the clot
+    are called fibrin degradation products (FDP). One of the fibrin degradation products produced is
+    D-dimer.
+    D-dimer is normally undetectable. It is produced only after a clot has formed and is in the
+    process of being broken down. When there is significant formation and breakdown of blood clots
+    in the body, the D-dimer blood level rises. A positive d-dimer test cannot predict whether or not
+    a clot is present, but rather indicates that further testing is required. A negative D- dimer test
+    means that it is unlikely that a clot is present. A normal D-dimer result has a negative predictive
+    value of approximately 95% for the exclusion of acute PE or DVT when there is low or moderate
+    pretest PE probability.
+    Approximate Reference Range: A normal qualitative D-dimer result is “undetectable: or
+    “negative” or “not detected.” Quantitative results of < = 250 ng/mL D-Dimer Units (DDU) OR < =
+    0.5 mcg/mL Fibrinogen Equivalent Units (FEU) are normal. The normal reportable range is
+    sometimes listed as 110 - 250 ng/mL DDU OR 0.22 - 0.50 mcg/mL FEU. Results can be
+    reported in as many as eight different combinations of types (e.g., FEU, DDU) and magnitude
+    (e.g., ng/mL, mcg/L [μg/L], mcg/ml [μg/mL], mg/L) of units. Unfortunately, at times result units
+    are only reported as the magnitude (whether FEU or DDU type is not reported). In these cases,
+    ranges and abnormal flags can assist in guiding the interpretation, but it is not always possible
+    to assign magnitude. Do not make assumptions if you cannot determine the magnitude of the
+    results.
+    
+    -   Comments:
+    
+    A normal or negative D-dimer result means that it is most likely that the person
+    tested does not have an acute condition or disease that is causing abnormal clot formation and
+    breakdown. The test is used to help rule out clotting as the cause of symptoms. A positive Ddimer
+    result may indicate the presence of an abnormally high level of fibrin degradation
+    products. It tells the doctor that there may be significant blood clot formation and breakdown in
+    the body, but it does not tell the location or cause. An elevated D-dimer does not always
+    indicate the presence of a clot because a number of other factors can cause an increased level
+    (e.g., recent surgery, pregnancy, trauma, infection, heart disease, some cancers). D-dimer is
+    not used as the only test to diagnose a condition.
+    Test Method Variance: There are several different methods of testing for D-dimer. Most of the
+    D-dimer tests that yield quantitative results are done in a hospital lab, while those that yield
+    qualitative or semi-quantitative results are performed at the patient's bedside (point of care).
+    Other:
+
+2.  D-DIME\_FEU (D-dimer fibrin derivatives, quantitative, Fibinogen Equivalent Units)
+
+    ***NEEDS TO BE UPDATED***
+    Common Name: Fragment D-dimer; fibrin degradation fragment
+    Long Name: D-dimer fibrin derivatives;
+    Test Type: D-dimer
+    Panels: None
+    Equivalent Tests: None
+    Related, but Not Equivalent, Tests: Fibrin Degradation Products (FDP); Fibrin Split Products
+    (FSP); Prothrombin Time (PT); Partial Thromboplastin Time (PTT); Fibrinogen; Platelet Count
+    Indications: D-dimer tests are ordered to help rule out the presence of a clot (thrombus). Some
+    of the conditions that the d-dimer test is used to help rule out include deep vein thrombosis
+    (DVT), pulmonary embolism (PE), strokes. The D-dimer test may be used to determine if further
+    testing is necessary to help diagnose diseases and conditions that cause inappropriate clotting.
+    A D-dimer level may be used to help diagnose disseminated intravascular coagulation (DIC)
+    and to monitor the effectiveness of DIC treatment.
+    Description: D-dimer is one of the protein fragments produced when a blood clot dissolves in
+    the body. It is a specific plasmin-mediated breakdown product of crosslinked fibrin. When a
+    blood vessel or tissue is injured and bleeds, the body creates a blood clot to stop the bleeding.
+    During this process, threads of a protein called fibrin are produced. These threads crosslink
+    together to form a fibrin net, which, together with platelets, helps hold the forming blood clot in
+    place at the site of the injury until it heals. Once the clot is no longer needed, the body uses an
+    enzyme called plasmin to break up the clot. The fragments of the disintegrating fibrin in the clot
+    are called fibrin degradation products (FDP). One of the fibrin degradation products produced is
+    D-dimer.
+    D-dimer is normally undetectable. It is produced only after a clot has formed and is in the
+    process of being broken down. When there is significant formation and breakdown of blood clots
+    in the body, the D-dimer blood level rises. A positive d-dimer test cannot predict whether or not
+    a clot is present, but rather indicates that further testing is required. A negative D- dimer test
+    means that it is unlikely that a clot is present. A normal D-dimer result has a negative predictive
+    value of approximately 95% for the exclusion of acute PE or DVT when there is low or moderate
+    pretest PE probability.
+    Approximate Reference Range: A normal qualitative D-dimer result is “undetectable: or
+    “negative” or “not detected.” Quantitative results of < = 250 ng/mL D-Dimer Units (DDU) OR < =
+    0.5 mcg/mL Fibrinogen Equivalent Units (FEU) are normal. The normal reportable range is
+    sometimes listed as 110 - 250 ng/mL DDU OR 0.22 - 0.50 mcg/mL FEU. Results can be
+    reported in as many as eight different combinations of types (e.g., FEU, DDU) and magnitude
+    (e.g., ng/mL, mcg/L [μg/L], mcg/ml [μg/mL], mg/L) of units. Unfortunately, at times result units
+    are only reported as the magnitude (whether FEU or DDU type is not reported). In these cases,
+    ranges and abnormal flags can assist in guiding the interpretation, but it is not always possible
+    to assign magnitude. Do not make assumptions if you cannot determine the magnitude of the
+    results.
+    
+    -   Comments:
+    
+    A normal or negative D-dimer result means that it is most likely that the person
+    tested does not have an acute condition or disease that is causing abnormal clot formation and
+    breakdown. The test is used to help rule out clotting as the cause of symptoms. A positive Ddimer
+    result may indicate the presence of an abnormally high level of fibrin degradation
+    products. It tells the doctor that there may be significant blood clot formation and breakdown in
+    the body, but it does not tell the location or cause. An elevated D-dimer does not always
+    indicate the presence of a clot because a number of other factors can cause an increased level
+    (e.g., recent surgery, pregnancy, trauma, infection, heart disease, some cancers). D-dimer is
+    not used as the only test to diagnose a condition.
+    Test Method Variance: There are several different methods of testing for D-dimer. Most of the
+    D-dimer tests that yield quantitative results are done in a hospital lab, while those that yield
+    qualitative or semi-quantitative results are performed at the patient's bedside (point of care).
+    Other:
+
+3.  D-DIME\_NS (D-dimer fibrin derivatives, quantitative, Not Specified)
+
+    ***NEEDS TO BE UPDATED***
+    Common Name: Fragment D-dimer; fibrin degradation fragment
+    Long Name: D-dimer fibrin derivatives;
+    Test Type: D-dimer
+    Panels: None
+    Equivalent Tests: None
+    Related, but Not Equivalent, Tests: Fibrin Degradation Products (FDP); Fibrin Split Products
+    (FSP); Prothrombin Time (PT); Partial Thromboplastin Time (PTT); Fibrinogen; Platelet Count
+    Indications: D-dimer tests are ordered to help rule out the presence of a clot (thrombus). Some
+    of the conditions that the d-dimer test is used to help rule out include deep vein thrombosis
+    (DVT), pulmonary embolism (PE), strokes. The D-dimer test may be used to determine if further
+    testing is necessary to help diagnose diseases and conditions that cause inappropriate clotting.
+    A D-dimer level may be used to help diagnose disseminated intravascular coagulation (DIC)
+    and to monitor the effectiveness of DIC treatment.
+    Description: D-dimer is one of the protein fragments produced when a blood clot dissolves in
+    the body. It is a specific plasmin-mediated breakdown product of crosslinked fibrin. When a
+    blood vessel or tissue is injured and bleeds, the body creates a blood clot to stop the bleeding.
+    During this process, threads of a protein called fibrin are produced. These threads crosslink
+    together to form a fibrin net, which, together with platelets, helps hold the forming blood clot in
+    place at the site of the injury until it heals. Once the clot is no longer needed, the body uses an
+    enzyme called plasmin to break up the clot. The fragments of the disintegrating fibrin in the clot
+    are called fibrin degradation products (FDP). One of the fibrin degradation products produced is
+    D-dimer.
+    D-dimer is normally undetectable. It is produced only after a clot has formed and is in the
+    process of being broken down. When there is significant formation and breakdown of blood clots
+    in the body, the D-dimer blood level rises. A positive d-dimer test cannot predict whether or not
+    a clot is present, but rather indicates that further testing is required. A negative D- dimer test
+    means that it is unlikely that a clot is present. A normal D-dimer result has a negative predictive
+    value of approximately 95% for the exclusion of acute PE or DVT when there is low or moderate
+    pretest PE probability.
+    Approximate Reference Range: A normal qualitative D-dimer result is “undetectable: or
+    “negative” or “not detected.” Quantitative results of < = 250 ng/mL D-Dimer Units (DDU) OR < =
+    0.5 mcg/mL Fibrinogen Equivalent Units (FEU) are normal. The normal reportable range is
+    sometimes listed as 110 - 250 ng/mL DDU OR 0.22 - 0.50 mcg/mL FEU. Results can be
+    reported in as many as eight different combinations of types (e.g., FEU, DDU) and magnitude
+    (e.g., ng/mL, mcg/L [μg/L], mcg/ml [μg/mL], mg/L) of units. Unfortunately, at times result units
+    are only reported as the magnitude (whether FEU or DDU type is not reported). In these cases,
+    ranges and abnormal flags can assist in guiding the interpretation, but it is not always possible
+    to assign magnitude. Do not make assumptions if you cannot determine the magnitude of the
+    results.
+    
+    -   Comments:
+    
+    A normal or negative D-dimer result means that it is most likely that the person
+    tested does not have an acute condition or disease that is causing abnormal clot formation and
+    breakdown. The test is used to help rule out clotting as the cause of symptoms. A positive Ddimer
+    result may indicate the presence of an abnormally high level of fibrin degradation
+    products. It tells the doctor that there may be significant blood clot formation and breakdown in
+    the body, but it does not tell the location or cause. An elevated D-dimer does not always
+    indicate the presence of a clot because a number of other factors can cause an increased level
+    (e.g., recent surgery, pregnancy, trauma, infection, heart disease, some cancers). D-dimer is
+    not used as the only test to diagnose a condition.
+    Test Method Variance: There are several different methods of testing for D-dimer. Most of the
+    D-dimer tests that yield quantitative results are done in a hospital lab, while those that yield
+    qualitative or semi-quantitative results are performed at the patient's bedside (point of care).
+    Other:
+
+4.  D-DIMER\_QL (D-dimer fibrin derivatives, qualitative)
+
+    ***NEEDS TO BE UPDATED***
+    Common Name: Fragment D-dimer; fibrin degradation fragment
+    Long Name: D-dimer fibrin derivatives;
+    Test Type: D-dimer
+    Panels: None
+    Equivalent Tests: None
+    Related, but Not Equivalent, Tests: Fibrin Degradation Products (FDP); Fibrin Split Products
+    (FSP); Prothrombin Time (PT); Partial Thromboplastin Time (PTT); Fibrinogen; Platelet Count
+    Indications: D-dimer tests are ordered to help rule out the presence of a clot (thrombus). Some
+    of the conditions that the d-dimer test is used to help rule out include deep vein thrombosis
+    (DVT), pulmonary embolism (PE), strokes. The D-dimer test may be used to determine if further
+    testing is necessary to help diagnose diseases and conditions that cause inappropriate clotting.
+    A D-dimer level may be used to help diagnose disseminated intravascular coagulation (DIC)
+    and to monitor the effectiveness of DIC treatment.
+    Description: D-dimer is one of the protein fragments produced when a blood clot dissolves in
+    the body. It is a specific plasmin-mediated breakdown product of crosslinked fibrin. When a
+    blood vessel or tissue is injured and bleeds, the body creates a blood clot to stop the bleeding.
+    During this process, threads of a protein called fibrin are produced. These threads crosslink
+    together to form a fibrin net, which, together with platelets, helps hold the forming blood clot in
+    place at the site of the injury until it heals. Once the clot is no longer needed, the body uses an
+    enzyme called plasmin to break up the clot. The fragments of the disintegrating fibrin in the clot
+    are called fibrin degradation products (FDP). One of the fibrin degradation products produced is
+    D-dimer.
+    D-dimer is normally undetectable. It is produced only after a clot has formed and is in the
+    process of being broken down. When there is significant formation and breakdown of blood clots
+    in the body, the D-dimer blood level rises. A positive d-dimer test cannot predict whether or not
+    a clot is present, but rather indicates that further testing is required. A negative D- dimer test
+    means that it is unlikely that a clot is present. A normal D-dimer result has a negative predictive
+    value of approximately 95% for the exclusion of acute PE or DVT when there is low or moderate
+    pretest PE probability.
+    Approximate Reference Range: A normal qualitative D-dimer result is “undetectable: or
+    “negative” or “not detected.” Quantitative results of < = 250 ng/mL D-Dimer Units (DDU) OR < =
+    0.5 mcg/mL Fibrinogen Equivalent Units (FEU) are normal. The normal reportable range is
+    sometimes listed as 110 - 250 ng/mL DDU OR 0.22 - 0.50 mcg/mL FEU. Results can be
+    reported in as many as eight different combinations of types (e.g., FEU, DDU) and magnitude
+    (e.g., ng/mL, mcg/L [μg/L], mcg/ml [μg/mL], mg/L) of units. Unfortunately, at times result units
+    are only reported as the magnitude (whether FEU or DDU type is not reported). In these cases,
+    ranges and abnormal flags can assist in guiding the interpretation, but it is not always possible
+    to assign magnitude. Do not make assumptions if you cannot determine the magnitude of the
+    results.
+    
+    -   Comments:
+    
+    A normal or negative D-dimer result means that it is most likely that the person
+    tested does not have an acute condition or disease that is causing abnormal clot formation and
+    breakdown. The test is used to help rule out clotting as the cause of symptoms. A positive Ddimer
+    result may indicate the presence of an abnormally high level of fibrin degradation
+    products. It tells the doctor that there may be significant blood clot formation and breakdown in
+    the body, but it does not tell the location or cause. An elevated D-dimer does not always
+    indicate the presence of a clot because a number of other factors can cause an increased level
+    (e.g., recent surgery, pregnancy, trauma, infection, heart disease, some cancers). D-dimer is
+    not used as the only test to diagnose a condition.
+    Test Method Variance: There are several different methods of testing for D-dimer. Most of the
+    D-dimer tests that yield quantitative results are done in a hospital lab, while those that yield
+    qualitative or semi-quantitative results are performed at the patient's bedside (point of care).
+    Other:
 
 
-### Fecal Occult Blood Test, Quantitative
+### ESR (Erythrocyte sedimentation rate)
 
-Common Name: Quantitative FOBT test
-Long Name: FOBT quantitative; fecal occult blood; occult blood in stool; guaiac
-Test Type: FOB\_QN (NOTE: We are not aware that any site is using a quantitative FOBT test
-with the exception of the newer immune test. We anticipate that this TEST\_TYPE will rarely be
-populated in the VDW).
-Panels:
-Equivalent tests: FOBT is a general name applied to stool tests that detect blood “hidden”
-(occult) in the stool. Two basic technologies are employed: the guaiac test (older, routinely
-used), and newer immunochemical tests (see test type FOB\_IMMUN). These two tests are
-sometimes distinguished as “guaiac test” or gFOBT, versus fecal immunochemical test (FIT), or
-iFOBT. Please refer to other section of the Reference Document for information about other
-stool blood tests.
-Not equivalent tests: The test must be from stool (feces). Text searches for “hemoccult” may
-or may not be productive. Text searches on “feces”, “fecal”, or “occult blood” may be useful, but
-do not over-generalize; many of these tests are unrelated to FOBT. Do not to confuse FOBT
-with other tests related to blood. Be cautious when considering tests that contain the word
-“heme” because, although FOBT recognizes the “heme” portion of hemoglobin, hemoglobin is
-the oxygen-carrying molecule in blood and many tests containing the root “heme” are not FOBT.
-Indications: The fecal occult blood test (FOBT) detects blood in stool. The test may be
-performed to screen for colorectal cancer (CRC), or to diagnose other conditions that cause
-bleeding into the gastrointestinal (GI) tract. Occult (blood not visible to the eye) blood in feces
-may be due to CRC, polyps, or other GI conditions (e.g., hemorrhoids, anal fissures, ulcers,
-inflammatory bowel disease).
-Description:
-Related Tests: See the following TEST\_TYPES: FOB\_GUAI, FOB1\_GUAI, and FOB\_IMMUN
-Approximate Reference Range:
-Comments:
-Test Method Variance:
+***NEEDS TO BE UPDATED***
 
 
-### Fecal Immunologic (Immunochemical) Test
+### (FE) Iron Test Types
 
-Common Name: FIT (fecal immunochemical test0, iFOBT
-Long Name: FOBT qualitative; quick test; HFH test; occult blood in stool; immunologic
-Test Type: FOB\_IMMUN
-Panels:
-Equivalent tests: FOBT is a general name applied to stool tests to detect blood “hidden”
-(occult) in the stool. Two basic technologies are employed: the guaiac test, which is older and
-used routinely, and the immunochemical tests, which are newer. The fecal immunochemical test
-is the “FIT” or iFOBT. The FIT can also be known as the Hemoccult ICT ® (formerly FlexSure
-OBT®), Immudia-Hem Sp® , HemSelect®, or Insure®. The information provided here applies to
-the iFOBT or FIT. Please see the other FOBT sheets for information about other occult blood
-tests for stool.
-Not equivalent tests: The FOBT test must be from stool. Text searches for “hemoccult” may or
-may not be productive. Similarly, text searches on “feces”, “fecal”, or “occult blood” may be
-useful but do not over-generalize; many of these tests will be unrelated to FOBT. Do not to
-confuse FOBT with other tests related to blood. Be cautious when considering tests that contain
-the word “heme” because, although FOBT recognizes the “heme” portion of hemoglobin,
-hemoglobin is the oxygen-carrying molecule in blood and many tests containing the root “heme”
-are not FOBT.
-Indications: The FIT detects blood in stool. The test may be performed to screen for colorectal
-cancer (CRC), or to diagnose other conditions that cause bleeding into the gastrointestinal (GI)
-tract. Occult (blood not visible to the eye) blood in feces may be due to CRC, polyps, or other GI
-conditions (e.g., hemorrhoids, anal fissures, ulcers, inflammatory bowel disease).
-Description: Fecal immunochemical tests use antibodies to detect human hemoglobin in stool
-samples. They are specific for human blood (in contrast to the guaiac test which detects nonhuman
-blood and is influenced by other interferences). The immunochemical test causes a color
-change; i.e., with a change in color indicating a positive test. In routine clinical use the expected
-result would be qualitative; the number of windows tested, and the number that are
-negative/positive. FIT is a newer test than the guaiac. FIT sample collection procedures are
-designed to increase acceptability and adherence by patients.
-Related Tests: See the following TEST\_TYPES: FOB\_GUAI, FOB1\_GUAI, and FOB\_QN
-Approximate Reference Range: N/A
-Comments: Remember that this is a stool test; the material being tested is human feces. When
-conducting string searches of databases to locate iFOBT tests, it may be useful to use terms
-such as “fecal”, “stool” and “occult”, and to ascertain that stool is the medium being tested.
-Test Method Variance:
+1.  FE (Iron in Serum or Plasma)
+
+    ***NEEDS TO BE UPDATED***
+
+2.  FE\_QL (Iron in Serum or Plasma  qualitative)
+
+    ***NEEDS TO BE UPDATED***
+
+3.  FE\_SATURATION (Iron Saturation in Serum or Plasma)
+
+    ***NEEDS TO BE UPDATED***
+
+4.  FE\_TIBC (Iron Binding Capacity in Serum or Plasma)
+
+    ***NEEDS TO BE UPDATED***
+
+5.  FE\_UIBC (Iron Binding Capacity in Serum or Plasma unsaturted)
+
+    ***NEEDS TO BE UPDATED***
+
+6.  FE\_TRANSFERRIN\_RATIO (Iron/Transerrin ration in Serum or Plasma)
+
+    ***NEEDS TO BE UPDATED***
 
 
-### Folate
+### (FOB) Fecal Occult Blood Test Types
+
+1.  FOB\_GUAI (Fecal Occult Blood Test qualitative, guaiac)
+
+    Common Name: FOBT; fecal occult blood test
+    Long Name: FOBT qualitative; fecal occult blood; occult blood in stool; guaiac
+    Test Type: FOB\_GUAI (NOTE: This is likely to be the FOBT TEST\_TYPE where the majority of
+    your site’s FOBT tests will be mapped as this is the “Home FOBT” [see below]).
+    Panels:
+    Equivalent tests: FOBT is a general name applied to stool tests that detect blood “hidden”
+    (occult) in the stool. Two basic technologies are employed: the older guaiac tests and the newer
+    immunochemical tests (see test type FOB\_IMMUN). These two tests are sometimes
+    distinguished as “guaiac test” or gFOBT versus fecal immunochemical test (FIT), or iFOBT. The
+    information on this sheet applies to the guaiac test (gFOBT) which can also be listed as
+    Hemoccult® or similar (e.g., Hemoccult II®, Hemoccult II ® SENSA®, Hemoccult II ®
+    SENSA®elite, ColoScreen®, Colocare®, EZ Detect®, Seracult®, Sure Vue®). Please refer to
+    other sections of this Reference for information about other stool blood tests.
+    Not equivalent tests: The test must be from stool (feces). Text searches for “hemoccult” may
+    or may not be productive. Text searches on feces, “fecal”, or “occult blood” may be useful, but
+    many of these tests are unrelated to FOBT. Do not confuse FOBT with other tests related to
+    blood. Be cautious when considering tests that contain the word “heme” because, although
+    FOBT recognizes the “heme” portion of hemoglobin, hemoglobin is the oxygen-carrying
+    molecule in blood and many tests containing the root “heme” are not FOBT.
+    There were formerly two applications of the FOBT test. “Office FOBT” is no longer
+    recommended. In that procedure, the provider collected a smear of fecal sample coincident with
+    a digital rectal exam, and applied it to a single test card. “Home FOBT” is the recommended
+    procedure, in which the provider gives the patient a test kit to complete at home (the kit often
+    contains 3 cards, allowing for collection of 2 samples per day for 3 days). This TEST\_TYPE is
+    for the home FOBT.
+    Indications: The FOBT detects blood in stool. The test can be used to screen for colorectal
+    cancer (CRC), or to diagnose other conditions that cause bleeding into the gastrointestinal (GI)
+    tract. Occult (not visible to the eye).blood in feces may be due to CRC, polyps, or other GI
+    conditions (e.g., hemorrhoids, anal fissures, ulcers, inflammatory bowel disease).
+    Description: The guaiac is qualitative, i.e., any color change indicates a positive test. A typical
+    guaiac test card contains 3 or 6 “windows.” The patient takes the test card home and collects
+    fecal samples over 3 days. The patient applies a thin smear of feces to Window A of the card,
+    and then applies a second smear from a different part of the stool to Window B, etc. A complete
+    test consists of a card containing 6 smears. The patient returns the sample to a laboratory or
+    medical office for development. The test is read by adding drops of developer to the guaiac
+    paper and noting the color change (any trace of blue on any smear is a positive test). The test is
+    qualitative in that the result is negative, positive or not interpetable.
+    At some sites, the results may be reported individually for each of the boxes (i.e., specimens). If
+    all specimens are reported as negative the test result is negative. If even one specimen is
+    reported as positive the test result is positive. Any color change for any of the specimens
+    constitutes a positive test. The following LOINC codes correspond to the individual specimens
+    when results are reported individually for each box:
+    2nd specimen 14564-9
+    3rd specimen 14565-6
+    4th specimen 12503-9
+    5th specimen 10504-7
+    6th specimen 27401-9
+    7th specimen 27925-7
+    8th specimen 27926-5
+    Related Tests: See the following TEST\_TYPES: FOB1\_GUAI, FOB\_QN, and FOB\_IMMUN
+    Approximate Reference Range: N/A
+    Comments: High does of vitamin C (or other strong anti-oxidant) may inhibit the color reaction
+    and cause a false negative. Consumption of meat has been shown to cause false positives for
+    guaiac testing by providing a source of hemoglobin other than blood.
+    Test Method Variance:
+
+2.  FOB1\_GUAI (Fecal Occult Blood Test One Specimen qualitative, guaiac)
+
+    Common Name: FOBT; fecal occult blood test, first specimen
+    Long Name: FOBT qualitative; fecal occult blood; occult blood in stool; guaiac, single specimen
+    Test Type: FOB1\_GUAI (NOTE: This TEST\_TYPE is intended to be used ONLY when the
+    Office FOBT is performed [see below]. Some sites will not use this TEST\_TYPE at all).
+    Panels:
+    Equivalent tests: FOBT is a general name applied to stool tests that detect blood “hidden”
+    (occult) in the stool. Two basic technologies are employed: the guaiac test (older, routinely
+    used), and newer immunochemical tests (see test type FOB\_IMMUN). These two tests are
+    sometimes distinguished as “guaiac test” or gFOBT, versus fecal immunochemical test (FIT), or
+    iFOBT. This information applies to the older guaiac test (gFOBT).The FOBT test can be listed
+    as Hemoccult® or similar (e.g., Hemoccult II®, Hemoccult II ® SENSA®, Hemoccult II ®
+    SENSA®elite, ColoScreen®, Colocare®, EZ Detect®, Seracult®, Sure Vue®). Please refer to
+    other section of the Reference Document for information about other stool blood tests.
+    Not equivalent tests: The test must be from stool (feces). Text searches for “hemoccult” may
+    or may not be productive. Text searches on “feces”, “fecal”, or “occult blood” may be useful, but
+    do not over-generalize; many of these tests are unrelated to FOBT. Do not to confuse FOBT
+    with other tests related to blood. Be cautious when considering tests that contain the word
+    “heme” because, although FOBT recognizes the “heme” portion of hemoglobin, hemoglobin is
+    the oxygen-carrying molecule in blood and many tests containing the root “heme” are not FOBT.
+    There were formerly two applications of the FOBT test. “Office FOBT” is no longer
+    recommended. In that procedure, the provider collects a smear of fecal sample coincident with a
+    digital rectal exam, and applies it to a single test card. “Home FOBT” is the recommended
+    procedure, in which the provider gives the patient a test kit to complete at home (the kit often
+    contains 3 cards, allowing for collection of 2 samples per day for 3 days). This TEST\_TYPE is
+    for the office FOBT.
+    Indications: The fecal occult blood test (FOBT) detects blood in stool. The test may be
+    performed to screen for colorectal cancer (CRC), or to diagnose other conditions that cause
+    bleeding into the gastrointestinal (GI) tract. Occult blood in feces may be due to CRC, polyps, or
+    other GI conditions (e.g., hemorrhoids, anal fissures, ulcers, inflammatory bowel disease).
+    Description: The guaiac is qualitative, i.e., any color change indicates a positive test. In the
+    office FOBT, typically the smear is applied to a single card. The test is read by adding drops of
+    developer to the guaiac paper and noting the color change. Any trace of blue on any of the fecal
+    smears is considered a positive test. The test is qualitative in that the result is negative, positive
+    or not interpetable.
+    Related Tests: See the following TEST\_TYPES: FOB\_GUAI, FOB\_QN, and FOB\_IMMUN
+    Approximate Reference Range: N/A
+    Comments: High does of vitamin C (or other strong anti-oxidant) may inhibit the color reaction
+    and cause a false negative. Consumption of meat has been shown to cause false positives for
+    guaiac testing by providing a source of hemoglobin other than blood.
+    Test Method Variance:
+
+3.  FOB\_QN (Fecal Occult Blood Test, Quantitative)
+
+    Common Name: Quantitative FOBT test
+    Long Name: FOBT quantitative; fecal occult blood; occult blood in stool; guaiac
+    Test Type: FOB\_QN (NOTE: We are not aware that any site is using a quantitative FOBT test
+    with the exception of the newer immune test. We anticipate that this TEST\_TYPE will rarely be
+    populated in the VDW).
+    Panels:
+    Equivalent tests: FOBT is a general name applied to stool tests that detect blood “hidden”
+    (occult) in the stool. Two basic technologies are employed: the guaiac test (older, routinely
+    used), and newer immunochemical tests (see test type FOB\_IMMUN). These two tests are
+    sometimes distinguished as “guaiac test” or gFOBT, versus fecal immunochemical test (FIT), or
+    iFOBT. Please refer to other section of the Reference Document for information about other
+    stool blood tests.
+    Not equivalent tests: The test must be from stool (feces). Text searches for “hemoccult” may
+    or may not be productive. Text searches on “feces”, “fecal”, or “occult blood” may be useful, but
+    do not over-generalize; many of these tests are unrelated to FOBT. Do not to confuse FOBT
+    with other tests related to blood. Be cautious when considering tests that contain the word
+    “heme” because, although FOBT recognizes the “heme” portion of hemoglobin, hemoglobin is
+    the oxygen-carrying molecule in blood and many tests containing the root “heme” are not FOBT.
+    Indications: The fecal occult blood test (FOBT) detects blood in stool. The test may be
+    performed to screen for colorectal cancer (CRC), or to diagnose other conditions that cause
+    bleeding into the gastrointestinal (GI) tract. Occult (blood not visible to the eye) blood in feces
+    may be due to CRC, polyps, or other GI conditions (e.g., hemorrhoids, anal fissures, ulcers,
+    inflammatory bowel disease).
+    Description:
+    Related Tests: See the following TEST\_TYPES: FOB\_GUAI, FOB1\_GUAI, and FOB\_IMMUN
+    Approximate Reference Range:
+    Comments:
+    Test Method Variance:
+
+4.  FOB\_IMMUN (Fecal Immunologic [Immunochemical] qualitative)
+
+    Common Name: FIT (fecal immunochemical test0, iFOBT
+    Long Name: FOBT qualitative; quick test; HFH test; occult blood in stool; immunologic
+    Test Type: FOB\_IMMUN
+    Panels:
+    Equivalent tests: FOBT is a general name applied to stool tests to detect blood “hidden”
+    (occult) in the stool. Two basic technologies are employed: the guaiac test, which is older and
+    used routinely, and the immunochemical tests, which are newer. The fecal immunochemical test
+    is the “FIT” or iFOBT. The FIT can also be known as the Hemoccult ICT ® (formerly FlexSure
+    OBT®), Immudia-Hem Sp® , HemSelect®, or Insure®. The information provided here applies to
+    the iFOBT or FIT. Please see the other FOBT sheets for information about other occult blood
+    tests for stool.
+    Not equivalent tests: The FOBT test must be from stool. Text searches for “hemoccult” may or
+    may not be productive. Similarly, text searches on “feces”, “fecal”, or “occult blood” may be
+    useful but do not over-generalize; many of these tests will be unrelated to FOBT. Do not to
+    confuse FOBT with other tests related to blood. Be cautious when considering tests that contain
+    the word “heme” because, although FOBT recognizes the “heme” portion of hemoglobin,
+    hemoglobin is the oxygen-carrying molecule in blood and many tests containing the root “heme”
+    are not FOBT.
+    Indications: The FIT detects blood in stool. The test may be performed to screen for colorectal
+    cancer (CRC), or to diagnose other conditions that cause bleeding into the gastrointestinal (GI)
+    tract. Occult (blood not visible to the eye) blood in feces may be due to CRC, polyps, or other GI
+    conditions (e.g., hemorrhoids, anal fissures, ulcers, inflammatory bowel disease).
+    Description: Fecal immunochemical tests use antibodies to detect human hemoglobin in stool
+    samples. They are specific for human blood (in contrast to the guaiac test which detects nonhuman
+    blood and is influenced by other interferences). The immunochemical test causes a color
+    change; i.e., with a change in color indicating a positive test. In routine clinical use the expected
+    result would be qualitative; the number of windows tested, and the number that are
+    negative/positive. FIT is a newer test than the guaiac. FIT sample collection procedures are
+    designed to increase acceptability and adherence by patients.
+    Related Tests: See the following TEST\_TYPES: FOB\_GUAI, FOB1\_GUAI, and FOB\_QN
+    Approximate Reference Range: N/A
+    Comments: Remember that this is a stool test; the material being tested is human feces. When
+    conducting string searches of databases to locate iFOBT tests, it may be useful to use terms
+    such as “fecal”, “stool” and “occult”, and to ascertain that stool is the medium being tested.
+    Test Method Variance:
+
+5.  FOB\_IMMUN\_QN (Fecal Immunologic [Immunochemical] quantitative)
+
+    ***NEEDS TO BE UPDATED***
+    Common Name: FIT (fecal immunochemical test0, iFOBT
+    Long Name: FOBT qualitative; quick test; HFH test; occult blood in stool; immunologic
+    Test Type: FOB\_IMMUN
+    Panels:
+    Equivalent tests: FOBT is a general name applied to stool tests to detect blood “hidden”
+    (occult) in the stool. Two basic technologies are employed: the guaiac test, which is older and
+    used routinely, and the immunochemical tests, which are newer. The fecal immunochemical test
+    is the “FIT” or iFOBT. The FIT can also be known as the Hemoccult ICT ® (formerly FlexSure
+    OBT®), Immudia-Hem Sp® , HemSelect®, or Insure®. The information provided here applies to
+    the iFOBT or FIT. Please see the other FOBT sheets for information about other occult blood
+    tests for stool.
+    Not equivalent tests: The FOBT test must be from stool. Text searches for “hemoccult” may or
+    may not be productive. Similarly, text searches on “feces”, “fecal”, or “occult blood” may be
+    useful but do not over-generalize; many of these tests will be unrelated to FOBT. Do not to
+    confuse FOBT with other tests related to blood. Be cautious when considering tests that contain
+    the word “heme” because, although FOBT recognizes the “heme” portion of hemoglobin,
+    hemoglobin is the oxygen-carrying molecule in blood and many tests containing the root “heme”
+    are not FOBT.
+    Indications: The FIT detects blood in stool. The test may be performed to screen for colorectal
+    cancer (CRC), or to diagnose other conditions that cause bleeding into the gastrointestinal (GI)
+    tract. Occult (blood not visible to the eye) blood in feces may be due to CRC, polyps, or other GI
+    conditions (e.g., hemorrhoids, anal fissures, ulcers, inflammatory bowel disease).
+    Description: Fecal immunochemical tests use antibodies to detect human hemoglobin in stool
+    samples. They are specific for human blood (in contrast to the guaiac test which detects nonhuman
+    blood and is influenced by other interferences). The immunochemical test causes a color
+    change; i.e., with a change in color indicating a positive test. In routine clinical use the expected
+    result would be qualitative; the number of windows tested, and the number that are
+    negative/positive. FIT is a newer test than the guaiac. FIT sample collection procedures are
+    designed to increase acceptability and adherence by patients.
+    Related Tests: See the following TEST\_TYPES: FOB\_GUAI, FOB1\_GUAI, and FOB\_QN
+    Approximate Reference Range: N/A
+    Comments: Remember that this is a stool test; the material being tested is human feces. When
+    conducting string searches of databases to locate iFOBT tests, it may be useful to use terms
+    such as “fecal”, “stool” and “occult”, and to ascertain that stool is the medium being tested.
+    Test Method Variance:
+
+
+### FOLATE (Folate in serum)
 
 Common Name Folate
 Long Name: Folate
@@ -1315,6 +1764,345 @@ High levels of B12 and folate are not usually clinically monitored. Increased fo
 with pernicious anemia and with vegetarian diets.
 Test Method Variance:
 Other:
+
+
+### FOLATE\_RBC (Folate in red blood cells)
+
+Common Name Folate
+Long Name: Folate
+Test Type: FOLATE
+Panels:
+Equivalent Tests: Folic Acid in serum
+Not Equivalent Tests: RBC folate
+Indications: To help diagnose the cause of anemia or neuropathy (nerve damage); to evaluate
+nutritional status in some patients; to monitor effectiveness of treatment for B12 or folate
+deficiency
+Description: Fasting for 6-8 hours before sample collection may be required.
+Related Tests: B12; CBC; CMP; Methylmalonic acid (MMA); Homocysteine
+Approximate Reference Range (Each site will have slight variations: Lower limit of normal:
+Approximately 1.5 - 3 ng/mL (or mcg/L). Upper limit of normal approximately 17 – 100 ng/mL.
+(Note: If RBC folate is inadvertently included, the reference range is one useful way to check to
+see if incorrect folate tests have been pulled. The lower limit of the normal range of RBC folate
+levels is approximately 100 – 180 and the upper limit of the normal range is RBC folate is
+approximately 360 – 800.)
+Comments: B12 and folate are primarily ordered to help diagnose the cause of macrocytic
+anemia. They are ordered as follow-up tests when large RBCs and a decreased hemoglobin
+concentration are found during a CBC test. B12 may be ordered with folate, by itself, or with
+other screening laboratory tests to help diagnose the cause of neuropathy. Either a serum or
+RBC folate test may be used to help detect a deficiency. Some doctors feel that the RBC folate
+test is more clinically relevant than serum folate, but there is not widespread agreement on this.
+High levels of B12 and folate are not usually clinically monitored. Increased folate may be seen
+with pernicious anemia and with vegetarian diets.
+Test Method Variance:
+Other:
+
+
+### (GFR) Glomerular Filtration Rate Test Types
+
+1.  GFR\_AA\_CKD (Glomerular Filtration Rate, CKD-EPI, African American)
+
+    ***NEEDS TO BE UPDATED***
+    
+    Common Name: Estimated GFR, eGFR
+    Long Name: Glomerular Filtration Rate/1.73 sq M. predicted black (MDRD)
+    Test Type: GFR\_AA\_MD
+    Panels: Comprehensive metabolic panel, basic metabolic panel
+    Equivalent Tests: Calculated GFR
+    Not Equivalent Tests: GFR measured by inulin clearance; Creatinine [SCr]; Creatinine
+    clearance [CrCl]; Microalbumin; Cystatin C; Urine protein; Beta-2 microglobulin; GFR predicted
+    non-Black MDRD (GFR\_NAA\_MD)
+    Indications: Measure kidney function; screen for/detect kidney damage; monitor kidney status
+    Description: This test estimates how much blood passes through glomeruli, the kidneys’ filters,
+    each minute. A measure of creatinine is required to calculate GFR. The MDRD equation was
+    created from data from the Modification of Diet and Renal Disease (MDRD) Study, is based on
+    4 variables (i.e. Scr, age, gender, race), and was introduced in 2005.
+    GFR= 175 x (Standardized Scr)-1.154 x (Age)-0.203 x (0.742 if female) x (1.120 if African American)
+    See: <http://www.nkdep.nih.gov/professionals/gfr_calculators/>.
+    Related Tests: SCr; CrCl
+    Approximate Reference Range (National Kidney Foundation):
+    GFR Description Kidney Damage Stage
+    ≥ 90 ml/min Normal GFR 1
+    60-89 ml/min Mild decrease in GFR 2
+    30-59 ml/min Moderate decrease in GFR 3
+    15-29 ml/min Severe decrease in GFR 4
+    <15 ml/min Kidney failure 5
+    Comments: The GFR\_AA\_MD test type should be used when your lab reports results include
+    race. If GFR results are reported without regard to race, populate the GFR\_MDRD test type.
+    The GFR\_AA\_MD is only used for African Americans. Early on in GFR reporting there was no
+    race adjustment; clinicians had to adjust the reported values themselves if their patient was
+    African American. Still today many labs do not have race data associated with their samples, so
+    they report two GFR values, one based on non-African Americans and the other for African
+    Americans. This way clinicians just choose the appropriate result. This test is most accurate for
+    poor kidney function so it may only be reported for values less than 60 ml/min.
+    Although the MDRD equation for African Americans is not intended for use in calculating eGFR
+    for pediatric patients, some HMOs may report eGFR using the MDRD for children (i.e., one of
+    the MDRD TEST\_TYPEs would be populated in the VDW for children at your site if that is the
+    case).
+    Test Method Variance: Prior to 2005, the equation was as follows:
+    GFR= 186 x (Scr)-1.154 x (Age)-0.203 x (0.742 if female) x (1.120 if African American)
+    Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his GFR would be
+    62.5, but in 2008 that man would have a GFR of 58.8. It may appear there was a decline in
+    renal function over time, however part of the decline is an artifact of the equation change.
+    Identify when your site lab changed equations.
+    Other: &#x2013;
+
+2.  GFR\_AA\_MD (Glomerular Filtration Rate, MDRD, African American)
+
+    Common Name: Estimated GFR, eGFR
+    Long Name: Glomerular Filtration Rate/1.73 sq M. predicted black (MDRD)
+    Test Type: GFR\_AA\_MD
+    Panels: Comprehensive metabolic panel, basic metabolic panel
+    Equivalent Tests: Calculated GFR
+    Not Equivalent Tests: GFR measured by inulin clearance; Creatinine [SCr]; Creatinine
+    clearance [CrCl]; Microalbumin; Cystatin C; Urine protein; Beta-2 microglobulin; GFR predicted
+    non-Black MDRD (GFR\_NAA\_MD)
+    Indications: Measure kidney function; screen for/detect kidney damage; monitor kidney status
+    Description: This test estimates how much blood passes through glomeruli, the kidneys’ filters,
+    each minute. A measure of creatinine is required to calculate GFR. The MDRD equation was
+    created from data from the Modification of Diet and Renal Disease (MDRD) Study, is based on
+    4 variables (i.e. Scr, age, gender, race), and was introduced in 2005.
+    GFR= 175 x (Standardized Scr)-1.154 x (Age)-0.203 x (0.742 if female) x (1.120 if African American)
+    See: <http://www.nkdep.nih.gov/professionals/gfr_calculators/>.
+    Related Tests: SCr; CrCl
+    Approximate Reference Range (National Kidney Foundation):
+    GFR Description Kidney Damage Stage
+    ≥ 90 ml/min Normal GFR 1
+    60-89 ml/min Mild decrease in GFR 2
+    30-59 ml/min Moderate decrease in GFR 3
+    15-29 ml/min Severe decrease in GFR 4
+    <15 ml/min Kidney failure 5
+    Comments: The GFR\_AA\_MD test type should be used when your lab reports results include
+    race. If GFR results are reported without regard to race, populate the GFR\_MDRD test type.
+    The GFR\_AA\_MD is only used for African Americans. Early on in GFR reporting there was no
+    race adjustment; clinicians had to adjust the reported values themselves if their patient was
+    African American. Still today many labs do not have race data associated with their samples, so
+    they report two GFR values, one based on non-African Americans and the other for African
+    Americans. This way clinicians just choose the appropriate result. This test is most accurate for
+    poor kidney function so it may only be reported for values less than 60 ml/min.
+    Although the MDRD equation for African Americans is not intended for use in calculating eGFR
+    for pediatric patients, some HMOs may report eGFR using the MDRD for children (i.e., one of
+    the MDRD TEST\_TYPEs would be populated in the VDW for children at your site if that is the
+    case).
+    Test Method Variance: Prior to 2005, the equation was as follows:
+    GFR= 186 x (Scr)-1.154 x (Age)-0.203 x (0.742 if female) x (1.120 if African American)
+    Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his GFR would be
+    62.5, but in 2008 that man would have a GFR of 58.8. It may appear there was a decline in
+    renal function over time, however part of the decline is an artifact of the equation change.
+    Identify when your site lab changed equations.
+    Other: &#x2013;
+
+3.  GFR\_AA\_NS (Glomerular Filtration Rate, method not-specified, African American)
+
+    ***NEEDS TO BE UPDATED***
+    
+    Common Name: Estimated GFR, eGFR
+    Long Name: Glomerular Filtration Rate/1.73 sq M. predicted black (MDRD)
+    Test Type: GFR\_AA\_MD
+    Panels: Comprehensive metabolic panel, basic metabolic panel
+    Equivalent Tests: Calculated GFR
+    Not Equivalent Tests: GFR measured by inulin clearance; Creatinine [SCr]; Creatinine
+    clearance [CrCl]; Microalbumin; Cystatin C; Urine protein; Beta-2 microglobulin; GFR predicted
+    non-Black MDRD (GFR\_NAA\_MD)
+    Indications: Measure kidney function; screen for/detect kidney damage; monitor kidney status
+    Description: This test estimates how much blood passes through glomeruli, the kidneys’ filters,
+    each minute. A measure of creatinine is required to calculate GFR. The MDRD equation was
+    created from data from the Modification of Diet and Renal Disease (MDRD) Study, is based on
+    4 variables (i.e. Scr, age, gender, race), and was introduced in 2005.
+    GFR= 175 x (Standardized Scr)-1.154 x (Age)-0.203 x (0.742 if female) x (1.120 if African American)
+    See: <http://www.nkdep.nih.gov/professionals/gfr_calculators/>.
+    Related Tests: SCr; CrCl
+    Approximate Reference Range (National Kidney Foundation):
+    GFR Description Kidney Damage Stage
+    ≥ 90 ml/min Normal GFR 1
+    60-89 ml/min Mild decrease in GFR 2
+    30-59 ml/min Moderate decrease in GFR 3
+    15-29 ml/min Severe decrease in GFR 4
+    <15 ml/min Kidney failure 5
+    Comments: The GFR\_AA\_MD test type should be used when your lab reports results include
+    race. If GFR results are reported without regard to race, populate the GFR\_MDRD test type.
+    The GFR\_AA\_MD is only used for African Americans. Early on in GFR reporting there was no
+    race adjustment; clinicians had to adjust the reported values themselves if their patient was
+    African American. Still today many labs do not have race data associated with their samples, so
+    they report two GFR values, one based on non-African Americans and the other for African
+    Americans. This way clinicians just choose the appropriate result. This test is most accurate for
+    poor kidney function so it may only be reported for values less than 60 ml/min.
+    Although the MDRD equation for African Americans is not intended for use in calculating eGFR
+    for pediatric patients, some HMOs may report eGFR using the MDRD for children (i.e., one of
+    the MDRD TEST\_TYPEs would be populated in the VDW for children at your site if that is the
+    case).
+    Test Method Variance: Prior to 2005, the equation was as follows:
+    GFR= 186 x (Scr)-1.154 x (Age)-0.203 x (0.742 if female) x (1.120 if African American)
+    Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his GFR would be
+    62.5, but in 2008 that man would have a GFR of 58.8. It may appear there was a decline in
+    renal function over time, however part of the decline is an artifact of the equation change.
+    Identify when your site lab changed equations.
+    Other: &#x2013;
+
+4.  GFR\_ARV (Glomerular Filtration Rate, ArvRate)
+
+    ***NEEDS TO BE UPDATED***
+
+5.  GFR\_CKD (Glomerular Filtration Rate, CKD-EPI)
+
+    ***NEEDS TO BE UPDATED***
+
+6.  GFR\_CKD\_EPI (Glomerular Filtration Rate, CKD-EPI 2021, not based on race)
+
+    ***NEEDS TO BE UPDATED***
+
+7.  GFR\_CKD\_EPI\_CYS (Glomerular Filtration Rate, CKD-EPI 2021, creatine-cystatin not based on race)
+
+    ***NEEDS TO BE UPDATED***
+
+8.  GFR\_CYST (Glomerular Filtration Rate, Cystatin)
+
+    ***NEEDS TO BE UPDATED***
+
+9.  GFR\_F\_MD (Glomerular Filtration Rate, MDRD, Female)
+
+    ***NEEDS TO BE UPDATED***
+
+10. GFR\_M\_MD (Glomerular Filtration Rate, MDRD, Male)
+
+    ***NEEDS TO BE UPDATED***
+
+11. GFR\_MDRD (Glomerular Filtration Rate, MDRD)
+
+    Common Name: Estimated GFR, eGFR
+    Long Name: Glomerular Filtration Rate/1.73 sq M. predicted (MDRD)
+    Test Type: GFR\_MDRD
+    Panels: Comprehensive metabolic panel, basic metabolic panel
+    Equivalent Tests: Calculated GFR
+    Not Equivalent Tests: GFR measured by inulin clearance; Creatinine [SCr]; Creatinine
+    clearance [CrCl]; Microalbumin; Cystatin C; Urine protein; Beta-2 microglobulin
+    Indications: The GFR is used to measure kidney function. Clinicians may use GFR to screen
+    for and detect kidney damage or monitor kidney status.
+    Description: This test estimates how much blood passes through glomeruli, the kidneys’ filters,
+    each minute. A measure of creatinine is required to calculate GFR. The MDRD equation was
+    created from data from the Modification of Diet and Renal Disease (MDRD) Study and is based
+    on 4 variables (i.e. Scr, age, gender, race). The equation is:
+    GFR= 175 x (Standardized Scr)-1.154 x (Age)-0.203 x (0.742 if female) x (1.120 if African American).
+    See: <http://www.nkdep.nih.gov/professionals/gfr_calculators/>.
+    Related Tests: Serum creatinine; creatinine clearance
+    Approximate Reference Range (National Kidney Foundation):
+    GFR Description Kidney Damage Stage
+    ≥ 90 ml/min Normal GFR 1
+    60-89 ml/min Mild decrease in GFR 2
+    30-59 ml/min Moderate decrease in GFR 3
+    15-29 ml/min Severe decrease in GFR 4
+    <15 ml/min Kidney failure 5
+    Comments: This TEST\_TYPE should only be used when 1) you cannot tell whether the lab
+    results include race, or 2) eGFR results are reported without regard to race. If eGFR results are
+    reported as African American or non-African American, populate those TEST\_TYPEs instead.
+    Although the MDRD equation is not intended for use in calculating eGFR for pediatric patients,
+    some HMOs may report eGFR using the MDRD for children (i.e., one of the MDRD
+    TEST\_TYPEs would be populated in the VDW for children at your site if that is the case).
+    The eGFR test is most accurate for poor kidney function so it may only be reported for values
+    less than 60 ml/min. Because race is often not known, results under this test type name can be
+    reported based on a non-African American (NAA) status and clinicians adjust the result if their
+    patient was African American.
+    Test Method Variance: Prior to 2005, the MDRD equation was:
+    GFR= 186 x (Scr)-1.154 x (Age)-0.203 x (0.742 if female) x (1.120 if African American)
+    Therefore if a 57 year old white man had a Scr of 1.1 in 2003 his GFR would be 73.3, but a man
+    with the same characteristics in 2008 would have a GFR of 70.0. From a population level it may
+    appear that there were declines in renal function over time, however part of the decline may be
+    an artifact of the change in the equation. Identify when your site lab changed equations.
+    Other: &#x2013;
+
+12. GFR\_NAA\_CKD (Glomerular Filtration Rate, CKD-EPI, Non-African American)
+
+    ***NEEDS TO BE UPDATED***
+
+13. GFR\_NAA\_MD (Glomerular Filtration Rate, MDRD, Non-African American)
+
+    Common Name: Estimated GFR, eGFR
+    Long Name: Glomerular Filtration Rate/1.73 sq M. predicted non black (MDRD)
+    Test Type: GFR\_NAA\_MD
+    Panels: Comprehensive metabolic panel, basic metabolic panel
+    Equivalent Tests: Calculated GFR; eGFR
+    Not Equivalent Tests: GFR measured by inulin clearance; Creatinine [SCr]; Creatinine
+    clearance [CrCl]; Microalbumin; Cystatin C; Urine protein; Beta-2 microglobulin; GFR predicted
+    Black MDRD (GFR\_AA\_MD)
+    Indications: The GFR is used to measure kidney function. Clinicians may use GFR to screen
+    for and detect kidney damage or monitor kidney status.
+    Description: This test estimates how much blood passes through glomeruli, the kidneys’ filters,
+    each minute. A measure of creatinine is required to calculate GFR. The MDRD equation was
+    created from data from the Modification of Diet and Renal Disease (MDRD) Study, is based on
+    4 variables (i.e. Scr, age, gender, race), and was introduced in 2005. The equation is:
+    GFR = 175 x (Standardized Scr)-1.154 x (Age)-0.203 x (0.742 if female)
+    See: <http://www.nkdep.nih.gov/professionals/gfr_calculators/>.
+    Related Tests: SCr; CrCl
+    Approximate Reference Range (National Kidney Foundation):
+    GFR Description Kidney Damage Stage
+    ≥ 90 ml/min Normal GFR 1
+    60-89 ml/min Mild decrease in GFR 2
+    30-59 ml/min Moderate decrease in GFR 3
+    15-29 ml/min Severe decrease in GFR 4
+    <15 ml/min Kidney failure 5
+    Comments: The “GFR\_NAA\_MD” TEST\_TYPE should be used when your lab reports results
+    that include race. If GFR results are reported without regard to race, populate the “GFR\_MDRD”
+    TEST\_TYPE instead. Labs report race-specific GFR to allow clinicians to choose the correct
+    result based on the race of their patients without having to do calculations. The GFR\_NAA\_MD
+    is used for all races except African American. The eGFR test is most accurate for poor kidney
+    function so it may only be reported for values less than 60 ml/min.
+    Although the MDRD equation is not intended for use in calculating eGFR for pediatric patients,
+    some HMOs may report eGFR using the MDRD for children (i.e., one of the MDRD
+    TEST\_TYPEs would be populated in the VDW for children at your site if that is the case).
+    Test Method Variance: Prior to 2005, the equation was as follows
+    GFR= 186 x (Scr)-1.154 x (Age)-0.203 x (0.742 if female)
+    Therefore, if a 35 year old Asian female had a serum creatinine of 2 in 2003 her GFR would be
+    30.1, but a female with the same characteristics in 2008 would have a GFR of 28.4. From a
+    population level it appears there was a decline in renal function over time, however part of the
+    decline is an artifact of the equation change. Identify when your site lab changed equations.
+    Other: &#x2013;
+
+14. GFR\_NAA\_NS (Glomerular Filtration Rate, Not Specified, Non-African American)
+
+    ***NEEDS TO BE UPDATED***
+
+15. GFR\_NS (Glomerular Filtration Rate, Not Specified, Non-African American)
+
+    ***NEEDS TO BE UPDATED***
+
+16. GFR\_SCH (Glomerular Filtration Rate, Schwartz)
+
+    Common Name: Estimated GFR, eGFR
+    Long Name: Glomerular Filtration Rate/1.73 sq M. predicted (Schwartz)
+    Test Type: GFR\_SCH
+    Panels: Comprehensive metabolic panel, basic metabolic panel
+    Equivalent Tests: Calculated GFR; eGFR
+    Not Equivalent Tests: GFR measured by inulin clearance; Creatinine [SCr]; Creatinine
+    clearance [CrCl]; Microalbumin; Cystatin C; Urine protein; Beta-2 microglobulin; estimated GFR
+    MDRD
+    Indications: The GFR is used to measure kidney function in children. Clinicians may use GFR
+    to screen for and detect kidney damage or monitor kidney status.
+    Description: This test estimates how much blood passes through glomeruli, the kidneys’ filters,
+    each minute. A measure of creatinine is required to calculate GFR. The Schwartz equation is for
+    measuring GFR in the pediatric population (<18 years of age) and is based on 4 variables (i.e.
+    Scr, height, age, gender).
+    GFR (mL/min/1.73 m2) = k x (height in cm)/ Scr in mg/dL
+    Where k is a constant:
+    
+    -   K=0.33 in premature infants
+    -   K=0.45 in term infants to 1 year of age
+    -   K=0.55 in children 1 to 13 years of age and adolescent females
+    -   K=0.70 in adolescent males (13 years and older)
+    
+    Related Tests: SCr; CrCl
+    Approximate Reference Range:
+    GFR Description Kidney Damage Stage
+    ≥ 90 ml/min Normal GFR 1
+    60-89 ml/min Mild decrease in GFR 2
+    30-59 ml/min Moderate decrease in GFR 3
+    15-29 ml/min Severe decrease in GFR 4
+    <15 ml/min Kidney failure 5
+    Comments: Many HMOs do not report GFR results using the Schwartz equation (even for
+    pediatrics). Before populating this test type, please determine whether your health plan reports
+    results using the Schwartz equation. This test is most accurate for poor kidney function so it
+    may only be reported for values less than 75 ml/min/1.73 m2. Values any higher than 75 mL/min
+    may be reported as “greater than or equal to 75 mL/min/1.73 m2”.
+    Test Method Variance: &#x2013;
+    Other: &#x2013;
 
 
 ### GGT (GGTP, Gamma-glutamyl transpeptidase [or transferase] in blood/serum)
@@ -1353,179 +2141,25 @@ Test Method Variance:
 Other:
 
 
-### GFR (Glomerular Filtration Rate), MDRD
+### (HCO3) Bicarbonate Test Types
 
-Common Name: Estimated GFR, eGFR
-Long Name: Glomerular Filtration Rate/1.73 sq M. predicted (MDRD)
-Test Type: GFR\_MDRD
-Panels: Comprehensive metabolic panel, basic metabolic panel
-Equivalent Tests: Calculated GFR
-Not Equivalent Tests: GFR measured by inulin clearance; Creatinine [SCr]; Creatinine
-clearance [CrCl]; Microalbumin; Cystatin C; Urine protein; Beta-2 microglobulin
-Indications: The GFR is used to measure kidney function. Clinicians may use GFR to screen
-for and detect kidney damage or monitor kidney status.
-Description: This test estimates how much blood passes through glomeruli, the kidneys’ filters,
-each minute. A measure of creatinine is required to calculate GFR. The MDRD equation was
-created from data from the Modification of Diet and Renal Disease (MDRD) Study and is based
-on 4 variables (i.e. Scr, age, gender, race). The equation is:
-GFR= 175 x (Standardized Scr)-1.154 x (Age)-0.203 x (0.742 if female) x (1.120 if African American).
-See: <http://www.nkdep.nih.gov/professionals/gfr_calculators/>.
-Related Tests: Serum creatinine; creatinine clearance
-Approximate Reference Range (National Kidney Foundation):
-GFR Description Kidney Damage Stage
-≥ 90 ml/min Normal GFR 1
-60-89 ml/min Mild decrease in GFR 2
-30-59 ml/min Moderate decrease in GFR 3
-15-29 ml/min Severe decrease in GFR 4
-<15 ml/min Kidney failure 5
-Comments: This TEST\_TYPE should only be used when 1) you cannot tell whether the lab
-results include race, or 2) eGFR results are reported without regard to race. If eGFR results are
-reported as African American or non-African American, populate those TEST\_TYPEs instead.
-Although the MDRD equation is not intended for use in calculating eGFR for pediatric patients,
-some HMOs may report eGFR using the MDRD for children (i.e., one of the MDRD
-TEST\_TYPEs would be populated in the VDW for children at your site if that is the case).
-The eGFR test is most accurate for poor kidney function so it may only be reported for values
-less than 60 ml/min. Because race is often not known, results under this test type name can be
-reported based on a non-African American (NAA) status and clinicians adjust the result if their
-patient was African American.
-Test Method Variance: Prior to 2005, the MDRD equation was:
-GFR= 186 x (Scr)-1.154 x (Age)-0.203 x (0.742 if female) x (1.120 if African American)
-Therefore if a 57 year old white man had a Scr of 1.1 in 2003 his GFR would be 73.3, but a man
-with the same characteristics in 2008 would have a GFR of 70.0. From a population level it may
-appear that there were declines in renal function over time, however part of the decline may be
-an artifact of the change in the equation. Identify when your site lab changed equations.
-Other: &#x2013;
+***NEEDS TO BE UPDATED***
 
+1.  HCO3\_A (Bicarbonate in Arterial blood)
 
-### GFR (Glomerular Filtration Rate), MDRD, African American
+    ***NEEDS TO BE UPDATED***
 
-Common Name: Estimated GFR, eGFR
-Long Name: Glomerular Filtration Rate/1.73 sq M. predicted black (MDRD)
-Test Type: GFR\_AA\_MD
-Panels: Comprehensive metabolic panel, basic metabolic panel
-Equivalent Tests: Calculated GFR
-Not Equivalent Tests: GFR measured by inulin clearance; Creatinine [SCr]; Creatinine
-clearance [CrCl]; Microalbumin; Cystatin C; Urine protein; Beta-2 microglobulin; GFR predicted
-non-Black MDRD (GFR\_NAA\_MD)
-Indications: Measure kidney function; screen for/detect kidney damage; monitor kidney status
-Description: This test estimates how much blood passes through glomeruli, the kidneys’ filters,
-each minute. A measure of creatinine is required to calculate GFR. The MDRD equation was
-created from data from the Modification of Diet and Renal Disease (MDRD) Study, is based on
-4 variables (i.e. Scr, age, gender, race), and was introduced in 2005.
-GFR= 175 x (Standardized Scr)-1.154 x (Age)-0.203 x (0.742 if female) x (1.120 if African American)
-See: <http://www.nkdep.nih.gov/professionals/gfr_calculators/>.
-Related Tests: SCr; CrCl
-Approximate Reference Range (National Kidney Foundation):
-GFR Description Kidney Damage Stage
-≥ 90 ml/min Normal GFR 1
-60-89 ml/min Mild decrease in GFR 2
-30-59 ml/min Moderate decrease in GFR 3
-15-29 ml/min Severe decrease in GFR 4
-<15 ml/min Kidney failure 5
-Comments: The GFR\_AA\_MD test type should be used when your lab reports results include
-race. If GFR results are reported without regard to race, populate the GFR\_MDRD test type.
-The GFR\_AA\_MD is only used for African Americans. Early on in GFR reporting there was no
-race adjustment; clinicians had to adjust the reported values themselves if their patient was
-African American. Still today many labs do not have race data associated with their samples, so
-they report two GFR values, one based on non-African Americans and the other for African
-Americans. This way clinicians just choose the appropriate result. This test is most accurate for
-poor kidney function so it may only be reported for values less than 60 ml/min.
-Although the MDRD equation for African Americans is not intended for use in calculating eGFR
-for pediatric patients, some HMOs may report eGFR using the MDRD for children (i.e., one of
-the MDRD TEST\_TYPEs would be populated in the VDW for children at your site if that is the
-case).
-Test Method Variance: Prior to 2005, the equation was as follows:
-GFR= 186 x (Scr)-1.154 x (Age)-0.203 x (0.742 if female) x (1.120 if African American)
-Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his GFR would be
-62.5, but in 2008 that man would have a GFR of 58.8. It may appear there was a decline in
-renal function over time, however part of the decline is an artifact of the equation change.
-Identify when your site lab changed equations.
-Other: &#x2013;
+2.  HCO3\_C (Bicarbonate in Capillary blood)
 
+    ***NEEDS TO BE UPDATED***
 
-### GFR (Glomerular Filtration Rate), MDRD, Non-African American
+3.  HCO3\_V (Bicarbonate in Venous blood)
 
-Common Name: Estimated GFR, eGFR
-Long Name: Glomerular Filtration Rate/1.73 sq M. predicted non black (MDRD)
-Test Type: GFR\_NAA\_MD
-Panels: Comprehensive metabolic panel, basic metabolic panel
-Equivalent Tests: Calculated GFR; eGFR
-Not Equivalent Tests: GFR measured by inulin clearance; Creatinine [SCr]; Creatinine
-clearance [CrCl]; Microalbumin; Cystatin C; Urine protein; Beta-2 microglobulin; GFR predicted
-Black MDRD (GFR\_AA\_MD)
-Indications: The GFR is used to measure kidney function. Clinicians may use GFR to screen
-for and detect kidney damage or monitor kidney status.
-Description: This test estimates how much blood passes through glomeruli, the kidneys’ filters,
-each minute. A measure of creatinine is required to calculate GFR. The MDRD equation was
-created from data from the Modification of Diet and Renal Disease (MDRD) Study, is based on
-4 variables (i.e. Scr, age, gender, race), and was introduced in 2005. The equation is:
-GFR = 175 x (Standardized Scr)-1.154 x (Age)-0.203 x (0.742 if female)
-See: <http://www.nkdep.nih.gov/professionals/gfr_calculators/>.
-Related Tests: SCr; CrCl
-Approximate Reference Range (National Kidney Foundation):
-GFR Description Kidney Damage Stage
-≥ 90 ml/min Normal GFR 1
-60-89 ml/min Mild decrease in GFR 2
-30-59 ml/min Moderate decrease in GFR 3
-15-29 ml/min Severe decrease in GFR 4
-<15 ml/min Kidney failure 5
-Comments: The “GFR\_NAA\_MD” TEST\_TYPE should be used when your lab reports results
-that include race. If GFR results are reported without regard to race, populate the “GFR\_MDRD”
-TEST\_TYPE instead. Labs report race-specific GFR to allow clinicians to choose the correct
-result based on the race of their patients without having to do calculations. The GFR\_NAA\_MD
-is used for all races except African American. The eGFR test is most accurate for poor kidney
-function so it may only be reported for values less than 60 ml/min.
-Although the MDRD equation is not intended for use in calculating eGFR for pediatric patients,
-some HMOs may report eGFR using the MDRD for children (i.e., one of the MDRD
-TEST\_TYPEs would be populated in the VDW for children at your site if that is the case).
-Test Method Variance: Prior to 2005, the equation was as follows
-GFR= 186 x (Scr)-1.154 x (Age)-0.203 x (0.742 if female)
-Therefore, if a 35 year old Asian female had a serum creatinine of 2 in 2003 her GFR would be
-30.1, but a female with the same characteristics in 2008 would have a GFR of 28.4. From a
-population level it appears there was a decline in renal function over time, however part of the
-decline is an artifact of the equation change. Identify when your site lab changed equations.
-Other: &#x2013;
+    ***NEEDS TO BE UPDATED***
 
+4.  HCO3\_NS (Bicarbonate source not specified)
 
-### GFR (Glomerular Filtration Rate), Schwartz
-
-Common Name: Estimated GFR, eGFR
-Long Name: Glomerular Filtration Rate/1.73 sq M. predicted (Schwartz)
-Test Type: GFR\_SCH
-Panels: Comprehensive metabolic panel, basic metabolic panel
-Equivalent Tests: Calculated GFR; eGFR
-Not Equivalent Tests: GFR measured by inulin clearance; Creatinine [SCr]; Creatinine
-clearance [CrCl]; Microalbumin; Cystatin C; Urine protein; Beta-2 microglobulin; estimated GFR
-MDRD
-Indications: The GFR is used to measure kidney function in children. Clinicians may use GFR
-to screen for and detect kidney damage or monitor kidney status.
-Description: This test estimates how much blood passes through glomeruli, the kidneys’ filters,
-each minute. A measure of creatinine is required to calculate GFR. The Schwartz equation is for
-measuring GFR in the pediatric population (<18 years of age) and is based on 4 variables (i.e.
-Scr, height, age, gender).
-GFR (mL/min/1.73 m2) = k x (height in cm)/ Scr in mg/dL
-Where k is a constant:
-
--   K=0.33 in premature infants
--   K=0.45 in term infants to 1 year of age
--   K=0.55 in children 1 to 13 years of age and adolescent females
--   K=0.70 in adolescent males (13 years and older)
-
-Related Tests: SCr; CrCl
-Approximate Reference Range:
-GFR Description Kidney Damage Stage
-≥ 90 ml/min Normal GFR 1
-60-89 ml/min Mild decrease in GFR 2
-30-59 ml/min Moderate decrease in GFR 3
-15-29 ml/min Severe decrease in GFR 4
-<15 ml/min Kidney failure 5
-Comments: Many HMOs do not report GFR results using the Schwartz equation (even for
-pediatrics). Before populating this test type, please determine whether your health plan reports
-results using the Schwartz equation. This test is most accurate for poor kidney function so it
-may only be reported for values less than 75 ml/min/1.73 m2. Values any higher than 75 mL/min
-may be reported as “greater than or equal to 75 mL/min/1.73 m2”.
-Test Method Variance: &#x2013;
-Other: &#x2013;
+    ***NEEDS TO BE UPDATED***
 
 
 ### HDL (High density lipoprotein cholesterol)
@@ -1559,79 +2193,47 @@ Test Method Variance:
 Other:
 
 
-### Human Papilloma Virus (HPV) DNA Test, Cervical Specimen
+### HGBA1C (Hemoglobin A1C)
 
-Common Name: HPV DNA, specimen from cervix
-Long Name: Human Papilloma virus (HPV) DNA test, cervical specimen, high/high +
-intermediate risk genotypes
-Test Type: HPVDNA\_CVX
-Panels: In addition to single components, includes one LOINC for panel: human papilloma virus
-high + low risk DNA
-Equivalent Tests: N/A
-Not Equivalent Tests: N/A
-Indications: This test is used in conjunction with Pap Tests in cervical cancer screening and
-prevention programs to test for the presence of the Human Papilloma Virus (HPV) which causes
-most cervical cancers. Its use varies with the presumed change in sexual partners in different
-age ranges. Routine use is often limited to women in the range from mid-teens until 30 years
-old. When Pap Test results for a woman in this age range are mildly abnormal, this test is used
-to determine the presence of “high risk” strains of HPV that are sufficient to warrant colposcopy
-and targeted biopsies to rule out serious cervical abnormalities. When women over age 30 have
-persistent mild cervical infections, as indicated by repeated abnormal Pap Tests, it is used to
-determine whether colposcopy and targeted biopsies or more frequent Pap Tests are
-warranted.
-Description: This test shows the presence or absence of DNA from “high risk” strains (also
-known as genotypes) of HPV. Currently, the only FDA approved HPV DNA test is the Digene
-Hybrid Capture 2 (HC2), though other tests may be used. The test is performed on a cervical
-specimen sample which may be residual specimen from a Pap Test performed using a liquidbased
-cytology collection method.
-Related Tests: N/A
-Approximate Reference Range (Each site will have slight variations): N/A
-Comments: Strains are classified as high risk relative to other HPV strains, not with respect to
-the absolute risk for developing serious cervical abnormalities. The prevalence of high risk HPV
-strains in the population of women of screening age is approximately 15%. As of 2010, high risk
-strains include 16, 18, 31, 33, 35, 39, 45, 51, 52, 56, 58, 59, and 68 with 16 and 18 being most
-prevalent. Test results are unlikely to specify strain, only the presence or absence of 1+ high
-risk strains. For the purposes of the ABN\_IND variable: abnormal = positive for 1+ high risk HPV
-strain(s); normal = no high risk HPV strains found. The HPV DNA tests came into widespread
-use in cervical cancer screening and prevention programs in the mid 2000s. HPV is also
-associated with vulvar, penile, and anal intraepithelial neoplasia and cancer. If you are able to
-distinguish specimen body source, only specimens taken from the cervix should be include in
-this test type. A test does not need to test for every high risk strain to be included.
-Test Method Variance: N/A
+***NEEDS TO BE UPDATED***
 
 
-### Human Papilloma Virus (HPV) DNA Test, Specimen Source/Site Unknown
+### IL\_6 (Interleukin 6)
 
-Common Name: HPV DNA, specimen source/site unknown
-Long Name: Human Papilloma virus (HPV) DNA test, specimen from unknown site, high/high +
-intermediate risk genotypes
-Test Type: HPVDNA\_UN
-Panels:
-Equivalent Tests: N/A
-Not Equivalent Tests: N/A
-Indications: This test can be used in conjunction with Pap Tests in cervical cancer screening
-and prevention programs to test for the presence of the Human Papilloma Virus (HPV) which
-causes most cervical cancers. However, for this specific test type, the body site from which the
-specimen was obtained is not known (i.e., could be cervical, anal, etc). The use of HPV DNA
-testing varies with the presumed change in sexual partners in different age ranges. Routine use
-is often limited to women in the range from mid-teens until 30 years old. When Pap Test results
-for a woman in this age range are mildly abnormal, this test is used to determine the presence
-of “high risk” strains of HPV that are sufficient to warrant colposcopy and targeted biopsies to
-rule out serious cervical abnormalities.
-Description: This test shows the presence or absence of DNA from “high risk” strains (also
-known as genotypes) of HPV.
-Related Tests: N/A
-Approximate Reference Range (Each site will have slight variations): N/A
-Comments: Strains are classified as high risk relative to other HPV strains, not with respect to
-the absolute risk for developing serious cervical abnormalities. The prevalence of high risk HPV
-strains in the population of women of screening age is approximately 15%. As of 2010, high risk
-strains include 16, 18, 31, 33, 35, 39, 45, 51, 52, 56, 58, 59, and 68 with 16 and 18 being most
-prevalent. Test results are unlikely to specify strain, only the presence or absence of 1+ high
-risk strains. For the purposes of the ABN\_IND variable: abnormal = positive for 1+ high risk HPV
-strain(s); normal = no high risk HPV strains found. The HPV DNA tests came into widespread
-use in cervical cancer screening and prevention programs in the mid 2000s. HPV is also
-associated with vulvar, penile, and anal intraepithelial neoplasia and cancer.
-Test Method Variance: N/A
+***NEEDS TO BE UPDATED***
+
+
+### IL\_6\_QL (Interleukin 6 presence)
+
+***NEEDS TO BE UPDATED***
+
+
+### K (Potassium, Serum)
+
+Common Name: Serum Potassium
+Long Name: Potassium Serum
+Test Type: K
+Panels: Basic metabolic profile, comprehensive metabolic profile, general health panel, renal
+function panel
+Equivalent Tests: Plasma potassium, whole blood potassium, electrolytes
+Not Equivalent Tests: Body fluids other than blood are commonly tested ie. Urine. KOH -
+fungal screen. Potassium salts of meds.
+Indications: Electrolyte balance, cardiac toxicity. Certain drugs can affect potassium
+homeostasis and potassium is monitored to assess the efficacy and safety of several drug
+therapies.
+Description: One of the few tests reported in SI units - mmol/L (also called mEq/dL. For K,
+mmol/L and mEq/dL have the same reference range.). Excreted by kidney at variable rates
+depending on hydration status, blood pressure and many other factors.
+Related Tests:
+Approximate Reference Range (Each site will have slight variations): ~ 3.5-5.0 mmol/L
+Comments: Low extracellular values and high intracellular values can be a source of specimen
+processing error that elevate K ie. order of blood collection tubes, capillary collection, leaving
+tourniquet or clenching fist too long, delay in separating from cells, hemolysis. Lipemia can
+cause faslely low values. Errors are common and test will often be repeated making it difficult to
+select among multiple test results..
+Test Method Variance:
+Other: Studies show fist pumping can increase a patient’s potassium as much as 20%, in
+addition to ionized calcium.
 
 
 ### LDH (Lactate dehydrogenase, total in blood/serum)
@@ -1674,131 +2276,135 @@ Test Method Variance:
 Other:
 
 
-### LDL, Calculated, Fasting (Low density lipoprotein cholesterol, calculated, patient was fasting)
+### (LDL) Cholesterol Low Density Lipoprotein Test Types
 
-Common Name: LDL
-Long Name: Cholesterol Low Density Lipoprotein Calculated Fasting
-Test Type: LDL\_CLC\_F
-Panels: LIPID PROFILE
-Equivalent Tests: Whole blood LDL
-Not Equivalent Tests: Total Cholesterol, VLDL - very low density lipoprotein cholesterol, HDL
+1.  LDL\_CLC\_F, Calculated, Fasting (Low density lipoprotein cholesterol, calculated, patient was fasting)
 
--   high density lipoprotein cholesterol, any apolipoproteins
+    Common Name: LDL
+    Long Name: Cholesterol Low Density Lipoprotein Calculated Fasting
+    Test Type: LDL\_CLC\_F
+    Panels: LIPID PROFILE
+    Equivalent Tests: Whole blood LDL
+    Not Equivalent Tests: Total Cholesterol, VLDL - very low density lipoprotein cholesterol, HDL
+    
+    -   high density lipoprotein cholesterol, any apolipoproteins
+    
+    Indications: LDL cholesterol is used to predict the risk of developing atherosclerosis heart
+    disease. It is sometimes referred to as "bad cholesterol." Of all the forms of cholesterol in the
+    blood, the LDL cholesterol is considered the most important in determining risk of heart disease.
+    LDL cholesterol is the primary target of cholesterol-lowering treatment. Since treatment
+    decisions are often based on LDL values, this test may be used to monitor levels after the start
+    of diet or exercise programs or to determine whether or not prescribing one of the lipid-lowering
+    drugs would be useful.
+    Description: LDL = total cholesterol level - HDL - [triglyceride level ÷ 5]. Calculation is invalid
+    when triglycerides are >400mg/dL
+    Related Tests: Lipid Profile, Triglycerides, Total Cholesterol, VLDL - very low density
+    lipoprotein cholesterol, HDL - high density lipoprotein cholesterol, any apolipoproteins
+    Approximate Reference Range (Each site will have slight variations): less than 130mg/dL
+    Comments: Calculated LDL reflects an indirect method of testing. Chemicals are added to the
+    serum/plasma and selected fractions are precipitated out of the sample and the test is
+    performed on the remaining supernatant. The preferred specimen is fasting. Calculated LDL is
+    not accurate on specimens that have triglycerides levels exceeding 400.
+    Test Method Variance:
+    Other:
 
-Indications: LDL cholesterol is used to predict the risk of developing atherosclerosis heart
-disease. It is sometimes referred to as "bad cholesterol." Of all the forms of cholesterol in the
-blood, the LDL cholesterol is considered the most important in determining risk of heart disease.
-LDL cholesterol is the primary target of cholesterol-lowering treatment. Since treatment
-decisions are often based on LDL values, this test may be used to monitor levels after the start
-of diet or exercise programs or to determine whether or not prescribing one of the lipid-lowering
-drugs would be useful.
-Description: LDL = total cholesterol level - HDL - [triglyceride level ÷ 5]. Calculation is invalid
-when triglycerides are >400mg/dL
-Related Tests: Lipid Profile, Triglycerides, Total Cholesterol, VLDL - very low density
-lipoprotein cholesterol, HDL - high density lipoprotein cholesterol, any apolipoproteins
-Approximate Reference Range (Each site will have slight variations): less than 130mg/dL
-Comments: Calculated LDL reflects an indirect method of testing. Chemicals are added to the
-serum/plasma and selected fractions are precipitated out of the sample and the test is
-performed on the remaining supernatant. The preferred specimen is fasting. Calculated LDL is
-not accurate on specimens that have triglycerides levels exceeding 400.
-Test Method Variance:
-Other:
+2.  LDL\_CLC\_NS, Calculated, Random (Low density lipoprotein cholesterol, calculated
+
+    measure, not known if patient was fasting)
+    Common Name: LDL
+    Long Name: Cholesterol Low Density Lipoprotein Calculated - fasting not specified
+    Test Type: LDL\_CLC\_NS
+    Panels: LIPID PROFILE
+    Equivalent Tests: Whole blood LDL
+    Not Equivalent Tests: Total Cholesterol, VLDL - very low density lipoprotein cholesterol, HDL
+    
+    -   high density lipoprotein cholesterol, any apolipoproteins
+    
+    Indications: LDL cholesterol is used to predict the risk of developing atherosclerosis heart
+    disease. It is sometimes referred to as "bad cholesterol." Of all the forms of cholesterol in the
+    blood, the LDL cholesterol is considered the most important form in determining risk of heart
+    disease. LDL cholesterol is the primary target of cholesterol-lowering treatment. Since treatment
+    decisions are often based on LDL values, this test may be used to monitor levels after the start
+    of diet or exercise programs or to determine whether or not prescribing one of the lipid-lowering
+    drugs would be useful.
+    Description: LDL = total cholesterol level - HDL - [triglyceride level ÷ 5]. Calculation is invalid
+    when triglycerides are >400mg/dL
+    Related Tests: Lipid Profile, Triglycerides, Total Cholesterol, VLDL - very low density
+    lipoprotein cholesterol, HDL - high density lipoprotein cholesterol, any apolipoproteins
+    Approximate Reference Range (Each site will have slight variations): < 130mg/dL
+    Comments: Calculated LDL reflects an indirect method of testing. Chemicals are added to the
+    serum/plasma and selected fractions are precipitated out of the sample and the test is
+    performed on the remaining supernatant. The preferred specimen is fasting. Whether “fasting” is
+    indicated with the lab result determines if it is categorized as fasting or fasting status unknown.
+    Calculated LDL is not accurate on specimens that have triglycerides levels exceeding 400.
+    Test Method Variance:
+    Other:
+
+3.  LDL\_DIRECT (Low density lipoprotein cholesterol, direct measure, fasting status
+
+    not a consideration)
+    Common Name: LDL, direct
+    Long Name: Cholesterol Low Density Lipoprotein Direct
+    Test Type: LDL\_DIRECT
+    Panels: LIPID PROFILE
+    Equivalent Tests: whole blood LDL
+    Not Equivalent Tests: Total Cholesterol, VLDL - very low density liprotein cholesterol, HDL -
+    high density lipoprotein cholesterol, any apolipoproteins (especially B)
+    Indications: LDL cholesterol is used to predict the risk of developing atherosclerosis heart
+    disease. It is sometimes referred to as "bad cholesterol." Of all the forms of cholesterol in the
+    blood, the LDL cholesterol is considered the most important form in determining risk of heart
+    disease. LDL cholesterol is the primary target of cholesterol-lowering treatment. Since treatment
+    decisions are often based on LDL values, this test may be used to monitor levels after the start
+    of diet or exercise programs or to determine whether or not prescribing one of the lipid-lowering
+    drugs would be useful.
+    Description: Direct measure LDL are run directly on neat serum or plasma. Direct
+    measurements of LDL are not interfered with by elevated triglycerides.
+    Related Tests: Lipid Profile, Triglycerides, Total Cholesterol, VLDL - very low density
+    lipoprotein cholesterol, HDL - high density lipoprotein cholesterol, any apolipoproteins
+    Approximate Reference Range (Each site will have slight variations): < 130mg/dL
+    Comments: The direct method reflects the reagent system for testing. In contrast to calculated
+    (indirectly measured) lipoproteins, direct methods can be reported for specimens that have
+    triglyceride concentrations greater than 400.
+    Test Method Variance:
+    Other:
+
+4.  LDL\_NS Method not Indicated (Low density lipoprotein cholesterol, not known
+
+    whether calculated or direct, fasting status not considered)
+    Common Name: LDL
+    Long Name: Cholesterol Low Density Lipoprotein Not Specified – can not determine if
+    calculated or direct
+    Test Type: LDL\_NS
+    Panels: LIPID PROFILE
+    Equivalent Tests: whole blood LDL
+    Not Equivalent Tests: Total Cholesterol, VLDL - very low density lipoprotein cholesterol, HDL
+    
+    -   high density lipoprotein cholesterol
+    
+    Indications: LDL cholesterol is used to predict the risk of developing atherosclerosis heart
+    disease. It is sometimes referred to as "bad cholesterol." Of all the forms of cholesterol in the
+    blood, the LDL cholesterol is considered the most important form in determining risk of heart
+    disease. LDL cholesterol is the primary target of cholesterol-lowering treatment. Since treatment
+    decisions are often based on LDL values, this test may be used to monitor levels after the start
+    of diet or exercise programs or to determine whether or not prescribing one of the lipid-lowering
+    drugs would be useful.
+    Description: LDL = total cholesterol level - HDL - [triglyceride level ÷ 5]. Calculation is invalid
+    when triglycerides are >400mg/dL
+    Related Tests: Lipid Profile, Triglycerides, Total Cholesterol, VLDL - very low density
+    lipoprotein cholesterol, HDL - high density lipoprotein cholesterol, any apolipoproteins
+    Approximate Reference Range (Each site will have slight variations): < 130mg/dL
+    Comments: Use this test type only for those LDL test results where you cannot determine with
+    the method was calculated or direct.
+    Test Method Variance:
+    Other:
 
 
-### LDL, Calculated, Random (Low density lipoprotein cholesterol, calculated
+### LIPASE (Lipase)
 
-measure, not known if patient was fasting)
-Common Name: LDL
-Long Name: Cholesterol Low Density Lipoprotein Calculated - fasting not specified
-Test Type: LDL\_CLC\_NS
-Panels: LIPID PROFILE
-Equivalent Tests: Whole blood LDL
-Not Equivalent Tests: Total Cholesterol, VLDL - very low density lipoprotein cholesterol, HDL
-
--   high density lipoprotein cholesterol, any apolipoproteins
-
-Indications: LDL cholesterol is used to predict the risk of developing atherosclerosis heart
-disease. It is sometimes referred to as "bad cholesterol." Of all the forms of cholesterol in the
-blood, the LDL cholesterol is considered the most important form in determining risk of heart
-disease. LDL cholesterol is the primary target of cholesterol-lowering treatment. Since treatment
-decisions are often based on LDL values, this test may be used to monitor levels after the start
-of diet or exercise programs or to determine whether or not prescribing one of the lipid-lowering
-drugs would be useful.
-Description: LDL = total cholesterol level - HDL - [triglyceride level ÷ 5]. Calculation is invalid
-when triglycerides are >400mg/dL
-Related Tests: Lipid Profile, Triglycerides, Total Cholesterol, VLDL - very low density
-lipoprotein cholesterol, HDL - high density lipoprotein cholesterol, any apolipoproteins
-Approximate Reference Range (Each site will have slight variations): < 130mg/dL
-Comments: Calculated LDL reflects an indirect method of testing. Chemicals are added to the
-serum/plasma and selected fractions are precipitated out of the sample and the test is
-performed on the remaining supernatant. The preferred specimen is fasting. Whether “fasting” is
-indicated with the lab result determines if it is categorized as fasting or fasting status unknown.
-Calculated LDL is not accurate on specimens that have triglycerides levels exceeding 400.
-Test Method Variance:
-Other:
+***NEEDS TO BE UPDATED***
 
 
-### LDL Direct (Low density lipoprotein cholesterol, direct measure, fasting status
-
-not a consideration)
-Common Name: LDL, direct
-Long Name: Cholesterol Low Density Lipoprotein Direct
-Test Type: LDL\_DIRECT
-Panels: LIPID PROFILE
-Equivalent Tests: whole blood LDL
-Not Equivalent Tests: Total Cholesterol, VLDL - very low density liprotein cholesterol, HDL -
-high density lipoprotein cholesterol, any apolipoproteins (especially B)
-Indications: LDL cholesterol is used to predict the risk of developing atherosclerosis heart
-disease. It is sometimes referred to as "bad cholesterol." Of all the forms of cholesterol in the
-blood, the LDL cholesterol is considered the most important form in determining risk of heart
-disease. LDL cholesterol is the primary target of cholesterol-lowering treatment. Since treatment
-decisions are often based on LDL values, this test may be used to monitor levels after the start
-of diet or exercise programs or to determine whether or not prescribing one of the lipid-lowering
-drugs would be useful.
-Description: Direct measure LDL are run directly on neat serum or plasma. Direct
-measurements of LDL are not interfered with by elevated triglycerides.
-Related Tests: Lipid Profile, Triglycerides, Total Cholesterol, VLDL - very low density
-lipoprotein cholesterol, HDL - high density lipoprotein cholesterol, any apolipoproteins
-Approximate Reference Range (Each site will have slight variations): < 130mg/dL
-Comments: The direct method reflects the reagent system for testing. In contrast to calculated
-(indirectly measured) lipoproteins, direct methods can be reported for specimens that have
-triglyceride concentrations greater than 400.
-Test Method Variance:
-Other:
-
-
-### LDL Method not Indicated (Low density lipoprotein cholesterol, not known
-
-whether calculated or direct, fasting status not considered)
-Common Name: LDL
-Long Name: Cholesterol Low Density Lipoprotein Not Specified – can not determine if
-calculated or direct
-Test Type: LDL\_NS
-Panels: LIPID PROFILE
-Equivalent Tests: whole blood LDL
-Not Equivalent Tests: Total Cholesterol, VLDL - very low density lipoprotein cholesterol, HDL
-
--   high density lipoprotein cholesterol
-
-Indications: LDL cholesterol is used to predict the risk of developing atherosclerosis heart
-disease. It is sometimes referred to as "bad cholesterol." Of all the forms of cholesterol in the
-blood, the LDL cholesterol is considered the most important form in determining risk of heart
-disease. LDL cholesterol is the primary target of cholesterol-lowering treatment. Since treatment
-decisions are often based on LDL values, this test may be used to monitor levels after the start
-of diet or exercise programs or to determine whether or not prescribing one of the lipid-lowering
-drugs would be useful.
-Description: LDL = total cholesterol level - HDL - [triglyceride level ÷ 5]. Calculation is invalid
-when triglycerides are >400mg/dL
-Related Tests: Lipid Profile, Triglycerides, Total Cholesterol, VLDL - very low density
-lipoprotein cholesterol, HDL - high density lipoprotein cholesterol, any apolipoproteins
-Approximate Reference Range (Each site will have slight variations): < 130mg/dL
-Comments: Use this test type only for those LDL test results where you cannot determine with
-the method was calculated or direct.
-Test Method Variance:
-Other:
-
-
-### Magnesium
+### MAGNESIUM (Magnesium)
 
 Common Name: Serum Magnesium, Mg++
 Long Name: Magnesium, total in blood/serum
@@ -1820,143 +2426,148 @@ Test Method Variance:
 Other:
 
 
-### Potassium, Serum
+### (PG) Pregnancy Determination Test Types
 
-Common Name: Serum Potassium
-Long Name: Potassium Serum
-Test Type: K
-Panels: Basic metabolic profile, comprehensive metabolic profile, general health panel, renal
-function panel
-Equivalent Tests: Plasma potassium, whole blood potassium, electrolytes
-Not Equivalent Tests: Body fluids other than blood are commonly tested ie. Urine. KOH -
-fungal screen. Potassium salts of meds.
-Indications: Electrolyte balance, cardiac toxicity. Certain drugs can affect potassium
-homeostasis and potassium is monitored to assess the efficacy and safety of several drug
-therapies.
-Description: One of the few tests reported in SI units - mmol/L (also called mEq/dL. For K,
-mmol/L and mEq/dL have the same reference range.). Excreted by kidney at variable rates
-depending on hydration status, blood pressure and many other factors.
-Related Tests:
-Approximate Reference Range (Each site will have slight variations): ~ 3.5-5.0 mmol/L
-Comments: Low extracellular values and high intracellular values can be a source of specimen
-processing error that elevate K ie. order of blood collection tubes, capillary collection, leaving
-tourniquet or clenching fist too long, delay in separating from cells, hemolysis. Lipemia can
-cause faslely low values. Errors are common and test will often be repeated making it difficult to
-select among multiple test results..
-Test Method Variance:
-Other: Studies show fist pumping can increase a patient’s potassium as much as 20%, in
-addition to ionized calcium.
+1.  PG\_B\_QL (Pregnancy Determination, Serum Beta Human Choriogonadotropin, qualitative)
 
+    ***NEEDS TO BE UPDATED***
 
-### PSA, Free (Prostate specific antigen free in blood/serum/plasma)
+2.  PG\_B\_QL\_U (Pregnancy Determination, Urine Beta Human Choriogonadotropin, qualitative)
 
-Common Name: Free PSA
-Long Name: Prostate Specific Antigen Free
-Test Type: PSA\_FREE
-Panels: N/A
-Equivalent Tests: N/A
-Not Equivalent Tests: PSA forms that are bound to blood proteins which includes total.
-Indications:
-Description: PSA circulates in the blood in two forms: Free or bound to a protein molecule.
-Related Tests:
-Approximate Reference Range (Each site will have slight variations): Men with prostate
-cancer have a lower percentage of total PSA that is free than men without prostate cancer.
-Comments: The free PSA test may add value for elevated PSA values. With benign prostate
-conditions (such as BPH), there is usually more free PSA, while cancer usually produces more
-of the protein bound form.
-Test Method Variance:
-Other:
+    ***NEEDS TO BE UPDATED***
+
+3.  PG\_B\_QN (Pregnancy Determination, Beta Human Choriogonadotropin quantitative)
+
+    ***NEEDS TO BE UPDATED***
+
+4.  PG\_B\_QN\_U (Pregnancy Determination, Urine Beta Human Choriogonadotropin quantitative)
+
+    ***NEEDS TO BE UPDATED***
+
+5.  PG\_QL (Pregnancy Determination - Beta Human Choriogonadotropin qualitative)
+
+    ***NEEDS TO BE UPDATED***
+
+6.  PG\_QL\_U (Pregnancy Determination, Urine Beta Human Choriogonadotropin qualitative)
+
+    ***NEEDS TO BE UPDATED***
+
+7.  PG\_QN (Pregnancy Determination,  Beta Human Choriogonadotropin quantitative)
+
+    ***NEEDS TO BE UPDATED***
+
+8.  PG\_QN\_U (Pregnancy Determination, Urine Beta Human Choriogonadotropin quantitative)
+
+    ***NEEDS TO BE UPDATED***
 
 
-### PSA, Percent Free (Prostate specific antigen [Ag], ratio of free to total)
+### (PSA) Prostate specific antigen Test Types
 
-Common Name: Percent Free PSA
-Long Name: Prostate specific Ag free/Prostate specific Ag Total
-Test Type: PSA\_%\_FREE
-Panels: N/A
-Equivalent Tests: N/A
-Not Equivalent Tests: Individual PSA isoforms. Result is a ratio of two isoforms
-Indications:
-Description: PSA circulates in the blood in two forms: Free or bound to a protein molecule.
-Related Tests:
-Approximate Reference Range (Each site will have slight variations): 5% – 40 %.
-Expressed as a percent of unbound PSA over total PSA
-Comments:
-Test Method Variance:
-Other:
+1.  PSA (Prostate specific antigen, total)
+
+    Common Name: PSA, Total (screening or diagnostic)
+    Long Name: Prostate Specific Antigen, Total PSA
+    Test Type: PSA
+    Panels: N/A
+    Equivalent Tests: N/A
+    Not Equivalent Tests: PAP (Prostatic Acid Phosphatase), Not equivalent to PSA from nonblood
+    specimens. Free and protein bound forms are considered distinct tests not to be included
+    with total.
+    Indications:
+    Description: Prostate-specific antigen (PSA) is a normal protein produced by the prostate
+    gland and value does not necessarily indicate cancer. The PSA test measures the total level of
+    PSA in the blood. PSA in other forms such as Free, "nicked"or pro-PSA are normally included
+    in total PSA. PSA is a member of the kallikrein-related serine protease super family.
+    Related Tests: Free PSA ratio
+    Approximate Reference Range (Each site will have slight variations): 0 - 4.0 ng/mL is
+    usual normal range.
+    Comments: The U.S. Food and Drug Administration (FDA) has approved the use of the PSA
+    test to help detect prostate cancer in men age 50 and older (40 if family history). The FDA has
+    also approved the PSA test to monitor patients with a history of prostate cancer to see if the
+    cancer has recurred. Most men with an elevated PSA test result turn out not to have cancer;
+    only 25 to 35 percent of men who have a biopsy due to an elevated PSA level actually have
+    prostate cancer. The test may indicate when biopsy is indicated.
+    Test Method Variance: Different manufacturers have different molecular specificity.
+    Comparing values over time need to consider different reagent systems if lab changes are
+    made. Results between manufacturer/instrumentation may not be linear.
+    Other:
+
+2.  PSA\_FREE(Prostate specific antigen free in blood/serum/plasma)
+
+    Common Name: Free PSA
+    Long Name: Prostate Specific Antigen Free
+    Test Type: PSA\_FREE
+    Panels: N/A
+    Equivalent Tests: N/A
+    Not Equivalent Tests: PSA forms that are bound to blood proteins which includes total.
+    Indications:
+    Description: PSA circulates in the blood in two forms: Free or bound to a protein molecule.
+    Related Tests:
+    Approximate Reference Range (Each site will have slight variations): Men with prostate
+    cancer have a lower percentage of total PSA that is free than men without prostate cancer.
+    Comments: The free PSA test may add value for elevated PSA values. With benign prostate
+    conditions (such as BPH), there is usually more free PSA, while cancer usually produces more
+    of the protein bound form.
+    Test Method Variance:
+    Other:
+
+3.  PSA\_P\_FREE (Percent Free Prostate specific antigen [Ag], ratio of free to total)
+
+    Common Name: Percent Free PSA
+    Long Name: Prostate specific Ag free/Prostate specific Ag Total
+    Test Type: PSA\_%\_FREE
+    Panels: N/A
+    Equivalent Tests: N/A
+    Not Equivalent Tests: Individual PSA isoforms. Result is a ratio of two isoforms
+    Indications:
+    Description: PSA circulates in the blood in two forms: Free or bound to a protein molecule.
+    Related Tests:
+    Approximate Reference Range (Each site will have slight variations): 5% – 40 %.
+    Expressed as a percent of unbound PSA over total PSA
+    Comments:
+    Test Method Variance:
+    Other:
+
+4.  (PSA\_FREESF-DEPRECATED) (Seminal Fluid, Free Prostate specific antigen in seminal fluid, free)
+
+    Common Name: Seminal Fluid Free PSA
+    Long Name: Prostate Specific Antigen Free, Seminal Fluid, Quantitative
+    Test Type: PSA\_FREESF
+    Panels: N/A
+    Equivalent Tests: N/A
+    Not Equivalent Tests: serum values and PSA forms that are bound to seminal proteins which
+    includes total.
+    Indications:
+    Description: PSA in fluids other than blood are biochemically different.
+    Related Tests:
+    Approximate Reference Range (Each site will have slight variations): Values of PSA in
+    seminal fluid are approximately 106-fold higher than PSA concenration in serum.
+    Comments: May be useful to evaluate fertility and prostate disease.
+    Test Method Variance:
+    Other:
+
+5.  (PSA\_SF-DEPRECATED) (Seminal Fluid Prostate specific antigen, total in seminal fluid)
+
+    Common Name: Seminal Fluid PSA
+    Long Name: Prostate Specific Antigen, Seminal Fluid, Quantitative
+    Test Type: PSA\_SF
+    Panels: N/A
+    Equivalent Tests: N/A
+    Not Equivalent Tests: PSA forms that are bound to blood proteins which includes total.
+    Indications:
+    Description: PSA in fluids other than blood are biochemically different
+    Related Tests:
+    Approximate Reference Range (Each site will have slight variations): Values of PSA in
+    seminal fluid are approximately 106-fold higher than PSA concenration in serum. The
+    concentrations found in seminal plasma range from 0.5 to 5.0 mg/mL, whereas the normal
+    serum concentration in men aged 50 to 80 years without prostate disease ranges between 1.0
+    and 4.0 ng/mL.
+    Comments: May be usefull to evaluate fertility and prostate disease.
+    Test Method Variance:
+    Other:
 
 
-### PSA, Seminal Fluid (Prostate specific antigen, total in seminal fluid)
-
-Common Name: Seminal Fluid PSA
-Long Name: Prostate Specific Antigen, Seminal Fluid, Quantitative
-Test Type: PSA\_SF
-Panels: N/A
-Equivalent Tests: N/A
-Not Equivalent Tests: PSA forms that are bound to blood proteins which includes total.
-Indications:
-Description: PSA in fluids other than blood are biochemically different
-Related Tests:
-Approximate Reference Range (Each site will have slight variations): Values of PSA in
-seminal fluid are approximately 106-fold higher than PSA concenration in serum. The
-concentrations found in seminal plasma range from 0.5 to 5.0 mg/mL, whereas the normal
-serum concentration in men aged 50 to 80 years without prostate disease ranges between 1.0
-and 4.0 ng/mL.
-Comments: May be usefull to evaluate fertility and prostate disease.
-Test Method Variance:
-Other:
-
-
-### PSA, Seminal Fluid, Free (Prostate specific antigen in seminal fluid, free)
-
-Common Name: Seminal Fluid Free PSA
-Long Name: Prostate Specific Antigen Free, Seminal Fluid, Quantitative
-Test Type: PSA\_FREESF
-Panels: N/A
-Equivalent Tests: N/A
-Not Equivalent Tests: serum values and PSA forms that are bound to seminal proteins which
-includes total.
-Indications:
-Description: PSA in fluids other than blood are biochemically different.
-Related Tests:
-Approximate Reference Range (Each site will have slight variations): Values of PSA in
-seminal fluid are approximately 106-fold higher than PSA concenration in serum.
-Comments: May be useful to evaluate fertility and prostate disease.
-Test Method Variance:
-Other:
-
-
-### PSA, Total, Blood/Serum/Plasma (Prostate specific antigen, total)
-
-Common Name: PSA, Total (screening or diagnostic)
-Long Name: Prostate Specific Antigen, Total PSA
-Test Type: PSA
-Panels: N/A
-Equivalent Tests: N/A
-Not Equivalent Tests: PAP (Prostatic Acid Phosphatase), Not equivalent to PSA from nonblood
-specimens. Free and protein bound forms are considered distinct tests not to be included
-with total.
-Indications:
-Description: Prostate-specific antigen (PSA) is a normal protein produced by the prostate
-gland and value does not necessarily indicate cancer. The PSA test measures the total level of
-PSA in the blood. PSA in other forms such as Free, "nicked"or pro-PSA are normally included
-in total PSA. PSA is a member of the kallikrein-related serine protease super family.
-Related Tests: Free PSA ratio
-Approximate Reference Range (Each site will have slight variations): 0 - 4.0 ng/mL is
-usual normal range.
-Comments: The U.S. Food and Drug Administration (FDA) has approved the use of the PSA
-test to help detect prostate cancer in men age 50 and older (40 if family history). The FDA has
-also approved the PSA test to monitor patients with a history of prostate cancer to see if the
-cancer has recurred. Most men with an elevated PSA test result turn out not to have cancer;
-only 25 to 35 percent of men who have a biopsy due to an elevated PSA level actually have
-prostate cancer. The test may indicate when biopsy is indicated.
-Test Method Variance: Different manufacturers have different molecular specificity.
-Comparing values over time need to consider different reagent systems if lab changes are
-made. Results between manufacturer/instrumentation may not be linear.
-Other:
-
-
-### Sodium (Blood or Serum Sodium)
+### SODIUM (Blood or Serum Sodium)
 
 Common Name: Serum Sodium; Na+
 Long Name: Sodium, serum/blood
@@ -1977,92 +2588,120 @@ Test Method Variance:
 Other:
 
 
-### Thyroxine (T4) Free
+### (T4) Thyroxine Test Types
 
-Common Name: Free T4
-Long Name: Thyroxine (T4) Free
-Test Type: T4\_FREE
-Panels: Thyroid panel
-Equivalent Tests: N/A
-Not Equivalent Tests: Total Thyroxine (T4), Free Thyroxine Index, Thyroid stimulating
-hormone (TSH)
-Indications: Free T4 is used in diagnosing hyper- or hypothyroidism in conjunction with TSH. It
-may be ordered at regular intervals to monitor the effectiveness of treatment when a patient is
-being treated for a known thyroid disorder.
-Description: Thyroxine (T4) Free evaluates thyroid function by measuring the T4 produced by
-the thyroid gland. T4 Free measures the level of thyroxine circulating in the bloodstream that is
-not bound to protein (i.e., it is “free”) as opposed to the Total T4 test which measures the total
-amount of thyroxine that is bound to thyroxine-binding globulin. Since free T4 is the active form
-of thyroxine, the free T4 test is considered a more accurate reflection of thyroid hormone
-function and, in most cases, it has replaced the total T4 test. Total T4 is being phased out due
-to the more sensitive and meaningful free T4 testing.
-Related Tests: TSH; Free T4 Index
-Approximate Reference Range: 0.8-1.5 ng/dL for adults (neonatal and pediatric reference
-ranges differ)
-Comments: Only 0.02% of T4 circulates unbound to proteins. In general, high T4 free results
-may indicate an overactive thyroid gland (hyperthyroidism), and low T4 free results may indicate
-an underactive thyroid gland (hypothyroidism). Pregnancy can cause changes in the production
-and elimination of thyroid hormones resulting in altered reference ranges throughout the
-pregnancy.
-Test Method Variance: There are 4 different assays to evaluate free T4. Results commonly
-reported as ng/dL but can also include pmol/L or pg/dL.
+1.  T4\_FREE (Thyroxine Free)
+
+    Common Name: Free T4
+    Long Name: Thyroxine (T4) Free
+    Test Type: T4\_FREE
+    Panels: Thyroid panel
+    Equivalent Tests: N/A
+    Not Equivalent Tests: Total Thyroxine (T4), Free Thyroxine Index, Thyroid stimulating
+    hormone (TSH)
+    Indications: Free T4 is used in diagnosing hyper- or hypothyroidism in conjunction with TSH. It
+    may be ordered at regular intervals to monitor the effectiveness of treatment when a patient is
+    being treated for a known thyroid disorder.
+    Description: Thyroxine (T4) Free evaluates thyroid function by measuring the T4 produced by
+    the thyroid gland. T4 Free measures the level of thyroxine circulating in the bloodstream that is
+    not bound to protein (i.e., it is “free”) as opposed to the Total T4 test which measures the total
+    amount of thyroxine that is bound to thyroxine-binding globulin. Since free T4 is the active form
+    of thyroxine, the free T4 test is considered a more accurate reflection of thyroid hormone
+    function and, in most cases, it has replaced the total T4 test. Total T4 is being phased out due
+    to the more sensitive and meaningful free T4 testing.
+    Related Tests: TSH; Free T4 Index
+    Approximate Reference Range: 0.8-1.5 ng/dL for adults (neonatal and pediatric reference
+    ranges differ)
+    Comments: Only 0.02% of T4 circulates unbound to proteins. In general, high T4 free results
+    may indicate an overactive thyroid gland (hyperthyroidism), and low T4 free results may indicate
+    an underactive thyroid gland (hypothyroidism). Pregnancy can cause changes in the production
+    and elimination of thyroid hormones resulting in altered reference ranges throughout the
+    pregnancy.
+    Test Method Variance: There are 4 different assays to evaluate free T4. Results commonly
+    reported as ng/dL but can also include pmol/L or pg/dL.
+    Other:
+
+2.  T4\_FREE\_I (Thyroxine Free Index)
+
+    Common Name: FTI
+    Long Name: Thyroxine (T4) Free Index; Serum Free Thyroxine Index
+    Test Type: T4\_FREE\_I
+    Panels: Thyroid Panel
+    Equivalent Tests: Also known as “T7”
+    Not Equivalent Tests: Thyroxine (T4) Total, Thyroxine (T4) Free
+    Indications: This test is used to monitor thyroid function in patients who have abnormal protein
+    binding. It may be ordered at regular intervals to monitor the effectiveness of treatment when a
+    patient is being treated for a known thyroid disorder.
+    Description: Thyroxine index is calculated by total T4 multiplied by T3 resin uptake
+    (percentage) to estimate the amount of free thyroxine circulating in the blood. This calculation
+    adjusts for the effects of alterations in thyroid-binding protein on the total serum T4 assay. This
+    can be useful when evaluating patients who have factors that can increase or decrease thyroidbinding
+    protein.
+    Related Tests: T4 Total; T3 Resin Uptake; T4 Free
+    Approximate Reference Range: 1.0-4.0 units; 0.8-2.7 ng/dL for adults (neonatal and pediatric
+    reference ranges differ)
+    Comments: In general, high T4 index results may indicate an overactive thyroid gland
+    (hyperthyroidism), and low T4 index results may indicate an underactive thyroid gland
+    (hypothyroidism).
+    Test Method Variance:
+    Other: Thyroxine free index is rarely used today.
+
+3.  T4\_TOTAL (Thyroxine Total)
+
+    Common Name: Total T4
+    Long Name: Thyroxine (T4) Total; Total Serum Thyroxine
+    Test Type: T4\_TOTAL
+    Panels: Thyroid Panel
+    Equivalent Tests: N/A
+    Not Equivalent Tests: Thyroxine (T4) Free Thyroxine Index, Total T3, Thyroid stimulating
+    hormone (TSH), newborn genetic screenings
+    Indications: Total T4 is used to diagnose hyper- or hypothyroidism as well as for suspected
+    subacute thyroiditis. It may be ordered at regular intervals to monitor the effectiveness of
+    treatment when a patient is being treated for a known thyroid disorder.
+    Description: Thyroxine (T4) Total evaluates thyroid function by measuring the total thyroxine in
+    the bloodstream (both bound and unbound to thyroxine-binding globulin and other proteins).
+    Related Tests: TSH; Serum T3 Resin Uptake; thyroxine-binding globulin (TBG); T4 Free; Free
+    T4 Index
+    Approximate Reference Range: 4.0-12.5 mcg/dL for adults (neonatal and pediatric reference
+    ranges differ)
+    Comments: In general, high T4 Total results indicate an overactive thyroid gland
+    (hyperthyroidism), and low T4 Total results indicate an underactive thyroid gland
+    (hypothyroidism). T4 Total results are affected by the amount of protein in the blood that is
+    available to bind the T4. T3 resin uptake test is usually measured in conjunction with T4 total to
+    factor out the interference of T3 binding to thyroid-binding protein. Total T4 is being phased out
+    due to the more sensitive and meaningful free T4 testing – free T4 is not affected by the amount
+    of protein in the blood.
+    Test Method Variance:
+    Other: Usually ordered along with or following a TSH test. Do not include T4 total from newborn
+    genetic screening.
+
+
+### TOT\_CHOLES (Cholesterol, Total)
+
+Common Name: Cholesterol, Total
+Long Name: Cholesterol Total
+Test Type: TOT\_CHOLES
+Panels: LIPID PROFILE
+Equivalent Tests:
+Not Equivalent Tests: LDL - very low density lipoprotein Cholesterol, LDL - Low Density
+lipoprotein Cholesterol, HDL - High Density lipoprotein Cholesterol, any apolipoproteins
+Indications:
+Description: Cholesterol is a molecule (chemically a steroid) that is essential for life. It forms
+the membranes for cells in all organs and tissues in your body. It is used to make hormones
+essential for development, growth, and reproduction. It forms bile acids that are needed to
+absorb nutrients from food. Levels of cholesterol are influenced by its production in the liver and
+the ingestion of dietary fats. Bile acids are released into the intestine, aid in digestion, and then
+are mostly reabsorbed. A small amount of your body’s cholesterol circulates in the blood in
+complex particles called lipoproteins. These lipoproteins include some particles that carry
+excess cholesterol away for disposal (i.e., HDL cholesterol) and some particles that deposit
+cholesterol in tissues and organs (i.e., LDL cholesterol). The test for cholesterol measures total
+cholesterol (good [HDL] and bad [e.g., LDL]) that is carried in the blood by lipoproteins.
+Lowering LDL cholesterol reduces coronary heart disease and ischemic stroke.
+Related Tests:
+Approximate Reference Range (Each site will have slight variations):
+Comments:
+Test Method Variance:
 Other:
-
-
-### Thyroxine (T4) Free Index
-
-Common Name: FTI
-Long Name: Thyroxine (T4) Free Index; Serum Free Thyroxine Index
-Test Type: T4\_FREE\_I
-Panels: Thyroid Panel
-Equivalent Tests: Also known as “T7”
-Not Equivalent Tests: Thyroxine (T4) Total, Thyroxine (T4) Free
-Indications: This test is used to monitor thyroid function in patients who have abnormal protein
-binding. It may be ordered at regular intervals to monitor the effectiveness of treatment when a
-patient is being treated for a known thyroid disorder.
-Description: Thyroxine index is calculated by total T4 multiplied by T3 resin uptake
-(percentage) to estimate the amount of free thyroxine circulating in the blood. This calculation
-adjusts for the effects of alterations in thyroid-binding protein on the total serum T4 assay. This
-can be useful when evaluating patients who have factors that can increase or decrease thyroidbinding
-protein.
-Related Tests: T4 Total; T3 Resin Uptake; T4 Free
-Approximate Reference Range: 1.0-4.0 units; 0.8-2.7 ng/dL for adults (neonatal and pediatric
-reference ranges differ)
-Comments: In general, high T4 index results may indicate an overactive thyroid gland
-(hyperthyroidism), and low T4 index results may indicate an underactive thyroid gland
-(hypothyroidism).
-Test Method Variance:
-Other: Thyroxine free index is rarely used today.
-
-
-### Thyroxine (T4) Total
-
-Common Name: Total T4
-Long Name: Thyroxine (T4) Total; Total Serum Thyroxine
-Test Type: T4\_TOTAL
-Panels: Thyroid Panel
-Equivalent Tests: N/A
-Not Equivalent Tests: Thyroxine (T4) Free Thyroxine Index, Total T3, Thyroid stimulating
-hormone (TSH), newborn genetic screenings
-Indications: Total T4 is used to diagnose hyper- or hypothyroidism as well as for suspected
-subacute thyroiditis. It may be ordered at regular intervals to monitor the effectiveness of
-treatment when a patient is being treated for a known thyroid disorder.
-Description: Thyroxine (T4) Total evaluates thyroid function by measuring the total thyroxine in
-the bloodstream (both bound and unbound to thyroxine-binding globulin and other proteins).
-Related Tests: TSH; Serum T3 Resin Uptake; thyroxine-binding globulin (TBG); T4 Free; Free
-T4 Index
-Approximate Reference Range: 4.0-12.5 mcg/dL for adults (neonatal and pediatric reference
-ranges differ)
-Comments: In general, high T4 Total results indicate an overactive thyroid gland
-(hyperthyroidism), and low T4 Total results indicate an underactive thyroid gland
-(hypothyroidism). T4 Total results are affected by the amount of protein in the blood that is
-available to bind the T4. T3 resin uptake test is usually measured in conjunction with T4 total to
-factor out the interference of T3 binding to thyroid-binding protein. Total T4 is being phased out
-due to the more sensitive and meaningful free T4 testing – free T4 is not affected by the amount
-of protein in the blood.
-Test Method Variance:
-Other: Usually ordered along with or following a TSH test. Do not include T4 total from newborn
-genetic screening.
 
 
 ### TOT\_PROT (Protein, total in blood/serum)
@@ -2096,7 +2735,12 @@ Test Method Variance:
 Other:
 
 
-### Triglycerides, Fasting (TG, TRIG, patient was fasting)
+### TRANSFERRIN (Transferrin in Serum)
+
+***NEEDS TO BE UPDATED***
+
+
+### TRIGL\_F (Triglycerides, Fasting)
 
 Common Name: Triglycerides, fasting
 Long Name: Triglycerides Fasting
@@ -2122,9 +2766,8 @@ Test Method Variance:
 Other:
 
 
-### Triglycerides, Random (TG, TRIG, not known if patient was fasting, or known that
+### TRIGL\_NS (Triglycerides, not known if patient was fasting
 
-patient was not fasting)
 Common Name: Triglycerides
 Long Name: Triglycerides - fasting not specified
 Test Type: TRIGL\_NS
@@ -2152,332 +2795,403 @@ Test Method Variance:
 Other:
 
 
-### TSH (Thyroid Stimulating Hormone, Thyrotropin)
+### (TROP) Troponin Test Types
 
-Common Name: TSH
-Long Name: Thyroid Stimulating Hormone; Thyrotropin
-Test Type: TSH
-Panels:
-Equivalent Tests:
-Not Equivalent Tests:
-Indications: The doctor may order a TSH test when a patient has symptoms of hyper- or
-hypothyroidism and/or when a patient has an enlarged thyroid gland. It may be ordered at
-regular intervals to monitor the effectiveness of treatment when a patient is being treated for a
-known thyroid disorder.
-Description: The TSH test is often the test of choice for evaluating thyroid function and/or
-symptoms of hyper- or hypothyroidism. It is frequently ordered along with or preceding a T4 test.
-Other thyroid tests that may be ordered include a T3 test and thyroid antibodies (if autoimmunerelated
-thyroid disease is suspected).
-TSH testing is used to:
+1.  TROP\_I\_QN (Troponin I Cardiac Quantitative)
 
--   diagnose a thyroid disorder in a person with symptoms,
--   screen newborns for an underactive thyroid,
--   monitor thyroid replacement therapy in people with hypothyroidism
--   diagnose and monitor female infertility problems,
--   help evaluate the function of the pituitary gland (occasionally), and
--   screen adults for thyroid disorders, although expert opinions vary on who can benefit
+    Common Name: Cardiac-specific troponin (I)
+    Long Name: Cardiac-specific Troponin I Quantitative
+    Test Type: TROP\_I\_QN
+    Panels: N/A
+    Equivalent Tests: TnI; cTnI (see Description below)
+    Not Equivalent Tests: All CK tests; Myoglobin TROP\_T\_QN; TROP\_T\_QL; cTnT; TnT
+    Indications: The troponin test is used to help diagnose a heart attack, to detect and evaluate
+    mild to severe heart injury, and to distinguish chest pain due to other causes. Either troponin I or
+    troponin T test can be performed; usually a laboratory will offer one test or the other. Troponins
+    are sometimes ordered along with other cardiac biomarkers such as CK\_MB or myoglobin.
+    Troponins are the preferred tests for a suspected heart attack because they are more specific
+    for heart injury than other tests and remain elevated for a longer period of time.
+    Description: Troponins are a family of proteins found in skeletal and heart muscle fibers. The
+    three different types of troponin are called troponin C (TnC), troponin T (TnT), and troponin I
+    (TnI). Together, these three proteins regulate muscular contraction. Two of the proteins, TnI and
+    TnT, occur in a form found only in the heart. These cardiac-specific troponins, called cTnI and
+    cTnT, are normally present in very small quantities in the blood. When there is damage to heart
+    muscle cells, cardiac troponins I and T are released into the circulation. The more damage there
+    is, the greater the concentration of cardiac troponins I and T in the blood.
+    The troponin test is usually ordered when a patient with a suspected heart attack comes into the
+    emergency room and often repeated at 6 and 12 hours later. Typically, 2 or 3 troponin tests are
+    done over a 12- to 16-hour period. In patients with stable angina, a troponin test may be ordered
+    if the patient’s symptoms get worse (e.g., increased risk of a heart attack in the near future).
+    Related Tests: CK; CK\_MB; Cardiac biomarkers; TROP\_T\_QL; TROP\_T\_QN; cTnT; TnT
+    Approximate Reference Range: Cardiac troponin levels are normally so low they cannot be
+    detected with most blood tests. (Troponin I: < 10 microgram (mcg)/L).
+    Comments: When a patient has significantly elevated troponin concentrations, some form of
+    damage to the heart is likely. When a patient with chest pain/known stable angina has normal
+    troponin values, it is likely that the heart has not been injured. The test is not affected by
+    damage to other muscles.
+    Test Method Variance:
+    Other:
 
-from screening and at what age to begin.
-Related Tests: T4, T3, Thyroid Antibodies
-Approximate Reference Range (Each site will have slight variations): 0.32-5.50 uIU/mL.
-Comments: No test preparation is needed. Certain medications — including aspirin and
-thyroid-hormone replacement therapy — can interfere with the TSH test, so the doctor should
-be informed about any drugs that are being taken.
-Test Method Variance:
-Other: This test measures the amount of thyroid-stimulating hormone (TSH) in your blood. TSH
-is produced by the pituitary gland, a tiny organ located below the brain and behind the sinus
-cavities. It is part of the body’s feedback system to maintain stable amounts of the thyroid
-hormones thyroxine (T4) and triiodothyronine (T3) in the blood. Thyroid hormones help control
-the rate at which the body uses energy. When concentrations decrease in the blood, the
-hypothalamus (an organ in the brain) releases thyrotropin releasing hormone (TRH). This
-stimulates the release of TSH by the pituitary gland. The TSH in turn stimulates the production
-and release of T4 and T3 by the thyroid gland, a small butterfly-shaped gland that lies in the
-neck flat against the windpipe. When all three organs are functioning normally, thyroid
-production turns on and off to maintain constant blood thyroid hormone levels. If there is
-pituitary dysfunction, then increased or decreased amounts of TSH may result. When TSH
-concentrations are decreased, the thyroid will make and release inappropriate amounts of T4
-and T3 and the patient may experience symptoms associated with hyperthyroidism, such as
-rapid heart rate, weight loss, nervousness, hand tremors, irritated eyes, and difficulty sleeping. If
-there is elevated TSH and subsequent decreased production of thyroid hormones
-(hypothyroidism), the patient may experience symptoms such as weight gain, dry skin,
-constipation, cold intolerance, and fatigue. In addition to pituitary dysfunction, hyper- or
-hypothyroidism can occur if there is a problem with the hypothalamus (insufficient or excessive
-TRH). Thyroid hormone levels may also be altered by a variety of thyroid diseases regardless of
-the amount of TSH present in the blood.
+2.  TROP\_T\_QL (Troponin T Cardiac - Qualitative)
 
+    Common Name: Cardiac-specific troponin (T qualitative)
+    Long Name: Cardiac-specific Troponin T Qualitative
+    Test Type: TROP\_T\_QL
+    Panels: N/A
+    Equivalent Tests:
+    Not Equivalent Tests: CK; CK – MB; Myoglobin; Cardiac biomarkers; TROP\_T\_QN;
+    TROP\_I\_QN; cTnI; TnI
+    Indications: The troponin test is used to help diagnose a heart attack, to detect and evaluate
+    mild to severe heart injury, and to distinguish chest pain due to other causes. Either troponin I or
+    troponin T test can be performed; usually a laboratory will offer one test or the other. Troponins
+    are sometimes ordered along with other cardiac biomarkers such as CK\_MB or myoglobin.
+    Troponins are the preferred tests for a suspected heart attack because they are more specific
+    for heart injury than other tests and remain elevated for a longer period of time.
+    Description: Troponins are a family of proteins found in skeletal and heart muscle fibers. The
+    three different types of troponin are called troponin C (TnC), troponin T (TnT), and troponin I
+    (TnI). Together, these three proteins regulate muscular contraction. Two of the proteins, TnI and
+    TnT, occur in a form found only in the heart. These cardiac-specific troponins, called cTnI and
+    cTnT, are normally present in very small quantities in the blood. When there is damage to heart
+    muscle cells, cardiac troponins I and T are released into the circulation. The more damage there
+    is, the greater the concentration of cardiac troponins I and T in the blood.
+    The troponin test is usually ordered when a patient with a suspected heart attack comes into the
+    emergency room and often repeated at 6 and 12 hours later. Typically, 2 or 3 troponin tests are
+    done over a 12- to 16-hour period. In patients with stable angina, a troponin test may be ordered
+    if the patient’s symptoms get worse (e.g., increased risk of a heart attack in the near future).
+    Related Tests: CK; CK\_MB; Myoglobin; Cardiac biomarkers TROP\_T\_QN; TROP\_I\_QN
+    Approximate Reference Range: Positive or negative for Troponin T elevated levels.
+    Comments: When a patient has significantly elevated troponin concentrations, some form of
+    damage to the heart is likely. When a patient with chest pain/known stable angina has normal
+    troponin values, it is likely that the heart has not been injured. The test is not affected by
+    damage to other muscles.
+    Test Method Variance:
+    Other:
 
-### TSH Beta Subunit (Thyroid Stimulating Hormone Beta Subunit), Quantitative
+3.  TROP\_T\_QN (Troponin T Cardiac - Quantitative)
 
-Common Name: TSH Beta Subunit, Quantitative
-Long Name: Thyroid Stimulating Hormone Beta Subunit Quantitative
-Test Type: TSH\_BSU
-Panels:
-Equivalent Tests:
-Not Equivalent Tests:
-Indications: The doctor may order a TSH test when a patient has symptoms of hyper- or
-hypothyroidism and/or when a patient has an enlarged thyroid gland. It may be ordered at
-regular intervals to monitor the effectiveness of treatment when a patient is being treated for a
-known thyroid disorder.
-Description: The TSH test is often the test of choice for evaluating thyroid function and/or
-symptoms of hyper- or hypothyroidism. It is frequently ordered along with or preceding a T4 test.
-Other thyroid tests that may be ordered include a T3 test and thyroid antibodies (if autoimmunerelated
-thyroid disease is suspected).
-TSH testing is used to:
-
--   diagnose a thyroid disorder in a person with symptoms,
--   screen newborns for an underactive thyroid,
--   monitor thyroid replacement therapy in people with hypothyroidism
--   diagnose and monitor female infertility problems,
--   help evaluate the function of the pituitary gland (occasionally), and
--   screen adults for thyroid disorders, although expert opinions vary on who can benefit
-
-from screening and at what age to begin.
-Related Tests: TSH, T4, T3, Thyroid Antibodies
-Approximate Reference Range (Each site will have slight variations):
-Comments: No test preparation is needed. Certain medications — including aspirin and
-thyroid-hormone replacement therapy — can interfere with the TSH test, so the doctor should
-be informed about any drugs that are being taken.
-Test Method Variance:
-Other: This test measures the amount of thyroid-stimulating hormone (TSH) in your blood. TSH
-is produced by the pituitary gland, a tiny organ located below the brain and behind the sinus
-cavities. It is part of the body’s feedback system to maintain stable amounts of the thyroid
-hormones thyroxine (T4) and triiodothyronine (T3) in the blood. Thyroid hormones help control
-the rate at which the body uses energy. When concentrations decrease in the blood, the
-hypothalamus (an organ in the brain) releases thyrotropin releasing hormone (TRH). This
-stimulates the release of TSH by the pituitary gland. The TSH in turn stimulates the production
-and release of T4 and T3 by the thyroid gland, a small butterfly-shaped gland that lies in the
-neck flat against the windpipe. When all three organs are functioning normally, thyroid
-production turns on and off to maintain constant blood thyroid hormone levels.
-If there is pituitary dysfunction, then increased or decreased amounts of TSH may result. When
-TSH concentrations are increased, the thyroid will make and release inappropriate amounts of
-T4 and T3 and the patient may experience symptoms associated with hyperthyroidism, such as
-rapid heart rate, weight loss, nervousness, hand tremors, irritated eyes, and difficulty sleeping.
-However, because of the feedback loop, usually TSH production has been “turned off” (i.e., TSH
-concentrations are low) when there is hyperthyroidism. If there is increased production of TSH
-and subsequent decreased production of thyroid hormones (hypothyroidism), the patient may
-experience symptoms such as weight gain, dry skin, constipation, cold intolerance, and fatigue.
-In addition to pituitary dysfunction, hyper- or hypothyroidism can occur if there is a problem with
-the hypothalamus (insufficient or excessive TRH). Usually, by the time TSH is measured in a
-patient with hypothyroidism, the TSH is very high (i.e., the pituitary is trying to get the thyroid to
-make more thyroid hormone). Thyroid hormone levels may also be altered by a variety of
-thyroid diseases regardless of the amount of TSH present in the blood.
+    Common Name: Cardiac-specific troponin (T)
+    Long Name: Cardiac-specific Troponin T Quantitative
+    Test Type: TROP\_T\_QN
+    Panels: N/A
+    Equivalent Tests: TnT; cTnT (see Description below)
+    Not Equivalent Tests: CK; CK – MB; Myoglobin; Cardiac biomarkers; TROP\_T\_QL;
+    TROP\_I\_QN; cTnI; TnI
+    Indications: The troponin test is used to help diagnose a heart attack, to detect and evaluate
+    mild to severe heart injury, and to distinguish chest pain due to other causes. Either troponin I or
+    troponin T test can be performed; usually a laboratory will offer one test or the other. Troponins
+    are sometimes ordered along with other cardiac biomarkers such as CK\_MB or myoglobin.
+    Troponins are the preferred tests for a suspected heart attack because they are more specific
+    for heart injury than other tests and remain elevated for a longer period of time.
+    Description: Troponins are a family of proteins found in skeletal and heart muscle fibers. The
+    three different types of troponin are called troponin C (TnC), troponin T (TnT), and troponin I
+    (TnI). Two of the proteins, TnI and TnT, occur in a form found only in the heart. These cardiacspecific
+    troponins (cTnI and cTnT) are normally present in very small quantities in the blood.
+    When there is damage to heart cells, cardiac troponins I and T are released into the circulation.
+    The troponin test is usually ordered when a patient with a suspected heart attack comes into the
+    emergency room and often repeated at 6 and 12 hours later. Typically, 2 or 3 troponin tests are
+    done over a 12- to 16-hour period. In patients with stable angina, a troponin test may be ordered
+    if the patient’s symptoms get worse (e.g., increased risk of a heart attack in the near future).
+    Related Tests: CK; CK\_MB; Myoglobin; Cardiac biomarkers TROP\_T\_QL; TROP\_I\_QN
+    Approximate Reference Range: Cardiac troponin levels are normally so low they cannot be
+    detected with most blood tests. (Troponin T: 0–0.1 μg/L [micrograms per liter[).
+    Comments: When a patient has significantly elevated troponins, heart damage is likely. When a
+    patient with chest pain/known stable angina has normal troponin values, it is likely that the heart
+    has not been injured. The test is not affected by damage to other muscles.
+    Test Method Variance:
+    Other:
 
 
-### TSH Long Acting (Thyroid Stimulator Long Acting)
+### (TSH) Thyroid Stimulating Hormone Test Types
 
-Common Name: Long Acting Thyroid Stimulator
-Long Name: Thyroid Stimulator Long Acting
-Test Type: TSH\_LA
-Panels:
-Equivalent Tests:
-Not Equivalent Tests:
-Indications: The doctor may order a TSH test when a patient has symptoms of hyper- or
-hypothyroidism and/or when a patient has an enlarged thyroid gland. It may be ordered at
-regular intervals to monitor the effectiveness of treatment when a patient is being treated for a
-known thyroid disorder.
-Description:
-Related Tests: TSH, T4, T3, Thyroid Antibodies
-Approximate Reference Range (Each site will have slight variations):
-Comments: No test preparation is needed. Certain medications — including aspirin and
-thyroid-hormone replacement therapy — can interfere with the TSH test, so the doctor should
-be informed about any drugs that are being taken.
-Test Method Variance:
-Other:
+1.  TSH (Thyroid Stimulating Hormone, Thyrotropin)
+
+    Common Name: TSH
+    Long Name: Thyroid Stimulating Hormone; Thyrotropin
+    Test Type: TSH
+    Panels:
+    Equivalent Tests:
+    Not Equivalent Tests:
+    Indications: The doctor may order a TSH test when a patient has symptoms of hyper- or
+    hypothyroidism and/or when a patient has an enlarged thyroid gland. It may be ordered at
+    regular intervals to monitor the effectiveness of treatment when a patient is being treated for a
+    known thyroid disorder.
+    Description: The TSH test is often the test of choice for evaluating thyroid function and/or
+    symptoms of hyper- or hypothyroidism. It is frequently ordered along with or preceding a T4 test.
+    Other thyroid tests that may be ordered include a T3 test and thyroid antibodies (if autoimmunerelated
+    thyroid disease is suspected).
+    TSH testing is used to:
+    
+    -   diagnose a thyroid disorder in a person with symptoms,
+    -   screen newborns for an underactive thyroid,
+    -   monitor thyroid replacement therapy in people with hypothyroidism
+    -   diagnose and monitor female infertility problems,
+    -   help evaluate the function of the pituitary gland (occasionally), and
+    -   screen adults for thyroid disorders, although expert opinions vary on who can benefit
+    
+    from screening and at what age to begin.
+    Related Tests: T4, T3, Thyroid Antibodies
+    Approximate Reference Range (Each site will have slight variations): 0.32-5.50 uIU/mL.
+    Comments: No test preparation is needed. Certain medications — including aspirin and
+    thyroid-hormone replacement therapy — can interfere with the TSH test, so the doctor should
+    be informed about any drugs that are being taken.
+    Test Method Variance:
+    Other: This test measures the amount of thyroid-stimulating hormone (TSH) in your blood. TSH
+    is produced by the pituitary gland, a tiny organ located below the brain and behind the sinus
+    cavities. It is part of the body’s feedback system to maintain stable amounts of the thyroid
+    hormones thyroxine (T4) and triiodothyronine (T3) in the blood. Thyroid hormones help control
+    the rate at which the body uses energy. When concentrations decrease in the blood, the
+    hypothalamus (an organ in the brain) releases thyrotropin releasing hormone (TRH). This
+    stimulates the release of TSH by the pituitary gland. The TSH in turn stimulates the production
+    and release of T4 and T3 by the thyroid gland, a small butterfly-shaped gland that lies in the
+    neck flat against the windpipe. When all three organs are functioning normally, thyroid
+    production turns on and off to maintain constant blood thyroid hormone levels. If there is
+    pituitary dysfunction, then increased or decreased amounts of TSH may result. When TSH
+    concentrations are decreased, the thyroid will make and release inappropriate amounts of T4
+    and T3 and the patient may experience symptoms associated with hyperthyroidism, such as
+    rapid heart rate, weight loss, nervousness, hand tremors, irritated eyes, and difficulty sleeping. If
+    there is elevated TSH and subsequent decreased production of thyroid hormones
+    (hypothyroidism), the patient may experience symptoms such as weight gain, dry skin,
+    constipation, cold intolerance, and fatigue. In addition to pituitary dysfunction, hyper- or
+    hypothyroidism can occur if there is a problem with the hypothalamus (insufficient or excessive
+    TRH). Thyroid hormone levels may also be altered by a variety of thyroid diseases regardless of
+    the amount of TSH present in the blood.
+
+2.  (TSH\_BSU-DEPRECATED) Beta Subunit (Thyroid Stimulating Hormone Beta Subunit), Quantitative
+
+    Common Name: TSH Beta Subunit, Quantitative
+    Long Name: Thyroid Stimulating Hormone Beta Subunit Quantitative
+    Test Type: TSH\_BSU
+    Panels:
+    Equivalent Tests:
+    Not Equivalent Tests:
+    Indications: The doctor may order a TSH test when a patient has symptoms of hyper- or
+    hypothyroidism and/or when a patient has an enlarged thyroid gland. It may be ordered at
+    regular intervals to monitor the effectiveness of treatment when a patient is being treated for a
+    known thyroid disorder.
+    Description: The TSH test is often the test of choice for evaluating thyroid function and/or
+    symptoms of hyper- or hypothyroidism. It is frequently ordered along with or preceding a T4 test.
+    Other thyroid tests that may be ordered include a T3 test and thyroid antibodies (if autoimmunerelated
+    thyroid disease is suspected).
+    TSH testing is used to:
+    
+    -   diagnose a thyroid disorder in a person with symptoms,
+    -   screen newborns for an underactive thyroid,
+    -   monitor thyroid replacement therapy in people with hypothyroidism
+    -   diagnose and monitor female infertility problems,
+    -   help evaluate the function of the pituitary gland (occasionally), and
+    -   screen adults for thyroid disorders, although expert opinions vary on who can benefit
+    
+    from screening and at what age to begin.
+    Related Tests: TSH, T4, T3, Thyroid Antibodies
+    Approximate Reference Range (Each site will have slight variations):
+    Comments: No test preparation is needed. Certain medications — including aspirin and
+    thyroid-hormone replacement therapy — can interfere with the TSH test, so the doctor should
+    be informed about any drugs that are being taken.
+    Test Method Variance:
+    Other: This test measures the amount of thyroid-stimulating hormone (TSH) in your blood. TSH
+    is produced by the pituitary gland, a tiny organ located below the brain and behind the sinus
+    cavities. It is part of the body’s feedback system to maintain stable amounts of the thyroid
+    hormones thyroxine (T4) and triiodothyronine (T3) in the blood. Thyroid hormones help control
+    the rate at which the body uses energy. When concentrations decrease in the blood, the
+    hypothalamus (an organ in the brain) releases thyrotropin releasing hormone (TRH). This
+    stimulates the release of TSH by the pituitary gland. The TSH in turn stimulates the production
+    and release of T4 and T3 by the thyroid gland, a small butterfly-shaped gland that lies in the
+    neck flat against the windpipe. When all three organs are functioning normally, thyroid
+    production turns on and off to maintain constant blood thyroid hormone levels.
+    If there is pituitary dysfunction, then increased or decreased amounts of TSH may result. When
+    TSH concentrations are increased, the thyroid will make and release inappropriate amounts of
+    T4 and T3 and the patient may experience symptoms associated with hyperthyroidism, such as
+    rapid heart rate, weight loss, nervousness, hand tremors, irritated eyes, and difficulty sleeping.
+    However, because of the feedback loop, usually TSH production has been “turned off” (i.e., TSH
+    concentrations are low) when there is hyperthyroidism. If there is increased production of TSH
+    and subsequent decreased production of thyroid hormones (hypothyroidism), the patient may
+    experience symptoms such as weight gain, dry skin, constipation, cold intolerance, and fatigue.
+    In addition to pituitary dysfunction, hyper- or hypothyroidism can occur if there is a problem with
+    the hypothalamus (insufficient or excessive TRH). Usually, by the time TSH is measured in a
+    patient with hypothyroidism, the TSH is very high (i.e., the pituitary is trying to get the thyroid to
+    make more thyroid hormone). Thyroid hormone levels may also be altered by a variety of
+    thyroid diseases regardless of the amount of TSH present in the blood.
+
+3.  (TSH\_LA-DEPRECATED) Long Acting (Thyroid Stimulator Long Acting)
+
+    Common Name: Long Acting Thyroid Stimulator
+    Long Name: Thyroid Stimulator Long Acting
+    Test Type: TSH\_LA
+    Panels:
+    Equivalent Tests:
+    Not Equivalent Tests:
+    Indications: The doctor may order a TSH test when a patient has symptoms of hyper- or
+    hypothyroidism and/or when a patient has an enlarged thyroid gland. It may be ordered at
+    regular intervals to monitor the effectiveness of treatment when a patient is being treated for a
+    known thyroid disorder.
+    Description:
+    Related Tests: TSH, T4, T3, Thyroid Antibodies
+    Approximate Reference Range (Each site will have slight variations):
+    Comments: No test preparation is needed. Certain medications — including aspirin and
+    thyroid-hormone replacement therapy — can interfere with the TSH test, so the doctor should
+    be informed about any drugs that are being taken.
+    Test Method Variance:
+    Other:
+
+4.  (TSH\_SCRN-DEPRECATED) Screen (Thyroid Stimulating Hormone, Screen), Blood
+
+    Common Name: Thyroid stimulating hormone screen in blood
+    Long Name: Thyroid Stimulating Hormone, Screen, Blood
+    Test Type: TSH\_SCRN
+    Panels:
+    Equivalent Tests:
+    Not Equivalent Tests:
+    Indications: The doctor may order a TSH test when a patient has symptoms of hyper- or
+    hypothyroidism and/or when a patient has an enlarged thyroid gland. It may be ordered at
+    regular intervals to monitor the effectiveness of treatment when a patient is being treated for a
+    known thyroid disorder.
+    TSH screening is routinely performed in the United States on newborns as part of each state’s
+    newborn screening program. The American Thyroid Association recommends that adults older
+    than age 35 be screened for thyroid disease with a TSH test every five years, although other
+    organizations, such as the U.S. Preventive Services Task Force, challenge this
+    recommendation. Several organizations recommend instead screening women over 50 or those
+    at high risk for thyroid disorders, such as pregnant and postpartum women.
+    Description: The TSH test is often the test of choice for evaluating thyroid function and/or
+    symptoms of hyper- or hypothyroidism. It is frequently ordered along with or preceding a T4 test.
+    Other thyroid tests that may be ordered include a T3 test and thyroid antibodies (if autoimmunerelated
+    thyroid disease is suspected).
+    TSH testing is used to:
+    
+    -   diagnose a thyroid disorder in a person with symptoms,
+    -   screen newborns for an underactive thyroid,
+    -   monitor thyroid replacement therapy in people with hypothyroidism
+    -   diagnose and monitor female infertility problems,
+    -   help evaluate the function of the pituitary gland (occasionally), and
+    -   screen adults for thyroid disorders, although expert opinions vary on who can benefit
+    
+    from screening and at what age to begin.
+    Related Tests: TSH, T4, T3, Thyroid Antibodies
+    Approximate Reference Range (Each site will have slight variations): Low, normal or high.
+    Comments: No test preparation is needed. Certain medications — including aspirin and
+    thyroid-hormone replacement therapy — can interfere with the TSH test, so the doctor should
+    be informed about any drugs that are being taken.
+    Test Method Variance:
+    Other: This test measures the amount of thyroid-stimulating hormone (TSH) in your blood. TSH
+    is produced by the pituitary gland, a tiny organ located below the brain and behind the sinus
+    cavities. It is part of the body’s feedback system to maintain stable amounts of the thyroid
+    hormones thyroxine (T4) and triiodothyronine (T3) in the blood. Thyroid hormones help control
+    the rate at which the body uses energy. When concentrations decrease in the blood, the
+    hypothalamus (an organ in the brain) releases thyrotropin releasing hormone (TRH). This
+    stimulates the release of TSH by the pituitary gland. The TSH in turn stimulates the production
+    and release of T4 and T3 by the thyroid gland, a small butterfly-shaped gland that lies in the
+    neck flat against the windpipe. When all three organs are functioning normally, thyroid
+    production turns on and off to maintain constant blood thyroid hormone levels. If there is
+    pituitary dysfunction, then increased or decreased amounts of TSH may result. If there is thyroid
+    dysfunction, then the amount of TSH will be inversely related to the thyroid dysfunction (i.e.,
+    TSH will be low with overactive thyroid).
 
 
-### TSH Screen (Thyroid Stimulating Hormone, Screen), Blood
+### (U\_ACR) Microalbumin to Creatine Ratio Test Types
 
-Common Name: Thyroid stimulating hormone screen in blood
-Long Name: Thyroid Stimulating Hormone, Screen, Blood
-Test Type: TSH\_SCRN
-Panels:
-Equivalent Tests:
-Not Equivalent Tests:
-Indications: The doctor may order a TSH test when a patient has symptoms of hyper- or
-hypothyroidism and/or when a patient has an enlarged thyroid gland. It may be ordered at
-regular intervals to monitor the effectiveness of treatment when a patient is being treated for a
-known thyroid disorder.
-TSH screening is routinely performed in the United States on newborns as part of each state’s
-newborn screening program. The American Thyroid Association recommends that adults older
-than age 35 be screened for thyroid disease with a TSH test every five years, although other
-organizations, such as the U.S. Preventive Services Task Force, challenge this
-recommendation. Several organizations recommend instead screening women over 50 or those
-at high risk for thyroid disorders, such as pregnant and postpartum women.
-Description: The TSH test is often the test of choice for evaluating thyroid function and/or
-symptoms of hyper- or hypothyroidism. It is frequently ordered along with or preceding a T4 test.
-Other thyroid tests that may be ordered include a T3 test and thyroid antibodies (if autoimmunerelated
-thyroid disease is suspected).
-TSH testing is used to:
+1.  U\_ACR (Microalbumin [or albumin] to creatinine ratio in urine)
 
--   diagnose a thyroid disorder in a person with symptoms,
--   screen newborns for an underactive thyroid,
--   monitor thyroid replacement therapy in people with hypothyroidism
--   diagnose and monitor female infertility problems,
--   help evaluate the function of the pituitary gland (occasionally), and
--   screen adults for thyroid disorders, although expert opinions vary on who can benefit
+    Common Name: ACR
+    Long Name: Microalbumin or albumin to creatinine ratio in urine
+    Test Type: U\_ACR
+    Panels: N/A
+    Equivalent Tests: N/A
+    Not Equivalent Tests: Serum or urine Albumin, serum prealbumin, serum or urine
+    microalbumin, Urinalysis
+    Indications: To screen for possible kidney disorder or for early kidney damage in diabetics
+    Description: The microalbumin test is an early indicator of kidney failure. It measures the tiny
+    amounts of albumin that the body begins to release into the urine several years before
+    significant kidney damage becomes apparent. Albumin is a protein that is produced in the liver
+    and is present in high concentrations in the blood. When the kidneys are functioning properly,
+    virtually no albumin is present in the urine. Damaged or diseased kidneys lose their ability to
+    filter proteins out of the urine. Patients who have consistently detectible amounts of albumin in
+    their urine (known as microalbuminuria) have an increased risk of developing progressive
+    kidney failure and cardiovascular disease. Microalbumin measurements can be obtained using
+    urine collected over a 24-hour period, for a specified amount of time (e.g., 4 hours or overnight),
+    or randomly (spot). When a creatinine measurement is performed along with a random
+    microalbumin, the result is the ACR.
+    Creatinine, a byproduct of muscle metabolism, is normally excreted into the urine on a
+    consistent basis. Its level in the urine is relatively stable. Since the concentration (or dilution) of
+    urine varies throughout the day, this property of creatinine allows its measurement to be used
+    as a corrective factor in random/spot urine samples. When a creatinine measurement is
+    performed along with a random microalbumin, the result is the ACR (which the American
+    Diabetes Association states is the preferred test for screening for microalbuminuria).
+    Related Tests: Albumin; Creatinine; Microalbumin
+    Approximate Reference Range: Normal is < 30 mcg albumin/mg creatinine; microalbuminuria
+    = 30 - 299 mcg albumin/mg creatinine (spot or random urine sample)
+    Comments: Elevated results may also be caused by vigorous exercise, blood in the urine,
+    urinary tract infection, dehydration, and some drugs.
+    Test Method Variance:
+    Other:
 
-from screening and at what age to begin.
-Related Tests: TSH, T4, T3, Thyroid Antibodies
-Approximate Reference Range (Each site will have slight variations): Low, normal or high.
-Comments: No test preparation is needed. Certain medications — including aspirin and
-thyroid-hormone replacement therapy — can interfere with the TSH test, so the doctor should
-be informed about any drugs that are being taken.
-Test Method Variance:
-Other: This test measures the amount of thyroid-stimulating hormone (TSH) in your blood. TSH
-is produced by the pituitary gland, a tiny organ located below the brain and behind the sinus
-cavities. It is part of the body’s feedback system to maintain stable amounts of the thyroid
-hormones thyroxine (T4) and triiodothyronine (T3) in the blood. Thyroid hormones help control
-the rate at which the body uses energy. When concentrations decrease in the blood, the
-hypothalamus (an organ in the brain) releases thyrotropin releasing hormone (TRH). This
-stimulates the release of TSH by the pituitary gland. The TSH in turn stimulates the production
-and release of T4 and T3 by the thyroid gland, a small butterfly-shaped gland that lies in the
-neck flat against the windpipe. When all three organs are functioning normally, thyroid
-production turns on and off to maintain constant blood thyroid hormone levels. If there is
-pituitary dysfunction, then increased or decreased amounts of TSH may result. If there is thyroid
-dysfunction, then the amount of TSH will be inversely related to the thyroid dysfunction (i.e.,
-TSH will be low with overactive thyroid).
+2.  U\_ACR12 (12-hour Microalbumin [or albumin] to creatinine ratio in urine)
 
+    Common Name: ACR
+    Long Name: Microalbumin or albumin to creatinine ratio in urine
+    Test Type: U\_ACR
+    Panels: N/A
+    Equivalent Tests: N/A
+    Not Equivalent Tests: Serum or urine Albumin, serum prealbumin, serum or urine
+    microalbumin, Urinalysis
+    Indications: To screen for possible kidney disorder or for early kidney damage in diabetics
+    Description: The microalbumin test is an early indicator of kidney failure. It measures the tiny
+    amounts of albumin that the body begins to release into the urine several years before
+    significant kidney damage becomes apparent. Albumin is a protein that is produced in the liver
+    and is present in high concentrations in the blood. When the kidneys are functioning properly,
+    virtually no albumin is present in the urine. Damaged or diseased kidneys lose their ability to
+    filter proteins out of the urine. Patients who have consistently detectible amounts of albumin in
+    their urine (known as microalbuminuria) have an increased risk of developing progressive
+    kidney failure and cardiovascular disease. Microalbumin measurements can be obtained using
+    urine collected over a 24-hour period, for a specified amount of time (e.g., 4 hours or overnight),
+    or randomly (spot). When a creatinine measurement is performed along with a random
+    microalbumin, the result is the ACR.
+    Creatinine, a byproduct of muscle metabolism, is normally excreted into the urine on a
+    consistent basis. Its level in the urine is relatively stable. Since the concentration (or dilution) of
+    urine varies throughout the day, this property of creatinine allows its measurement to be used
+    as a corrective factor in random/spot urine samples. When a creatinine measurement is
+    performed along with a random microalbumin, the result is the ACR (which the American
+    Diabetes Association states is the preferred test for screening for microalbuminuria).
+    Related Tests: Albumin; Creatinine; Microalbumin
+    Approximate Reference Range: Normal is < 30 mcg albumin/mg creatinine; microalbuminuria
+    = 30 - 299 mcg albumin/mg creatinine (spot or random urine sample)
+    Comments: Elevated results may also be caused by vigorous exercise, blood in the urine,
+    urinary tract infection, dehydration, and some drugs.
+    Test Method Variance:
+    Other:
 
-### TROP\_I\_QN (Troponin I Cardiac Quantitative)
+3.  U\_ACR24 (24-hour Microalbumin [or albumin] to creatinine ratio in urine)
 
-Common Name: Cardiac-specific troponin (I)
-Long Name: Cardiac-specific Troponin I Quantitative
-Test Type: TROP\_I\_QN
-Panels: N/A
-Equivalent Tests: TnI; cTnI (see Description below)
-Not Equivalent Tests: All CK tests; Myoglobin TROP\_T\_QN; TROP\_T\_QL; cTnT; TnT
-Indications: The troponin test is used to help diagnose a heart attack, to detect and evaluate
-mild to severe heart injury, and to distinguish chest pain due to other causes. Either troponin I or
-troponin T test can be performed; usually a laboratory will offer one test or the other. Troponins
-are sometimes ordered along with other cardiac biomarkers such as CK\_MB or myoglobin.
-Troponins are the preferred tests for a suspected heart attack because they are more specific
-for heart injury than other tests and remain elevated for a longer period of time.
-Description: Troponins are a family of proteins found in skeletal and heart muscle fibers. The
-three different types of troponin are called troponin C (TnC), troponin T (TnT), and troponin I
-(TnI). Together, these three proteins regulate muscular contraction. Two of the proteins, TnI and
-TnT, occur in a form found only in the heart. These cardiac-specific troponins, called cTnI and
-cTnT, are normally present in very small quantities in the blood. When there is damage to heart
-muscle cells, cardiac troponins I and T are released into the circulation. The more damage there
-is, the greater the concentration of cardiac troponins I and T in the blood.
-The troponin test is usually ordered when a patient with a suspected heart attack comes into the
-emergency room and often repeated at 6 and 12 hours later. Typically, 2 or 3 troponin tests are
-done over a 12- to 16-hour period. In patients with stable angina, a troponin test may be ordered
-if the patient’s symptoms get worse (e.g., increased risk of a heart attack in the near future).
-Related Tests: CK; CK\_MB; Cardiac biomarkers; TROP\_T\_QL; TROP\_T\_QN; cTnT; TnT
-Approximate Reference Range: Cardiac troponin levels are normally so low they cannot be
-detected with most blood tests. (Troponin I: < 10 microgram (mcg)/L).
-Comments: When a patient has significantly elevated troponin concentrations, some form of
-damage to the heart is likely. When a patient with chest pain/known stable angina has normal
-troponin values, it is likely that the heart has not been injured. The test is not affected by
-damage to other muscles.
-Test Method Variance:
-Other:
-
-
-### TROP\_T\_QL (Troponin T Cardiac - Qualitative)
-
-Common Name: Cardiac-specific troponin (T qualitative)
-Long Name: Cardiac-specific Troponin T Qualitative
-Test Type: TROP\_T\_QL
-Panels: N/A
-Equivalent Tests:
-Not Equivalent Tests: CK; CK – MB; Myoglobin; Cardiac biomarkers; TROP\_T\_QN;
-TROP\_I\_QN; cTnI; TnI
-Indications: The troponin test is used to help diagnose a heart attack, to detect and evaluate
-mild to severe heart injury, and to distinguish chest pain due to other causes. Either troponin I or
-troponin T test can be performed; usually a laboratory will offer one test or the other. Troponins
-are sometimes ordered along with other cardiac biomarkers such as CK\_MB or myoglobin.
-Troponins are the preferred tests for a suspected heart attack because they are more specific
-for heart injury than other tests and remain elevated for a longer period of time.
-Description: Troponins are a family of proteins found in skeletal and heart muscle fibers. The
-three different types of troponin are called troponin C (TnC), troponin T (TnT), and troponin I
-(TnI). Together, these three proteins regulate muscular contraction. Two of the proteins, TnI and
-TnT, occur in a form found only in the heart. These cardiac-specific troponins, called cTnI and
-cTnT, are normally present in very small quantities in the blood. When there is damage to heart
-muscle cells, cardiac troponins I and T are released into the circulation. The more damage there
-is, the greater the concentration of cardiac troponins I and T in the blood.
-The troponin test is usually ordered when a patient with a suspected heart attack comes into the
-emergency room and often repeated at 6 and 12 hours later. Typically, 2 or 3 troponin tests are
-done over a 12- to 16-hour period. In patients with stable angina, a troponin test may be ordered
-if the patient’s symptoms get worse (e.g., increased risk of a heart attack in the near future).
-Related Tests: CK; CK\_MB; Myoglobin; Cardiac biomarkers TROP\_T\_QN; TROP\_I\_QN
-Approximate Reference Range: Positive or negative for Troponin T elevated levels.
-Comments: When a patient has significantly elevated troponin concentrations, some form of
-damage to the heart is likely. When a patient with chest pain/known stable angina has normal
-troponin values, it is likely that the heart has not been injured. The test is not affected by
-damage to other muscles.
-Test Method Variance:
-Other:
-
-
-### TROP\_T\_QN (Troponin T Cardiac - Quantitative)
-
-Common Name: Cardiac-specific troponin (T)
-Long Name: Cardiac-specific Troponin T Quantitative
-Test Type: TROP\_T\_QN
-Panels: N/A
-Equivalent Tests: TnT; cTnT (see Description below)
-Not Equivalent Tests: CK; CK – MB; Myoglobin; Cardiac biomarkers; TROP\_T\_QL;
-TROP\_I\_QN; cTnI; TnI
-Indications: The troponin test is used to help diagnose a heart attack, to detect and evaluate
-mild to severe heart injury, and to distinguish chest pain due to other causes. Either troponin I or
-troponin T test can be performed; usually a laboratory will offer one test or the other. Troponins
-are sometimes ordered along with other cardiac biomarkers such as CK\_MB or myoglobin.
-Troponins are the preferred tests for a suspected heart attack because they are more specific
-for heart injury than other tests and remain elevated for a longer period of time.
-Description: Troponins are a family of proteins found in skeletal and heart muscle fibers. The
-three different types of troponin are called troponin C (TnC), troponin T (TnT), and troponin I
-(TnI). Two of the proteins, TnI and TnT, occur in a form found only in the heart. These cardiacspecific
-troponins (cTnI and cTnT) are normally present in very small quantities in the blood.
-When there is damage to heart cells, cardiac troponins I and T are released into the circulation.
-The troponin test is usually ordered when a patient with a suspected heart attack comes into the
-emergency room and often repeated at 6 and 12 hours later. Typically, 2 or 3 troponin tests are
-done over a 12- to 16-hour period. In patients with stable angina, a troponin test may be ordered
-if the patient’s symptoms get worse (e.g., increased risk of a heart attack in the near future).
-Related Tests: CK; CK\_MB; Myoglobin; Cardiac biomarkers TROP\_T\_QL; TROP\_I\_QN
-Approximate Reference Range: Cardiac troponin levels are normally so low they cannot be
-detected with most blood tests. (Troponin T: 0–0.1 μg/L [micrograms per liter[).
-Comments: When a patient has significantly elevated troponins, heart damage is likely. When a
-patient with chest pain/known stable angina has normal troponin values, it is likely that the heart
-has not been injured. The test is not affected by damage to other muscles.
-Test Method Variance:
-Other:
-
-
-### U\_ACR (Microalbumin [or albumin] to creatinine ratio in urine)
-
-Common Name: ACR
-Long Name: Microalbumin or albumin to creatinine ratio in urine
-Test Type: U\_ACR
-Panels: N/A
-Equivalent Tests: N/A
-Not Equivalent Tests: Serum or urine Albumin, serum prealbumin, serum or urine
-microalbumin, Urinalysis
-Indications: To screen for possible kidney disorder or for early kidney damage in diabetics
-Description: The microalbumin test is an early indicator of kidney failure. It measures the tiny
-amounts of albumin that the body begins to release into the urine several years before
-significant kidney damage becomes apparent. Albumin is a protein that is produced in the liver
-and is present in high concentrations in the blood. When the kidneys are functioning properly,
-virtually no albumin is present in the urine. Damaged or diseased kidneys lose their ability to
-filter proteins out of the urine. Patients who have consistently detectible amounts of albumin in
-their urine (known as microalbuminuria) have an increased risk of developing progressive
-kidney failure and cardiovascular disease. Microalbumin measurements can be obtained using
-urine collected over a 24-hour period, for a specified amount of time (e.g., 4 hours or overnight),
-or randomly (spot). When a creatinine measurement is performed along with a random
-microalbumin, the result is the ACR.
-Creatinine, a byproduct of muscle metabolism, is normally excreted into the urine on a
-consistent basis. Its level in the urine is relatively stable. Since the concentration (or dilution) of
-urine varies throughout the day, this property of creatinine allows its measurement to be used
-as a corrective factor in random/spot urine samples. When a creatinine measurement is
-performed along with a random microalbumin, the result is the ACR (which the American
-Diabetes Association states is the preferred test for screening for microalbuminuria).
-Related Tests: Albumin; Creatinine; Microalbumin
-Approximate Reference Range: Normal is < 30 mcg albumin/mg creatinine; microalbuminuria
-= 30 - 299 mcg albumin/mg creatinine (spot or random urine sample)
-Comments: Elevated results may also be caused by vigorous exercise, blood in the urine,
-urinary tract infection, dehydration, and some drugs.
-Test Method Variance:
-Other:
+    Common Name: ACR
+    Long Name: Microalbumin or albumin to creatinine ratio in urine
+    Test Type: U\_ACR
+    Panels: N/A
+    Equivalent Tests: N/A
+    Not Equivalent Tests: Serum or urine Albumin, serum prealbumin, serum or urine
+    microalbumin, Urinalysis
+    Indications: To screen for possible kidney disorder or for early kidney damage in diabetics
+    Description: The microalbumin test is an early indicator of kidney failure. It measures the tiny
+    amounts of albumin that the body begins to release into the urine several years before
+    significant kidney damage becomes apparent. Albumin is a protein that is produced in the liver
+    and is present in high concentrations in the blood. When the kidneys are functioning properly,
+    virtually no albumin is present in the urine. Damaged or diseased kidneys lose their ability to
+    filter proteins out of the urine. Patients who have consistently detectible amounts of albumin in
+    their urine (known as microalbuminuria) have an increased risk of developing progressive
+    kidney failure and cardiovascular disease. Microalbumin measurements can be obtained using
+    urine collected over a 24-hour period, for a specified amount of time (e.g., 4 hours or overnight),
+    or randomly (spot). When a creatinine measurement is performed along with a random
+    microalbumin, the result is the ACR.
+    Creatinine, a byproduct of muscle metabolism, is normally excreted into the urine on a
+    consistent basis. Its level in the urine is relatively stable. Since the concentration (or dilution) of
+    urine varies throughout the day, this property of creatinine allows its measurement to be used
+    as a corrective factor in random/spot urine samples. When a creatinine measurement is
+    performed along with a random microalbumin, the result is the ACR (which the American
+    Diabetes Association states is the preferred test for screening for microalbuminuria).
+    Related Tests: Albumin; Creatinine; Microalbumin
+    Approximate Reference Range: Normal is < 30 mcg albumin/mg creatinine; microalbuminuria
+    = 30 - 299 mcg albumin/mg creatinine (spot or random urine sample)
+    Comments: Elevated results may also be caused by vigorous exercise, blood in the urine,
+    urinary tract infection, dehydration, and some drugs.
+    Test Method Variance:
+    Other:
 
 
 ### U\_CREAT (Creatinine in Urine)
@@ -2541,6 +3255,11 @@ creatinine is monitored. Other drugs, such as cephalosprins (cefoxitin), may inc
 concentration without reflecting kidney damage.
 Test Method Variance:
 Other:
+
+
+### U\_HEME\_DIP (Hemoglobin in urine by dipstick)
+
+***NEEDS TO BE UPDATED***
 
 
 ### U\_MIC\_ALB (Microalbumin [or albumin] in urine)
@@ -2647,115 +3366,155 @@ Test Method Variance:
 Other:
 
 
-### U\_PROT (Protein in urine; total protein in urine)
+### U\_PCR24 (24-hour Protein to creatinine ratio in urine)
 
-Common Name: Urine Protein
-Long Name: Protein in urine; total protein in urine
-Test Type: U\_PROT
-Panels: N/A
-Equivalent Tests: This TEST\_TYPE should only be used for spot or random urine protein
-determinations.
-Not Equivalent Tests: 24-Hour Urine Protein; Urine Protein to Creatinine Ratio; U\_PCR
-Indications: To detect excessive protein escaping into the urine (proteinuria), to assist in
-evaluating and monitoring kidney function, and to detect kidney damage. In diagnosing the
-cause of proteinuria, a serum protein electrophoresis may also be ordered to analyze the
-proteins in the blood.
-Description: Protein is not normally found in the urine, and urine protein tests detect and/or
-measure protein being excreted in the urine. When the kidneys are functioning normally, they
-retain or reabsorb filtered proteins and return them to the blood. However, if the kidneys are
-damaged, they become less effective at filtering, and detectible amounts of protein begin to find
-their way into the urine. Often, it is the smaller albumin molecules that are detected first. If the
-damage continues, the amount of protein in the urine increases, and globulins may also begin to
-be lost.
-Proteinuria is frequently seen in chronic diseases, such as diabetes and hypertension, with
-increasing amounts of protein in the urine reflecting increasing kidney damage. With early
-kidney damage, the patient is often asymptomatic. As damage progresses, or if protein loss is
-severe, the patient may have symptoms such as edema, shortness of breath, nausea, and
-fatigue. Excess protein production, such as may be seen with multiple myeloma, can also lead
-to proteinuria.
-The presence of albumin in the urine is a sensitive indicator of kidney disease in patients with
-diabetes and with hypertension. Therefore, in some situations the doctor may test specifically
-for albumin in the urine, as opposed to total urine protein.
-Related Tests: Urinalysis; Albumin; Microalbumin; Protein Electrophoresis; Total Protein;
-U\_PCR
-Approximate Reference Range: <8mg/dL
-Comments:
-Test Method Variance:
-Other:
+***NEEDS TO BE UPDATED***
 
-
-### U\_PROT\_24 (24-hour urine protein; total protein in urine)
-
-Common Name: 24-Hour Urine Protein
-Long Name: 24-hour urine protein; total protein in urine
-Test Type: U\_PROT\_24
-Panels: N/A
-Equivalent Tests: This TEST\_TYPE should only be used for 24-hour urine collections for
-protein determinations.
-Not Equivalent Tests: Urine Total Protein; U\_PCR; U\_PROT
-Indications: To detect excessive protein escaping into the urine, to help evaluate and monitor
-kidney function, and to detect kidney damage. Since the dipstick protein test primarily measures
-albumin, a follow-up 24-hour urine protein test may be used to determine if proteins other than
-albumin are being released.
-Description: Protein is not normally found in the urine, and urine protein tests detect and/or
-measure protein being excreted in the urine. The quantity of protein in a 24-hour urine sample
-will be measured and reported as the amount of protein excreted per 24 hours.
-Proteinuria is frequently seen in chronic diseases, such as diabetes and hypertension, with
-increasing amounts of protein in the urine reflecting increasing kidney damage. With early
-kidney damage, the patient is often asymptomatic. As damage progresses, or if protein loss is
-severe, the patient may have symptoms such as edema, shortness of breath, nausea, and
-fatigue. Excess protein production, such as may be seen with multiple myeloma, can also lead
-to proteinuria.
-Either a 24-hour urine protein may be used to monitor a patient with known kidney disease or
-damage.
-Related Tests: Urinalysis; Albumin; Microalbumin; Protein Electrophoresis; Total Protein;
-U\_PCR; U\_PROT
-Approximate Reference Range: < 150mg/day (in healthy individuals)
-Comments: A 24-hour urine sample gives the protein excretion rate over 24 hours and is
-accurate only if all of the urine is collected.
-Test Method Variance:
-Other:
-
-
-### U\_PROT\_DIP (Protein in Urine by Dipstick, qualitative)
-
-Common Name: Urine Protein Dipstick
-Long Name: Protein in Urine by Dipstick, qualitative
-Test Type: U\_PROT\_DIP
+Common Name: 24 hour Urine Protein to Creatinine Ratio
+Long Name: 24 hour Protein to creatinine ratio in urine
+Test Type: U\_PCR24
 Panels: N/A
 Equivalent Tests: N/A
-Not Equivalent Tests: 24-Hour Urine Protein; U\_PCR; ACR
-Indications: To detect excessive protein escaping into the urine, to help evaluate and monitor
-kidney function, and to detect kidney damage.
-Description: Protein is not normally found in the urine, and urine protein dipstick test detects
-protein being excreted in the urine. A protein “dipstick” may be performed as part of a urinalysis,
-generally on a random urine sample. A dipstick urine protein is measured frequently as a
-screening test, when a urinalysis is performed. This may be done as part of a routine physical, a
-pregnancy workup, when a urinary tract infection is suspected, as part of a hospital admission,
-or when evaluating kidney function. It may also be done when a previous dipstick has been
-positive for protein to see if the protein excretion persists. Since the dipstick primarily measures
-albumin, a follow-up 24-hour urine protein test may be ordered to determine if proteins other
-than albumin are being released. A dipstick urine protein on a random urine sample may be
-used as a screen for kidney involvement when a patient is taking a medication that may
-potentially affect kidney function. Proteinuria is frequently seen in chronic diseases, such as
-diabetes and hypertension, with increasing amounts of protein in the urine reflecting increasing
-kidney damage. With early kidney damage, the patient is often asymptomatic. As damage
-progresses, or if protein loss is severe, the patient may have symptoms such as edema,
-shortness of breath, nausea, and fatigue. Excess protein production, such as may be seen with
-multiple myeloma, can also lead to proteinuria.
-Related Tests: Urinalysis; Albumin; Microalbumin; Protein Electrophoresis; Total Protein
+Not Equivalent Tests: 
+Indications: To evaluate and monitor kidney function, and to detect kidney damage
+Description: Protein is not normally found in the urine, and urine protein tests detect and/or
+measure protein being excreted in the urine. U\_PCR is one of several different urine protein
+tests, and involves the amount of protein in a random urine sample measured along with urine
+creatinine and reported as the ratio of urine protein to creatinine. Creatinine, a byproduct of
+muscle metabolism, is normally excreted into the urine at a constant rate. When both a urine
+creatinine and a random urine protein test are performed, the resulting U\_PCR approaches the
+accuracy of the 24-hour urine protein test. Since saving all of the urine for a 24-hour period can
+be cumbersome for adults and difficult for infants and children, U\_PCR may be substituted for a
+24-hour urine protein sample.
+U\_PCR is used when a child shows evidence of significant and persistent protein in their urine
+with the dipstick urine test. It is also utilized to monitor kidney function over time on a patient
+with known kidney disease or damage. A U\_CPR may used as a screen for kidney involvement
+when a patient is taking a medication that may potentially affect kidney function.
+Related Tests: Urinalysis; Albumin; Microalbumin; Protein Electrophoresis; Total Protein; ACR
 Approximate Reference Range: zero to trace
-Comments: A positive dipstick protein may be elevated due to other sources of protein, such as
-blood, semen, or vaginal secretions in the urine. Since it measures primarily albumin, the
-dipstick may occasionally be normal when significant quantities of other proteins are present in
-the urine. Children, and sometimes adults, occasionally have some degree of transient
-proteinuria without apparent kidney dysfunction and may have a higher excretion of protein into
-their urine during the day than at night.
+Comments: The protein to creatinine ratio is more of a snapshot of how much protein is in the
+urine at the time the sample is collected. Children, and sometimes adults, occasionally have
+some degree of transient proteinuria without apparent kidney dysfunction and may have a
+higher excretion of protein into their urine during the day than at night. Monitoring by U\_PCR at
+intervals is conducted to determine if the amount of proteinuria changes over time.
 Test Method Variance:
 Other:
 
 
-### Uric Acid
+### (U\_PROT) Protein to Creatinine Ratio in Urine Test Types
+
+1.  U\_PROT (Protein in urine; total protein in urine)
+
+    Common Name: Urine Protein
+    Long Name: Protein in urine; total protein in urine
+    Test Type: U\_PROT
+    Panels: N/A
+    Equivalent Tests: This TEST\_TYPE should only be used for spot or random urine protein
+    determinations.
+    Not Equivalent Tests: 24-Hour Urine Protein; Urine Protein to Creatinine Ratio; U\_PCR
+    Indications: To detect excessive protein escaping into the urine (proteinuria), to assist in
+    evaluating and monitoring kidney function, and to detect kidney damage. In diagnosing the
+    cause of proteinuria, a serum protein electrophoresis may also be ordered to analyze the
+    proteins in the blood.
+    Description: Protein is not normally found in the urine, and urine protein tests detect and/or
+    measure protein being excreted in the urine. When the kidneys are functioning normally, they
+    retain or reabsorb filtered proteins and return them to the blood. However, if the kidneys are
+    damaged, they become less effective at filtering, and detectible amounts of protein begin to find
+    their way into the urine. Often, it is the smaller albumin molecules that are detected first. If the
+    damage continues, the amount of protein in the urine increases, and globulins may also begin to
+    be lost.
+    Proteinuria is frequently seen in chronic diseases, such as diabetes and hypertension, with
+    increasing amounts of protein in the urine reflecting increasing kidney damage. With early
+    kidney damage, the patient is often asymptomatic. As damage progresses, or if protein loss is
+    severe, the patient may have symptoms such as edema, shortness of breath, nausea, and
+    fatigue. Excess protein production, such as may be seen with multiple myeloma, can also lead
+    to proteinuria.
+    The presence of albumin in the urine is a sensitive indicator of kidney disease in patients with
+    diabetes and with hypertension. Therefore, in some situations the doctor may test specifically
+    for albumin in the urine, as opposed to total urine protein.
+    Related Tests: Urinalysis; Albumin; Microalbumin; Protein Electrophoresis; Total Protein;
+    U\_PCR
+    Approximate Reference Range: <8mg/dL
+    Comments:
+    Test Method Variance:
+    Other:
+
+2.  U\_PROT\_24 (24-hour urine protein; total protein in urine)
+
+    Common Name: 24-Hour Urine Protein
+    Long Name: 24-hour urine protein; total protein in urine
+    Test Type: U\_PROT\_24
+    Panels: N/A
+    Equivalent Tests: This TEST\_TYPE should only be used for 24-hour urine collections for
+    protein determinations.
+    Not Equivalent Tests: Urine Total Protein; U\_PCR; U\_PROT
+    Indications: To detect excessive protein escaping into the urine, to help evaluate and monitor
+    kidney function, and to detect kidney damage. Since the dipstick protein test primarily measures
+    albumin, a follow-up 24-hour urine protein test may be used to determine if proteins other than
+    albumin are being released.
+    Description: Protein is not normally found in the urine, and urine protein tests detect and/or
+    measure protein being excreted in the urine. The quantity of protein in a 24-hour urine sample
+    will be measured and reported as the amount of protein excreted per 24 hours.
+    Proteinuria is frequently seen in chronic diseases, such as diabetes and hypertension, with
+    increasing amounts of protein in the urine reflecting increasing kidney damage. With early
+    kidney damage, the patient is often asymptomatic. As damage progresses, or if protein loss is
+    severe, the patient may have symptoms such as edema, shortness of breath, nausea, and
+    fatigue. Excess protein production, such as may be seen with multiple myeloma, can also lead
+    to proteinuria.
+    Either a 24-hour urine protein may be used to monitor a patient with known kidney disease or
+    damage.
+    Related Tests: Urinalysis; Albumin; Microalbumin; Protein Electrophoresis; Total Protein;
+    U\_PCR; U\_PROT
+    Approximate Reference Range: < 150mg/day (in healthy individuals)
+    Comments: A 24-hour urine sample gives the protein excretion rate over 24 hours and is
+    accurate only if all of the urine is collected.
+    Test Method Variance:
+    Other:
+
+3.  U\_PROT\_DIP (Protein in Urine by Dipstick, qualitative)
+
+    Common Name: Urine Protein Dipstick
+    Long Name: Protein in Urine by Dipstick, qualitative
+    Test Type: U\_PROT\_DIP
+    Panels: N/A
+    Equivalent Tests: N/A
+    Not Equivalent Tests: 24-Hour Urine Protein; U\_PCR; ACR
+    Indications: To detect excessive protein escaping into the urine, to help evaluate and monitor
+    kidney function, and to detect kidney damage.
+    Description: Protein is not normally found in the urine, and urine protein dipstick test detects
+    protein being excreted in the urine. A protein “dipstick” may be performed as part of a urinalysis,
+    generally on a random urine sample. A dipstick urine protein is measured frequently as a
+    screening test, when a urinalysis is performed. This may be done as part of a routine physical, a
+    pregnancy workup, when a urinary tract infection is suspected, as part of a hospital admission,
+    or when evaluating kidney function. It may also be done when a previous dipstick has been
+    positive for protein to see if the protein excretion persists. Since the dipstick primarily measures
+    albumin, a follow-up 24-hour urine protein test may be ordered to determine if proteins other
+    than albumin are being released. A dipstick urine protein on a random urine sample may be
+    used as a screen for kidney involvement when a patient is taking a medication that may
+    potentially affect kidney function. Proteinuria is frequently seen in chronic diseases, such as
+    diabetes and hypertension, with increasing amounts of protein in the urine reflecting increasing
+    kidney damage. With early kidney damage, the patient is often asymptomatic. As damage
+    progresses, or if protein loss is severe, the patient may have symptoms such as edema,
+    shortness of breath, nausea, and fatigue. Excess protein production, such as may be seen with
+    multiple myeloma, can also lead to proteinuria.
+    Related Tests: Urinalysis; Albumin; Microalbumin; Protein Electrophoresis; Total Protein
+    Approximate Reference Range: zero to trace
+    Comments: A positive dipstick protein may be elevated due to other sources of protein, such as
+    blood, semen, or vaginal secretions in the urine. Since it measures primarily albumin, the
+    dipstick may occasionally be normal when significant quantities of other proteins are present in
+    the urine. Children, and sometimes adults, occasionally have some degree of transient
+    proteinuria without apparent kidney dysfunction and may have a higher excretion of protein into
+    their urine during the day than at night.
+    Test Method Variance:
+    Other:
+
+
+### U\_RBC\_DIP (Erythrocytes [red blood cells] in urine by dipstick)
+
+***NEEDS TO BE UPDATED***
+
+
+### URIC\_ACID (Urate or Uric Acid in serum or plasma)
 
 Common Name: Uric acid
 Long Name: Urate; Uric acid in serum or plasma
@@ -2844,6 +3603,63 @@ Other:
 ## Hematology and Coagulation
 
 
+### ANC (Absolute neutrophil count)
+
+
+### (BASO) Basophil Test Types
+
+1.  BASO\_C\_A (Basophil number, automated count)
+
+    ***NEEDS TO BE UPDATED***
+
+2.  BASO\_C\_M (Basophil number, manual count)
+
+    ***NEEDS TO BE UPDATED***
+
+3.  BASO\_C (Basophil number, count method not stated)
+
+    ***NEEDS TO BE UPDATED***
+
+4.  BASO\_P\_A (Basophil percent, automated)
+
+    ***NEEDS TO BE UPDATED***
+
+5.  BASO\_P\_M (Basophil number, manual)
+
+    ***NEEDS TO BE UPDATED***
+
+6.  BASO\_P (Basophil number, method not stated)
+
+    ***NEEDS TO BE UPDATED***
+
+
+### (EOS) Eosinophil Test Types
+
+1.  EOS\_C\_A (Eosinophil number, automated count)
+
+    ***NEEDS TO BE UPDATED***
+
+2.  EOS\_C\_M (Eosinophil number, manual count)
+
+    ***NEEDS TO BE UPDATED***
+
+3.  EOS\_C (Eosinophil number, count method not stated)
+
+    ***NEEDS TO BE UPDATED***
+
+4.  EOS\_P\_A (Eosinophil percent, automated)
+
+    ***NEEDS TO BE UPDATED***
+
+5.  EOS\_P\_M (Eosinophil percent, manual)
+
+    ***NEEDS TO BE UPDATED***
+
+6.  EOS\_P (Eosinophil percent, method not stated)
+
+    ***NEEDS TO BE UPDATED***
+
+
 ### FERRITIN (Ferritin in blood)
 
 Common Name: Ferritin
@@ -2870,33 +3686,9 @@ Test Method Variance: Results can also be reported as ng/mL
 Other:
 
 
-### Hemoglobin A1c (Glycated Hemoglobin)
+### FIBRINOGEN (Fibrinogen activity in platelet poor plasma)
 
-Common Name: Hemoglobin A1c
-Long Name: Hemoglobin A1C
-Test Type: HGBA1C
-Panels: N/A
-Equivalent Tests: N/A
-Not Equivalent Tests: Do not include absolute glycated hemoglobins (reported in g/dL), total
-hemoglobin, variant hemoglobins such as S (sickle), F (fetal), A2, sulfhemoglobin,
-methemoglobin, oxy-(O2), carboxy-(CO), reduced-(H), or hemoglobin in other body fluids such
-as urine or serous fluids.
-Indications: Indicates average blood glucose concentration over previous ~3 month time
-period. Recently suggested for screening for diabletes.
-Description: Glucose is covalently bound to hemoglobin during translation in a rate
-proportional to glucose concentration. Testing by a chromatography method can yield falsely
-elevated HBGA1C in people who have elevated hemoglobin variants fractions ("fast
-hemoglobins"). HBGA1C testing by immunochemical methods is not affected by "fast
-hemoglobins."
-Related Tests: Fructosamine test measures glycosylation of other plasma proteins with the
-glycated albumin being the major species. Fructosamine test is useful to validate questionable
-HBGA1C or when HBGA1C is not reliable due to interfering factors.
-Approximate Reference Range (Each site will have slight variations): ~ 4-6%. American
-Diabetis Association recommends values be <7%
-Comments: High pressure liquid or column chromatography and immunoassay test methods
-are commonly used.
-Test Method Variance:
-Other:
+***NEEDS TO BE UPDATED***
 
 
 ### HGB (Hemoglobin)
@@ -2996,7 +3788,169 @@ Test Method Variance: &#x2013;
 Other: &#x2013;
 
 
-### Platelets
+### (LYMPH) Lymphocyte Test Types
+
+1.  LYMPH\_C\_A (Lymphocyte number, automated count)
+
+    ***NEEDS TO BE UPDATED***
+
+2.  LYMPH\_C\_M (Lymphocyte number, manual count)
+
+    ***NEEDS TO BE UPDATED***
+
+3.  LYMPH\_C (Lymphocyte number, count method unknown)
+
+    ***NEEDS TO BE UPDATED***
+
+4.  LYMPH\_P\_A (Lymphocyte percent, automated)
+
+    ***NEEDS TO BE UPDATED***
+
+5.  LYMPH\_P\_M (Lymphocyte percent, manual)
+
+    ***NEEDS TO BE UPDATED***
+
+6.  LYMPH\_P (Lymphocyte percent, method unknown)
+
+    ***NEEDS TO BE UPDATED***
+
+
+### (MONO) Monocyte Test Types
+
+1.  MONO\_C\_A (Monocyte number, automated count)
+
+    ***NEEDS TO BE UPDATED***
+
+2.  MONO\_C\_M (Monocyte number, manual count)
+
+    ***NEEDS TO BE UPDATED***
+
+3.  MONO\_C (Monocyte number, count method unknown)
+
+    ***NEEDS TO BE UPDATED***
+
+4.  MONO\_P\_A (Monocyte percent, automated)
+
+    ***NEEDS TO BE UPDATED***
+
+5.  MONO\_P\_M (Monocyte percent, manual)
+
+    ***NEEDS TO BE UPDATED***
+
+6.  MONO\_P (Monocyte percent, method unknown)
+
+    ***NEEDS TO BE UPDATED***
+
+
+### (NTBAND) Band Neutrophil Test Types
+
+1.  NTBAND\_C\_A (Band neutrophil number, automated count)
+
+    ***NEEDS TO BE UPDATED***
+
+2.  NTBAND\_C\_M (Band neutrophil number, manual count)
+
+    ***NEEDS TO BE UPDATED***
+
+3.  NTBAND\_C (Band neutrophil number, count method unknown)
+
+    ***NEEDS TO BE UPDATED***
+
+4.  NTBAND\_P\_A (Band neutrophil percent, automated)
+
+    ***NEEDS TO BE UPDATED***
+
+5.  NTBAND\_P\_M (Band neutrophil percent, manual)
+
+    ***NEEDS TO BE UPDATED***
+
+6.  NTBAND\_P (Band neutrophil percent, method unknown)
+
+    ***NEEDS TO BE UPDATED***
+
+
+### (NTHYP) Hypersegmented Neutrophil Test Types
+
+1.  NTHYP\_C\_A (Hypersegmented neutrophil number, automated count)
+
+    ***NEEDS TO BE UPDATED***
+
+2.  NTHYP\_C\_M (Hypersegmented neutrophil number, manual count)
+
+    ***NEEDS TO BE UPDATED***
+
+3.  NTHYP\_C (Hypersegmented neutrophil number, count method unknown)
+
+    ***NEEDS TO BE UPDATED***
+
+4.  NTHYP\_P\_A (Hypersegmented neutrophil percent, automated)
+
+    ***NEEDS TO BE UPDATED***
+
+5.  NTHYP\_P\_M (Hypersegmented neutrophil percent, manual)
+
+    ***NEEDS TO BE UPDATED***
+
+6.  NTHYP\_P (Hypersegmented neutrophil percent, method unknown)
+
+    ***NEEDS TO BE UPDATED***
+
+
+### (NTIMMATURE) Immature Neutrophil Test Types
+
+1.  NTIMMATURE\_C\_A (Immature neutrophil number, automated count)
+
+    ***NEEDS TO BE UPDATED***
+
+2.  NTIMMATURE\_C\_M (Immature neutrophil number, manual count)
+
+    ***NEEDS TO BE UPDATED***
+
+3.  NTIMMATURE\_C (Immature neutrophil number, count method unknown)
+
+    ***NEEDS TO BE UPDATED***
+
+4.  NTIMMATURE\_P\_A (Immature neutrophil percent, automated)
+
+    ***NEEDS TO BE UPDATED***
+
+5.  NTIMMATURE\_P\_M (Immature neutrophil percent, manual)
+
+    ***NEEDS TO BE UPDATED***
+
+6.  NTIMMATURE\_P (Immature neutrophil percent, method unknown)
+
+    ***NEEDS TO BE UPDATED***
+
+
+### (NTSEG) Segmented Neutrophil Test Types
+
+1.  NTSEG\_C\_A (Segmented neutrophil number, automated count)
+
+    ***NEEDS TO BE UPDATED***
+
+2.  NTSEG\_C\_M (Segmented neutrophil number, manual count)
+
+    ***NEEDS TO BE UPDATED***
+
+3.  NTSEG\_C (Segmented neutrophil number, count method unknown)
+
+    ***NEEDS TO BE UPDATED***
+
+4.  NTSEG\_P\_A (Segmented neutrophil percent, automated)
+
+    ***NEEDS TO BE UPDATED***
+
+5.  NTSEG\_P\_M (Segmented neutrophil percent, manual)
+
+    ***NEEDS TO BE UPDATED***
+
+6.  NTSEG\_P (Segmented neutrophil percent, method unknown)
+
+    ***NEEDS TO BE UPDATED***
+
+
+### PLATELETS (Platelet count in blood)
 
 Common Name: Platelet count; thrombocyte count; PLT
 Long Name: Platelets
@@ -3125,527 +4079,1511 @@ Test Method Variance: &#x2013;
 Other: &#x2013;
 
 
-### WBC (Total White Blood Cell Count)
+### (WBC) White Blood Cell Test Types
 
-Common Name: WBC count; Leukocyte count; White count
-Long Name: Total white blood cell count
-Test Type: WBC
-Panels: Complete blood count
-Equivalent Tests: &#x2013;
-Not Equivalent Tests: Tests of individual types of WBCs (neutrophils, lymphocytes,
-monocytes, eosinophils, or basophils).
-Indications: To assist in determining the presence of an infection or a disease (e.g., leukemia)
-that affects the production of white blood cells; to monitor treatment and bone marrow function.
-Description: The white blood cell (WBC) count is used to evaluate the number of white blood
-cells in blood. White blood cells are made in the bone marrow and protect the body against
-infection as well as aiding in the immune response. If there is an infection, white blood cells will
-attack and destroy the pathogen causing the infection.
-Related Tests: Blood smear; tests of individual types of WBCs (neutrophils, lymphocytes,
-monocytes, eosinophils, or basophils). One component of the complete blood count (CBC);
-(Other components of the CBC include hemoglobin, red blood cells, hematocrit, and platelets).
-Approximate Reference Range (Each site will have slight variations): 4,500 – 10,000
-WBCs per microliter (mcl or μL or 10-6/Liter) of blood
-Comments: White blood cells are also called leukocytes. Conditions that inhibit WBC
-proliferation and/or weaken the immune system (e.g., HIV infection, chemotherapy) cause a
-decrease in the number of WBCs.
-An elevated number of WBCs is called leukocytosis. A decreased WBC count is called
-leukopenia. On average, infants have higher WBC counts than do adults. Some drugs and
-smoking can affect the WBC count.
-Test Method Variance: &#x2013;
-Other: &#x2013;
+1.  WBC (Total White Blood Cell Count)
 
+    Common Name: WBC count; Leukocyte count; White count
+    Long Name: Total white blood cell count
+    Test Type: WBC
+    Panels: Complete blood count
+    Equivalent Tests: &#x2013;
+    Not Equivalent Tests: Tests of individual types of WBCs (neutrophils, lymphocytes,
+    monocytes, eosinophils, or basophils).
+    Indications: To assist in determining the presence of an infection or a disease (e.g., leukemia)
+    that affects the production of white blood cells; to monitor treatment and bone marrow function.
+    Description: The white blood cell (WBC) count is used to evaluate the number of white blood
+    cells in blood. White blood cells are made in the bone marrow and protect the body against
+    infection as well as aiding in the immune response. If there is an infection, white blood cells will
+    attack and destroy the pathogen causing the infection.
+    Related Tests: Blood smear; tests of individual types of WBCs (neutrophils, lymphocytes,
+    monocytes, eosinophils, or basophils). One component of the complete blood count (CBC);
+    (Other components of the CBC include hemoglobin, red blood cells, hematocrit, and platelets).
+    Approximate Reference Range (Each site will have slight variations): 4,500 – 10,000
+    WBCs per microliter (mcl or μL or 10-6/Liter) of blood
+    Comments: White blood cells are also called leukocytes. Conditions that inhibit WBC
+    proliferation and/or weaken the immune system (e.g., HIV infection, chemotherapy) cause a
+    decrease in the number of WBCs.
+    An elevated number of WBCs is called leukocytosis. A decreased WBC count is called
+    leukopenia. On average, infants have higher WBC counts than do adults. Some drugs and
+    smoking can affect the WBC count.
+    Test Method Variance: &#x2013;
+    Other: &#x2013;
 
-### WBC\_A (White Blood Cell, automated count)
+2.  WBC\_A (White Blood Cell, automated count)
 
-Common Name: WBC count; Leukocyte count; White count
-Long Name: Total white blood cell count
-Test Type: WBC
-Panels: Complete blood count
-Equivalent Tests: &#x2013;
-Not Equivalent Tests: Tests of individual types of WBCs (neutrophils, lymphocytes,
-monocytes, eosinophils, or basophils).
-Indications: To assist in determining the presence of an infection or a disease (e.g., leukemia)
-that affects the production of white blood cells; to monitor treatment and bone marrow function.
-Description: The white blood cell (WBC) count is used to evaluate the number of white blood
-cells in blood. White blood cells are made in the bone marrow and protect the body against
-infection as well as aiding in the immune response. If there is an infection, white blood cells will
-attack and destroy the pathogen causing the infection.
-Related Tests: Blood smear; tests of individual types of WBCs (neutrophils, lymphocytes,
-monocytes, eosinophils, or basophils). One component of the complete blood count (CBC);
-(Other components of the CBC include hemoglobin, red blood cells, hematocrit, and platelets).
-Approximate Reference Range (Each site will have slight variations): 4,500 – 10,000
-WBCs per microliter (mcl or μL or 10-6/Liter) of blood
-Comments: White blood cells are also called leukocytes. Conditions that inhibit WBC
-proliferation and/or weaken the immune system (e.g., HIV infection, chemotherapy) cause a
-decrease in the number of WBCs.
-An elevated number of WBCs is called leukocytosis. A decreased WBC count is called
-leukopenia. On average, infants have higher WBC counts than do adults. Some drugs and
-smoking can affect the WBC count.
-Test Method Variance: &#x2013;
-Other: &#x2013;
+    Common Name: WBC count; Leukocyte count; White count
+    Long Name: Total white blood cell count
+    Test Type: WBC
+    Panels: Complete blood count
+    Equivalent Tests: &#x2013;
+    Not Equivalent Tests: Tests of individual types of WBCs (neutrophils, lymphocytes,
+    monocytes, eosinophils, or basophils).
+    Indications: To assist in determining the presence of an infection or a disease (e.g., leukemia)
+    that affects the production of white blood cells; to monitor treatment and bone marrow function.
+    Description: The white blood cell (WBC) count is used to evaluate the number of white blood
+    cells in blood. White blood cells are made in the bone marrow and protect the body against
+    infection as well as aiding in the immune response. If there is an infection, white blood cells will
+    attack and destroy the pathogen causing the infection.
+    Related Tests: Blood smear; tests of individual types of WBCs (neutrophils, lymphocytes,
+    monocytes, eosinophils, or basophils). One component of the complete blood count (CBC);
+    (Other components of the CBC include hemoglobin, red blood cells, hematocrit, and platelets).
+    Approximate Reference Range (Each site will have slight variations): 4,500 – 10,000
+    WBCs per microliter (mcl or μL or 10-6/Liter) of blood
+    Comments: White blood cells are also called leukocytes. Conditions that inhibit WBC
+    proliferation and/or weaken the immune system (e.g., HIV infection, chemotherapy) cause a
+    decrease in the number of WBCs.
+    An elevated number of WBCs is called leukocytosis. A decreased WBC count is called
+    leukopenia. On average, infants have higher WBC counts than do adults. Some drugs and
+    smoking can affect the WBC count.
+    Test Method Variance: &#x2013;
+    Other: &#x2013;
 
+3.  WBC\_COR (White blood cell total, corrected for nucleated red blood cells)
 
-### WBC\_COR (White blood cell total, corrected for nucleated red blood cells)
+    Common Name: WBC count; Leukocyte count; White count
+    Long Name: Total white blood cell count
+    Test Type: WBC
+    Panels: Complete blood count
+    Equivalent Tests: &#x2013;
+    Not Equivalent Tests: Tests of individual types of WBCs (neutrophils, lymphocytes,
+    monocytes, eosinophils, or basophils).
+    Indications: To assist in determining the presence of an infection or a disease (e.g., leukemia)
+    that affects the production of white blood cells; to monitor treatment and bone marrow function.
+    Description: The white blood cell (WBC) count is used to evaluate the number of white blood
+    cells in blood. White blood cells are made in the bone marrow and protect the body against
+    infection as well as aiding in the immune response. If there is an infection, white blood cells will
+    attack and destroy the pathogen causing the infection.
+    Related Tests: Blood smear; tests of individual types of WBCs (neutrophils, lymphocytes,
+    monocytes, eosinophils, or basophils). One component of the complete blood count (CBC);
+    (Other components of the CBC include hemoglobin, red blood cells, hematocrit, and platelets).
+    Approximate Reference Range (Each site will have slight variations): 4,500 – 10,000
+    WBCs per microliter (mcl or μL or 10-6/Liter) of blood
+    Comments: White blood cells are also called leukocytes. Conditions that inhibit WBC
+    proliferation and/or weaken the immune system (e.g., HIV infection, chemotherapy) cause a
+    decrease in the number of WBCs.
+    An elevated number of WBCs is called leukocytosis. A decreased WBC count is called
+    leukopenia. On average, infants have higher WBC counts than do adults. Some drugs and
+    smoking can affect the WBC count.
+    Test Method Variance: &#x2013;
+    Other: &#x2013;
 
-Common Name: WBC count; Leukocyte count; White count
-Long Name: Total white blood cell count
-Test Type: WBC
-Panels: Complete blood count
-Equivalent Tests: &#x2013;
-Not Equivalent Tests: Tests of individual types of WBCs (neutrophils, lymphocytes,
-monocytes, eosinophils, or basophils).
-Indications: To assist in determining the presence of an infection or a disease (e.g., leukemia)
-that affects the production of white blood cells; to monitor treatment and bone marrow function.
-Description: The white blood cell (WBC) count is used to evaluate the number of white blood
-cells in blood. White blood cells are made in the bone marrow and protect the body against
-infection as well as aiding in the immune response. If there is an infection, white blood cells will
-attack and destroy the pathogen causing the infection.
-Related Tests: Blood smear; tests of individual types of WBCs (neutrophils, lymphocytes,
-monocytes, eosinophils, or basophils). One component of the complete blood count (CBC);
-(Other components of the CBC include hemoglobin, red blood cells, hematocrit, and platelets).
-Approximate Reference Range (Each site will have slight variations): 4,500 – 10,000
-WBCs per microliter (mcl or μL or 10-6/Liter) of blood
-Comments: White blood cells are also called leukocytes. Conditions that inhibit WBC
-proliferation and/or weaken the immune system (e.g., HIV infection, chemotherapy) cause a
-decrease in the number of WBCs.
-An elevated number of WBCs is called leukocytosis. A decreased WBC count is called
-leukopenia. On average, infants have higher WBC counts than do adults. Some drugs and
-smoking can affect the WBC count.
-Test Method Variance: &#x2013;
-Other: &#x2013;
+4.  WBC\_COR\_A (White blood cell total, corrected for nucleated red blood cells)
 
+    Common Name: WBC count; Leukocyte count; White count
+    Long Name: Total white blood cell count
+    Test Type: WBC
+    Panels: Complete blood count
+    Equivalent Tests: &#x2013;
+    Not Equivalent Tests: Tests of individual types of WBCs (neutrophils, lymphocytes,
+    monocytes, eosinophils, or basophils).
+    Indications: To assist in determining the presence of an infection or a disease (e.g., leukemia)
+    that affects the production of white blood cells; to monitor treatment and bone marrow function.
+    Description: The white blood cell (WBC) count is used to evaluate the number of white blood
+    cells in blood. White blood cells are made in the bone marrow and protect the body against
+    infection as well as aiding in the immune response. If there is an infection, white blood cells will
+    attack and destroy the pathogen causing the infection.
+    Related Tests: Blood smear; tests of individual types of WBCs (neutrophils, lymphocytes,
+    monocytes, eosinophils, or basophils). One component of the complete blood count (CBC);
+    (Other components of the CBC include hemoglobin, red blood cells, hematocrit, and platelets).
+    Approximate Reference Range (Each site will have slight variations): 4,500 – 10,000
+    WBCs per microliter (mcl or μL or 10-6/Liter) of blood
+    Comments: White blood cells are also called leukocytes. Conditions that inhibit WBC
+    proliferation and/or weaken the immune system (e.g., HIV infection, chemotherapy) cause a
+    decrease in the number of WBCs.
+    An elevated number of WBCs is called leukocytosis. A decreased WBC count is called
+    leukopenia. On average, infants have higher WBC counts than do adults. Some drugs and
+    smoking can affect the WBC count.
+    Test Method Variance: &#x2013;
+    Other: &#x2013;
 
-### WBC\_COR\_A (White blood cell total, corrected for nucleated red blood cells)
+5.  WBC\_M (White Blood Cell Count, manual count)
 
-Common Name: WBC count; Leukocyte count; White count
-Long Name: Total white blood cell count
-Test Type: WBC
-Panels: Complete blood count
-Equivalent Tests: &#x2013;
-Not Equivalent Tests: Tests of individual types of WBCs (neutrophils, lymphocytes,
-monocytes, eosinophils, or basophils).
-Indications: To assist in determining the presence of an infection or a disease (e.g., leukemia)
-that affects the production of white blood cells; to monitor treatment and bone marrow function.
-Description: The white blood cell (WBC) count is used to evaluate the number of white blood
-cells in blood. White blood cells are made in the bone marrow and protect the body against
-infection as well as aiding in the immune response. If there is an infection, white blood cells will
-attack and destroy the pathogen causing the infection.
-Related Tests: Blood smear; tests of individual types of WBCs (neutrophils, lymphocytes,
-monocytes, eosinophils, or basophils). One component of the complete blood count (CBC);
-(Other components of the CBC include hemoglobin, red blood cells, hematocrit, and platelets).
-Approximate Reference Range (Each site will have slight variations): 4,500 – 10,000
-WBCs per microliter (mcl or μL or 10-6/Liter) of blood
-Comments: White blood cells are also called leukocytes. Conditions that inhibit WBC
-proliferation and/or weaken the immune system (e.g., HIV infection, chemotherapy) cause a
-decrease in the number of WBCs.
-An elevated number of WBCs is called leukocytosis. A decreased WBC count is called
-leukopenia. On average, infants have higher WBC counts than do adults. Some drugs and
-smoking can affect the WBC count.
-Test Method Variance: &#x2013;
-Other: &#x2013;
+    Common Name: WBC count; Leukocyte count; White count
+    Long Name: Total white blood cell count
+    Test Type: WBC
+    Panels: Complete blood count
+    Equivalent Tests: &#x2013;
+    Not Equivalent Tests: Tests of individual types of WBCs (neutrophils, lymphocytes,
+    monocytes, eosinophils, or basophils).
+    Indications: To assist in determining the presence of an infection or a disease (e.g., leukemia)
+    that affects the production of white blood cells; to monitor treatment and bone marrow function.
+    Description: The white blood cell (WBC) count is used to evaluate the number of white blood
+    cells in blood. White blood cells are made in the bone marrow and protect the body against
+    infection as well as aiding in the immune response. If there is an infection, white blood cells will
+    attack and destroy the pathogen causing the infection.
+    Related Tests: Blood smear; tests of individual types of WBCs (neutrophils, lymphocytes,
+    monocytes, eosinophils, or basophils). One component of the complete blood count (CBC);
+    (Other components of the CBC include hemoglobin, red blood cells, hematocrit, and platelets).
+    Approximate Reference Range (Each site will have slight variations): 4,500 – 10,000
+    WBCs per microliter (mcl or μL or 10-6/Liter) of blood
+    Comments: White blood cells are also called leukocytes. Conditions that inhibit WBC
+    proliferation and/or weaken the immune system (e.g., HIV infection, chemotherapy) cause a
+    decrease in the number of WBCs.
+    An elevated number of WBCs is called leukocytosis. A decreased WBC count is called
+    leukopenia. On average, infants have higher WBC counts than do adults. Some drugs and
+    smoking can affect the WBC count.
+    Test Method Variance: &#x2013;
+    Other: &#x2013;
 
+6.  WBC\_OTH\_C (White blood cell other leukocytes, count)
 
-### WBC\_M (White Blood Cell Count, manual count)
+    Common Name: WBC count; Leukocyte count; White count
+    Long Name: Total white blood cell count
+    Test Type: WBC
+    Panels: Complete blood count
+    Equivalent Tests: &#x2013;
+    Not Equivalent Tests: Tests of individual types of WBCs (neutrophils, lymphocytes,
+    monocytes, eosinophils, or basophils).
+    Indications: To assist in determining the presence of an infection or a disease (e.g., leukemia)
+    that affects the production of white blood cells; to monitor treatment and bone marrow function.
+    Description: The white blood cell (WBC) count is used to evaluate the number of white blood
+    cells in blood. White blood cells are made in the bone marrow and protect the body against
+    infection as well as aiding in the immune response. If there is an infection, white blood cells will
+    attack and destroy the pathogen causing the infection.
+    Related Tests: Blood smear; tests of individual types of WBCs (neutrophils, lymphocytes,
+    monocytes, eosinophils, or basophils). One component of the complete blood count (CBC);
+    (Other components of the CBC include hemoglobin, red blood cells, hematocrit, and platelets).
+    Approximate Reference Range (Each site will have slight variations): 4,500 – 10,000
+    WBCs per microliter (mcl or μL or 10-6/Liter) of blood
+    Comments: White blood cells are also called leukocytes. Conditions that inhibit WBC
+    proliferation and/or weaken the immune system (e.g., HIV infection, chemotherapy) cause a
+    decrease in the number of WBCs.
+    An elevated number of WBCs is called leukocytosis. A decreased WBC count is called
+    leukopenia. On average, infants have higher WBC counts than do adults. Some drugs and
+    smoking can affect the WBC count.
+    Test Method Variance: &#x2013;
+    Other: &#x2013;
 
-Common Name: WBC count; Leukocyte count; White count
-Long Name: Total white blood cell count
-Test Type: WBC
-Panels: Complete blood count
-Equivalent Tests: &#x2013;
-Not Equivalent Tests: Tests of individual types of WBCs (neutrophils, lymphocytes,
-monocytes, eosinophils, or basophils).
-Indications: To assist in determining the presence of an infection or a disease (e.g., leukemia)
-that affects the production of white blood cells; to monitor treatment and bone marrow function.
-Description: The white blood cell (WBC) count is used to evaluate the number of white blood
-cells in blood. White blood cells are made in the bone marrow and protect the body against
-infection as well as aiding in the immune response. If there is an infection, white blood cells will
-attack and destroy the pathogen causing the infection.
-Related Tests: Blood smear; tests of individual types of WBCs (neutrophils, lymphocytes,
-monocytes, eosinophils, or basophils). One component of the complete blood count (CBC);
-(Other components of the CBC include hemoglobin, red blood cells, hematocrit, and platelets).
-Approximate Reference Range (Each site will have slight variations): 4,500 – 10,000
-WBCs per microliter (mcl or μL or 10-6/Liter) of blood
-Comments: White blood cells are also called leukocytes. Conditions that inhibit WBC
-proliferation and/or weaken the immune system (e.g., HIV infection, chemotherapy) cause a
-decrease in the number of WBCs.
-An elevated number of WBCs is called leukocytosis. A decreased WBC count is called
-leukopenia. On average, infants have higher WBC counts than do adults. Some drugs and
-smoking can affect the WBC count.
-Test Method Variance: &#x2013;
-Other: &#x2013;
+7.  WBC\_OTH\_P (White blood cell other leukocytes, percent)
 
-
-### WBC\_OTH\_C (White blood cell other leukocytes, count)
-
-Common Name: WBC count; Leukocyte count; White count
-Long Name: Total white blood cell count
-Test Type: WBC
-Panels: Complete blood count
-Equivalent Tests: &#x2013;
-Not Equivalent Tests: Tests of individual types of WBCs (neutrophils, lymphocytes,
-monocytes, eosinophils, or basophils).
-Indications: To assist in determining the presence of an infection or a disease (e.g., leukemia)
-that affects the production of white blood cells; to monitor treatment and bone marrow function.
-Description: The white blood cell (WBC) count is used to evaluate the number of white blood
-cells in blood. White blood cells are made in the bone marrow and protect the body against
-infection as well as aiding in the immune response. If there is an infection, white blood cells will
-attack and destroy the pathogen causing the infection.
-Related Tests: Blood smear; tests of individual types of WBCs (neutrophils, lymphocytes,
-monocytes, eosinophils, or basophils). One component of the complete blood count (CBC);
-(Other components of the CBC include hemoglobin, red blood cells, hematocrit, and platelets).
-Approximate Reference Range (Each site will have slight variations): 4,500 – 10,000
-WBCs per microliter (mcl or μL or 10-6/Liter) of blood
-Comments: White blood cells are also called leukocytes. Conditions that inhibit WBC
-proliferation and/or weaken the immune system (e.g., HIV infection, chemotherapy) cause a
-decrease in the number of WBCs.
-An elevated number of WBCs is called leukocytosis. A decreased WBC count is called
-leukopenia. On average, infants have higher WBC counts than do adults. Some drugs and
-smoking can affect the WBC count.
-Test Method Variance: &#x2013;
-Other: &#x2013;
-
-
-### WBC\_OTH\_P (White blood cell other leukocytes, percent)
-
-Common Name: WBC count; Leukocyte count; White count
-Long Name: Total white blood cell count
-Test Type: WBC
-Panels: Complete blood count
-Equivalent Tests: &#x2013;
-Not Equivalent Tests: Tests of individual types of WBCs (neutrophils, lymphocytes,
-monocytes, eosinophils, or basophils).
-Indications: To assist in determining the presence of an infection or a disease (e.g., leukemia)
-that affects the production of white blood cells; to monitor treatment and bone marrow function.
-Description: The white blood cell (WBC) count is used to evaluate the number of white blood
-cells in blood. White blood cells are made in the bone marrow and protect the body against
-infection as well as aiding in the immune response. If there is an infection, white blood cells will
-attack and destroy the pathogen causing the infection.
-Related Tests: Blood smear; tests of individual types of WBCs (neutrophils, lymphocytes,
-monocytes, eosinophils, or basophils). One component of the complete blood count (CBC);
-(Other components of the CBC include hemoglobin, red blood cells, hematocrit, and platelets).
-Approximate Reference Range (Each site will have slight variations): 4,500 – 10,000
-WBCs per microliter (mcl or μL or 10-6/Liter) of blood
-Comments: White blood cells are also called leukocytes. Conditions that inhibit WBC
-proliferation and/or weaken the immune system (e.g., HIV infection, chemotherapy) cause a
-decrease in the number of WBCs.
-An elevated number of WBCs is called leukocytosis. A decreased WBC count is called
-leukopenia. On average, infants have higher WBC counts than do adults. Some drugs and
-smoking can affect the WBC count.
-Test Method Variance: &#x2013;
-Other: &#x2013;
-
-
-### TEST NAME—FOR FUTURE USE
-
-Common Name:
-Long Name:
-Test Type:
-Panels:
-Equivalent Tests:
-Not Equivalent Tests:
-Indications:
-Description:
-Related Tests:
-Approximate Reference Range (Each site will have slight variations):
-Comments:
-Test Method Variance:
-Other:
+    Common Name: WBC count; Leukocyte count; White count
+    Long Name: Total white blood cell count
+    Test Type: WBC
+    Panels: Complete blood count
+    Equivalent Tests: &#x2013;
+    Not Equivalent Tests: Tests of individual types of WBCs (neutrophils, lymphocytes,
+    monocytes, eosinophils, or basophils).
+    Indications: To assist in determining the presence of an infection or a disease (e.g., leukemia)
+    that affects the production of white blood cells; to monitor treatment and bone marrow function.
+    Description: The white blood cell (WBC) count is used to evaluate the number of white blood
+    cells in blood. White blood cells are made in the bone marrow and protect the body against
+    infection as well as aiding in the immune response. If there is an infection, white blood cells will
+    attack and destroy the pathogen causing the infection.
+    Related Tests: Blood smear; tests of individual types of WBCs (neutrophils, lymphocytes,
+    monocytes, eosinophils, or basophils). One component of the complete blood count (CBC);
+    (Other components of the CBC include hemoglobin, red blood cells, hematocrit, and platelets).
+    Approximate Reference Range (Each site will have slight variations): 4,500 – 10,000
+    WBCs per microliter (mcl or μL or 10-6/Liter) of blood
+    Comments: White blood cells are also called leukocytes. Conditions that inhibit WBC
+    proliferation and/or weaken the immune system (e.g., HIV infection, chemotherapy) cause a
+    decrease in the number of WBCs.
+    An elevated number of WBCs is called leukocytosis. A decreased WBC count is called
+    leukopenia. On average, infants have higher WBC counts than do adults. Some drugs and
+    smoking can affect the WBC count.
+    Test Method Variance: &#x2013;
+    Other: &#x2013;
 
 
 ## Influenza
 
 
-### TEST NAME—FOR FUTURE USE
+### INF\_A\_VTC (Influenza virus A organism-specific culture)
 
-Common Name:
-Long Name:
-Test Type:
-Panels:
-Equivalent Tests:
-Not Equivalent Tests:
-Indications:
-Description:
-Related Tests:
-Approximate Reference Range (Each site will have slight variations):
-Comments:
-Test Method Variance:
-Other:
+***NEEDS TO BE UPDATED***
+
+
+### INF\_A\_NS (Influenza virus A method not specified)
+
+***NEEDS TO BE UPDATED***
+
+
+### INF\_A\_EIA (Influenza virus A immunoassay)
+
+***NEEDS TO BE UPDATED***
+
+
+### INF\_A\_IF (Influenza  virus A immunofluorescence)
+
+***NEEDS TO BE UPDATED***
+
+
+### INF\_A\_PCR (Influenza  virus A probe and target amplication)
+
+***NEEDS TO BE UPDATED***
+
+
+### INF\_B\_VTC (Influenza  virus B organism-specific culture)
+
+***NEEDS TO BE UPDATED***
+
+
+### INF\_B\_NS (Influenza  virus B method not specified)
+
+***NEEDS TO BE UPDATED***
+
+
+### INF\_B\_EIA (Influenza  virus B immunoassay)
+
+***NEEDS TO BE UPDATED***
+
+
+### INF\_B\_IF (Influenza  virus B immunofluorescence)
+
+***NEEDS TO BE UPDATED***
+
+
+### INF\_B\_PCR (Influenza  virus B probe and target amplication)
+
+***NEEDS TO BE UPDATED***
+
+
+### INF\_AB\_NS (Influenza  virus A+B method not specified)
+
+***NEEDS TO BE UPDATED***
+
+
+### INF\_AB\_EIA (Influenza  virus A+B immunoassay)
+
+***NEEDS TO BE UPDATED***
+
+
+### INF\_AB\_IF (Influenza  virus A+B immunofluorescence)
+
+***NEEDS TO BE UPDATED***
+
+
+### INF\_AB\_PCR (Influenza  virus A+B probe and target amplication)
+
+***NEEDS TO BE UPDATED***
+
+
+### INF\_NS\_VTC (Influenza  virus not specified organism-specific culture)
+
+***NEEDS TO BE UPDATED***
+
+
+### INF\_NS\_NS (Influenza virus not specified method not specified)
+
+***NEEDS TO BE UPDATED***
+
+
+### INF\_NS\_PCR (Influenza virus not specified probe and target amplification)
+
+***NEEDS TO BE UPDATED***
 
 
 ## COVID-19
 
 
-### TEST NAME—FOR FUTURE USE
+### SARS\_COV\_2\_AB\_IGA (SARS-CoV-2 (COVID19) IgA Ab [Presence] in Serum, Plasma or Blood by Immunoassay)
 
-Common Name:
-Long Name:
-Test Type:
-Panels:
-Equivalent Tests:
-Not Equivalent Tests:
-Indications:
-Description:
-Related Tests:
-Approximate Reference Range (Each site will have slight variations):
-Comments:
-Test Method Variance:
-Other:
+***NEEDS TO BE UPDATED***
+
+
+### SARS\_COV\_2\_AB\_IGG (SARS-CoV-2 (COVID19) IgG Ab [Presence] in Serum, Plasma or Blood by Immunoassay)
+
+***NEEDS TO BE UPDATED***
+
+
+### SARS\_COV\_2\_AB\_IGM (SARS-CoV-2 (COVID19) IgM Ab [Presence] in Serum, Plasma or Blood by Immunoassay)
+
+***NEEDS TO BE UPDATED***
+
+
+### SARS\_COV\_2\_AB\_IGMA (SARS-CoV-2 (COVID19) IgA+IgM [Presence] in Serum or Plasma by Immunoassay)
+
+***NEEDS TO BE UPDATED***
+
+
+### SARS\_COV\_2\_AB\_IGMG (SARS-CoV-2 (COVID19) IgG+IgM Ab [Presence] in Serum or Plasma by Immunoassay)
+
+***NEEDS TO BE UPDATED***
+
+
+### SARS\_COV\_2\_AB\_NEUT (SARS-CoV-2 (COVID19) neutralizing antibody in Serum or Plasma)
+
+***NEEDS TO BE UPDATED***
+
+
+### SARS\_COV\_2\_AB\_NEUT\_P (Percent neutralization by SARS-CoV-2 spike protein RBD neutralizing antibody-Serum/Plasma)
+
+***NEEDS TO BE UPDATED***
+
+
+### SARS\_COV\_2\_AB\_NEUT\_T (SARS-CoV-2 (COVID-19) S protein RBD neutralizing antibody [Titer] in Serum or Plasma by Immunoassay)
+
+***NEEDS TO BE UPDATED***
+
+
+### SARS\_COV\_2\_AB\_TOT (SARS-CoV-2 (COVID19) Ab in Serum, Plasma or Saliva)
+
+***NEEDS TO BE UPDATED***
+
+
+### SARS\_COV\_2\_IA (SARS-CoV-2 (COVID19) Ag [Presence] in Respiratory specimen by Rapid immunoassay)
+
+***NEEDS TO BE UPDATED***
+
+
+### SARS\_COV\_2\_NS (SARS-CoV-2 (COVID19) unspecified or other specimen or method)
+
+***NEEDS TO BE UPDATED***
+
+
+### SARS\_COV\_2\_NAAT (SARS-CoV-2 (COVID19) (Nucleic Acid Amp Testing or gene presence in Resp, ser/plas or unspec specimen)
+
+***NEEDS TO BE UPDATED***
+**\*\*SARS\_COV\_2\_T\_STIM (SARS\_CoV-2 stimulated gamma interferon release by Helper CD4+ T-cells [Units/volume] by Immunoassay)
+\*/NEEDS TO BE UPDATED/**
+
+
+### SARS\_COV\_2\_VAR (SARS-CoV-2 (COVID-19) variant [Type] in Specimen)
+
+***NEEDS TO BE UPDATED***
+
+
+### SARS\_COV\_2\_VL (SARS-CoV-2 (COVID-19) N gene [#/volume] (viral load) in Resp specimen by NAA with probe detection)
+
+***NEEDS TO BE UPDATED***
+
+
+### SARS\_COV\_2\_VL\_LOG (SARS-CoV-2 (COVID19) RNA [Log #/volume] (viral load) Unspecified specimen by NAA - probe detection)
+
+***NEEDS TO BE UPDATED***
 
 
 ## Opioid Urine Toxicity
 
 
-### U\_BUPRENORPHINE\_CNF (Buprenorphine in Urine)
-
--   Common Name: Buprenorphine in Urine by Confirmatory method
--   Long Name:
--   Test Type:
--   Panels:
--   Equivalent Tests:
--   Not Equivalent Tests:
--   Indications:
--   Description:
-
--   Related Tests:
-
-Approximate Reference Range (Each site will have slight variations):
-
--   Comments:
-
-For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
-
--   Test Method Variance:
--   Other:
-
-
-### U\_BUPRENORPHINE\_SCR (Buprenorphine in Urine)
-
--   Common Name: Buprenorphine in Urine by Screen method
--   Long Name:
--   Test Type:
--   Panels:
--   Equivalent Tests:
--   Not Equivalent Tests:
--   Indications:
--   Description:
-
--   Related Tests:
-
-Approximate Reference Range (Each site will have slight variations):
-
--   Comments:
-
-For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
-
--   Test Method Variance:
--   Other:
-
-
-### U\_BUTORPHANOL\_CNF (Butorphanol in Urine)
-
--   Common Name: Butorphanol in Urine by Confirmatory method
--   Long Name:
--   Test Type:
--   Panels:
--   Equivalent Tests:
--   Not Equivalent Tests:
--   Indications:
--   Description:
-
--   Related Tests:
-
-Approximate Reference Range (Each site will have slight variations):
-
--   Comments:
-
-For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
-
--   Test Method Variance:
--   Other:
-
-
-### U\_BUTORPHANOL\_SCR (Butorphanol in Urine)
-
--   Common Name: Butorphanol in Urine by Screen method
--   Long Name:
--   Test Type:
--   Panels:
--   Equivalent Tests:
--   Not Equivalent Tests:
--   Indications:
--   Description:
-
--   Related Tests:
-
-Approximate Reference Range (Each site will have slight variations):
-
--   Comments:
-
-For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
-
--   Test Method Variance:
--   Other:
-
-
-### U\_CODEINE\_CNF (Codeine in Urine)
-
--   Common Name: Codeine in Urine by Confirmatory method
--   Long Name:
--   Test Type:
--   Panels:
--   Equivalent Tests:
--   Not Equivalent Tests:
--   Indications:
--   Description:
-
--   Related Tests:
-
-Approximate Reference Range (Each site will have slight variations):
-
--   Comments:
-
-For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
-
--   Test Method Variance:
--   Other:
-
-
-### U\_CODEINE\_SCR (Codeine in Urine)
-
--   Common Name: Codeine in Urine by Screen method
--   Long Name:
--   Test Type:
--   Panels:
--   Equivalent Tests:
--   Not Equivalent Tests:
--   Indications:
--   Description:
-
--   Related Tests:
-
-Approximate Reference Range (Each site will have slight variations):
-
--   Comments:
-
-For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
-
--   Test Method Variance:
--   Other:
-
-
-### U\_DIPIPANONE\_CNF (Dipipanone in Urine)
-
--   Common Name: Dipipanone in Urine by Confirmatory method
--   Long Name:
--   Test Type:
--   Panels:
--   Equivalent Tests:
--   Not Equivalent Tests:
--   Indications:
--   Description:
-
--   Related Tests:
-
-Approximate Reference Range (Each site will have slight variations):
-
--   Comments:
-
-For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
-
--   Test Method Variance:
--   Other:
-
-
-### U\_DIPIPANONE\_SCR (Dipipanone in Urine)
-
--   Common Name: Dipipanone in Urine by Screen method
--   Long Name:
--   Test Type:
--   Panels:
--   Equivalent Tests:
--   Not Equivalent Tests:
--   Indications:
--   Description:
-
--   Related Tests:
-
-Approximate Reference Range (Each site will have slight variations):
-
--   Comments:
-
-For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
-
--   Test Method Variance:
--   Other:
-
-
-### U\_FENTANYL\_CNF (Fentanyl in Urine)
-
--   Common Name: Fentanyl in Urine by Confirmatory method
--   Long Name:
--   Test Type:
--   Panels:
--   Equivalent Tests:
--   Not Equivalent Tests:
--   Indications:
--   Description:
-
--   Related Tests:
-
-Approximate Reference Range (Each site will have slight variations):
-
--   Comments:
-
-For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
-
--   Test Method Variance:
--   Other:
-
-
-### U\_FENTANYL\_SCR (Fentanyl in Urine)
-
--   Common Name: Fentanyl in Urine by Screen method
--   Long Name:
--   Test Type:
--   Panels:
--   Equivalent Tests:
--   Not Equivalent Tests:
--   Indications:
--   Description:
-
--   Related Tests:
-
-Approximate Reference Range (Each site will have slight variations):
-
--   Comments:
-
-For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
-
--   Test Method Variance:
--   Other:
-
-
-### TEST NAME—FOR FUTURE USE
-
-Common Name:
-Long Name:
-Test Type:
-Panels:
-Equivalent Tests:
-Not Equivalent Tests:
-Indications:
-Description:
-Related Tests:
-Approximate Reference Range (Each site will have slight variations):
-Comments:
-Test Method Variance:
-Other:
+### Opiates from natural sources
+
+1.  U\_CODEINE\_CNF (Codeine in Urine by Confirmation)
+
+    ***NEEDS TO BE UPDATED***
+    
+    -   Common Name: Codeine in Urine by Confirmatory method
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    
+    -   Related Tests:
+    
+    Approximate Reference Range (Each site will have slight variations):
+    
+    -   Comments:
+    
+    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+    
+    -   Test Method Variance:
+    -   Other:
+
+2.  U\_CODEINE\_SCR (Codeine in Urine by Screen)
+
+    ***NEEDS TO BE UPDATED***
+    
+    -   Common Name: Codeine in Urine by Screen method
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    
+    -   Related Tests:
+    
+    Approximate Reference Range (Each site will have slight variations):
+    
+    -   Comments:
+    
+    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+    
+    -   Test Method Variance:
+    -   Other:
+
+3.  U\_MORPHINE\_CNF (Morphine in Urine by Confirmation)
+
+    ***NEEDS TO BE UPDATED***
+    
+    -   Common Name: Codeine in Urine by Confirmatory method
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    
+    -   Related Tests:
+    
+    Approximate Reference Range (Each site will have slight variations):
+    
+    -   Comments:
+    
+    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+    
+    -   Test Method Variance:
+    -   Other:
+
+4.  U\_MORPHINE\_SCR (Morphine in Urine by Screen)
+
+    ***NEEDS TO BE UPDATED***
+    
+    -   Common Name: Codeine in Urine by Screen method
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    
+    -   Related Tests:
+    
+    Approximate Reference Range (Each site will have slight variations):
+    
+    -   Comments:
+    
+    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+    
+    -   Test Method Variance:
+    -   Other:
+
+5.  U\_OPIATE\_CNF (Opiate in Urine by Confirmation)
+
+    ***NEEDS TO BE UPDATED***
+    
+    -   Common Name: Codeine in Urine by Confirmatory method
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    
+    -   Related Tests:
+    
+    Approximate Reference Range (Each site will have slight variations):
+    
+    -   Comments:
+    
+    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+    
+    -   Test Method Variance:
+    -   Other:
+
+6.  U\_OPIATE\_SCR (Opiate in Urine by Screen)
+
+    ***NEEDS TO BE UPDATED***
+    
+    -   Common Name: Codeine in Urine by Screen method
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    
+    -   Related Tests:
+    
+    Approximate Reference Range (Each site will have slight variations):
+    
+    -   Comments:
+    
+    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+    
+    -   Test Method Variance:
+    -   Other:
+
+
+### Semi-synthetic opioids
+
+1.  U\_HYDROCODONE\_CNF (Hydrocodone in Urine by Confirmation)
+
+    ***NEEDS TO BE UPDATED***
+    
+    -   Common Name: Codeine in Urine by Confirmatory method
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    
+    -   Related Tests:
+    
+    Approximate Reference Range (Each site will have slight variations):
+    
+    -   Comments:
+    
+    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+    
+    -   Test Method Variance:
+    -   Other:
+
+2.  U\_HYDROCODONE\_SCR (Hydrocodone in Urine by Screen)
+
+    ***NEEDS TO BE UPDATED***
+    
+    -   Common Name: Codeine in Urine by Screen method
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    
+    -   Related Tests:
+    
+    Approximate Reference Range (Each site will have slight variations):
+    
+    -   Comments:
+    
+    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+    
+    -   Test Method Variance:
+    -   Other:
+
+3.  U\_HYDROMORPHONE\_CNF (Hydromorphone in Urine by Confirmation)
+
+    ***NEEDS TO BE UPDATED***
+    
+    -   Common Name: Codeine in Urine by Confirmatory method
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    
+    -   Related Tests:
+    
+    Approximate Reference Range (Each site will have slight variations):
+    
+    -   Comments:
+    
+    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+    
+    -   Test Method Variance:
+    -   Other:
+
+4.  U\_HYDROMORPHONE\_SCR (Hydromorphone in Urine by Screen)
+
+    ***NEEDS TO BE UPDATED***
+    
+    -   Common Name: Codeine in Urine by Screen method
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    
+    -   Related Tests:
+    
+    Approximate Reference Range (Each site will have slight variations):
+    
+    -   Comments:
+    
+    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+    
+    -   Test Method Variance:
+    -   Other:
+
+5.  U\_OXYCODONE\_CNF (Oxycodone in Urine by Confirmation)
+
+    ***NEEDS TO BE UPDATED***
+    
+    -   Common Name: Codeine in Urine by Confirmatory method
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    
+    -   Related Tests:
+    
+    Approximate Reference Range (Each site will have slight variations):
+    
+    -   Comments:
+    
+    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+    
+    -   Test Method Variance:
+    -   Other:
+
+6.  U\_OXYCODONE\_SCR (Oxycodone in Urine by Screen)
+
+    ***NEEDS TO BE UPDATED***
+    
+    -   Common Name: Codeine in Urine by Screen method
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    
+    -   Related Tests:
+    
+    Approximate Reference Range (Each site will have slight variations):
+    
+    -   Comments:
+    
+    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+    
+    -   Test Method Variance:
+    -   Other:
+
+7.  U\_OXYMORPHONE\_CNF (Oxymorphone in Urine by Confirmation)
+
+    ***NEEDS TO BE UPDATED***
+    
+    -   Common Name: Codeine in Urine by Confirmatory method
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    
+    -   Related Tests:
+    
+    Approximate Reference Range (Each site will have slight variations):
+    
+    -   Comments:
+    
+    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+    
+    -   Test Method Variance:
+    -   Other:
+
+8.  U\_OXYMORPHONE\_SCR (Oxymorphone in Urine by Screen)
+
+    ***NEEDS TO BE UPDATED***
+    
+    -   Common Name: Codeine in Urine by Screen method
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    
+    -   Related Tests:
+    
+    Approximate Reference Range (Each site will have slight variations):
+    
+    -   Comments:
+    
+    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+    
+    -   Test Method Variance:
+    -   Other:
+
+
+### Synthetic opioids
+
+1.  U\_DIPIPANONE\_CNF (Dipipanone in Urine by Confirmation)
+
+    -   Common Name: Dipipanone in Urine by Confirmatory method
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    
+    -   Related Tests:
+    
+    Approximate Reference Range (Each site will have slight variations):
+    
+    -   Comments:
+    
+    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+    
+    -   Test Method Variance:
+    -   Other:
+
+2.  U\_DIPIPANONE\_SCR (Dipipanone in Urine by Screen)
+
+    -   Common Name: Dipipanone in Urine by Screen method
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    
+    -   Related Tests:
+    
+    Approximate Reference Range (Each site will have slight variations):
+    
+    -   Comments:
+    
+    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+    
+    -   Test Method Variance:
+    -   Other:
+
+3.  U\_FENTANYL\_CNF (Fentanyl in Urine by Confirmation)
+
+    -   Common Name: Fentanyl in Urine by Confirmatory method
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    
+    -   Related Tests:
+    
+    Approximate Reference Range (Each site will have slight variations):
+    
+    -   Comments:
+    
+    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+    
+    -   Test Method Variance:
+    -   Other:
+
+4.  U\_FENTANYL\_SCR (Fentanyl in Urine by Screen)
+
+    -   Common Name: Fentanyl in Urine by Screen method
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    
+    -   Related Tests:
+    
+    Approximate Reference Range (Each site will have slight variations):
+    
+    -   Comments:
+    
+    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+    
+    -   Test Method Variance:
+    -   Other:
+
+5.  U\_LEVORPHANOL\_CNF (Levorphanol in Urine by Confirmation)
+
+    ***NEEDS TO BE UPDATED***
+    
+    -   Common Name: Codeine in Urine by Confirmatory method
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    
+    -   Related Tests:
+    
+    Approximate Reference Range (Each site will have slight variations):
+    
+    -   Comments:
+    
+    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+    
+    -   Test Method Variance:
+    -   Other:
+
+6.  U\_LEVORPHANOL\_SCR (Levorphanol in Urine by Screen)
+
+    ***NEEDS TO BE UPDATED***
+    
+    -   Common Name: Codeine in Urine by Screen method
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    
+    -   Related Tests:
+    
+    Approximate Reference Range (Each site will have slight variations):
+    
+    -   Comments:
+    
+    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+    
+    -   Test Method Variance:
+    -   Other:
+
+7.  U\_MEPERIDINE\_CNF (Meperidine in Urine by Confirmation)
+
+    ***NEEDS TO BE UPDATED***
+    
+    -   Common Name: Codeine in Urine by Confirmatory method
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    
+    -   Related Tests:
+    
+    Approximate Reference Range (Each site will have slight variations):
+    
+    -   Comments:
+    
+    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+    
+    -   Test Method Variance:
+    -   Other:
+
+8.  U\_MEPERIDINE\_SCR (Meperidine in Urine by Screen)
+
+    ***NEEDS TO BE UPDATED***
+    
+    -   Common Name: Codeine in Urine by Screen method
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    
+    -   Related Tests:
+    
+    Approximate Reference Range (Each site will have slight variations):
+    
+    -   Comments:
+    
+    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+    
+    -   Test Method Variance:
+    -   Other:
+
+9.  U\_METHADONE\_CNF (Methadone in Urine by Confirmation)
+
+    ***NEEDS TO BE UPDATED***
+    
+    -   Common Name: Codeine in Urine by Confirmatory method
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    
+    -   Related Tests:
+    
+    Approximate Reference Range (Each site will have slight variations):
+    
+    -   Comments:
+    
+    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+    
+    -   Test Method Variance:
+    -   Other:
+
+10. U\_METHADONE\_SCR (Methadone in Urine by Screen)
+
+    ***NEEDS TO BE UPDATED***
+    
+    -   Common Name: Codeine in Urine by Screen method
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    
+    -   Related Tests:
+    
+    Approximate Reference Range (Each site will have slight variations):
+    
+    -   Comments:
+    
+    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+    
+    -   Test Method Variance:
+    -   Other:
+
+11. U\_NALTREXOL\_CNF (Naltrexol in Urine by Confirmation)
+
+    ***NEEDS TO BE UPDATED***
+    
+    -   Common Name: Codeine in Urine by Confirmatory method
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    
+    -   Related Tests:
+    
+    Approximate Reference Range (Each site will have slight variations):
+    
+    -   Comments:
+    
+    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+    
+    -   Test Method Variance:
+    -   Other:
+
+12. U\_NALTREXOL\_SCR (Naltrexol in Urine by Screen)
+
+    ***NEEDS TO BE UPDATED***
+    
+    -   Common Name: Codeine in Urine by Screen method
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    
+    -   Related Tests:
+    
+    Approximate Reference Range (Each site will have slight variations):
+    
+    -   Comments:
+    
+    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+    
+    -   Test Method Variance:
+    -   Other:
+
+13. U\_PENTAZOCINE\_CNF (Pentazocine in Urine by Confirmation)
+
+    ***NEEDS TO BE UPDATED***
+    
+    -   Common Name: Codeine in Urine by Confirmatory method
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    
+    -   Related Tests:
+    
+    Approximate Reference Range (Each site will have slight variations):
+    
+    -   Comments:
+    
+    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+    
+    -   Test Method Variance:
+    -   Other:
+
+14. U\_PENTAZOCINE\_SCR (Pentazocine in Urine by Screen)
+
+    ***NEEDS TO BE UPDATED***
+    
+    -   Common Name: Codeine in Urine by Screen method
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    
+    -   Related Tests:
+    
+    Approximate Reference Range (Each site will have slight variations):
+    
+    -   Comments:
+    
+    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+    
+    -   Test Method Variance:
+    -   Other:
+
+15. U\_PROPOXYPHENE\_CNF (Propoxyphene in Urine by Confirmation)
+
+    ***NEEDS TO BE UPDATED***
+    
+    -   Common Name: Codeine in Urine by Confirmatory method
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    
+    -   Related Tests:
+    
+    Approximate Reference Range (Each site will have slight variations):
+    
+    -   Comments:
+    
+    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+    
+    -   Test Method Variance:
+    -   Other:
+
+16. U\_PROPOXYPHENE\_SCR (Propoxyphene in Urine by Screen)
+
+    ***NEEDS TO BE UPDATED***
+    
+    -   Common Name: Codeine in Urine by Screen method
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    
+    -   Related Tests:
+    
+    Approximate Reference Range (Each site will have slight variations):
+    
+    -   Comments:
+    
+    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+    
+    -   Test Method Variance:
+    -   Other:
+
+17. U\_SUFENTANIL\_CNF (Sufentanil in Urine by Confirmation)
+
+    ***NEEDS TO BE UPDATED***
+    
+    -   Common Name: Codeine in Urine by Confirmatory method
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    
+    -   Related Tests:
+    
+    Approximate Reference Range (Each site will have slight variations):
+    
+    -   Comments:
+    
+    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+    
+    -   Test Method Variance:
+    -   Other:
+
+18. U\_SUFENTANIL\_SCR (Sufentanil in Urine by Screen)
+
+    ***NEEDS TO BE UPDATED***
+    
+    -   Common Name: Codeine in Urine by Screen method
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    
+    -   Related Tests:
+    
+    Approximate Reference Range (Each site will have slight variations):
+    
+    -   Comments:
+    
+    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+    
+    -   Test Method Variance:
+    -   Other:
+
+19. U\_TAPENTADOL\_CNF (Tarpentadol in Urine by Confirmation)
+
+    ***NEEDS TO BE UPDATED***
+    
+    -   Common Name: Codeine in Urine by Confirmatory method
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    
+    -   Related Tests:
+    
+    Approximate Reference Range (Each site will have slight variations):
+    
+    -   Comments:
+    
+    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+    
+    -   Test Method Variance:
+    -   Other:
+
+20. U\_TAPENTADOL\_SCR (Tarpentadol in Urine by Screen)
+
+    ***NEEDS TO BE UPDATED***
+    
+    -   Common Name: Codeine in Urine by Screen method
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    
+    -   Related Tests:
+    
+    Approximate Reference Range (Each site will have slight variations):
+    
+    -   Comments:
+    
+    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+    
+    -   Test Method Variance:
+    -   Other:
+
+21. U\_TRAMADOL\_CNF (Tramadol in Urine by Confirmation)
+
+    ***NEEDS TO BE UPDATED***
+    
+    -   Common Name: Codeine in Urine by Confirmatory method
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    
+    -   Related Tests:
+    
+    Approximate Reference Range (Each site will have slight variations):
+    
+    -   Comments:
+    
+    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+    
+    -   Test Method Variance:
+    -   Other:
+
+22. U\_TRAMADOL\_SCR (Tramadol in Urine by Screen)
+
+    ***NEEDS TO BE UPDATED***
+    
+    -   Common Name: Codeine in Urine by Screen method
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    
+    -   Related Tests:
+    
+    Approximate Reference Range (Each site will have slight variations):
+    
+    -   Comments:
+    
+    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+    
+    -   Test Method Variance:
+    -   Other:
+
+23. U\_NARCOTIC\_SCR (Narcotics and opioids in Urine by Screen)
+
+    ***NEEDS TO BE UPDATED***
+    
+    -   Common Name: Codeine in Urine by Screen method
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    
+    -   Related Tests:
+    
+    Approximate Reference Range (Each site will have slight variations):
+    
+    -   Comments:
+    
+    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+    
+    -   Test Method Variance:
+    -   Other:
+
+
+### Loosely referred to as opioids
+
+1.  U\_BUPRENORPHINE\_CNF (Buprenorphine in Urine by Confirmation)
+
+    -   Common Name: Buprenorphine in Urine by Confirmatory method
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    
+    -   Related Tests:
+    
+    Approximate Reference Range (Each site will have slight variations):
+    
+    -   Comments:
+    
+    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+    
+    -   Test Method Variance:
+    -   Other:
+
+2.  U\_BUPRENORPHINE\_SCR (Buprenorphine in Urine by Screen)
+
+    -   Common Name: Buprenorphine in Urine by Screen method
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    
+    -   Related Tests:
+    
+    Approximate Reference Range (Each site will have slight variations):
+    
+    -   Comments:
+    
+    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+    
+    -   Test Method Variance:
+    -   Other:
+
+3.  U\_BUTORPHANOL\_CNF (Butorphanol in Urine by Confirmation)
+
+    -   Common Name: Butorphanol in Urine by Confirmatory method
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    
+    -   Related Tests:
+    
+    Approximate Reference Range (Each site will have slight variations):
+    
+    -   Comments:
+    
+    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+    
+    -   Test Method Variance:
+    -   Other:
+
+4.  U\_BUTORPHANOL\_SCR (Butorphanol in Urine by Screen)
+
+    -   Common Name: Butorphanol in Urine by Screen method
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    
+    -   Related Tests:
+    
+    Approximate Reference Range (Each site will have slight variations):
+    
+    -   Comments:
+    
+    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+    
+    -   Test Method Variance:
+    -   Other:
+
+5.  U\_NALBUPHINE\_CNF (Nalbuphine in Urine by Confirmation)
+
+    ***NEEDS TO BE UPDATED***
+    
+    -   Common Name: Codeine in Urine by Confirmatory method
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    
+    -   Related Tests:
+    
+    Approximate Reference Range (Each site will have slight variations):
+    
+    -   Comments:
+    
+    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+    
+    -   Test Method Variance:
+    -   Other:
+
+6.  U\_NALBUPHINE\_SCR (Nalbuphine in Urine by Screen)
+
+    ***NEEDS TO BE UPDATED***
+    
+    -   Common Name: Codeine in Urine by Screen method
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    
+    -   Related Tests:
+    
+    Approximate Reference Range (Each site will have slight variations):
+    
+    -   Comments:
+    
+    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+    
+    -   Test Method Variance:
+    -   Other:
+
+7.  U\_NALOXONE\_CNF (Naloxone in Urine by Confirmation)
+
+    ***NEEDS TO BE UPDATED***
+    
+    -   Common Name: Codeine in Urine by Confirmatory method
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    
+    -   Related Tests:
+    
+    Approximate Reference Range (Each site will have slight variations):
+    
+    -   Comments:
+    
+    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+    
+    -   Test Method Variance:
+    -   Other:
+
+8.  U\_NALOXONE\_SCR (Naloxone in Urine by Screen)
+
+    ***NEEDS TO BE UPDATED***
+    
+    -   Common Name: Codeine in Urine by Screen method
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    
+    -   Related Tests:
+    
+    Approximate Reference Range (Each site will have slight variations):
+    
+    -   Comments:
+    
+    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+    
+    -   Test Method Variance:
+    -   Other:
+
+9.  U\_NALTREXONE\_CNF (Naltrexone in Urine by Confirmation)
+
+    ***NEEDS TO BE UPDATED***
+    
+    -   Common Name: Codeine in Urine by Confirmatory method
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    
+    -   Related Tests:
+    
+    Approximate Reference Range (Each site will have slight variations):
+    
+    -   Comments:
+    
+    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+    
+    -   Test Method Variance:
+    -   Other:
+
+10. U\_NALTREXONE\_SCR (Naltrexone in Urine by Screen)
+
+    ***NEEDS TO BE UPDATED***
+    
+    -   Common Name: Codeine in Urine by Screen method
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    
+    -   Related Tests:
+    
+    Approximate Reference Range (Each site will have slight variations):
+    
+    -   Comments:
+    
+    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
+    
+    -   Test Method Variance:
+    -   Other:
 
 
 ## Glucose Tolerance Tests (GTT)
 
 
-### Glucose, Fasting Serum/Plasma (patient was fasting)
+### GLU\_F (Glucose, Fasting Serum/Plasma)
 
 Common Name: Fasting serum glucose
 Long Name: Blood Sugar Fasting
@@ -3676,7 +5614,7 @@ anticoagulated specimen tube to prevent cells from metabolizing glucose during t
 Other: &#x2013;
 
 
-### Glucose, Random (not known if patient was fasting or known that patient was not fasting)
+### GLU\_RAN (Glucose, Random, not known if patient was fasting or known that patient was not fasting)
 
 Common Name: Glucose Random, Glucose-fasting period not indicated
 Long Name: Blood Sugar Random or Not Specified
@@ -3716,57 +5654,57 @@ Test Types and Long Names: See Table 1.
 Table 1. Glucose Tolerance Test TEST\_TYPE and Long Name
 TEST\_TYPE LONGNAME
 
-1.  GTT\_0\_5 Glucose Tolerance 1/2 hour post XXX challenge (glucose dose not specified)
+1.  GTT\_0\_5 (Glucose Tolerance 1/2 hour post XXX challenge (glucose dose not specified)
 
-2.  GTT\_1 Glucose Tolerance 1 hour post XXX challenge (glucose dose not specified)
+2.  GTT\_1 (Glucose Tolerance 1 hour post XXX challenge (glucose dose not specified)
 
-3.  GTT\_1\_5 Glucose Tolerance 1 1/2 hour post XXX challenge (glucose dose not specified)
+3.  (GTT\_1\_5 Deprecated) (Glucose Tolerance 1 1/2 hour post XXX challenge (glucose dose not specified)
 
-4.  GTT\_2 Glucose Tolerance 2 hour post XXX challenge (glucose dose not specified)
+4.  GTT\_2 (Glucose Tolerance 2 hour post XXX challenge (glucose dose not specified)
 
-5.  GTT\_3 Glucose Tolerance 3 hour post XXX challenge (glucose dose not specified)
+5.  GTT\_3 (Glucose Tolerance 3 hour post XXX challenge (glucose dose not specified)
 
-6.  GTT\_4 Glucose Tolerance 4 hour post XXX challenge (glucose dose not specified)
+6.  (GTT\_4 Deprecated) (Glucose Tolerance 4 hour post XXX challenge (glucose dose not specified)
 
-7.  GTT\_5 Glucose Tolerance 5 hour post XXX challenge (glucose dose not specified)
+7.  (GTT\_5 Deprecated) (Glucose Tolerance 5 hour post XXX challenge (glucose dose not specified)
 
-8.  GTT\_6 Glucose Tolerance 6 hour post XXX challenge (glucose dose not specified)
+8.  (GTT\_6 Deprecated) (Glucose Tolerance 6 hour post XXX challenge (glucose dose not specified)
 
-9.  GTT\_7 Glucose Tolerance 7 hour post XXX challenge (glucose dose not specified)
+9.  (GTT\_7 Deprecated) (Glucose Tolerance 7 hour post XXX challenge (glucose dose not specified)
 
-10. GTT50\_1 Glucose Tolerance 1 hour post 50 g oral challenge
+10. GTT50\_1 (Glucose Tolerance 1 hour post 50 g oral challenge)
 
-11. GTT75\_1 Glucose Tolerance 1 hour post 75 g oral challenge
+11. GTT75\_1 (Glucose Tolerance 1 hour post 75 g oral challenge)
 
-12. GTT75\_1\_5 Glucose Tolerance 1 1/2 hour post 75 g oral challenge
+12. (GTT75\_1\_5 Deprecated) (Glucose Tolerance 1 1/2 hour post 75 g oral challenge)
 
-13. GTT75\_2 Glucose Tolerance 2 hour post 75 g oral challenge
+13. GTT75\_2 (Glucose Tolerance 2 hour post 75 g oral challenge)
 
-14. GTT100\_0\_5 Glucose Tolerance 1/2 hour post 100 g oral challenge
+14. GTT100\_0\_5 (Glucose Tolerance 1/2 hour post 100 g oral challenge)
 
-15. GTT100\_1 Glucose Tolerance 1 hour post 100 g oral challenge
+15. GTT100\_1 (Glucose Tolerance 1 hour post 100 g oral challenge)
 
-16. GTT100\_1\_5 Glucose Tolerance 1 1/2 hour post 100 g oral challenge
+16. (GTT100\_1\_5 Deprecated) (Glucose Tolerance 1 1/2 hour post 100 g oral challenge)
 
-17. GTT100\_2 Glucose Tolerance 2 hour post 100 g oral challenge
+17. GTT100\_2 (Glucose Tolerance 2 hour post 100 g oral challenge)
 
-18. GTT100\_3 Glucose Tolerance 3 hour post 100 g oral challenge
+18. GTT100\_3 (Glucose Tolerance 3 hour post 100 g oral challenge)
 
-19. GTT100\_3\_5 Glucose Tolerance 3 1/2 hour post 100 g oral challenge
+19. (GTT100\_3\_5 Deprecated) (Glucose Tolerance 3 1/2 hour post 100 g oral challenge)
 
-20. GTT100\_4 Glucose Tolerance 4 hour post 100 g oral challenge
+20. (GTT100\_4 Deprecated) (Glucose Tolerance 4 hour post 100 g oral challenge)
 
-21. GTT100\_5 Glucose Tolerance 5 hour post 100 g oral challenge
+21. (GTT100\_5 Deprecated) (Glucose Tolerance 5 hour post 100 g oral challenge)
 
-22. GTT100\_6 Glucose Tolerance 6 hour post 100 g oral challenge
+22. (GTT100\_6 Deprecated) (Glucose Tolerance 6 hour post 100 g oral challenge)
 
-23. GTT100\_PRE Glucose pre 100 g oral challenge (fasting)
+23. (GTT100\_PRE Deprecated) (Glucose pre 100 g oral challenge, fasting)
 
-24. GTT50\_PRE Glucose pre 50 g oral challenge (fasting)
+24. (GTT50\_PRE Deprecated) (Glucose pre 50 g oral challenge, fasting)
 
-25. GTT75\_PRE Glucose pre 75 g oral challenge (fasting)
+25. (GTT75\_PRE Deprecated) (Glucose pre 75 g oral challenge, fasting)
 
-26. GTT\_PRE Glucose pre oral challenge (fasting; glucose dose not specified)
+26. (GTT\_PRE Deprecated) (Glucose pre oral challenge, fasting; glucose dose not specified)
 
     It is anticipated that each site will populate some subset of the TEST\_TYPEs listed above. Sites
     are not expected to find that all are in use at their locations. It is also anticipated that the 1 hour
@@ -3851,41 +5789,225 @@ TEST\_TYPE LONGNAME
 ## Cell Markers
 
 
-### TEST NAME—FOR FUTURE USE
+### CD4 (CD4 Count, T-cell helper subset)
 
-Common Name:
-Long Name:
-Test Type:
-Panels:
-Equivalent Tests:
-Not Equivalent Tests:
-Indications:
-Description:
-Related Tests:
-Approximate Reference Range (Each site will have slight variations):
-Comments:
-Test Method Variance:
-Other:
+***NEEDS TO BE UPDATED***
 
 
 ## Microbiology
 
 
-### TEST NAME—FOR FUTURE USE
+### (HCV) Hepatitis C Virus Test Types
 
-Common Name:
-Long Name:
-Test Type:
+1.  HCV\_AB (Hepatitis C virus antibody)
+
+    ***NEEDS TO BE UPDATED***
+
+2.  HCV\_AB\_QL (Hepatitis C virus antibody presence found)
+
+    ***NEEDS TO BE UPDATED***
+
+3.  HCV\_AB\_QL\_PR (Hepatitis C virus antibody presence found using probe method)
+
+    ***NEEDS TO BE UPDATED***
+
+4.  HCV\_GENO (Hepatitis C virus genotype)
+
+    ***NEEDS TO BE UPDATED***
+
+5.  HCV\_GENO\_PR (Hepatitis C virus genotype probe method)
+
+    ***NEEDS TO BE UPDATED***
+
+6.  HCV\_RNA (Hepatitis C virus RNA viral load)
+
+    ***NEEDS TO BE UPDATED***
+
+7.  HCV\_RNA\_LOG (Hepatitis C virus RNA Log Units of viral load)
+
+    ***NEEDS TO BE UPDATED***
+
+8.  HCV\_RNA\_QL\_PR (Hepatitis C virus RNA Presence by probe)
+
+    ***NEEDS TO BE UPDATED***
+
+9.  HCV\_RNA\_QL (Hepatitis C virus RNA Presence)
+
+    ***NEEDS TO BE UPDATED***
+
+
+### (HIV) Human Immunodeficiency Virus Test Types
+
+1.  HIV1\_AB\_CNF\_QL (HIV 1 Antibody in Serum, Plasma or Blood by Confirmatory method - qualitative)
+
+    ***NEEDS TO BE UPDATED***
+
+2.  HIV1\_AB\_SCR\_QL (HIV 1 Antibody in Serum, Plasma or Blood by Screen method - qualitative)
+
+    ***NEEDS TO BE UPDATED***
+
+3.  HIV1\_AB\_SCR\_QN (HIV 1 Antibody in Serum, Plasma or Blood by Screen method - quantitative)
+
+    ***NEEDS TO BE UPDATED***
+
+4.  HIV12\_AB\_CNF\_QL (HIV 1 and HIV 2 Antibody in Serum, Plasma or Blood by Confirmatory method - qualitative)
+
+    ***NEEDS TO BE UPDATED***
+
+5.  HIV12\_AB\_SCR\_QL (HIV 1 and HIV 2 Antibody in Serum, Plasma or Blood by Screen method - qualitative)
+
+    ***NEEDS TO BE UPDATED***
+
+6.  HIV12\_AB\_SCR\_QN (HIV 1 and HIV 2 Antibody in Serum, Plasma or Blood by Screen method - quantitative)
+
+    ***NEEDS TO BE UPDATED***
+
+7.  HIV2\_AB\_CNF\_QL (HIV 2 Antibody in Serum, Plasma or Blood by Confirmatory method - qualitative)
+
+    ***NEEDS TO BE UPDATED***
+
+8.  HIV2\_AB\_SCR\_QL (HIV 2 Antibody in Serum, Plasma or Blood by Screen method - qualitative)
+
+    ***NEEDS TO BE UPDATED***
+
+9.  HIV2\_AB\_SCR\_QN (HIV 2 Antibody in Serum, Plasma or Blood by Screen method - quantitative)
+
+    ***NEEDS TO BE UPDATED***
+
+10. HIV1\_AG\_QL (HIV 1 Antigen in Serum or Plasma - qualitative)
+
+    ***NEEDS TO BE UPDATED***
+
+11. HIV1\_AG\_QN (HIV 1 Antigen in Serum or Plasma - quantitative)
+
+    ***NEEDS TO BE UPDATED***
+
+12. HIV1\_RNA (HIV 1 RNA (viral load) in Serum or Plasma)
+
+    ***NEEDS TO BE UPDATED***
+
+13. HIV1\_RNA\_LOG (HIV 1 RNA (viral load - log) in Serum or Plasma)
+
+    ***NEEDS TO BE UPDATED***
+
+14. HIV2\_RNA (HIV 2 RNA (viral load) in Serum or Plasma)
+
+    ***NEEDS TO BE UPDATED***
+
+15. HIV2\_RNA\_LOG (HIV 2 RNA (viral load - log) in Serum or Plasma)
+
+    ***NEEDS TO BE UPDATED***
+
+16. HIV1\_RNA\_QL (HIV 1 RNA (detection) in Serum or Plasma - qualitative)
+
+    ***NEEDS TO BE UPDATED***
+
+17. HIV12\_RNA\_QL (HIV 1 and HIV 2 RNA (detection) in Serum or Plasma - qualitative)
+
+    ***NEEDS TO BE UPDATED***
+
+18. HIV1\_AB\_AG\_QL (HIV 1 Antibody and Antigen)
+
+    ***NEEDS TO BE UPDATED***
+
+19. HIV12\_AB\_HIV1\_AG\_QL (HIV 1 and HIV 2 Antibody and HIV 1 Antigen - qualitative)
+
+    ***NEEDS TO BE UPDATED***
+
+20. HIV12\_AB\_HIV1\_AG\_QN (HIV 1 and HIV 2 Antibody and HIV 1 Antigen - quantitative)
+
+    ***NEEDS TO BE UPDATED***
+
+21. HIV1\_QL (HIV 1 - qualitative)
+
+    ***NEEDS TO BE UPDATED***
+
+22. HIV12\_QL (HIV 1 and HIV 2 algorithm interpretation - qualitative)
+
+    ***NEEDS TO BE UPDATED***
+
+23. HIV1\_AB\_SCR\_QL\_S (HIV 1 Antibody in Saliva by Screen method - qualitative)
+
+    ***NEEDS TO BE UPDATED***
+
+24. HIV1\_AB\_SCR\_QN\_S (HIV 1 Antibody in Saliva by Screen method - quantitative)
+
+    ***NEEDS TO BE UPDATED***
+
+
+### HPVDNA\_CVX (Human Papilloma Virus DNA Test, Cervical Specimen)
+
+Common Name: HPV DNA, specimen from cervix
+Long Name: Human Papilloma virus (HPV) DNA test, cervical specimen, high/high +
+intermediate risk genotypes
+Test Type: HPVDNA\_CVX
+Panels: In addition to single components, includes one LOINC for panel: human papilloma virus
+high + low risk DNA
+Equivalent Tests: N/A
+Not Equivalent Tests: N/A
+Indications: This test is used in conjunction with Pap Tests in cervical cancer screening and
+prevention programs to test for the presence of the Human Papilloma Virus (HPV) which causes
+most cervical cancers. Its use varies with the presumed change in sexual partners in different
+age ranges. Routine use is often limited to women in the range from mid-teens until 30 years
+old. When Pap Test results for a woman in this age range are mildly abnormal, this test is used
+to determine the presence of “high risk” strains of HPV that are sufficient to warrant colposcopy
+and targeted biopsies to rule out serious cervical abnormalities. When women over age 30 have
+persistent mild cervical infections, as indicated by repeated abnormal Pap Tests, it is used to
+determine whether colposcopy and targeted biopsies or more frequent Pap Tests are
+warranted.
+Description: This test shows the presence or absence of DNA from “high risk” strains (also
+known as genotypes) of HPV. Currently, the only FDA approved HPV DNA test is the Digene
+Hybrid Capture 2 (HC2), though other tests may be used. The test is performed on a cervical
+specimen sample which may be residual specimen from a Pap Test performed using a liquidbased
+cytology collection method.
+Related Tests: N/A
+Approximate Reference Range (Each site will have slight variations): N/A
+Comments: Strains are classified as high risk relative to other HPV strains, not with respect to
+the absolute risk for developing serious cervical abnormalities. The prevalence of high risk HPV
+strains in the population of women of screening age is approximately 15%. As of 2010, high risk
+strains include 16, 18, 31, 33, 35, 39, 45, 51, 52, 56, 58, 59, and 68 with 16 and 18 being most
+prevalent. Test results are unlikely to specify strain, only the presence or absence of 1+ high
+risk strains. For the purposes of the ABN\_IND variable: abnormal = positive for 1+ high risk HPV
+strain(s); normal = no high risk HPV strains found. The HPV DNA tests came into widespread
+use in cervical cancer screening and prevention programs in the mid 2000s. HPV is also
+associated with vulvar, penile, and anal intraepithelial neoplasia and cancer. If you are able to
+distinguish specimen body source, only specimens taken from the cervix should be include in
+this test type. A test does not need to test for every high risk strain to be included.
+Test Method Variance: N/A
+
+
+### HPVDNA\_UN (Human Papilloma Virus DNA Test, Specimen Source/Site Unknown)
+
+Common Name: HPV DNA, specimen source/site unknown
+Long Name: Human Papilloma virus (HPV) DNA test, specimen from unknown site, high/high +
+intermediate risk genotypes
+Test Type: HPVDNA\_UN
 Panels:
-Equivalent Tests:
-Not Equivalent Tests:
-Indications:
-Description:
-Related Tests:
-Approximate Reference Range (Each site will have slight variations):
-Comments:
-Test Method Variance:
-Other:
+Equivalent Tests: N/A
+Not Equivalent Tests: N/A
+Indications: This test can be used in conjunction with Pap Tests in cervical cancer screening
+and prevention programs to test for the presence of the Human Papilloma Virus (HPV) which
+causes most cervical cancers. However, for this specific test type, the body site from which the
+specimen was obtained is not known (i.e., could be cervical, anal, etc). The use of HPV DNA
+testing varies with the presumed change in sexual partners in different age ranges. Routine use
+is often limited to women in the range from mid-teens until 30 years old. When Pap Test results
+for a woman in this age range are mildly abnormal, this test is used to determine the presence
+of “high risk” strains of HPV that are sufficient to warrant colposcopy and targeted biopsies to
+rule out serious cervical abnormalities.
+Description: This test shows the presence or absence of DNA from “high risk” strains (also
+known as genotypes) of HPV.
+Related Tests: N/A
+Approximate Reference Range (Each site will have slight variations): N/A
+Comments: Strains are classified as high risk relative to other HPV strains, not with respect to
+the absolute risk for developing serious cervical abnormalities. The prevalence of high risk HPV
+strains in the population of women of screening age is approximately 15%. As of 2010, high risk
+strains include 16, 18, 31, 33, 35, 39, 45, 51, 52, 56, 58, 59, and 68 with 16 and 18 being most
+prevalent. Test results are unlikely to specify strain, only the presence or absence of 1+ high
+risk strains. For the purposes of the ABN\_IND variable: abnormal = positive for 1+ high risk HPV
+strain(s); normal = no high risk HPV strains found. The HPV DNA tests came into widespread
+use in cervical cancer screening and prevention programs in the mid 2000s. HPV is also
+associated with vulvar, penile, and anal intraepithelial neoplasia and cancer.
+Test Method Variance: N/A
 
 
 ## Blank Template
