@@ -86,9 +86,8 @@ Other:
 -   Comments: Low levels of ALP may be present with zinc deficiency and are temporarily low after blood transfusions or heart bypass surgery. A rare genetic disorder of bone metabolism called hypophosphatasia can cause very low levels of ALP. Temporary elevations are also seen with healing fractures. Oral contraceptives may decrease ALP; anti-epileptics may increase ALP.
 -   Test Method Variance:
 -   Other:
-
-&#x2013; Associated LOINC:   1783-0, 6768-6, 6769-4, 77141-0
-&#x2013; Associated CPT:  82040
+    -   Associated LOINC:   1783-0, 6768-6, 6769-4, 77141-0
+    -   Associated CPT:  82040
 
 
 ### ALT (Alanine Aminotransferase, SGPT)
