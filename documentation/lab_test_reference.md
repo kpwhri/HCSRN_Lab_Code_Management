@@ -19,34 +19,15 @@ This reference document is not inclusive of all lab tests that have been deemed 
 -   Panels: N/A
 -   Equivalent Tests: N/A
 -   Not Equivalent Tests: N/A
--   Indications:
-
-To screen for some liver and kidney disorders as well as other diseases; to
-investigate the cause of abnormal pooling of fluid in tissue (edema).
-
--   Description: Proteins form the structural part of most organs and make up enzymes and
-
-hormones that regulate body functions. There are two classes of proteins found in the blood,
-albumin and globulin. Albumin is a carrier of many small molecules, but its main purpose is to
-keep fluid from leaking out of blood vessels through osmotic pressure. Globulin proteins include
-enzymes, antibodies, and more than 500 other proteins. The ratio of albumin to globulin (A/G
-ratio) is calculated from values obtained by direct measurement of total protein and albumin. It
-represents the relative amounts of albumin and globulins. Normally, there is a little more
-albumin than globulins, resulting in a normal A/G ratio of slightly over 1. Because disease states
-affect the relative changes in albumin and globulins in different ways, this may assist in
-determining the cause of the change in protein levels. A low A/G ratio may reflect
-overproduction of globulins such as seen in multiple myeloma or autoimmune diseases,
-underproduction of albumin such as occurs with cirrhosis, or selective loss of albumin from the
-circulation as occurs with kidney disease (nephrotic syndrome). A high A/G ratio suggests
-underproduction of immunoglobulins as may be seen in some genetic deficiencies and in some
-leukemias. More specific tests, such as albumin, liver enzyme tests, and serum protein
-electrophoresis must be performed to make an accurate diagnosis.
-
+-   Indications:  To screen for some liver and kidney disorders as well as other diseases; to investigate the cause of abnormal pooling of fluid in tissue (edema).
+-   Description:  Proteins form the structural part of most organs and make up enzymes and hormones that regulate body functions. There are two classes of proteins found in the blood, albumin and globulin. Albumin is a carrier of many small molecules, but its main purpose is to keep fluid from leaking out of blood vessels through osmotic pressure. Globulin proteins include enzymes, antibodies, and more than 500 other proteins. The ratio of albumin to globulin (A/G ratio) is calculated from values obtained by direct measurement of total protein and albumin. It represents the relative amounts of albumin and globulins. Normally, there is a little more albumin than globulins, resulting in a normal A/G ratio of slightly over 1. Because disease states affect the relative changes in albumin and globulins in different ways, this may assist in determining the cause of the change in protein levels. A low A/G ratio may reflect overproduction of globulins such as seen in multiple myeloma or autoimmune diseases, underproduction of albumin such as occurs with cirrhosis, or selective loss of albumin from the circulation as occurs with kidney disease (nephrotic syndrome). A high A/G ratio suggests underproduction of immunoglobulins as may be seen in some genetic deficiencies and in some leukemias. More specific tests, such as albumin, liver enzyme tests, and serum protein electrophoresis must be performed to make an accurate diagnosis.
 -   Related Tests: Albumin; Liver panel; Protein electrophoresis
 -   Approximate Reference Range: Ratio of 1.7 - 2.2 to 1
 -   Comments:
 -   Test Method Variance:
 -   Other:
+
+&#x2013; Associated LOINC: 
 
 
 ### AFP (Alpha-1 Fetoprotein)
@@ -92,36 +73,22 @@ Other:
 
 ### ALP (Alkaline phosphatase)
 
-Common Name: ALP
-Long Name: Alkaline phosphatase, total isoenzymes in blood/serum
-Test Type: ALP
-Panels: Liver Panel
-Equivalent Tests: N/A
-Not Equivalent Tests: N/A
-Indications: Assists in detecting liver disease or bone disorders. In conditions affecting the
-liver, damaged liver cells release increased amounts of ALP into the blood.
-Description: ALP is an enzyme found in several body tissues, including liver, bone, kidney,
-bowel (intestine), and in the placenta of pregnant women. The highest concentrations of ALP
-are in bone and liver cells. Any condition causing excessive bone formation, including bone
-disorders such as Paget's disease and others such as rheumatoid arthritis and healing
-fractures, can cause increased ALP levels. Children and adolescents typically have higher blood
-ALP levels because their bones are still growing.
-ALP is often used to detect blocked bile ducts because ALP is especially high in the edges of
-the cells that join to form bile ducts. If one or more bile ducts are obstructed, for example by a
-tumor, blood levels of ALP can be high. Smaller increases of blood ALP levels are seen in liver
-cancer and cirrhosis, with use of drugs toxic to the liver, and in hepatitis.
-Related Tests: AST; ALT; GGT; Bilirubin
-Approximate Reference Range (Each site will have slight variations): Approximately 30 -
-120 international units (IU)/L, although the normal ranges can vary slightly, e.g., some
-laboratories may have a normal range of 44 - 147 IU/L. Normal values vary with age and
-gender. High ALP levels are seen in children undergoing growth spurts and in pregnant women.
-Comments: Low levels of ALP may be present with zinc deficiency and are temporarily low
-after blood transfusions or heart bypass surgery. A rare genetic disorder of bone metabolism
-called hypophosphatasia can cause very low levels of ALP. Temporary elevations are also seen
-with healing fractures. Oral contraceptives may decrease ALP; anti-epileptics may increase
-ALP.
-Test Method Variance:
-Other:
+-   Common Name: ALP
+-   Long Name: Alkaline phosphatase, total isoenzymes in blood/serum
+-   Test Type: ALP
+-   Panels: Liver Panel
+-   Equivalent Tests: N/A
+-   Not Equivalent Tests: N/A
+-   Indications: Assists in detecting liver disease or bone disorders. In conditions affecting the liver, damaged liver cells release increased amounts of ALP into the blood.
+-   Description: ALP is an enzyme found in several body tissues, including liver, bone, kidney, bowel (intestine), and in the placenta of pregnant women. The highest concentrations of ALP are in bone and liver cells. Any condition causing excessive bone formation, including bone disorders such as Paget's disease and others such as rheumatoid arthritis and healing fractures, can cause increased ALP levels. Children and adolescents typically have higher blood ALP levels because their bones are still growing. ALP is often used to detect blocked bile ducts because ALP is especially high in the edges of the cells that join to form bile ducts. If one or more bile ducts are obstructed, for example by a tumor, blood levels of ALP can be high. Smaller increases of blood ALP levels are seen in liver cancer and cirrhosis, with use of drugs toxic to the liver, and in hepatitis.
+-   Related Tests: AST; ALT; GGT; Bilirubin
+-   Approximate Reference Range (Each site will have slight variations): Approximately 30-120 international units (IU)/L, although the normal ranges can vary slightly, e.g., some laboratories may have a normal range of 44 - 147 IU/L. Normal values vary with age and gender. High ALP levels are seen in children undergoing growth spurts and in pregnant women.
+-   Comments: Low levels of ALP may be present with zinc deficiency and are temporarily low after blood transfusions or heart bypass surgery. A rare genetic disorder of bone metabolism called hypophosphatasia can cause very low levels of ALP. Temporary elevations are also seen with healing fractures. Oral contraceptives may decrease ALP; anti-epileptics may increase ALP.
+-   Test Method Variance:
+-   Other:
+
+&#x2013; Associated LOINC:   1783-0, 6768-6, 6769-4, 77141-0
+&#x2013; Associated CPT:  82040
 
 
 ### ALT (Alanine Aminotransferase, SGPT)
