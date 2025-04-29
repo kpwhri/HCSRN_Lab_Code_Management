@@ -92,56 +92,57 @@ Other:
 
 ### ALT (Alanine Aminotransferase, SGPT)
 
-Common Name: ALT/SGPT
-Long Name: Alanine Aminotransferase/SGPT
-Test Type: ALT
-Panels: Comprehensive metabolic profile
-Equivalent Tests: N/A
-Not Equivalent Tests: N/A
-Indications: Estimate liver function. ALT is an enzyme that is produced in liver cells
-(hepatocytes); it is relatively specific for liver disease. High levels of ALT in the bloodstream
-mean that there may be liver inflammation and/or damage. Many drugs and disease states can
-result in minor (1.5 to 2 times above normal) elevations of ALT that are asymptomatic.
-Description: Alanine aminotransferase has a relatively long half life (37-57 hours) and may
-remain elevated after liver inflamation has resolved. ALT rises greater than 10-30 times the
-upper normal limit often indicate infectious conditions (e.g., viral hepatitis) or serious druginduced
-disease while more common, minor drug induced elevations of ALT are typically < 3
-times the upper normal limit
-Related Tests: SGPT is an older name for the same enzyme
-Approximate Reference Range (Each site will have slight variations): approximately 10 -
-65 IU/L
-Comments:
-Test Method Variance: Method and reference ranges vary. Reported in international units per
-liter.
-Other:
+-   Common Name: ALT/SGPT
+-   Long Name: Alanine Aminotransferase/SGPT
+-   Test Type: ALT
+-   Panels: Comprehensive metabolic profile
+-   Equivalent Tests: N/A
+-   Not Equivalent Tests: N/A
+-   Indications: Estimate liver function. ALT is an enzyme that is produced in liver cells (hepatocytes); it is relatively specific for liver disease. High levels of ALT in the bloodstream mean that there may be liver inflammation and/or damage. Many drugs and disease states can result in minor (1.5 to 2 times above normal) elevations of ALT that are asymptomatic.
+-   Description: Alanine aminotransferase has a relatively long half life (37-57 hours) and may remain elevated after liver inflamation has resolved. ALT rises greater than 10-30 times the upper normal limit often indicate infectious conditions (e.g., viral hepatitis) or serious druginduced disease while more common, minor drug induced elevations of ALT are typically < 3 times the upper normal limit
+-   Related Tests: SGPT is an older name for the same enzyme Approximate Reference Range (Each site will have slight variations): approximately 10 - 65 IU/L
+-   Comments:  Test Method Variance: Method and reference ranges vary. Reported in international units per liter.
+-   Other:
+    -   Associated LOINC:  1742-6, 1743-4, 1744-2, 44785-4, 76625-3, 77144-4, 96586-3
+    -   Associated CPT:  84460
 
 
 ### AMYLASE (Amylase, total in blood)
 
+-   Common Name:
+-   Long Name:
+-   Test Type:
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications:
+-   Description:
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations):
+-   Comments:
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC:  1798-8, 6697-7, 76630-3, 77146-9
+    -   Associated CPT:  82150
+
 
 ### AST (Aspartate Aminotransferase, SGOT)
 
-Common Name: AST/SGOT
-Long Name: Aspartate Aminotransferase/SGOT
-Test Type: AST
-Panels: Comprehensive metabolic profile
-Equivalent Tests: N/A
-Not Equivalent Tests: N/A
-Indications: Estimate liver function. AST is found in other organs besides the liver, notably
-skeletal muscle, myocardium, brain, kidney and red blood cells. High AST levels in the
-bloodstream can be a sign of liver damage or heart attack. Many drugs and disease states can
-result in minor (1.5 to 2 times above normal) elevations of ALT that are asymptomatic.
-Description: AST rises higher than ALT in response to alcohol-related hepatic injury, usually at
-a ratio of 2:1 to 8:1, with the AST at 1 - 5 times the upper limit of normal. If the AST:ALT ratio >
-8:1, consider other forms of hepatic damage. In general, alcohol and drug-related AST
-elevations are usually less than 5 times the norm, or under 150u/l.
-Related Tests: SGOT is the older name for the same enzyme
-Approximate Reference Range (Each site will have slight variations): Approximately 15-35
-IU/L
-Comments: Hemolysis will cause falsely elevated values.
-Test Method Variance: Method and reference ranges vary. Reported in international units per
-liter
-Other:
+-   Common Name: AST/SGOT
+-   Long Name: Aspartate Aminotransferase/SGOT
+-   Test Type: AST
+-   Panels: Comprehensive metabolic profile
+-   Equivalent Tests: N/A
+-   Not Equivalent Tests: N/A
+-   Indications: Estimate liver function. AST is found in other organs besides the liver, notably skeletal muscle, myocardium, brain, kidney and red blood cells. High AST levels in the bloodstream can be a sign of liver damage or heart attack. Many drugs and disease states can result in minor (1.5 to 2 times above normal) elevations of ALT that are asymptomatic.
+-   Description: AST rises higher than ALT in response to alcohol-related hepatic injury, usually at a ratio of 2:1 to 8:1, with the AST at 1 - 5 times the upper limit of normal. If the AST:ALT ratio > 8:1, consider other forms of hepatic damage. In general, alcohol and drug-related AST elevations are usually less than 5 times the norm, or under 150u/l.
+-   Related Tests: SGOT is the older name for the same enzyme
+-   Approximate Reference Range (Each site will have slight variations): Approximately 15-35 IU/L
+-   Comments: Hemolysis will cause falsely elevated values.
+-   Test Method Variance: Method and reference ranges vary. Reported in international units per liter
+-   Other:
+    -   Associated LOINC:  1920-8, 27344-1, 30239-8, 44786-2, 88112-8, 96587-1
+    -   Associated CPT:  84450
 
 
 ### (BILI) Bilirubin Test Types
@@ -149,43 +150,22 @@ Other:
 1.  BILI\_DIR (Bilirubin, Direct)
 
     -   Common Name: Direct Bilirubin
+    -   Long Name: Bilirubin, direct/conjugated/glucuronidated in blood/serum
+    -   Test Type: BILI\_DIR
+    -   Panels: Hepatic/Liver Function Panel
+    -   Equivalent Tests: Direct bilirubin; Conjugated bilirubin;
+    -   Not Equivalent Tests:
+    -   Indications: The bilirubin test is used to check liver function and watch for signs of liver disease, such as hepatitis or cirrhosis, or the effects of medicines that can damage the liver. The test is also used to find out if something is blocking the bile ducts. This may occur if gallstones, tumors of the pancreas, or other conditions are present. Bilirubin tests are also used to diagnose conditions that cause increased destruction of red blood cells, such as hemolytic anemia or hemolytic disease of the newborn.
+    -   Description: Bilirubin testing checks for levels of bilirubin — an orange-yellow pigment — in blood. Bilirubin results from the normal breakdown of red blood cells. As a normal process, bilirubin is carried in the blood and passes through your liver. Too much bilirubin may indicate liver damage or disease. Before reaching the liver, as a breakdown product of red blood cells, the bilirubin is called indirect (unconjugated) bilirubin. Once in the liver, most bilirubin attaches to certain sugars creating direct (conjugated) bilirubin. Direct bilirubin is released into bile and stored in the gallbladder before eventually being excreted in stool. Higher than normal levels of direct or indirect bilirubin may indicate different types of liver problems.
+    -   Related Tests: Other tests related to liver function (alanine transaminase [ALT], aspartate transaminase [AST], alkaline phosphatase [ALP], albumin and total protein, gammaglutamyltransferase [GGT], lactate dehydrogenase [LDH], prothrombin time [PT]).
+    -   Approximate Reference Range (Each site will have slight variations): 0.1 – 0.3 mg/dL or 1.7 – 5.1 mmol/L
     
-    Long Name: Bilirubin, direct/conjugated/glucuronidated in blood/serum
-    Test Type: BILI\_DIR
-    Panels: Hepatic/Liver Function Panel
-    Equivalent Tests: Direct bilirubin; Conjugated bilirubin;
-    Not Equivalent Tests:
-    Indications: The bilirubin test is used to check liver function and watch for signs of liver
-    disease, such as hepatitis or cirrhosis, or the effects of medicines that can damage the liver.
-    The test is also used to find out if something is blocking the bile ducts. This may occur if
-    gallstones, tumors of the pancreas, or other conditions are present. Bilirubin tests are also used
-    to diagnose conditions that cause increased destruction of red blood cells, such as hemolytic
-    anemia or hemolytic disease of the newborn.
-    Description: Bilirubin testing checks for levels of bilirubin — an orange-yellow pigment — in
-    blood. Bilirubin results from the normal breakdown of red blood cells. As a normal process,
-    bilirubin is carried in the blood and passes through your liver. Too much bilirubin may indicate
-    liver damage or disease. Before reaching the liver, as a breakdown product of red blood cells,
-    the bilirubin is called indirect (unconjugated) bilirubin. Once in the liver, most bilirubin attaches
-    to certain sugars creating direct (conjugated) bilirubin. Direct bilirubin is released into bile and
-    stored in the gallbladder before eventually being excreted in stool. Higher than normal levels of
-    direct or indirect bilirubin may indicate different types of liver problems.
-    Related Tests: Other tests related to liver function (alanine transaminase [ALT], aspartate
-    transaminase [AST], alkaline phosphatase [ALP], albumin and total protein, gammaglutamyltransferase
-    [GGT], lactate dehydrogenase [LDH], prothrombin time [PT])
-    Approximate Reference Range (Each site will have slight variations): 0.1 – 0.3 mg/dL or
-    1.7 – 5.1 mmol/L
-    Comments: Bilirubin levels tend to be slightly higher in males than females, while African
-    Americans show lower values. Strenuous exercise may also increase bilirubin levels.
-    Test Method Variance: Urine levels of bilirubin may also be clinically significant.
-    Other: It is not uncommon to see high bilirubin levels in newborns, typically 1 to 3 days old. This
-    is sometimes called physiologic jaundice of the newborn. Within the first 24 hours of life, up to
-    50% of full-term newborns, and an even greater percentage of pre-term babies, may have a
-    high bilirubin level. After birth, newborns begin breaking down the excess red blood cells
-    (RBCs) they are born with and, since the newborn’s liver is not fully mature, it is unable to
-    process the extra bilirubin, causing the infant's bilirubin levels to rise in the blood and other body
-    tissues. This situation usually resolves itself within a few days. In other instances, newborns’ red
-    blood cells may be being destroyed because of blood incompatibilities between the baby and
-    her mother, called hemolytic disease of the newborn.
+    Comments: Bilirubin levels tend to be slightly higher in males than females, while African Americans show lower values. Strenuous exercise may also increase bilirubin levels.
+    
+    -   Test Method Variance: Urine levels of bilirubin may also be clinically significant.
+    -   Other: It is not uncommon to see high bilirubin levels in newborns, typically 1 to 3 days old. This is sometimes called physiologic jaundice of the newborn. Within the first 24 hours of life, up to 50% of full-term newborns, and an even greater percentage of pre-term babies, may have a high bilirubin level. After birth, newborns begin breaking down the excess red blood cells (RBCs) they are born with and, since the newborn’s liver is not fully mature, it is unable to process the extra bilirubin, causing the infant's bilirubin levels to rise in the blood and other body tissues. This situation usually resolves itself within a few days. In other instances, newborns’ red blood cells may be being destroyed because of blood incompatibilities between the baby and her mother, called hemolytic disease of the newborn.
+        -   Associated LOINC:  14629-0, 15152-2, 18264-2, 1968-7, 29760-6, 35191-6, 43820-0
+        -   Associated CPT:  82248
 
 2.  BILI\_INDIR (Bilirubin, Indirect)
 
@@ -227,6 +207,9 @@ Other:
     
     blood cells may be being destroyed because of blood incompatibilities between the baby and
     her mother, called hemolytic disease of the newborn.
+    
+    -   Associated LOINC:
+    -   Associated CPT:
 
 3.  BILI\_TOT (Bilirubin, Total)
 
@@ -279,6 +262,9 @@ Other:
     tissues. This situation usually resolves itself within a few days. In other instances, newborns’ red
     blood cells may be being destroyed because of blood incompatibilities between the baby and
     her mother, called hemolytic disease of the newborn.
+    
+    -   Associated LOINC:
+    -   Associated CPT:
 
 
 ### BNP (Brain Natriuretic Peptide)
@@ -350,6 +336,9 @@ is present in the other kidney.
 Test Method Variance:
 Other:
 
+-   Associated LOINC:
+-   Associated CPT:
+
 
 ### (CA) Cancer Antigen Test Types
 
@@ -386,6 +375,9 @@ Other:
     disease progression.
     Test Method Variance:
     Other:
+    
+    -   Associated LOINC:
+    -   Associated CPT:
 
 2.  CA125\_BF (Cancer Antigen 125), Quantitative in Body Fluid
 
@@ -411,6 +403,9 @@ Other:
     disease progression.
     Test Method Variance:
     Other:
+    
+    -   Associated LOINC:
+    -   Associated CPT:
 
 3.  CA125\_BF\_T (Cancer Antigen 125) Titer in Body Fluid
 
@@ -444,6 +439,9 @@ Other:
     disease progression.
     Test Method Variance:
     Other:
+    
+    -   Associated LOINC:
+    -   Associated CPT:
 
 4.  CA125\_T (Cancer Antigen 125), Titer in Blood
 
@@ -477,6 +475,9 @@ Other:
     disease progression.
     Test Method Variance:
     Other:
+    
+    -   Associated LOINC:
+    -   Associated CPT:
 
 5.  CA125\_QL (Cancer Antigen 125), Qualitative in Blood
 
@@ -511,6 +512,9 @@ Other:
     disease progression.
     Test Method Variance:
     Other:
+    
+    -   Associated LOINC:
+    -   Associated CPT:
 
 6.  CA15\_3 (Cancer Ag 15-3 Qn)
 
@@ -678,6 +682,7 @@ Other:
 
 5.  CK\_BF (Creatine Kinase Body Fluid Quantitative)
 
+    ***NEEDS TO BE UPDATED***
     NOTE: This single reference document contains information pertinent to the
     individual TEST\_TYPES CK\_BB\_EP, and the indexes CK\_BBI, or CK\_BBI\_EP.
     Common Name: CK BB (also known as CPK BB)
@@ -722,10 +727,12 @@ Other:
 
 7.  CK\_ISO (Creatine Kinase Isoenzymes)
 
+    ***NEEDS TO BE UPDATED***
     Creatine Kinase Isoenzymes Interpretation - analytic method not specified
 
 8.  CK\_ISO\_EP (Creatine Kinase Isoenzymes Electrophoresis)
 
+    ***NEEDS TO BE UPDATED***
     Creatine Kinase Isoenzymes Interpretation - analytic method not specified
 
 9.  CK\_MB (Creatine Kinase MB - analytic method not specified)
@@ -1733,6 +1740,8 @@ Other:
 
 
 ### FOLATE\_RBC (Folate in red blood cells)
+
+***NEEDS TO BE UPDATED***
 
 Common Name Folate
 Long Name: Folate
@@ -3091,6 +3100,8 @@ Other:
 
 2.  U\_ACR12 (12-hour Microalbumin [or albumin] to creatinine ratio in urine)
 
+    ***NEEDS TO BE UPDATED***
+    
     Common Name: ACR
     Long Name: Microalbumin or albumin to creatinine ratio in urine
     Test Type: U\_ACR
@@ -3126,6 +3137,8 @@ Other:
 
 3.  U\_ACR24 (24-hour Microalbumin [or albumin] to creatinine ratio in urine)
 
+    ***NEEDS TO BE UPDATED***
+    
     Common Name: ACR
     Long Name: Microalbumin or albumin to creatinine ratio in urine
     Test Type: U\_ACR
@@ -3570,6 +3583,8 @@ Other:
 
 
 ### ANC (Absolute neutrophil count)
+
+***NEEDS TO BE UPDATED***
 
 
 ### (BASO) Basophil Test Types
@@ -4078,6 +4093,8 @@ Other: &#x2013;
 
 2.  WBC\_A (White Blood Cell, automated count)
 
+    ***NEEDS TO BE UPDATED***
+    
     Common Name: WBC count; Leukocyte count; White count
     Long Name: Total white blood cell count
     Test Type: WBC
@@ -4107,6 +4124,8 @@ Other: &#x2013;
 
 3.  WBC\_COR (White blood cell total, corrected for nucleated red blood cells)
 
+    ***NEEDS TO BE UPDATED***
+    
     Common Name: WBC count; Leukocyte count; White count
     Long Name: Total white blood cell count
     Test Type: WBC
@@ -4136,6 +4155,8 @@ Other: &#x2013;
 
 4.  WBC\_COR\_A (White blood cell total, corrected for nucleated red blood cells)
 
+    ***NEEDS TO BE UPDATED***
+    
     Common Name: WBC count; Leukocyte count; White count
     Long Name: Total white blood cell count
     Test Type: WBC
@@ -4165,35 +4186,38 @@ Other: &#x2013;
 
 5.  WBC\_M (White Blood Cell Count, manual count)
 
-    Common Name: WBC count; Leukocyte count; White count
-    Long Name: Total white blood cell count
-    Test Type: WBC
-    Panels: Complete blood count
-    Equivalent Tests: &#x2013;
-    Not Equivalent Tests: Tests of individual types of WBCs (neutrophils, lymphocytes,
-    monocytes, eosinophils, or basophils).
-    Indications: To assist in determining the presence of an infection or a disease (e.g., leukemia)
-    that affects the production of white blood cells; to monitor treatment and bone marrow function.
-    Description: The white blood cell (WBC) count is used to evaluate the number of white blood
-    cells in blood. White blood cells are made in the bone marrow and protect the body against
-    infection as well as aiding in the immune response. If there is an infection, white blood cells will
-    attack and destroy the pathogen causing the infection.
-    Related Tests: Blood smear; tests of individual types of WBCs (neutrophils, lymphocytes,
-    monocytes, eosinophils, or basophils). One component of the complete blood count (CBC);
-    (Other components of the CBC include hemoglobin, red blood cells, hematocrit, and platelets).
-    Approximate Reference Range (Each site will have slight variations): 4,500 – 10,000
-    WBCs per microliter (mcl or μL or 10-6/Liter) of blood
-    Comments: White blood cells are also called leukocytes. Conditions that inhibit WBC
-    proliferation and/or weaken the immune system (e.g., HIV infection, chemotherapy) cause a
-    decrease in the number of WBCs.
-    An elevated number of WBCs is called leukocytosis. A decreased WBC count is called
-    leukopenia. On average, infants have higher WBC counts than do adults. Some drugs and
-    smoking can affect the WBC count.
-    Test Method Variance: &#x2013;
-    Other: &#x2013;
+    ***NEEDS TO BE UPDATED***
+    
+    Common Name: WBC count; Leukocyte count; White count Long Name: Total
+    white blood cell count Test Type: WBC Panels: Complete blood count
+    Equivalent Tests: &#x2013; Not Equivalent Tests: Tests of individual types
+    of WBCs (neutrophils, lymphocytes, monocytes, eosinophils, or
+    basophils).  Indications: To assist in determining the presence of an
+    infection or a disease (e.g., leukemia) that affects the production of
+    white blood cells; to monitor treatment and bone marrow function.
+    Description: The white blood cell (WBC) count is used to evaluate the
+    number of white blood cells in blood. White blood cells are made in
+    the bone marrow and protect the body against infection as well as
+    aiding in the immune response. If there is an infection, white blood
+    cells will attack and destroy the pathogen causing the infection.
+    Related Tests: Blood smear; tests of individual types of WBCs
+    (neutrophils, lymphocytes, monocytes, eosinophils, or basophils). One
+    component of the complete blood count (CBC); (Other components of the
+    CBC include hemoglobin, red blood cells, hematocrit, and platelets).
+    Approximate Reference Range (Each site will have slight variations):
+    4,500 – 10,000 WBCs per microliter (mcl or μL or 10-6/Liter) of blood
+    Comments: White blood cells are also called leukocytes. Conditions
+    that inhibit WBC proliferation and/or weaken the immune system (e.g.,
+    HIV infection, chemotherapy) cause a decrease in the number of WBCs.
+    An elevated number of WBCs is called leukocytosis. A decreased WBC
+    count is called leukopenia. On average, infants have higher WBC counts
+    than do adults. Some drugs and smoking can affect the WBC count.  Test
+    Method Variance: &#x2013; Other: &#x2013;
 
 6.  WBC\_OTH\_C (White blood cell other leukocytes, count)
 
+    ***NEEDS TO BE UPDATED***
+    
     Common Name: WBC count; Leukocyte count; White count
     Long Name: Total white blood cell count
     Test Type: WBC
@@ -4223,6 +4247,8 @@ Other: &#x2013;
 
 7.  WBC\_OTH\_P (White blood cell other leukocytes, percent)
 
+    ***NEEDS TO BE UPDATED***
+    
     Common Name: WBC count; Leukocyte count; White count
     Long Name: Total white blood cell count
     Test Type: WBC
@@ -5622,13 +5648,23 @@ TEST\_TYPE LONGNAME
 
 1.  GTT\_0\_5 (Glucose Tolerance 1/2 hour post XXX challenge (glucose dose not specified)
 
+    ***NEEDS TO BE UPDATED***
+
 2.  GTT\_1 (Glucose Tolerance 1 hour post XXX challenge (glucose dose not specified)
+
+    ***NEEDS TO BE UPDATED***
 
 3.  (GTT\_1\_5 Deprecated) (Glucose Tolerance 1 1/2 hour post XXX challenge (glucose dose not specified)
 
+    ***NEEDS TO BE UPDATED***
+
 4.  GTT\_2 (Glucose Tolerance 2 hour post XXX challenge (glucose dose not specified)
 
+    ***NEEDS TO BE UPDATED***
+
 5.  GTT\_3 (Glucose Tolerance 3 hour post XXX challenge (glucose dose not specified)
+
+    ***NEEDS TO BE UPDATED***
 
 6.  (GTT\_4 Deprecated) (Glucose Tolerance 4 hour post XXX challenge (glucose dose not specified)
 
@@ -5640,21 +5676,35 @@ TEST\_TYPE LONGNAME
 
 10. GTT50\_1 (Glucose Tolerance 1 hour post 50 g oral challenge)
 
+    ***NEEDS TO BE UPDATED***
+
 11. GTT75\_1 (Glucose Tolerance 1 hour post 75 g oral challenge)
+
+    ***NEEDS TO BE UPDATED***
 
 12. (GTT75\_1\_5 Deprecated) (Glucose Tolerance 1 1/2 hour post 75 g oral challenge)
 
 13. GTT75\_2 (Glucose Tolerance 2 hour post 75 g oral challenge)
 
+    ***NEEDS TO BE UPDATED***
+
 14. GTT100\_0\_5 (Glucose Tolerance 1/2 hour post 100 g oral challenge)
 
+    ***NEEDS TO BE UPDATED***
+
 15. GTT100\_1 (Glucose Tolerance 1 hour post 100 g oral challenge)
+
+    ***NEEDS TO BE UPDATED***
 
 16. (GTT100\_1\_5 Deprecated) (Glucose Tolerance 1 1/2 hour post 100 g oral challenge)
 
 17. GTT100\_2 (Glucose Tolerance 2 hour post 100 g oral challenge)
 
+    ***NEEDS TO BE UPDATED***
+
 18. GTT100\_3 (Glucose Tolerance 3 hour post 100 g oral challenge)
+
+    ***NEEDS TO BE UPDATED***
 
 19. (GTT100\_3\_5 Deprecated) (Glucose Tolerance 3 1/2 hour post 100 g oral challenge)
 
@@ -5994,4 +6044,6 @@ Test Method Variance: N/A
 -   Comments:
 -   Test Method Variance:
 -   Other:
+    -   Associated LOINC:
+    -   Associated CPT:
 
