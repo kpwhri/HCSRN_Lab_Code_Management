@@ -1161,6 +1161,38 @@ Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his
  - Associated LOINC:  2324-2
  - Associated CPT:  82977
 
+*** GLU_F (Glucose, Fasting Serum/Plasma)
+- Common Name: Fasting serum glucose
+- Long Name: Blood Sugar Fasting
+- Test Type: GLU_F
+- Panels:
+- Equivalent Tests: Fasting plasma glucose, whole blood fasting glucose
+- Not Equivalent Tests: Random glucose or fasting period not specified; glucose tolerance test (although may include a fasting glucose); 2-hour post parandial (after meal); glucose on other body fluid such as cerebrospinal fluid, urine, synovial, plueral or peritoneal fluids; glucose phosphate isomerase; glucose-6-phosphate dehydrogenase; glucocorticoids. Many tests using GLY prefix are not a blood glucose level.
+- Indications: Fasting glucose is used for screening for diabetes or hypoglycemia and to monitor progression or control of diabetes. Also, fasting glucose is used to assist in determining medication adjustments for managing diabetes. Certain drugs used to treat conditions other than diabetes can also affect Fasting Blood Sugar.
+- Description: In general, it is recommended that you fast 8 hours before having a fasting blood glucose test. In persons with diabetes, however, glucose levels are often checked both while fasting and after meals to provide the best control of diabetes.
+- Related Tests:
+- Approximate Reference Range (Each site will have slight variations): Approximately 65- 115 mg/dL
+- Comments: Delay in transport or delay in separating serum from cells can falsely decrease glucose values.
+- Test Method Variance: Capillary specimens can vary from serum/plasma values by 10%. Some meters have different settings for different lot numbers of test strips. "Lack of circulation" may invalidate capillary glucose. Preferred specimen is a plasma from fluoride/oxalate anticoagulated specimen tube to prevent cells from metabolizing glucose during transport.
+- Other:
+ - Associated LOINC: 101476-0, 10450-5, 14768-6, 14769-4, 14770-2, 14771-0, 14996-3, 1547-9, 1549-5, 1550-3, 1552-9, 1554-5, 1556-0, 1557-8, 1558-6, 17865-7, 25680-0, 35184-1, 39997-2, 40148-9, 40193-5, 40858-3, 41604-0, 47622-6, 53049-3, 70208-4, 76629-5, 77145-1, 87421-4, 88365-2 
+ - Associated CPT:  (CPT Code does not differentiate between random and fasting) 82947
+*** GLU_RAN (Glucose, Random, not known if patient was fasting or known that patient was not fasting)
+- Common Name: Glucose Random, Glucose-fasting period not indicated
+- Long Name: Blood Sugar Random or Not Specified
+- Test Type: GLU_RAN
+- Panels: Basic metabolic panel, comprehensive metabolic profile
+- Equivalent Tests: plasma glucose, whole blood glucose
+- Not Equivalent Tests: Fasting glucose. Glucose tolerance (although may include a fasting glucose). 2-Hour post parandial (after meal). Glucose on other body fluid such as cerebral spinal fluid, urine, synovial, pleural or peritoneal fluids. Glucose phosphate isomerase, Glucose- 6-Phosphate Dehydrogenase, Glucocorticoids. Many tests using GLY prefix are not a glucose level.
+- Indications: Random glucose is used for screening for diabetes or hypoglycemia and to monitor progression or control of diabetes. Also used to adjust medication dosage for diabetes. Certain drugs used to treat conditions other than diabetes can also affect blood glucose.
+- Description: In general, regardless of whether food or drink has been consumed, blood glucose test should be less than 200 mg/dL. Some will use 150 mg/dL if it has been > 1 hour since consuming small meal or beverage. If random is greater than ~200, follow-up testing is indicated. Can also be used to validate glucose meter results.
+- Related Tests:
+- Approximate Reference Range (Each site will have slight variations): Approximately <200 mg/dL
+- Comments: Delay in transport or delay in separating serum from cells can falsely decrease glucose values.
+- Test Method Variance: Capillary specimens can vary from serum/plasma values by 10%. Some meters have different settings for different lot numbers of test strips. "Lack of circulation" may invalidate capillary glucose. Preferred specimen is a plasma from fluoride/oxalate anticoagulated specimen tube to prevent cells from metabolizing glucose during transport.
+- Other:
+ - Associated LOINC:  100746-7, 14743-9, 14749-6, 15074-8, 2339-0, 2340-8, 2341-6, 2345-7, 32016-8, 35211-2, 39480-9, 39481-7, 41651-1, 41652-9, 41653-7, 51596-5, 5914-7, 72516-8, 74774-1, 77135-2, 96594-7
+ - Associated CPT:  (CPT Code does not differentiate between random and fasting) 82947
 *** (HCO3) Bicarbonate Test Types
 */NEEDS TO BE UPDATED/*
 **** HCO3_A (Bicarbonate in Arterial blood)
@@ -1689,7 +1721,7 @@ TSH testing is used to:
 - Comments: Elevated results may also be caused by vigorous exercise, blood in the urine, urinary tract infection, dehydration, and some drugs.
 - Test Method Variance:
 - Other:
- - Associated LOINC:  
+ - Associated LOINC:  14585-4, 14959-1, 30000-4, 32294-1, 77253-3, 89998-9, 9318-7
  - Associated CPT:  
 
 **** U_ACR12 (12-hour Microalbumin [or albumin] to creatinine ratio in urine)
@@ -1744,8 +1776,8 @@ TSH testing is used to:
 - Comments: The quantity of urine creatinine produced depends on the size of the person and their muscle mass. For this reason, creatinine concentrations will be slightly higher in men than in women and children. Drugs such as aminoglycosides (vancomycin, gentamicin) can cause kidney damage and so creatinine is monitored. Other drugs, such as cephalosprins (cefoxitin), may increase creatinine concentration without reflecting kidney damage.
 - Test Method Variance:
 - Other:
- - Associated LOINC:  
- - Associated CPT:  
+ - Associated LOINC:  14683-7, 2161-8, 35204-7,  35674-1, 39977-4, 39982-4, 40129-9, 40133-1, 55593-8
+ - Associated CPT:  82570
 
 *** U_CREAT24 (24-Hour Creatinine in Urine)
 - Common Name: 24 Hour Urine Creatinine
@@ -1761,8 +1793,8 @@ TSH testing is used to:
 - Comments: The quantity of creatinine produced depends on a person’s size and muscle mass. Therefore, creatinine concentrations will be slightly higher in men than in women and children. Drugs such as aminoglycosides (vancomycin, gentamicin) can cause kidney damage and so creatinine is monitored. Other drugs, such as cephalosprins (cefoxitin), may increase creatinine concentration without reflecting kidney damage.
 - Test Method Variance:
 - Other:
- - Associated LOINC:  
- - Associated CPT:  
+ - Associated LOINC:  14684-5, 20624-3, 2162-6, 25886-3, 35251-8, 35262-5
+ - Associated CPT:  82575
 
 *** U_HEME_DIP (Hemoglobin in urine by dipstick)
 */NEEDS TO BE UPDATED/*
@@ -1781,8 +1813,8 @@ TSH testing is used to:
 - Comments: The National Kidney Foundation recommends that diabetics between 12 and 70 years of age have a urine microalbumin test annually. If microalbuminuria is detected, it should be confirmed by retesting and, if positive on 2 of 3 determinations over a 3-6 month period, it is considered to be present and appropriate treatment is advised.
 - Test Method Variance:
 - Other:
- - Associated LOINC:  
- - Associated CPT:  
+ - Associated LOINC:  100158-5, 14957-5, 1754-1, 53531-0, 77158-4, 89999-7 
+ - Associated CPT:  82043, 82042
 
 *** U_MICALB24 (24-Hour Microalbumin in urine)
 - Common Name: 24-hour Urine Microalbumin
@@ -1798,8 +1830,8 @@ TSH testing is used to:
 - Comments: The National Kidney Foundation recommends that diabetics between 12 and 70 years of age have a urine microalbumin test annually. If microalbuminuria is detected, it should be confirmed by retesting and, if positive on 2 of 3 determinations over a 3-6 month period, it is considered to be present and appropriate treatment is advised.
 - Test Method Variance:
 - Other:
- - Associated LOINC:  
- - Associated CPT:  
+ - Associated LOINC:  21059-1, 30003-8 , 53530-2
+ - Associated CPT:  82043
 
 *** U_PCR (Protein to creatinine ratio in urine)
 - Common Name: Urine Protein to Creatinine Ratio (UPCR)
@@ -1816,7 +1848,7 @@ U_PCR is used when a child shows evidence of significant and persistent protein 
 - Comments: The protein to creatinine ratio is more of a snapshot of how much protein is in the urine at the time the sample is collected. Children, and sometimes adults, occasionally have some degree of transient proteinuria without apparent kidney dysfunction and may have a higher excretion of protein into their urine during the day than at night. Monitoring by U_PCR at intervals is conducted to determine if the amount of proteinuria changes over time.
 - Test Method Variance:
 - Other:
- - Associated LOINC:  
+ - Associated LOINC:  2890-2, 34366-5
  - Associated CPT:  
 
 *** U_PCR24 (24-hour Protein to creatinine ratio in urine)
@@ -1835,7 +1867,7 @@ U_PCR is used when a child shows evidence of significant and persistent protein 
 - Comments: The protein to creatinine ratio is more of a snapshot of how much protein is in the urine at the time the sample is collected. Children, and sometimes adults, occasionally have some degree of transient proteinuria without apparent kidney dysfunction and may have a higher excretion of protein into their urine during the day than at night. Monitoring by U_PCR at intervals is conducted to determine if the amount of proteinuria changes over time.
 - Test Method Variance:
 - Other:
- - Associated LOINC:  
+ - Associated LOINC:  13801-6, 40486-3
  - Associated CPT:  
 
 *** (U_PROT) Protein to Creatinine Ratio in Urine Test Types
@@ -1853,8 +1885,8 @@ U_PCR is used when a child shows evidence of significant and persistent protein 
 - Comments:
 - Test Method Variance:
 - Other:
- - Associated LOINC:  
- - Associated CPT:  
+ - Associated LOINC:  21482-5, 2888-6, 32551-4, 35663-4
+ - Associated CPT:  84156, 84160
 
 **** U_PROT_24 (24-hour urine protein; total protein in urine)
 - Common Name: 24-Hour Urine Protein
@@ -1870,8 +1902,8 @@ U_PCR is used when a child shows evidence of significant and persistent protein 
 - Comments: A 24-hour urine sample gives the protein excretion rate over 24 hours and is accurate only if all of the urine is collected.
 - Test Method Variance:
 - Other:
- - Associated LOINC:  
- - Associated CPT:  
+ - Associated LOINC:  2889-4 
+ - Associated CPT:  81060
 
 **** U_PROT_DIP (Protein in Urine by Dipstick, qualitative)
 - Common Name: Urine Protein Dipstick
@@ -1887,8 +1919,8 @@ U_PCR is used when a child shows evidence of significant and persistent protein 
 - Comments: A positive dipstick protein may be elevated due to other sources of protein, such as blood, semen, or vaginal secretions in the urine. Since it measures primarily albumin, the dipstick may occasionally be normal when significant quantities of other proteins are present in the urine. Children, and sometimes adults, occasionally have some degree of transient proteinuria without apparent kidney dysfunction and may have a higher excretion of protein into their urine during the day than at night.
 - Test Method Variance:
 - Other:
- - Associated LOINC:  
- - Associated CPT:  
+ - Associated LOINC:  20454-5, 27298-9, 2887-8, 32209-9, 50561-0, 50949-7, 53525-2 ,57735-3, 5804-0
+ - Associated CPT:  81000
 
 *** U_RBC_DIP (Erythrocytes [red blood cells] in urine by dipstick)
 */NEEDS TO BE UPDATED/*
@@ -1907,8 +1939,8 @@ U_PCR is used when a child shows evidence of significant and persistent protein 
 - Comments: In gouty arthritis, uric acid may not be properly cleared from the body and can deposit crystals into the joints and kidneys. High uric acid levels can also be due to increased consumption of purine rich foods, such as meats and yeast, as well as some fishes, beans, and vegetables. When oncology patients are using certain chemotherapy drugs, the increased amount of cell death can increase purine degradation from DNA therefore increasing uric acid levels. In the diagnosis of tumor lysis syndrome, serum uric acid levels are increased in addition to serum potassium and phosphate levels while serum calcium levels are lowered.
 - Test Method Variance:
 - Other:
- - Associated LOINC:  
- - Associated CPT:  
+ - Associated LOINC:  14933-6 , 3084-1, 35232-8, 98981-4
+ - Associated CPT:  84550
 
 *** VIT_B12 (Vitamin B12; Cobalamin)
 - Common Name: Vitamin B12
@@ -1924,8 +1956,8 @@ U_PCR is used when a child shows evidence of significant and persistent protein 
 - Comments: All vitamin B12 comes from animal-based foods such as meats, eggs, and dairy products. Intrinsic factor is necessary for the absorption of oral vitamin B12 and may also lead to vitamin B12 deficiency if it is not properly secreted from the gastric mucosa. B12 and folate are primarily ordered to help diagnose the cause of macrocytic anemia. They are ordered as followup tests when large RBCs and a decreased hemoglobin concentration are found during a complete blood count (CBC) test. B12 may be ordered with folate, by itself, or with other screening laboratory tests – such as a comprehensive metabolic panel – to help diagnose the cause of neuropathy. High levels of B12 and folate are not usually clinically monitored. Increased B12 may be seen in conditions such as leukemia or liver dysfunction.
 - Test Method Variance:
 - Other:
- - Associated LOINC:  
- - Associated CPT:  
+ - Associated LOINC:  14685-2, 16695-9, 2132-9, 26916-7, 35201-3 
+ - Associated CPT:  82607
 
 *** VIT_D_250H (Vitamin D; 25-hydroxy-vitamin D)
 - Common Name: Vitamin D
@@ -1941,8 +1973,8 @@ U_PCR is used when a child shows evidence of significant and persistent protein 
 - Comments: The function of vitamin D is to help maintain appropriate serum calcium levels via absorption and distribution. Vitamin D toxicity is usually presented with hypercalcemia, hyperphosphatemia, soft tissue calcification, and renal failure.
 - Test Method Variance:
 - Other:
- - Associated LOINC:  
- - Associated CPT:  
+ - Associated LOINC:  14635-7, 1989-3, 35196-5, 95594-8
+ - Associated CPT:  82306
 
 ** Hematology and Coagulation
 *** ANC (Absolute neutrophil count)
@@ -2004,8 +2036,10 @@ U_PCR is used when a child shows evidence of significant and persistent protein 
 - Related Tests: One component of the complete blood count (CBC) is hemoglobin. (Other components of the CBC include hematocrit, red blood cells, platelets, and white blood cells).
 - Approximate Reference Range (Each site will have slight variations): 12 to 16 or 18 g/dL (12 to 18 g/100 milliliters or 12 to 18 grams/dL) among normal adults. There are separate age related reference ranges for males and female. The ranges are higher in newborns than in adults and children have slightly lower normal ranges.
 - Comments: Hemoglobin increases when the number of red blood cells increases. Hemoglobin falls when production of red blood cells decreases, when there is increased destruction of red blood cells, or when there is significant bleeding. Elevated hemoglobin concentrations can be seen with dehydration, excess production of red blood cells by the bone marrow, severe lung disease, and other conditions. Low hemoglobin (anemia) can be the result of conditions such as iron, B12, or folate deficiency, inherited hemoglobin defects (e.g., sickle cell anemia or thalassemia), other inherited conditions, cirrhosis of the liver, bleeding, red cell destruction, kidney disease, aplastic anemia, other chronic illnesses, and certain cancers. Heavy smokers have higher hemoglobin levels than nonsmokers. Hemoglobin values are higher among those who live in high altitudes because the body produces more red blood cells in response to the decreased oxygen available at high altitude.
-- Test Method Variance: --
-- Other: --
+- Test Method Variance: 
+- Other:
+ - Associated LOINC:  14775-1 (arterial; oximetry), 20509-6, 24360-0, 30313-1  (arterial), 30350-3, 30351-1, 30352-9 (capillary), 55782-7,  59260-0, 718-7
+ - Associated CPT:  85018, 83026
 
 *** HCT (Hematocrit)
 - Common Name: Hematocrit, Hct, Crit;
@@ -3269,37 +3303,6 @@ For opioid results place the component value from the EverLOINC.SAS table into t
 - Other:
   
 ** Glucose Tolerance Tests (GTT)
-*** GLU_F (Glucose, Fasting Serum/Plasma)
-Common Name: Fasting serum glucose
-- Long Name: Blood Sugar Fasting
-- Test Type: GLU_F
-- Panels:
-Equivalent Tests: Fasting plasma glucose, whole blood fasting glucose
-- Not Equivalent Tests: Random glucose or fasting period not specified; glucose tolerance test (although may include a fasting glucose); 2-hour post parandial (after meal); glucose on other body fluid such as cerebrospinal fluid, urine, synovial, plueral or peritoneal fluids; glucose phosphate isomerase; glucose-6-phosphate dehydrogenase; glucocorticoids. Many tests using GLY prefix are not a blood glucose level.
-- Indications: Fasting glucose is used for screening for diabetes or hypoglycemia and to monitor progression or control of diabetes. Also, fasting glucose is used to assist in determining medication adjustments for managing diabetes. Certain drugs used to treat conditions other than diabetes can also affect Fasting Blood Sugar.
-- Description: In general, it is recommended that you fast 8 hours before having a fasting blood glucose test. In persons with diabetes, however, glucose levels are often checked both while fasting and after meals to provide the best control of diabetes.
-- Related Tests:
-- Approximate Reference Range (Each site will have slight variations): Approximately 65- 115 mg/dL
-- Comments: Delay in transport or delay in separating serum from cells can falsely decrease glucose values.
-- Test Method Variance: Capillary specimens can vary from serum/plasma values by 10%. Some meters have different settings for different lot numbers of test strips. "Lack of circulation" may invalidate capillary glucose. Preferred specimen is a plasma from fluoride/oxalate anticoagulated specimen tube to prevent cells from metabolizing glucose during transport.
-- Other: --
-
-*** GLU_RAN (Glucose, Random, not known if patient was fasting or known that patient was not fasting)
-- Common Name: Glucose Random, Glucose-fasting period not indicated
-- Long Name: Blood Sugar Random or Not Specified
-- Test Type: GLU_RAN
-- Panels: Basic metabolic panel, comprehensive metabolic profile
-- Equivalent Tests: plasma glucose, whole blood glucose
-- Not Equivalent Tests: Fasting glucose. Glucose tolerance (although may include a fasting glucose). 2-Hour post parandial (after meal). Glucose on other body fluid such as cerebral spinal fluid, urine, synovial, pleural or peritoneal fluids. Glucose phosphate isomerase, Glucose- 6-Phosphate Dehydrogenase, Glucocorticoids. Many tests using GLY prefix are not a glucose
-level.
-- Indications: Random glucose is used for screening for diabetes or hypoglycemia and to monitor progression or control of diabetes. Also used to adjust medication dosage for diabetes. Certain drugs used to treat conditions other than diabetes can also affect blood glucose.
-- Description: In general, regardless of whether food or drink has been consumed, blood glucose test should be less than 200 mg/dL. Some will use 150 mg/dL if it has been > 1 hour since consuming small meal or beverage. If random is greater than ~200, follow-up testing is indicated. Can also be used to validate glucose meter results.
-- Related Tests:
-- Approximate Reference Range (Each site will have slight variations): Approximately <200 mg/dL
-- Comments: Delay in transport or delay in separating serum from cells can falsely decrease glucose values.
-- Test Method Variance: Capillary specimens can vary from serum/plasma values by 10%. Some meters have different settings for different lot numbers of test strips. "Lack of circulation" may invalidate capillary glucose. Preferred specimen is a plasma from fluoride/oxalate anticoagulated specimen tube to prevent cells from metabolizing glucose during transport.
-- Other:
-
 *** GTT Test_Types
 (NOTE: Information about all the numerous GTT TEST_TYPES is included in this document)
 - Common Name: OGTT; GTT; Oral glucose tolerance test; glucose tolerance test
