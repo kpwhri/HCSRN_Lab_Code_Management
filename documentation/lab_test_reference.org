@@ -1,5 +1,6 @@
 #+TITLE: Laboratory Test
-#+SUBTITLE: Reference for the VDW Laboratory Results Test Type
+#+SUBTITLE: Reference for the HCSRN VDW Laboratory Results Test Type
+#+AUTHOR: HCSRN VDW Lab Workgroup
 #+OPTIONS: ^:nil
 #+OPTIONS: toc:nil
 
