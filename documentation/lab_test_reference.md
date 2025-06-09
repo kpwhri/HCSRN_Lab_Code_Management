@@ -26,8 +26,8 @@ This reference document is not inclusive of all lab tests that have been deemed 
 -   Comments:
 -   Test Method Variance:
 -   Other:
-
-&#x2013; Associated LOINC: 
+    -   Associated LOINC: 12175-6, 1759-0, 44429-9
+    -   Associated CPT:
 
 
 ### AFP (Alpha-1 Fetoprotein)
@@ -59,8 +59,8 @@ Prealbumin, microalbumin, urinalysis, liver panel
 -   Comments: An albumin test may be ordered as part of a liver panel to evaluate liver function, along with a creatinine and BUN (Blood Urea Nitrogen) to evaluate kidney function, or along with a prealbumin to evaluate nutritional status.  Certain drugs increase albumin in the blood, including anabolic steroids, androgens, growth hormones, and insulin. Receiving large amounts of intravenous fluids may make the test results inaccurate for a short time after the intravenous fluids are administered.
 -   Test Method Variance:
 -   Other:
-    -   Associated LOINC:
-    -   Associated CPT:
+    -   Associated LOINC:  101198-0, 1751-7, 54347-0 , 61151-7, 61152-5, 62234-0, 62235-7, 77148-5, 103577-3, 76631-1
+    -   Associated CPT:  82040
 
 
 ### ALP (Alkaline phosphatase)
@@ -206,38 +206,18 @@ Prealbumin, microalbumin, urinalysis, liver panel
 -   Common Name: BNP
 -   Long Name: Natriuretic Peptide B or B-type; Brain Natriuretic Peptide
 -   Test Type: BNP
-
-Panels: N/A
-
+-   Panels: N/A
 -   Equivalent Tests: N/A
-
-Not Equivalent Tests: N-Terminal-ProBNP
-
--   Indications: To help diagnose the presence and severity of heart failure. BNP levels can assist
-
-in differentiating between heart failure and other problems, such as lung disease.
-Description: This test measures the concentration of BNP in the blood. The heart normally
-produces low levels of a precursor protein, pro-BNP, which is cleaved to release the active
-hormone BNP and an inactive fragment, NT-proBNP. The purpose of BNP is to help regulate
-blood volume and, therefore, the work the heart must do in pumping blood throughout the body.
-BNP is produced mainly in the heart’s left ventricle (the organ’s main pumping chamber). When
-the left ventricle is stretched from having to work harder, the concentrations of BNP in blood can
-increase markedly. This situation may occur in heart failure as well as other diseases that affect
-the heart and circulatory system.
-Higher-than-normal results suggest that a person is in heart failure, and the level of BNP in the
-blood is related to the severity of heart failure. Higher levels of BNP also may be associated with
-a worse prognosis for the patient.
-Related Tests: N-Terminal-ProBNP; Cardiac biomarkers such as CK and Troponin.
-
+-   Not Equivalent Tests: N-Terminal-ProBNP
+-   Indications: To help diagnose the presence and severity of heart failure. BNP levels can assist in differentiating between heart failure and other problems, such as lung disease.
+-   Description: This test measures the concentration of BNP in the blood. The heart normally produces low levels of a precursor protein, pro-BNP, which is cleaved to release the active hormone BNP and an inactive fragment, NT-proBNP. The purpose of BNP is to help regulate blood volume and, therefore, the work the heart must do in pumping blood throughout the body. BNP is produced mainly in the heart’s left ventricle (the organ’s main pumping chamber). When the left ventricle is stretched from having to work harder, the concentrations of BNP in blood can increase markedly. This situation may occur in heart failure as well as other diseases that affect the heart and circulatory system. Higher-than-normal results suggest that a person is in heart failure, and the level of BNP in the blood is related to the severity of heart failure. Higher levels of BNP also may be associated with a worse prognosis for the patient.
+-   Related Tests: N-Terminal-ProBNP; Cardiac biomarkers such as CK and Troponin.
 -   Approximate Reference Range: Normal < 100pg/ml
--   Comments: BNP levels decrease in most patients who have been taking drug therapies for
-
-heart failure. Levels of BNP tend to increase with age and are increased in persons with kidney
-disease.
-
+-   Comments: BNP levels decrease in most patients who have been taking drug therapies for heart failure. Levels of BNP tend to increase with age and are increased in persons with kidney disease.
 -   Test Method Variance:
-
-Other:
+-   Other:
+    -   Associated LOINC:  30934-4, 35257-5, 42637-9, 47092-2
+    -   Associated CPT:  83880
 
 
 ### BNP\_PROHORMONE (Natriuretic peptide.B prohormone N-Terminal)
@@ -358,25 +338,95 @@ Other:
         -   Associated LOINC:  2006-5
         -   Associated CPT:  86304
 
-6.  CA15\_3 (Cancer Ag 15-3 Qn)
+6.  CA15\_3 (Cancer Ag 15-3 Qn), Quantitative in Serum or Plasma
 
-    ***NEEDS TO BE UPDATED***
+    -   Common Name: CA15-3
+    -   Long Name: Cancer Antigen 15-3 Quantitative
+    -   Test Type: CA15\_3
+    -   Panels:
+    -   Equivalent Tests: Blood CA15-3
+    -   Not Equivalent Tests:
+    -   Indications: A doctor may order a CA-15-3 test to measure the amount of a protein called cancer antigen 15-3 (CA 15-3) in your blood. CA 15-3 is released into the bloodstream by some breast cancer cells. This test is primarily used to monitor breast cancer patients, assess treatment effectiveness, and detect disease recurrence.
+    -   Description: Doctors mainly use CA15-3 tests to check if advanced breast cancer is responding to treatment or to see if it has come back (recurred) after treatment. They will use this test to measure the CA15-3 level in the blood before, during and after treatment.
+    -   Related Tests: Tumor markers, BRCA-1, BRCA-2
+    -   Approximate Reference Range (Each site will have slight variations):  Normal range less that 30 U/ml
+    -   Comments: If CA15-3 levels fall during therapy, this generally indicates that the cancer is responding to treatment. If CA15-3 levels rise or stay the same, then the cancer may not be responding to therapy. High CA15-3 levels after treatment is complete may indicate that the cancer has come back. If a woman who has been diagnosed with breast cancer has a baseline CA15-3 level that is normal, then the test is not likely to be useful to monitor breast cancer. In this case, the breast cancer may not be producing CA15-3 so it is not a good marker of disease progression.
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 6875-9, 83083-6
+        -   Associated CPT:
 
-7.  CA15\_3\_QL (Cancer Ag 15-3 Ql)
+7.  CA15\_3\_QL (Cancer Ag 15-3 Ql), Qualitative in Serum or Plasma
 
-    ***NEEDS TO BE UPDATED***
+    -   Common Name: CA15-3 Qualitative
+    -   Long Name: Cancer Antigen 15-3 Qualitative
+    -   Test Type: CA15\_3\_QL
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications: A doctor may order a CA-15-3 test to measure the amount of a protein called cancer antigen 15-3 (CA 15-3) in your blood. CA 15-3 is released into the bloodstream by some breast cancer cells. This test is primarily used to monitor breast cancer patients, assess treatment effectiveness, and detect disease recurrence.
+    -   Description: Doctors mainly use CA15-3 tests to check if advanced breast cancer is responding to treatment or to see if it has come back (recurred) after treatment. They will use this test to measure the CA15-3 level in the blood before, during and after treatment.
+    -   Related Tests: Tumor markers, BRCA-1, BRCA-2
+    -   Approximate Reference Range (Each site will have slight variations):  Not applicable (qualitative test)
+    -   Comments: If CA15-3 levels fall during therapy, this generally indicates that the cancer is responding to treatment. If CA15-3 levels rise or stay the same, then the cancer may not be responding to therapy. High CA15-3 levels after treatment is complete may indicate that the cancer has come back. If a woman who has been diagnosed with breast cancer has a baseline CA15-3 level that is normal, then the test is not likely to be useful to monitor breast cancer. In this case, the breast cancer may not be producing CA15-3 so it is not a good marker of disease progression.
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 2007-3
+        -   Associated CPT:
 
-8.  CA199 (Cancer Ag 19-9)
+8.  CA199 (Cancer Ag 19-9), in Serum or Plasma
 
-    ***NEEDS TO BE UPDATED***
+    -   Common Name: CA19-9
+    -   Long Name: Cancer Antigen 19-9 Quantitative
+    -   Test Type: CA199
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications: CA19-9 is usually used to monitor the progress in treating pancreatic cancers.  Elevated levels of CA 19-9 can indicate pancreatic cancer, but it's also associated with other cancers like those of the stomach, bile duct, and colon, as well as gallbladder, lung, and ovarian cancers. Additionally, non-cancerous conditions like gallstones, pancreatitis, and liver disease can also cause elevated CA 19-9 levels.
+    -   Description: CA19-9 is a protein that is normally found in small amounts in the body. It is made by cells in the pancreas, liver and gallbladder. It can also be found on certain types of cancer cells.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations): Normal range less that 37 U/ml
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 2009-9, 2010-7, 24108-3, 83084-4
+        -   Associated CPT:
 
 9.  CA27\_29 (Cancer Ag 27-29 Qn)
 
-    ***NEEDS TO BE UPDATED***
+    -   Common Name: CA27\_29
+    -   Long Name: Cancer Antigen 27\_29 Quantitative
+    -   Test Type: CA27\_29
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications: CA 27-29 is a cancer antigen used as a tumor marker to monitor breast cancer, specifically in cases of metastasis or recurrence. It is not used for screening or diagnosing breast cancer, but rather to track how well treatment is working or if the cancer has spread or returned.
+    -   Description: The CA 27-29 marker (similar to CA 15-3) is used to follow the course of treatment in women with advanced breast cancer. Cancers of the colon, stomach, kidney, lung, ovary, pancreas, uterus, and liver may also raise CA 27-29 levels. Noncancerous conditions that may increase CA27-29 are: first trimester pregnancy, endometriosis, ovarian cysts, benign breast disease, kidney disease, and liver disease.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations): Normal range less that 38 U/ml
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 17842-6
+        -   Associated CPT:
 
 10. CA27\_29\_QL (Cancer Ag 27-29 Ql)
 
-    ***NEEDS TO BE UPDATED***
+    -   Common Name: CA27\_29 Qualitative
+    -   Long Name: Cancer Antigen 27\_29 Qualitative
+    -   Test Type: CA27\_29\_QL
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications: CA 27-29 is a cancer antigen used as a tumor marker to monitor breast cancer, specifically in cases of metastasis or recurrence. It is not used for screening or diagnosing breast cancer, but rather to track how well treatment is working or if the cancer has spread or returned.
+    -   Description: The CA 27-29 marker (similar to CA 15-3) is used to follow the course of treatment in women with advanced breast cancer. Cancers of the colon, stomach, kidney, lung, ovary, pancreas, uterus, and liver may also raise CA 27-29 levels. Noncancerous conditions that may increase CA27-29 are: first trimester pregnancy, endometriosis, ovarian cysts, benign breast disease, kidney disease, and liver disease.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):  Not applicable (qualitative test)
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 2012-3
+        -   Associated CPT:
 
 
 ### CALCIUM (Total Serum Calcium)
@@ -400,12 +450,40 @@ Other:
 
 ### CEA (Carcinoembryonic Ag)
 
-***NEEDS TO BE UPDATED***
+-   Common Name: Carcinoembryonic Ag
+-   Long Name: Carcinoembryonic Ag in Serum or Plasma
+-   Test Type: CEA
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications: Carcinoembryonic antigen (CEA) is increased in certain cancers, particularly colorectal cancer, but can also be elevated in other conditions and in people who smoke. CEA testing is a blood test that measures CEA levels, primarily used to monitor for cancer, assess treatment effectiveness, or detect recurrence.
+-   Description: Carcinoembryonic antigen (CEA) is a protein normally found in very low levels in the blood of adults. A CEA test is most commonly used for colorectal cancer.
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations): Normal range less that 3 ng/ml
+-   Comments:
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC: 19166-8, 19167-6, 2039-6, 83085-1
+    -   Associated CPT:
 
 
 ### CHLORIDE (Chloride, total)
 
-***NEEDS TO BE UPDATED***
+-   Common Name: Chloride
+-   Long Name: Chloride in serum, plasma, blood
+-   Test Type: CHLORIDE
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications: Symptoms of potential chloride imbalances (both low and high) can include fatigue, weakness, difficulty breathing, dehydration, and muscle twitching.
+-   Description: A chloride blood test measures the amount of chloride in your blood. Chloride is an electrolyte that helps maintain fluid balance, blood volume, and blood pressure. The test can be used to help diagnose and monitor conditions related to electrolyte imbalances, kidney problems, or lung disorders.
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations): The normal range for blood chloride is typically between 96 and 106 mEq/L.
+-   Comments:
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC: 100745-9, 2069-3, 2075-0, 41649-5, 41650-3, 51590-8, 77138-6
+    -   Associated CPT:
 
 
 ### (CK) Creatine Kinase Test Types
@@ -563,8 +641,6 @@ Other:
 
 10. CK\_MB\_EIA (Creatine Kinase MB – Enzyme Immunoassay)
 
-    ***NEEDS TO BE UPDATED***
-    
     -   Common Name: CK\_MB by immunoassay (also known as CPK MB)
     -   Long Name: Creatine Kinase MB – Enzyme Immunoassay
     -   Test Type: CK\_MB\_EIA
@@ -578,7 +654,7 @@ Other:
     -   Comments: If the value of CK\_MB is elevated and the ratio of CK\_MB to total CK (relative index) is high, it is likely that the heart was damaged. A high CK with a low relative index suggests that skeletal muscles were damaged.Although CK-MB is a good test, it has been largely replaced by troponin, which is more specific for damage to the heart. Persons whose kidneys have failed or who are having trouble breathing can have high CK\_MB levels without having had a heart attack. Rarely, chronic muscle disease, low thyroid hormone levels, and alcohol abuse can increase CK\_MB, producing changes similar to those seen in a heart attack.
     -   Test Method Variance: Separation of CK into isoenzymes may be accomplished by electrophoresis, column chromatography, or immunoassay. Immunoassay methods for isoenzymes can be accomplished rapidly, are highly sensitive and specific, and do not show the interferences common to traditional electrophoresis.
     -   Other:
-        -   Associated LOINC:
+        -   Associated LOINC:  (No LOINCs have been identified at this time)
         -   Associated CPT:  82553
 
 11. CK\_MB\_EP (Creatine Kinase MB - Electrophoresis)
@@ -619,8 +695,6 @@ Other:
 
 13. CK\_MBI\_EIA (Creatine Kinase MB/Creatine Kinase Total Enzyme Immunoassay)
 
-    ***NEEDS TO BE UPDATED***
-    
     -   Common Name: CK\_MB/CK (ratio determined by enzyme immunoassay)
     -   Long Name: Creatine Kinase MB/Creatine Kinase Total Enzyme Immunoassay
     -   Test Type: CK\_MBI\_EIA
@@ -637,7 +711,7 @@ Other:
     -   Comments: CK\_MB to total CK (often multiplied by 100) can assist in differentiating false positive elevations of CK\_MB arising from skeletal muscle. No definitive diagnosis can be established without serial determinations to detect a rise.
     -   Test Method Variance:
     -   Other:
-        -   Associated LOINC:  12187-1, 72563-0
+        -   Associated LOINC:  (No LOINCs have been identified at this time)
         -   Associated CPT:  82550, 82553
 
 14. CK\_MBI\_EP (Creatine Kinase MB/ Creatine Kinase Total Electrophoresis)
@@ -704,8 +778,6 @@ Other:
 
 18. CK\_QN (Creatinine Kinase Macromolecular Quantitative)
 
-    ***NEEDS TO BE UPDATED***
-    
     -   Common Name: Serum creatinine
     -   Long Name: Blood/Serum/Plasma Creatinine
     -   Test Type: CREATININE
@@ -736,43 +808,174 @@ Other:
     
     -   Test Method Variance: Not common
     -   Other:
-        -   Associated LOINC:
-        -   Associated CPT:
+        -   Associated LOINC:  (No LOINCs have been identified)
+        -   Associated CPT:  82550
 
 
 ### (CO2) Carbon Dioxide Test Types
 
-1.  CO2\_A (Carbon dioxide, total [Moles/volume] in Arterial blood)
+1.  CO2\_A (Carbon dioxide in Arterial blood)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Carbon dioxide in Arterial blood
+    -   Long Name: Carbon dioxide, total [Moles/volume] in Arterial blood
+    -   Test Type: CO2\_A
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications: A carbon dioxide (CO2) blood test may be indicated for several reasons, including when a person experiences symptoms of an electrolyte imbalance, like breathing difficulties, weakness, or fatigue.
+    -   Description: An arterial blood test, specifically measuring carbon dioxide, is a test that analyzes blood from an artery to assess lung function, oxygen and carbon dioxide levels, and acid-base balance. It measures the partial pressure of carbon dioxide (PaCO2), which indicates how well the body is removing carbon dioxide from the bloodstream.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):  normal range for carbon dioxide in arterial blood, specifically the partial pressure of carbon dioxide (PaCO2), is typically 35 to 45 mmHg (or 4.7 to 6.0 kPa). Another way to express this range is 23 to 30 mEq/L or 23 to 29 mmol/L
+    -   Comments: Also, see HCO3\_ test\_types for bicarbonate
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC:  2026-3
+        -   Associated CPT:
 
-2.  CO2\_C (Carbon dioxide, total [Moles/volume] in Arterial blood)
+2.  CO2\_C (Carbon dioxide in Capillary blood)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Carbon dioxide in Capillary blood
+    -   Long Name: Carbon dioxide, total [Moles/volume] in Capillary blood
+    -   Test Type: CO2\_C
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications: A carbon dioxide (CO2) blood test using capillary blood, also known as a capillary blood gas (CBG) test, is typically used when an arterial blood gas (ABG) test is not feasible or necessary, and is mainly used for monitoring acid-base balance and respiratory status. It can be a good alternative to arterial blood draw in certain situations.
+    -   Description: A capillary blood test to measure carbon dioxide (pCO2) is a common laboratory procedure used to assess ventilation status and acid-base balance, especially in cases where arterial blood gas (ABG) collection is difficult or less desirable, such as in neonates and children. This test provides a less invasive alternative to drawing blood from an artery.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations): The normal range for total carbon dioxide (TCO2) in blood, when measured using capillary blood, is generally 22-28 mEq/L or 22-28 mmol/L.
+    -   Comments: Also, see HCO3\_ test\_types for bicarbonate
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 16551-4
+        -   Associated CPT:
 
-3.  CO2\_V (Carbon dioxide, total [Moles/volume] in Arterial blood)
+3.  CO2\_V (Carbon dioxide in Veinous blood)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Carbon dioxide in Veinous blood
+    -   Long Name: Carbon dioxide, total [Moles/volume] in Veinous blood)
+    -   Test Type: CO2\_V
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications: A venous carbon dioxide blood test (CO2 test) is often done as part of an electrolyte panel or basic metabolic panel when a healthcare provider suspects an electrolyte imbalance, potential side effects of certain medications, or to check for conditions like kidney disease or Cushing's disease. It's also used to monitor the progress of diseases that affect bicarbonate levels.
+    -   Description: The carbon dioxide (CO2) in veinous blood test helps healthcare providers determine if the body is balancing electrolytes properly.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations): normal range of 20 to 29 millimoles per liter (mmol/L)
+    -   Comments: Also, see HCO3\_ test\_types for bicarbonate
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 19223-7, 2027-1, 97545-8
+        -   Associated CPT:
 
-4.  CO2\_NS (Carbon dioxide, total [Moles/volume] in Arterial blood)
+4.  CO2\_NS (Carbon dioxide source not specified)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Carbon dioxide source not specified
+    -   Long Name: Carbon dioxide, total [Moles/volume] in Serum, Plasma or Blood
+    -   Test Type: CO2\_NS
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications: A carbon dioxide test is typically done to check for electrolyte imbalances, kidney or lung disorders, or metabolic problems.
+    -   Description: A CO2 blood test measures the amount of carbon dioxide in your blood, primarily in the form of bicarbonate and helps assess your body's acid-base balance and kidney and lung function.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations): normal range of 20 to 29 millimoles per liter (mmol/L)
+    -   Comments: Also, see HCO3\_ test\_types for bicarbonate
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 2028-9, 20565-8, 77143-6
+        -   Associated CPT:
 
-5.  CO2\_A\_CLC (Carbon dioxide, total [Moles/volume] in Arterial blood)
+5.  CO2\_A\_CLC (Carbon dioxide in Arterial blood Calculated)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Carbon dioxide in Arterial blood Calculated
+    -   Long Name: Carbon dioxide, total [Moles/volume] in Arterial blood by calculation
+    -   Test Type: CO2\_A\_CLC
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications: A CO2 blood test can be performed using a calculated result, particularly in the context of an arterial blood gas (ABG) test. Carbon dioxide (CO2) is a waste product of your body's metabolism. Most of the CO2 in your blood exists in the form of bicarbonate (HCO3). Bicarbonate is a vital electrolyte that helps maintain the acid-base balance (pH) in your blood.
+    -   Description: While a standard venous CO2 test measures bicarbonate (which is the main form of CO2 in blood), arterial blood gas analysis can involve measuring pH and pCO2 (partial pressure of carbon dioxide).
+    
+    Using these measured values (pH and pCO2), the total CO2 content (TCO2) can be calculated using a standardized form of the Henderson-Hasselbalch equation.
+    
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments: Also, see HCO3\_ test\_types for bicarbonate
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 41647-9
+        -   Associated CPT:
 
-6.  CO2\_C\_CLC (Carbon dioxide, total [Moles/volume] in Arterial blood)
+6.  CO2\_C\_CLC (Carbon dioxide in Capillary blood by calculated)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Carbon dioxide in Capillary blood by calculated
+    -   Long Name: Carbon dioxide, total [Moles/volume] in Capillary blood by calculation
+    -   Test Type: CO2\_C\_CLC
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications: Calculated CO2 values in capillary blood (typically bicarbonate - HCO3-) are primarily used to assess and monitor acid-base balance and ventilation adequacy in patients. A direct measurement of CO2 in capillary blood may be less reliable compared to arterial blood in some cases, capillary blood gas analyzers measure pH and pCO2 (carbon dioxide tension). From these measurements, other parameters like bicarbonate (HCO3-) and base excess (BE) are then calculated.
+    -   Description:While CO2 levels can be measured directly in blood, in certain situations, particularly in neonates and children, a capillary blood gas (CBG) test may be performed, and some results, like bicarbonate (HCO3), are often calculated.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments: Also, see HCO3\_ test\_types for bicarbonate
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 51781-3
+        -   Associated CPT:
 
-7.  CO2\_V\_CLC (Carbon dioxide, total [Moles/volume] in Arterial blood)
+7.  CO2\_V\_CLC (Carbon dioxide in Venous blood by calculation)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Carbon dioxide in Venous blood by calculation
+    -   Long Name: Carbon dioxide, total [Moles/volume] in Venous blood by calculation
+    -   Test Type: CO2\_V\_CLC
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications: A carbon dioxide test using a calculated result from venous blood might be indicated when a patient exhibits symptoms of electrolyte imbalance or acid-base imbalance, or if there are concerns about respiratory or kidney function, or if the patient is experiencing symptoms like shortness of breath, weakness, confusion, or fatigue, as these can all be associated with imbalances in the body's acid-base balance and electrolytes.
+    -   Description: A venous blood test that measures the amount of carbon dioxide (CO2) in the blood is often performed as part of an electrolyte or basic metabolic panel. This test, also known as a CO2 content test, total CO2, or bicarbonate test, helps evaluate the body's acid-base balance.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments: Also, see HCO3\_ test\_types for bicarbonate
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 57920-1, 48391-7
+        -   Associated CPT:
 
-8.  CO2\_NS\_CLC (Carbon dioxide, total [Moles/volume] in Arterial blood)
+8.  CO2\_NS\_CLC (Carbon dioxide source not specified by calculation)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Carbon dioxide source not specified by calculation
+    -   Long Name: Carbon dioxide, total [Moles/volume] in Serum, Plasma or Blood by calculation
+    -   Test Type: CO2\_NS\_CLC
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications: A calculated bicarbonate (HCO3) level, which is a key indicator of the total carbon dioxide (CO2) in your blood, is typically tested in various situations to help assess your body's acid-base balance and overall health.
+    -   Description: Most laboratories measure the total carbon dioxide content in a blood sample, which mainly comprises bicarbonate. This is often done using an autoanalyzer.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments: Also, see HCO3\_ test\_types for bicarbonate
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 34728-6, 57922-7
+        -   Associated CPT:
 
 
 ### COLOGUARD (Noninvasive colorectal cancer screen)
@@ -2393,6 +2596,8 @@ U\_PCR is used when a child shows evidence of significant and persistent protein
 -   Comments: A low serum ferritin value is thought to be the best laboratory indicator of iron depletion (iron deficiency). Ferritin levels are elevated in those with hemochromatosis and other excess iron storage disorders and in those who have had multiple blood transfusions. Ferritin is an acute phase reactant, therefore serum ferritin concentrations can be increased by chronic infections, fever, and inflammatory reactions. The ferritin test may be ordered, along with other iron tests, when a complete blood count (CBC) shows that a person's hemoglobin and hematocrit are low and their red blood cells are smaller and paler than normal (i.e., potentially iron deficiency anemia).
 -   Test Method Variance: Results can also be reported as ng/mL
 -   Other:
+    -   Associated LOINC:  2276-4, 14723-1, 20567-4, 35209-6, 14724-9, 24373-3
+    -   Associated CPT: 82728
 
 
 ### FIBRINOGEN (Fibrinogen activity in platelet poor plasma)
@@ -2451,12 +2656,11 @@ volume (MCV)
 -   Description: The INR was created to standardize PT readings which vary from lab to lab. It is calculated by taking the PT ratio and exponeniating it by the international sensitivity index of the thromboplastin used to measure PT.
 -   Related Tests: PT; ACT; PTT; platelet count, platelet function test
 -   Approximate Reference Range: The goal of therapy for most patients is an INR of 2.0 to 3.0. The goal INR for some patients with a high risk of clot formation is 2.5 to 3.5.
--   Comments: Patients’ warfarin therapy must be titrated to reach these therapeutic ranges. Therefore, INR values may vary from higher or lower than the recommended ranges as
-
-regimens are being titrated or adjusted. The risk of bleeding increases as INR increases.
-
--   Test Method Variance: &#x2013;
--   Other: &#x2013;
+-   Comments: Patients’ warfarin therapy must be titrated to reach these therapeutic ranges. Therefore, INR values may vary from higher or lower than the recommended ranges as regimens are being titrated or adjusted. The risk of bleeding increases as INR increases.
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC: 6301-6, 34714-6, 46418-0
+    -   Associated CPT: 85610
 
 
 ### (LYMPH) Lymphocyte Test Types
@@ -2627,15 +2831,18 @@ regimens are being titrated or adjusted. The risk of bleeding increases as INR i
 -   Long Name: Platelets
 -   Test Type: PLATELETS
 -   Panels: Complete blood count
--   Equivalent Tests: &#x2013;
+-   Equivalent Tests:
 -   Not Equivalent Tests: Platelet aggregation; other tests of platelet function
 -   Indications: Platelet counts are used to diagnose bleeding disorders and diseases of the bone marrow. Platelet counts are ordered when an individual has unexplained bruising. Platelet counts are also used when an individual seems to take an excessive amount of time to stop bleeding from cuts and wounds that are not large.
 -   Description: The platelet count is used to determine the number of platelets in your blood. Platelets, also known as thrombocytes, are small pieces of larger cells known as megakarycytes. Megakarycytes are made in the bone marrow. Platelets are released from the bone marrow and circulate in the blood. Platelets are the “first responders” when there is injury to a tissue or blood vessel. Platelets begin the formation of a blood clot in response to injury.
 -   Related Tests: Platelet aggregation; One component of the complete blood count (CBC) is platelets. (Other components of the CBC include hemoglobin, red blood cells, hematocrit, and white blood cells).
 -   Approximate Reference Range (Each site will have slight variations): 150,000 to 450,000 per microliter (mcl or μL or 10-6/Liter) of blood.
 -   Comments: Platelet counts are used to help diagnose bleeding disorders and bone marrow diseases such as leukemia. Other causes of low platelets include autoimmune diseases, drug reactions, chemotherapy, diseases such as thrombocytopenic purpura (TTP), heparin induced thrombocytopenia, hemolytic uremia syndrome, and pooling of platelets in the spleen. When platelet counts fall below 10,000 – 20,000 per microliter, bleeding can occur even in the absence of apparent injury. Very low platelet counts are called thrombocytopenia. Platelet counts can also be too high (aka thrombocytosis). Thrombocytosis sometimes occurs without any other medical condition or with myeloproliferative disorders. The platelets in individuals with myeloproliferative disorders often do not function normally.
--   Test Method Variance: &#x2013;
--   Other: &#x2013;
+-   Test Method Variance:
+-   Other: 
+    -   Associated LOINC:  777-3, 24361-8, 26515-7, 778-1, 13056-7, 97995-5
+        -   Exclusion Criteria: Plasma is Excluded (26516-5), no qualitative results (9317-9)
+    -   Associated CPT:
 
 
 ### PT (Prothrombin time)
@@ -4261,6 +4468,9 @@ TEST\_TYPE LONGNAME
 -   Approximate Reference Range (Each site will have slight variations): N/A
 -   Comments: Strains are classified as high risk relative to other HPV strains, not with respect to the absolute risk for developing serious cervical abnormalities. The prevalence of high risk HPV strains in the population of women of screening age is approximately 15%. As of 2010, high risk strains include 16, 18, 31, 33, 35, 39, 45, 51, 52, 56, 58, 59, and 68 with 16 and 18 being most prevalent. Test results are unlikely to specify strain, only the presence or absence of 1+ high risk strains. For the purposes of the ABN\_IND variable: abnormal = positive for 1+ high risk HPV strain(s); normal = no high risk HPV strains found. The HPV DNA tests came into widespread use in cervical cancer screening and prevention programs in the mid 2000s. HPV is also associated with vulvar, penile, and anal intraepithelial neoplasia and cancer. If you are able to distinguish specimen body source, only specimens taken from the cervix should be include in this test type. A test does not need to test for every high risk strain to be included.
 -   Test Method Variance: N/A
+-   Other:
+    -   Associated LOINC:
+    -   Associated CPT:
 
 
 ### HPVDNA\_UN (Human Papilloma Virus DNA Test, Specimen Source/Site Unknown)
@@ -4277,6 +4487,9 @@ TEST\_TYPE LONGNAME
 -   Approximate Reference Range (Each site will have slight variations): N/A
 -   Comments: Strains are classified as high risk relative to other HPV strains, not with respect to the absolute risk for developing serious cervical abnormalities. The prevalence of high risk HPV strains in the population of women of screening age is approximately 15%. As of 2010, high risk strains include 16, 18, 31, 33, 35, 39, 45, 51, 52, 56, 58, 59, and 68 with 16 and 18 being most prevalent. Test results are unlikely to specify strain, only the presence or absence of 1+ high risk strains. For the purposes of the ABN\_IND variable: abnormal = positive for 1+ high risk HPV strain(s); normal = no high risk HPV strains found. The HPV DNA tests came into widespread use in cervical cancer screening and prevention programs in the mid 2000s. HPV is also associated with vulvar, penile, and anal intraepithelial neoplasia and cancer.
 -   Test Method Variance: N/A
+-   Other:
+    -   Associated LOINC:
+    -   Associated CPT:
 
 
 ## Blank Template
