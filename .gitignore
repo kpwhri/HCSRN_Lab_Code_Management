@@ -7,6 +7,8 @@ omop_vocab/*.sas7bdat
 omop_vocab/*.csv
 sas_dat/rcm_*
 sas_dat/vdw_codebucket*
+sas_dat/xwalk_*
+sas_dat/group_*
 *.log
 omop_vocab/cpt.bat
 omop_vocab/cpt.sh

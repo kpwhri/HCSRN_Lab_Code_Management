@@ -1289,21 +1289,23 @@ Prealbumin, microalbumin, urinalysis, liver panel
 5.  FOB\_IMMUN\_QN (Fecal Immunologic [Immunochemical] quantitative)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
-    -   Common Name: FIT (fecal immunochemical test0, iFOBT
-    -   Long Name: FOBT qualitative; quick test; HFH test; occult blood in stool; immunologic
-    -   Test Type: FOB\_IMMUN
+    -   Common Name: FIT (fecal immunochemical test, iFOBT)
+    -   Long Name: FOBT quantitative; fecal occult blood; occult blood in stool; immunologic
+    -   Test Type: FOB\_IMMUN\_QN
     -   Panels:
-    
-    Equivalent tests: FOBT is a general name applied to stool tests to detect blood “hidden” (occult) in the stool. Two basic technologies are employed: the guaiac test, which is older and used routinely, and the immunochemical tests, which are newer. The fecal immunochemical test is the “FIT” or iFOBT. The FIT can also be known as the Hemoccult ICT ® (formerly FlexSure OBT®), Immudia-Hem Sp® , HemSelect®, or Insure®. The information provided here applies to the iFOBT or FIT. Please see the other FOBT sheets for information about other occult blood tests for stool.
-    Not equivalent tests: The FOBT test must be from stool. Text searches for “hemoccult” may or may not be productive. Similarly, text searches on “feces”, “fecal”, or “occult blood” may be useful but do not over-generalize; many of these tests will be unrelated to FOBT. Do not to confuse FOBT with other tests related to blood. Be cautious when considering tests that contain the word “heme” because, although FOBT recognizes the “heme” portion of hemoglobin, hemoglobin is the oxygen-carrying molecule in blood and many tests containing the root “heme” are not FOBT.
-    
+    -   Equivalent tests:  FOBT is a general name applied to stool tests to detect blood “hidden” (occult) in the stool. Two basic technologies are employed: the guaiac test, which is older and used routinely, and the immunochemical tests, which are newer. The fecal immunochemical test is the “FIT” or iFOBT. The FIT can also be known as the Hemoccult ICT ® (formerly FlexSure OBT®), Immudia-Hem Sp® , HemSelect®, or Insure®. The information provided here applies to the iFOBT or FIT. Please see the other FOBT sheets for information about other occult blood tests for stool.
+    -   Not equivalent tests:  The FOBT test must be from stool. Text searches for “hemoccult” may or may not be productive. Similarly, text searches on “feces”, “fecal”, or “occult blood” may be useful but do not over-generalize; many of these tests will be unrelated to FOBT. Do not to confuse FOBT with other tests related to blood. Be cautious when considering tests that contain the word “heme” because, although FOBT recognizes the “heme” portion of hemoglobin, hemoglobin is the oxygen-carrying molecule in blood and many tests containing the root “heme” are not FOBT.
     -   Indications: The FIT detects blood in stool. The test may be performed to screen for colorectal cancer (CRC), or to diagnose other conditions that cause bleeding into the gastrointestinal (GI) tract. Occult (blood not visible to the eye) blood in feces may be due to CRC, polyps, or other GI conditions (e.g., hemorrhoids, anal fissures, ulcers, inflammatory bowel disease).
-    -   Description: Fecal immunochemical tests use antibodies to detect human hemoglobin in stool samples. They are specific for human blood (in contrast to the guaiac test which detects nonhuman blood and is influenced by other interferences). The immunochemical test causes a color change; i.e., with a change in color indicating a positive test. In routine clinical use the expected result would be qualitative; the number of windows tested, and the number that are negative/positive. FIT is a newer test than the guaiac. FIT sample collection procedures are designed to increase acceptability and adherence by patients.
+    -   Description: A fecal immunochemical test (FIT) (also called an immunochemical fecal occult blood test or iFOBT) uses antibodies specific to the human globulin part of the Hemoglobin. Fecal immunochemical tests use antibodies to detect human hemoglobin in stool samples. They are specific for human blood; they do not react to animal blood as found in meat , nor plant analogues, and drugs like Vitamin C do not effect the testing, so dietary adjustment is not needed. More important, globulin does not survive the enzymes of the upper digestive tract, so it is specific to lower GI bleeding-that is important to colon cancer screening. Different kit manufacturers have different requirements for repeats and timing, but most experts say you need samples from 2 different days for good results.
     -   Related Tests: See the following TEST\_TYPES: FOB\_GUAI, FOB1\_GUAI, and FOB\_QN
-    -   Approximate Reference Range: N/A
+    -   Approximate Reference Range: a common threshold for positivity is around 10 μg Hb/g feces. 
     -   Comments: Remember that this is a stool test; the material being tested is human feces. When conducting string searches of databases to locate iFOBT tests, it may be useful to use terms such as “fecal”, “stool” and “occult”, and to ascertain that stool is the medium being tested.
     -   Test Method Variance:
+    -   Other
+        -   Associated LOINC: 58453-2
+        -   Associated CPT:
 
 
 ### FOLATE (Folate in serum)
@@ -1443,6 +1445,23 @@ Prealbumin, microalbumin, urinalysis, liver panel
 5.  GFR\_CKD (Glomerular Filtration Rate, CKD-EPI)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Glomerular filtration rate
+    -   Long Name: Glomerular Filtration Rate/1.73 sq M.predicted (CKD-EPI)
+    -   Test Type: GFR\_CKD
+    -   Panels: Comprehensive metabolic panel, basic metabolic panel
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications: Measure kidney function; screen for/detect kidney damage; monitor kidney status
+    -   Description: Glomerular Filtration Rate (GFR) is a key measure of kidney function. It represents the rate at which blood is filtered by the kidneys each minute. This filtration process is essential for removing waste products and excess fluid from the blood, which are then excreted from the body as urine. The kidneys contain tiny filters called glomeruli, which are the main structures responsible for filtration. The glomeruli act like sieves, allowing small molecules like waste products (such as creatinine) and excess water to pass through, while preventing larger substances like blood cells and proteins from entering the filtrate.  The GFR quantifies how efficiently this filtering process is occurring by measuring the volume of blood filtered per unit of time. This is typically expressed in milliliters per minute (mL/min). The MDRD equation was created from data from the Modification of Diet and Renal Disease (MDRD) Study, is based on 4 variables (i.e. Scr, age, gender, race), and was introduced in 2005. GFR= 175 x (Standardized Scr)-1.154 x (Age)-0.203 x (0.742 if female) x (1.120 if African American) See: <http://www.nkdep.nih.gov/professionals/gfr_calculators/>.
+    -   Related Tests: SCr; CrCl
+    -   Approximate Reference Range (Each site will have slight variations):  Normal GFR values typically fall within the range of 90 to 120 mL/min/1.73 m² (adjusted for body surface area). A GFR below 60 mL/min/1.73 m² for three months or more suggests potential kidney disease.
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 62238-1, 97952-6
+        -   Associated CPT:
 
 6.  GFR\_CKD\_EPI (Glomerular Filtration Rate, CKD-EPI 2021, not based on race)
 
@@ -1455,14 +1474,65 @@ Prealbumin, microalbumin, urinalysis, liver panel
 8.  GFR\_CYST (Glomerular Filtration Rate, Cystatin)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name:  Glomerular Filtration Rate, Cystatin
+    -   Long Name:  Glomerular Filtration Rate/1.73 sq M.predicted (Cystatin)
+    -   Test Type:  GFR\_CYST
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:  Measure kidney function; screen for/detect kidney damage; monitor kidney status
+    -   Description: Cystatin C is an alternative and increasingly valuable marker for assessing kidney function. It is a protein produced at a constant rate by all nucleated cells and is primarily cleared from the blood by the kidneys through glomerular filtration. Because its production is less influenced by factors like muscle mass and diet, it can offer a more accurate assessment of GFR in certain situations.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations): The normal range for serum cystatin C is generally between 0.62-1.15 mg/L
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 102097-3, 50210-4, 87430-5, 94677-2
+        -   Associated CPT:
 
 9.  GFR\_F\_MD (Glomerular Filtration Rate, MDRD, Female)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name:  Glomerular Filtration Rate, MDRD, Female
+    -   Long Name:  Glomerular Filtration Rate/1.73 sq M.predicted.female (MDRD)
+    -   Test Type:  GFR\_F\_MD
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:  The estimated glomerular filtration rate (eGFR) is a valuable tool used to assess kidney function and detect kidney disease. It's calculated from a blood test that measures creatinine, a waste product generated from muscle activity.
+    -   Description:  In women, glomerular filtration rate (GFR) is often estimated using a formula that includes serum creatinine levels, along with other factors like age, race, and body size.  Creatinine is a waste product generated from muscle metabolism that is normally filtered out of the blood by the kidneys and excreted in urine. A creatinine blood test helps assess kidney function because higher levels in the blood might suggest that the kidneys aren't filtering waste products effectively.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):  The normal range for GFR in healthy, younger adult women is typically between 90 and 120 mL/min/1.73m²
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC:  50044-7  (predict female)
+        -   Associated CPT:
 
 10. GFR\_M\_MD (Glomerular Filtration Rate, MDRD, Male)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Glomerular Filtration Rate, MDRD, Male
+    -   Long Name:  Glomerular Filtration Rate/1.73 sq M.predicted.male (MDRD)
+    -   Test Type:  GFR\_M\_MD
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:  The estimated glomerular filtration rate (eGFR) is a valuable tool used to assess kidney function and detect kidney disease. It's calculated from a blood test that measures creatinine, a waste product generated from muscle activity.
+    -   Description:  The Glomerular Filtration Rate (GFR) is a crucial measure of kidney function, indicating how well the kidneys filter waste products from the blood. In men, GFR is often estimated using blood creatinine levels, leading to the term "estimated GFR" or eGFR. Creatinine is a waste product generated from muscle activity that is filtered out by the kidneys.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):  a normal GFR for healthy adults, including men, falls between 90 and 120 mL/min/1.73 m²
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC:  70969-1  (predict male)
+        -   Associated CPT:
 
 11. GFR\_MDRD (Glomerular Filtration Rate, MDRD)
 
@@ -1619,23 +1689,89 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 ### (HCO3) Bicarbonate Test Types
 
-***NEEDS TO BE UPDATED***
-
 1.  HCO3\_A (Bicarbonate in Arterial blood)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name:  Bicarbonate in Arterial blood
+    -   Long Name:  Bicarbonate [Moles/volume] in Arterial blood
+    -   Test Type:  HCO3\_A
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:  Low bicarbonate can indicate metabolic acidosis, where the body has too much acid. This can be caused by conditions like diabetic ketoacidosis, kidney disease, or severe diarrhea.  High bicarbonate can indicate metabolic alkalosis, where the body has too much base (alkali). This can result from conditions like prolonged vomiting, dehydration, or certain kidney diseases.
+    -   Description:  Bicarbonate (or HCO3), is often referred to as the "bicarbonate ion" or sometimes simply "bicarb", is a crucial element measured in an arterial blood gas (ABG) test. It plays a vital role in maintaining the acid-base balance (pH balance) in the body, which is essential for various bodily functions to operate correctly.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations): Normal bicarbonate levels in adults typically range from 22 to 32 mmol/L or 23 to 29 mEq/L
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 19230-2, 1960-4
+        -   Associated CPT:
 
 2.  HCO3\_C (Bicarbonate in Capillary blood)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name:  Bicarbonate in Capillary blood
+    -   Long Name:  Bicarbonate [Moles/volume] in Capillary blood
+    -   Test Type:  HCO3\_C
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:  Metabolic Acidosis (Low Bicarbonate): Bicarbonate levels below the normal range may indicate metabolic acidosis, meaning the blood is too acidic. Causes include conditions like kidney disease, diabetic ketoacidosis, chronic diarrhea, and Addison's disease.  Metabolic Alkalosis (High Bicarbonate): Bicarbonate levels above the normal range can signify metabolic alkalosis, where the blood is too alkaline. This can result from factors like severe vomiting, dehydration, chronic lung problems (e.g., emphysema), or certain hormonal disorders like Cushing's disease.
+    -   Description:  Bicarbonate is a vital electrolyte in the blood, playing a crucial role in maintaining the body's acid-base (pH) balance. It's a calculated value typically obtained alongside other blood gas parameters like pH, pO2, and pCO2.  Capillary Blood Gas' are a valuable alternative to arterial blood gases (ABGs), especially in situations where repeated arterial sampling is difficult, such as in pediatric patients.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):  In adults, normal bicarbonate levels typically range from 22 to 26 mEq/L.
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 19231-0, 1961-2
+        -   Associated CPT:
 
 3.  HCO3\_V (Bicarbonate in Venous blood)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name:  Bicarbonate in Venous blood
+    -   Long Name:  Bicarbonate [Moles/volume] in Venous blood
+    -   Test Type:  HCO3\_V
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:  Metabolic Acidosis (Low Bicarbonate): Bicarbonate levels below the normal range may indicate metabolic acidosis, meaning the blood is too acidic. Causes include conditions like kidney disease, diabetic ketoacidosis, chronic diarrhea, and Addison's disease.  Metabolic Alkalosis (High Bicarbonate): Bicarbonate levels above the normal range can signify metabolic alkalosis, where the blood is too alkaline. This can result from factors like severe vomiting, dehydration, chronic lung problems (e.g., emphysema), or certain hormonal disorders like Cushing's disease.
+    -   Description: Bicarbonate acts as a primary buffer, converting excess hydrogen ions into carbonic acid, then converts to carbon dioxide and water. While arterial blood gas analysis is often considered the gold standard for assessing acid-base status, venous bicarbonate, usually measured as part of a basic metabolic panel or comprehensive metabolic panel, can provide a reliable estimate of arterial bicarbonate.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations): Typically ranges from 22 to 32 mmol/L in adults.
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 14627-4, 19229-4, 19232-8, 19233-6
+        -   Associated CPT:
 
 4.  HCO3\_NS (Bicarbonate source not specified)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name:  Bicarbonate source not specified
+    -   Long Name:  Bicarbonate [Moles/volume] in Serum, Plasma or Blood
+    -   Test Type:  HCO3\_NS
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:  Metabolic Acidosis (Low Bicarbonate): Bicarbonate levels below the normal range may indicate metabolic acidosis, meaning the blood is too acidic. Causes include conditions like kidney disease, diabetic ketoacidosis, chronic diarrhea, and Addison's disease.  Metabolic Alkalosis (High Bicarbonate): Bicarbonate levels above the normal range can signify metabolic alkalosis, where the blood is too alkaline. This can result from factors like severe vomiting, dehydration, chronic lung problems (e.g., emphysema), or certain hormonal disorders like Cushing's disease.
+    -   Description:  Bicarbonate is a vital electrolyte that plays a crucial role in maintaining the body's acid-base balance. It acts as a buffer, helping to neutralize acids and keep the blood's pH within a narrow, healthy range. It is a byproduct of metabolism, transported by the blood to the lungs to be exhaled as carbon dioxide and regulated by the kidneys.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations): Typically ranges from 22 to 32 mmol/L in adults.
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 1959-6, 1962-0, 1963-8, 69964-5
+        -   Associated CPT:
 
 
 ### HDL (High density lipoprotein cholesterol)
@@ -1665,11 +1801,45 @@ Prealbumin, microalbumin, urinalysis, liver panel
 ### IL\_6 (Interleukin 6)
 
 ***NEEDS TO BE UPDATED***
+***UNDER REVIEW***
+
+-   Common Name:  Interleukin 6
+-   Long Name:  Interleukin 6 in Serum or Plasma
+-   Test Type:  IL\_6
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications:  Elevated IL-6 levels are often associated with the presence of inflammation or infection within the body and can also be linked to various health conditions.
+-   Description:  Interleukin-6 (IL-6) is a cytokine, or cell-signaling protein, that plays a key role in the immune response and various physiological processes. It can be measured in both serum and plasma samples.
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations):  The normal range for IL-6 levels in healthy adults is generally considered to be less than 5 pg/mL
+-   Comments:
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC:  26881-3, 4655-7
+    -   Associated CPT:
 
 
 ### IL\_6\_QL (Interleukin 6 presence)
 
 ***NEEDS TO BE UPDATED***
+***UNDER REVIEW***
+
+-   Common Name:  Interleukin 6 presence
+-   Long Name:  Interleukin 6 in Serum or Plasma - Presence
+-   Test Type:  IL\_6\_QL
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications:  The presence of IL-6 is often associated with the presence of inflammation or infection within the body and can also be linked to various health conditions.
+-   Description:  Interleukin-6 (IL-6) is a cytokine, or cell-signaling protein, that plays a key role in the immune response and various physiological processes. It can be measured in both serum and plasma samples.
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations): Not applicable for qualitative test
+-   Comments:
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC: 44322-6
+    -   Associated CPT:
 
 
 ### K (Potassium, Serum)
@@ -1850,6 +2020,28 @@ Prealbumin, microalbumin, urinalysis, liver panel
 8.  PG\_QN\_U (Pregnancy Determination, Urine Beta Human Choriogonadotropin quantitative)
 
     ***NEEDS TO BE UPDATED***
+
+
+### PROCALC (Procalcitonin in Serum or Plasma)
+
+***NEEDS TO BE UPDATED***
+***UNDER REVIEW***
+
+-   Common Name:
+-   Long Name:
+-   Test Type:
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications:
+-   Description:
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations):
+-   Comments:
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC:
+    -   Associated CPT:
 
 
 ### (PSA) Prostate specific antigen Test Types
