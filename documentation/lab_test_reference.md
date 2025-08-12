@@ -32,10 +32,26 @@ This reference document is not inclusive of all lab tests that have been deemed 
 
 ### AFP (Alpha-1 Fetoprotein)
 
-***NEEDS TO BE UPDATED***
+***UNDER REVIEW***
+
+-   Common Name:  Alpha-1 Fetoprotein
+-   Long Name:  Alpha-1 Fetoprotein in Serum or Plasma
+-   Test Type:  AFP
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications: The AFP test is a screening tool used to assess the risk of certain fetal abnormalities, including neural tube defects (like spina bifida and anencephaly) and some chromosomal disorders such as Down syndrome and Edwards syndrome.  In non-pregnant individuals it can be used as a tumor marker to detect and monitor certain cancers, especially liver cancer, testicular cancer, and ovarian cancer. It can also help monitor treatment effectiveness and detect potential cancer recurrence.
+-   Description:  The Alpha-Fetoprotein (AFP) in serum or plasma test measures the level of AFP, a protein, in a blood sample. AFP is primarily produced during fetal development by the liver and yolk sac. In healthy individuals who are not pregnant, AFP levels are typically very low.
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations):  For healthy non-pregnant adults, the normal range is generally considered low, with values typically between 0 and 40 ng/mL, although some sources specify a normal range of 0 to 8 ng/mL or less than 10 ng/mL.  In pregnant women, AFP levels increase from around the 14th week of gestation until about the 32nd week. For instance, between 15 and 21 weeks of gestation, a typical range for AFP is 10 to 150 ng/mL.
+-   Comments: These LOINCs represent AFP used as a tumor marker and not when used in maternal testing for birth defects.
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC: 1834-1, 19176-7, 19177-5, 53960-1, 53961-9, 53962-7, 83072-9, 83073-7
+    -   Associated CPT:
 
 
-### ALBUMIN (Albumin, total in blood/serum)
+### ALBUMIN (Albumin in blood)
 
 -   Common Name: Albumin
 -   Long Name: Albumin, total in blood/serum
@@ -99,18 +115,20 @@ Prealbumin, microalbumin, urinalysis, liver panel
     -   Associated CPT:  84460
 
 
-### AMYLASE (Amylase, total in blood)
+### AMYLASE (Amylase in blood)
 
--   Common Name:
--   Long Name:
--   Test Type:
+***UNDER REVIEW***
+
+-   Common Name: Amylase total
+-   Long Name: Amylase, total in blood
+-   Test Type: AMYLASE
 -   Panels:
 -   Equivalent Tests:
 -   Not Equivalent Tests:
--   Indications:
--   Description:
+-   Indications: Elevated amylase levels often suggest a problem with the pancreas, such as acute or chronic pancreatitis, pancreatic tumors, or blockages in the pancreatic duct. Other conditions, including salivary gland infections (like mumps), ruptured ectopic pregnancy, intestinal blockage, or kidney problems, can also cause high amylase levels.  Low amylase levels are less common but can indicate chronic pancreatitis (where the pancreas is damaged and produces less amylase), liver failure, or cystic fibrosis.
+-   Description: An amylase blood test, also known as a serum amylase test, measures the level of the enzyme amylase in your bloodstream. Amylase is primarily produced by the pancreas and salivary glands and plays a vital role in digesting carbohydrates into simpler sugars for absorption.
 -   Related Tests:
--   Approximate Reference Range (Each site will have slight variations):
+-   Approximate Reference Range (Each site will have slight variations): The normal reference range for amylase in a blood test for an adult is generally 30 to 110 units per liter (U/L)
 -   Comments:
 -   Test Method Variance:
 -   Other:
@@ -220,9 +238,25 @@ Prealbumin, microalbumin, urinalysis, liver panel
     -   Associated CPT:  83880
 
 
-### BNP\_PROHORMONE (Natriuretic peptide.B prohormone N-Terminal)
+### BNP\_PROHORMONE (N-terminal prohormone-B-type natriuretic peptide)
 
-***NEEDS TO BE UPDATED***
+***UNDER REVIEW***
+
+-   Common Name: N-terminal prohormone-B-type natriuretic peptide (NT-proBNP)
+-   Long Name:  Natriuretic peptide.B prohormone N-Terminal [Mass/volume] in Serum or Plasma
+-   Test Type: BNP\_PROHORMONE
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications:  Heart Failure Diagnosis and Severity Assessment is the primary use of this test to help diagnose or rule out heart failure in individuals experiencing symptoms like shortness of breath and swelling.  This test helps monitor the effectiveness of treatment for heart failure and determine if the condition is worsening or improving.  This test can also be used to assess the risk of future cardiovascular events and mortality in patients with heart failure or other cardiac conditions.
+-   Description:  NT-proBNP is a protein fragment that the heart produces as a precursor to Brain Natriuretic Peptide (BNP), a hormone involved in regulating blood pressure and fluid balance. When the heart is under stress or working harder than normal, it releases more BNP and NT-proBNP.
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations): normal levels are less than 125 pg/mL for people under 75 and less than 450 pg/mL for those over 75.
+-   Comments:
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC: 33762-6, 33763-4, 71425-3, 83107-3, 83108-1
+    -   Associated CPT:
 
 
 ### BUN (Urea nitrogen in blood/serum)
@@ -530,68 +564,65 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 3.  CK\_BBI (Creatine Kinase BB Total)
 
-    ***NEEDS TO BE UPDATED***
-    
+    ***UNDER REVIEW***
     NOTE: This single reference document contains information pertinent to the individual TEST\_TYPEs CK\_BB\_EP, and the indexes CK\_BBI, or CK\_BBI\_EP.
     
     -   Common Name: CK BB (also known as CPK BB)
-    -   Long Name: Creatine Kinase BB (Brain-type)
-    -   Test Type: CK\_BBI is the Creatine Kinase BB/Creatine Kinase Total as a ratio or index CK\_BBI\_EP is the Creatine Kinase BB/Creatine Kinase Total as a ratio or index by the testing method electrophoresis
+    -   Long Name: Creatine Kinase BB/Creatine Kinase Total
+    -   Test Type: CK\_BBI
     -   Panels: N/A
     -   Equivalent Tests: N/A
     -   Not Equivalent Tests: All other CK TEST\_TYPES that do not contain “BB” in name.
     -   Indications: Blood levels of CK rise when muscle, brain or heart cells are injured. CK\_BB isfound primarily in the brain. CK\_BB is sometimes used in diagnosing of cancer of the lung andstomach. However, CK\_BB is expressed in all tissues at low levels and has little clinicalrelevance.
-    -   Description: CK\_BB is one of three separate forms (isoenzymes) of the enzyme creatinekinase (CK). CK\_BB is found mostly in the brain, lungs, intestinal tract and smooth muscle.
+    -   Description: CK\_BBI  is the Creatine Kinase BB/Creatine Kinase Total as a ratio or index CK\_BBI\_EP is the Creatine Kinase BB/Creatine Kinase Total as a ratio or index by the testing method electrophoresis.  CK\_BB is one of three separate forms (isoenzymes) of the enzyme creatinekinase (CK). CK\_BB is found mostly in the brain, lungs, intestinal tract and smooth muscle.
     -   Related Tests: CK; CK\_BB\_EP, CK\_BBI, CK\_BBI\_EP; CK\_CSF; CK\_ISO; CK\_ISO\_EP
     -   Approximate Reference Range:
     -   Comments: < 1% of total CK
     -   Test Method Variance:
     -   Other:
-        -   Associated LOINC:
-        -   Associated CPT:
+        -   Associated LOINC: 9642-0 
+        -   Associated CPT: 82552, 82554
 
 4.  CK\_BBI\_EP (Creatine Kinase BB Total Electrophoresis)
 
-    ***NEEDS TO BE UPDATED***
-    
-    NOTE: This single reference document contains information pertinent to theindividual TEST\_TYPES CK\_BB\_EP, and the indexes CK\_BBI, or CK\_BBI\_EP.
+    ***UNDER REVIEW***
+    NOTE: This single reference document contains information pertinent to the individual TEST\_TYPES CK\_BB\_EP, and the indexes CK\_BBI, or CK\_BBI\_EP.
     
     -   Common Name: CK BB (also known as CPK BB)
-    -   Long Name: Creatine Kinase BB (Brain-type)
-    -   Test Type: CK\_BB\_EP is CK\_BB by the testing method electrophoresis CK\_BBI is the Creatine Kinase BB/Creatine Kinase Total as a ratio or indexCK\_BBI\_EP is the Creatine Kinase BB/Creatine Kinase Total as a ratio or index by the testingmethod electrophoresis
+    -   Long Name: Creatine Kinase BB/Creatine Kinase Total Electrophoresis
+    -   Test Type: CK\_BBI\_EP
     -   Panels: N/A
     -   Equivalent Tests: N/A
     -   Not Equivalent Tests: All other CK TEST\_TYPES that do not contain “BB” in name.
     -   Indications: Blood levels of CK rise when muscle, brain or heart cells are injured. CK\_BB isfound primarily in the brain. CK\_BB is sometimes used in diagnosing of cancer of the lung andstomach. However, CK\_BB is expressed in all tissues at low levels and has little clinicalrelevance.
-    -   Description: CK\_BB is one of three separate forms (isoenzymes) of the enzyme creatinekinase (CK). CK\_BB is found mostly in the brain, lungs, intestinal tract and smooth muscle.
+    -   Description: CK\_BB\_EP is CK\_BB by the testing method electrophoresis CK\_BBI is the Creatine Kinase BB/Creatine Kinase Total as a ratio or indexCK\_BBI\_EP is the Creatine Kinase BB/Creatine Kinase Total as a ratio or index by the testingmethod electrophoresis.  CK\_BB is one of three separate forms (isoenzymes) of the enzyme creatinekinase (CK). CK\_BB is found mostly in the brain, lungs, intestinal tract and smooth muscle.
     -   Related Tests: CK; CK\_BB\_EP, CK\_BBI, CK\_BBI\_EP; CK\_CSF; CK\_ISO; CK\_ISO\_EP
     -   Approximate Reference Range:
     -   Comments: < 1% of total CK
     -   Test Method Variance:
     -   Other:
-        -   Associated LOINC:
-        -   Associated CPT:
+        -   Associated LOINC: 15048-2, 72565-5
+        -   Associated CPT: 82552, 82554
 
-5.  CK\_BF (Creatine Kinase Body Fluid Quantitative)
+5.  CK\_BF (Creatine Kinase in Body Fluid)
 
-    ***NEEDS TO BE UPDATED***
-    NOTE: This single reference document contains information pertinent to theindividual TEST\_TYPES CK\_BB\_EP, and the indexes CK\_BBI, or CK\_BBI\_EP.
+    ***UNDER REVIEW***
     
-    -   Common Name: CK BB (also known as CPK BB)
-    -   Long Name: Creatine Kinase BB (Brain-type)
-    -   Test Types: CK\_BB\_EP is CK\_BB by the testing method electrophoresisCK\_BBI is the Creatine Kinase BB/Creatine Kinase Total as a ratio or indexCK\_BBI\_EP is the Creatine Kinase BB/Creatine Kinase Total as a ratio or index by the testingmethod electrophoresis
+    -   Common Name: Creatine Kinase in Body Fluid
+    -   Long Name: Creatine Kinase Body Fluid Quantitative
+    -   Test Types: CK\_BF
     -   Panels: N/A
     -   Equivalent Tests: N/A
-    -   Not Equivalent Tests: All other CK TEST\_TYPES that do not contain “BB” in name.
-    -   Indications: Blood levels of CK rise when muscle, brain or heart cells are injured. CK\_BB is found primarily in the brain. CK\_BB is sometimes used in diagnosing of cancer of the lung andstomach. However, CK\_BB is expressed in all tissues at low levels and has little clinicalrelevance.
-    -   Description: CK\_BB is one of three separate forms (isoenzymes) of the enzyme creatinekinase (CK). CK\_BB is found mostly in the brain, lungs, intestinal tract and smooth muscle.
-    -   Related Tests: CK; CK\_BB\_EP, CK\_BBI, CK\_BBI\_EP; CK\_CSF; CK\_ISO; CK\_ISO\_EP
-    -   Approximate Reference Range:
-    -   Comments: < 1% of total CK
+    -   Not Equivalent Tests:
+    -   Indications: The CK test is primarily used to diagnose and monitor injuries and conditions that cause damage to skeletal muscles.
+    -   Description: A creatine kinase (CK) test, also known as creatine phosphokinase (CPK) test, measures the level of the enzyme creatine kinase in a sample of blood or other body fluids. CK is primarily found in muscle tissue (skeletal muscle and heart muscle) and the brain. Under normal conditions, only small amounts of CK leak into the bloodstream as a result of normal wear and tear on the muscles. However, significant damage to muscle tissue (skeletal muscle, heart muscle), or the brain can cause larger amounts of CK to leak into the bloodstream, leading to elevated CK levels.
+    -   Related Tests:
+    -   Approximate Reference Range: The normal range for adults generally falls between 22 and 198 U/L.
+    -   Comments:
     -   Test Method Variance:
     -   Other:
-        -   Associated LOINC:
-        -   Associated CPT:
+        -   Associated LOINC: 16688-4
+        -   Associated CPT: 82550
 
 6.  CK\_CSF (Creatine Kinase CSF Quantitative)
 
@@ -613,13 +644,56 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 7.  CK\_ISO (Creatine Kinase Isoenzymes)
 
-    ***NEEDS TO BE UPDATED***
-    Creatine Kinase Isoenzymes Interpretation - analytic method not specified
+    ***UNDER REVIEW***
+    
+    -   Common Name: Creatine Kinase Isoenzymes
+    -   Long Name:  Creatine Kinase Isoenzymes Interpretation - analytic method not specified
+    -   Test Type:  CK\_ISO
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:  Healthcare providers utilize the Creatine Kinase isoenzymes test to diagnose and monitor conditions involving muscle damage, including: 
+        -   Muscle injuries: Assessing the extent of damage from trauma, strenuous exercise, or certain medications.
+        -   Muscle diseases: Diagnosing or tracking the progression of conditions like muscular dystrophy.
+        -   Heart conditions: Evaluating heart problems such as heart attacks (myocardial infarction) or inflammation of the heart muscle (myocarditis).
+        -   Neurological injuries: Assessing brain injury or stroke.
+    -   Description:  The Creatine Kinase (CK) isoenzymes test, also known as Creatine Phosphokinase (CPK) isoenzymes or CK fractions, measures the levels of different types of the enzyme creatine kinase in your blood. This test helps determine the source of muscle damage within the body, as different CK isoenzymes are predominantly found in specific tissues: 
+        -   CK-MM: Primarily found in skeletal muscles, but also present in the heart according to University of Rochester Medical Center.
+        -   CK-MB: Predominantly found in heart muscle, but small amounts are present in skeletal muscles.
+        -   CK-BB: Primarily found in brain tissue and smooth muscles (like those in the intestines or uterus).
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+        -   CK-MM: 96-100% of total CK is considered within the normal range.
+        -   CK-MB: 0% of total CK, or in quantitative terms, 0-5 ng/mL or less than 5% of total CK, is considered normal.
+        -   CK-BB: 0% or 0-0.001% of total CK is the expected normal finding.
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 49259-5, 5912-1
+        -   Associated CPT:  82552, 82554
 
 8.  CK\_ISO\_EP (Creatine Kinase Isoenzymes Electrophoresis)
 
-    ***NEEDS TO BE UPDATED***
-    Creatine Kinase Isoenzymes Interpretation - analytic method not specified
+    ***UNDER REVIEW***
+    
+    -   Common Name: Creatine Kinase Isoenzymes Electrophoresis
+    -   Long Name: Creatine Kinase Isoenzymes Electrophoresis Interpretation
+    -   Test Type: CK\_ISO\_EP
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:  High levels of CK-MM suggest damage to skeletal muscles, potentially from strenuous exercise, injuries, or muscle diseases.  Elevated levels of CK-MB are often associated with heart muscle damage, such as a heart attack or inflammation of the heart muscle.  Increased levels of CK-BB may suggest brain injury or stroke, or conditions affecting smooth muscles.
+    -   Description:  A creatine kinase (CK) isoenzyme electrophoresis test is a blood test used to determine the source of muscle damage by separating and measuring the levels of different forms (isoenzymes) of CK.  There are three main CK isoenzymes:
+        -   CK-MM: Primarily found in skeletal muscles and heart muscle.
+        -   CK-MB: Found mostly in the heart muscle.
+        -   CK-BB: Primarily found in the brain and smooth muscles.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations): CK-MM: 96-100% or 100%, CK-MB: 0-4% or 0%, CK-BB: 0%
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 14680-3, 33547-1, 49258-7, 72561-4
+        -   Associated CPT: 82552, 82554
 
 9.  CK\_MB (Creatine Kinase MB - analytic method not specified)
 
@@ -734,47 +808,63 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 15. CK\_MM\_EP (Creatine Kinase MM Electrophoresis)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Creatine Kinase MM Electrophoresis
+    -   Long Name: Creatine Kinase Muscle-Muscle Electrophoresis
+    -   Test Type: CK\_MM\_EP
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications: To help diagnose and monitor muscle injuries and diseases, including muscular dystrophy, rhabdomyolysis, and myositis.  To aid in the diagnosis of heart attack, although troponin testing is now more commonly used due to its higher sensitivity and specificity for cardiac damage.
+    -   Description: The Creatine Kinase (CK) isoenzymes electrophoresis lab test is used to detect and differentiate between damage to different types of muscle tissue, particularly skeletal and cardiac muscle.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations): results typically show that Creatine Kinase MM accounts for 96-100% of total Creatine Kinase.
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 15049-0, 2155-0
+        -   Associated CPT: 82552, 82554
 
 16. CK\_MMI (Creatine Kinase MM)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
-    -   Common Name:
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Creatine Kinase MM
+    -   Long Name: Creatine Kinase MM/Creatine Kinase Total
+    -   Test Type: CK\_MMI
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: Elevated CK-MM levels suggest damage to skeletal muscle tissue. This could be due to injury, strenuous exercise, muscle diseases like muscular dystrophy or rhabdomyolysis, or certain medications.
+    -   Description: The creatine kinase muscle-muscle total (CK-MM total) lab test measures the level of creatine kinase (CK) in your blood, specifically focusing on the CK-MM isoenzyme, which is predominantly found in skeletal muscle.
     -   Related Tests:
-    -   Approximate Reference Range (varies from lab to lab):
+    -   Approximate Reference Range (Each site will have slight variations): The normal reference range for total creatine kinase (CK) in adults typically falls between 30-170 U/L.
     -   Comments:
     -   Test Method Variance:
     -   Other:
-        -   Associated LOINC:
-        -   Associated CPT:
+        -   Associated LOINC: 9643-8
+        -   Associated CPT: 82552, 82554
 
 17. CK\_MMI\_EP (Creatine Kinase MM Electrophoresis)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
-    -   Common Name:
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Creatine Kinase MM Electrophoresis
+    -   Long Name: Creatine Kinase MM/Creatine Kinase Total Electrophoresis
+    -   Test Type: CK\_MMI\_EP
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: A total CK test can indicate general muscle damage, a CK isoenzyme electrophoresis test, or a CK with isoenzymes test, can help pinpoint the specific source of the damage by separating and measuring the three isoenzymes.
+    -   Description: The creatine kinase (CK) test is a blood test that measures the levels of the CK enzyme, which plays a role in energy production for muscle contraction.
     -   Related Tests:
-    -   Approximate Reference Range (varies from lab to lab):
+    -   Approximate Reference Range (Each site will have slight variations): The reference range for total creatine kinase (CK) in a lab test generally falls between 30-170 U/L for adults.
     -   Comments:
     -   Test Method Variance:
     -   Other:
-        -   Associated LOINC:
-        -   Associated CPT:
+        -   Associated LOINC: 72562-2
+        -   Associated CPT: 82552, 82554
 
 18. CK\_QN (Creatinine Kinase Macromolecular Quantitative)
 
@@ -980,7 +1070,23 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 ### COLOGUARD (Noninvasive colorectal cancer screen)
 
-***NEEDS TO BE UPDATED***
+***UNDER REVIEW***
+
+-   Common Name: Noninvasive colorectal cancer screen
+-   Long Name: Noninvasive colorectal cancer DNA and occult blood screening [Presence] in Stool
+-   Test Type: COLOGUARD
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications: A colorectal cancer screening is generally indicated for average-risk individuals, typically those between 45 and 75 years old, as recommended by organizations like the U.S. Preventive Services Task Force. It's also a suitable option for individuals who are unable or unwilling to undergo more invasive screening methods like colonoscopy. Additionally, it can be used to investigate potential digestive issues if symptoms like abdominal pain, rectal bleeding, or anemia are present.
+-   Description: A DNA occult blood test, also known as a stool DNA test or multitarget stool DNA test (like Cologuard®), is a non-invasive screening method for colorectal cancer and precancerous polyps. This test looks for DNA changes in the cells shed into the stool by colorectal cancer or polyps, as well as for traces of hidden (occult) blood.
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations): No numeric results
+-   Comments:
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC: 77354-9, 77353-1
+    -   Associated CPT:
 
 
 ### CREATININE (Creatinine Blood/Serum/Plasma)
@@ -1023,11 +1129,11 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 ### CRP\_TIT (C-reactive protein titer)
 
-***NEEDS TO BE UPDATED***
+***UNDER REVIEW***
 
--   Common Name: CRP
--   Long Name: C-Reactive Protein
--   Test Type: CRP
+-   Common Name: C-Reactive Protein
+-   Long Name: C-reactive protein serum/plasma titer
+-   Test Type: CRP\_TIT
 -   Panels: N/A
 -   Equivalent Tests: N/A
 -   Not Equivalent Tests: High-sensitivity C-reactive protein (hs-CRP); Erythrocyte sedimentation rate (ESR)
@@ -1036,12 +1142,10 @@ Prealbumin, microalbumin, urinalysis, liver panel
 -   Related Tests: High-sensitivity C-reactive protein (hs-CRP); Erythrocyte sedimentation rate (ESR)
 -   Approximate Reference Range (Each site will have slight variations): 0 – 5 mg/L (0.0 – 0.5 mg/dL).
 -   Comments: CRP levels < 1 mg/L are considered low relative cardiovascular risk; CRP levels 1
-
-– 3 mg/L are considered average relative cardiovascular risk; CRP levels 3.1 – 10 are considered high relative cardiovascular risk; CRP levels persistently > 10 mg/L may represent non-cardiovascular inflammation. NSAIDs, aspirin or statins may reduce CRP levels in blood. Recent illness, tissue injury, infection, or other acute or chronic inflammation will raise the amount of CRP. CRP levels can be elevated in the later stages of pregnancy as well as with use of birth control pills or hormone replacement therapy. Higher levels of CRP have also been observed in obese individuals.
-
+    – 3 mg/L are considered average relative cardiovascular risk; CRP levels 3.1 – 10 are considered high relative cardiovascular risk; CRP levels persistently > 10 mg/L may represent non-cardiovascular inflammation. NSAIDs, aspirin or statins may reduce CRP levels in blood. Recent illness, tissue injury, infection, or other acute or chronic inflammation will raise the amount of CRP. CRP levels can be elevated in the later stages of pregnancy as well as with use of birth control pills or hormone replacement therapy. Higher levels of CRP have also been observed in obese individuals.
 -   Test Method Variance:
 -   Other:
-    -   Associated LOINC:
+    -   Associated LOINC: 14634-0
     -   Associated CPT:
 
 
@@ -1066,96 +1170,117 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 ### CRPHS\_QUIN (High-sensitivity C-reactive protein quintile)
 
-***NEEDS TO BE UPDATED***
+***UNDER REVIEW***
 
--   Common Name: hsCRP
+-   Common Name: HsCRP quintile
 -   Long Name: High-sensitivity C-Reactive Protein
--   Test Type: CRPHS
+-   Test Type: CRPHS\_QUIN
 -   Panels: N/A
 -   Equivalent Tests: N/A
 -   Not Equivalent Tests: C-reactive protein (CRP); Erythrocyte sedimentation rate (ESR)
 -   Indications: To assess risk of developing heart disease, cardiovascular disease (CVD), or other processes involving inflammation. Inflammation plays a major role in atherosclerosis, which is often associated with CVD. Studies have shown that measuring CRP with the improved methodology of the highly sensitive assay can identify the risk level for CVD in apparently healthy people; the hs-CRP test may be used to screen healthy people.
--   Description: CRP is made by the liver and secreted into the bloodstream. It can be measured with two different tests: CRP and hs-CRP, each measuring different blood ranges. The hs-CRP test can more accurately detect lower concentrations of the protein that may be within the normal range than the standard CRP test. Individuals with hs-CRP results in the high end of the normal range have 1.5 to 4 times the risk of having a heart attack as those with hs-CRP values at the low end of the normal range.
+-   Description: refers to the use of high-sensitivity C-reactive protein (hs-CRP) levels to assess cardiovascular risk, categorized into five groups (quintiles) based on their relative risk.
+    -   Quintile 1 (Lowest Risk): Typically, individuals with hs-CRP levels below 0.7 mg/L are considered to be at the lowest risk for cardiovascular disease.
+    -   Quintile 2 (Low Risk): Individuals with hs-CRP levels between 0.7 and 1.1 mg/L are considered at low risk.
+    -   Quintile 3 (Moderate Risk): Individuals with hs-CRP levels between 1.2 and 1.9 mg/L are considered at moderate risk.
+    -   Quintile 4 (High Risk): Individuals with hs-CRP levels between 2.0 and 3.8 mg/L are considered at high risk.
+    -   Quintile 5 (Highest Risk): Individuals with hs-CRP levels above 3.9 mg/L are considered to be at the highest risk of cardiovascular disease.
 -   Related Tests: Lipid profile, Cardiac risk assessment, CRP, Erythrocyte sedimentation rate (ESR)
--   Approximate Reference Range: 0 – 5 mg/L (0.0 – 0.5 mg/dL).
+-   Approximate Reference Range: See the quintile descriptions
 -   Comments: Hs-CRP usually is ordered as one of several tests in a cardiovascular risk profile, often along with tests for cholesterol and triglycerides. The American Heart Association and US Centers for Disease Control and Prevention have defined risk groups as follows: Low risk (< 1.0 mg/L); Average risk (1.0 to 3.0 mg/L); High risk > 3.0 mg/L) NSAIDs, aspirin or statins may reduce CRP levels in blood. Recent illness, tissue injury, infection, or other acute or chronic inflammation will raise the amount of CRP. CRP levels can be elevated in the later stages of pregnancy as well as with use of birth control pills or hormone replacement therapy. Higher levels of CRP have also been observed in the obese.
 -   Test Method Variance:
 -   Other:
-    -   Associated LOINC:
+    -   Associated LOINC: 35648-5
     -   Associated CPT:
 
 
-### CYSTATIN\_C (Cystatin C [Mass/volume])
+### CYSTATIN\_C (Cystatin C)
 
-***NEEDS TO BE UPDATED***
+***UNDER REVIEW***
+
+-   Common Name: Cystatin C
+-   Long Name: Cystatin C [Mass/volume] in Serum or Plasma
+-   Test Type: CYSTATIN\_C
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications: This test helps to evaluate kidney health, especially in cases where creatinine levels (another measure of kidney function) might be influenced by factors like muscle mass, diet, age, or sex. Cystatin C levels are less affected by these factors, potentially making it a more accurate indicator in some situations.
+-   Description: A cystatin C blood test measures the level of the protein cystatin C in your blood. Cystatin C is a small protein produced constantly by cells in the body.  When the kidneys are healthy, they filter cystatin C from the blood, which is then excreted in the urine.
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations): typically falls between 0.61 and 1.23 mg/L
+-   Comments:
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC: 33863-2
+    -   Associated CPT: 82610
 
 
-### (D-DIME) D-dimer fibrin derivatives Test Types
+### (D\_DIME) D-dimer fibrin derivatives Test Types
 
-1.  D-DIME\_DDU (D-dimer fibrin derivatives, quantitative, D-Dimer Units)
+1.  D\_DIME\_DDU (D-dimer fibrin derivatives, D-Dimer Units)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
-    -   Common Name: Fragment D-dimer; fibrin degradation fragment
-    -   Long Name: D-dimer fibrin derivatives;
-    -   Test Type: D-dimer
+    -   Common Name: D-dimer fibrin derivatives, D-Dimer Units
+    -   Long Name: D-dimer fibrin derivatives, quantitative, D-Dimer Units
+    -   Test Type: D\_DIME\_DDU
     -   Panels: None
     -   Equivalent Tests: None Related
-    -   Not Equivalent, Tests: Fibrin Degradation Products (FDP); Fibrin Split Products (FSP); Prothrombin Time (PT); Partial Thromboplastin Time (PTT); Fibrinogen; Platelet Count
+    -   Not Equivalent, Tests: FEU, and tests from Cerebral spinal fluid are not included.
     -   Indications: D-dimer tests are ordered to help rule out the presence of a clot (thrombus). Some of the conditions that the d-dimer test is used to help rule out include deep vein thrombosis (DVT), pulmonary embolism (PE), strokes. The D-dimer test may be used to determine if further testing is necessary to help diagnose diseases and conditions that cause inappropriate clotting. A D-dimer level may be used to help diagnose disseminated intravascular coagulation (DIC) and to monitor the effectiveness of DIC treatment.
-    -   Description: D-dimer is one of the protein fragments produced when a blood clot dissolves in the body. It is a specific plasmin-mediated breakdown product of crosslinked fibrin. When a blood vessel or tissue is injured and bleeds, the body creates a blood clot to stop the bleeding. During this process, threads of a protein called fibrin are produced. These threads crosslink together to form a fibrin net, which, together with platelets, helps hold the forming blood clot in place at the site of the injury until it heals. Once the clot is no longer needed, the body uses an enzyme called plasmin to break up the clot. The fragments of the disintegrating fibrin in the clot are called fibrin degradation products (FDP). One of the fibrin degradation products produced is D-dimer. D-dimer is normally undetectable. It is produced only after a clot has formed and is in the process of being broken down. When there is significant formation and breakdown of blood clots in the body, the D-dimer blood level rises. A positive d-dimer test cannot predict whether or not a clot is present, but rather indicates that further testing is required. A negative D- dimer test means that it is unlikely that a clot is present. A normal D-dimer result has a negative predictive value of approximately 95% for the exclusion of acute PE or DVT when there is low or moderate pretest PE probability.
-    -   Approximate Reference Range: A normal qualitative D-dimer result is “undetectable: or “negative” or “not detected.” Quantitative results of < = 250 ng/mL D-Dimer Units (DDU) OR < = 0.5 mcg/mL Fibrinogen Equivalent Units (FEU) are normal. The normal reportable range is sometimes listed as 110 - 250 ng/mL DDU OR 0.22 - 0.50 mcg/mL FEU. Results can be reported in as many as eight different combinations of types (e.g., FEU, DDU) and magnitude (e.g., ng/mL, mcg/L [μg/L], mcg/ml [μg/mL], mg/L) of units. Unfortunately, at times result units are only reported as the magnitude (whether FEU or DDU type is not reported). In these cases, ranges and abnormal flags can assist in guiding the interpretation, but it is not always possible to assign magnitude. Do not make assumptions if you cannot determine the magnitude of the results.
-    -   Comments: A normal or negative D-dimer result means that it is most likely that the person tested does not have an acute condition or disease that is causing abnormal clot formation and breakdown. The test is used to help rule out clotting as the cause of symptoms. A positive Ddimer result may indicate the presence of an abnormally high level of fibrin degradation products. It tells the doctor that there may be significant blood clot formation and breakdown in the body, but it does not tell the location or cause. An elevated D-dimer does not always indicate the presence of a clot because a number of other factors can cause an increased level (e.g., recent surgery, pregnancy, trauma, infection, heart disease, some cancers). D-dimer is not used as the only test to diagnose a condition.
+    -   Description: D-dimer is one of the protein fragments produced when a blood clot dissolves in the body. It is a specific plasmin-mediated breakdown product of crosslinked fibrin. When a blood vessel or tissue is injured and bleeds, the body creates a blood clot to stop the bleeding. During this process, threads of a protein called fibrin are produced. These threads crosslink together to form a fibrin net, which, together with platelets, helps hold the forming blood clot in place at the site of the injury until it heals. Once the clot is no longer needed, the body uses an enzyme called plasmin to break up the clot. The fragments of the disintegrating fibrin in the clot are called fibrin degradation products (FDP). One of the fibrin degradation products produced is D-dimer. D-dimer is normally undetectable. It is produced only after a clot has formed and is in the process of being broken down. When there is significant formation and breakdown of blood clots in the body, the D-dimer blood level rises. A positive d-dimer test cannot predict whether or not a clot is present, but rather indicates that further testing is required. A negative D- dimer test means that it is unlikely that a clot is present. A normal D-dimer result has a negative predictive value of approximately 95% for the exclusion of acute PE or DVT when there is low or moderate pretest PE probability.  The DDU lab test measures D-dimer levels based on the molecular weight of D-dimer.
+    -   Approximate Reference Range: the normal range is typically less than 250 ng/mL when using D-dimer units (DDU)
+    -   Comments: The method of determining DDU or FEU classification will differ from site to site.  Some sites will be able to use the LOINC code.  Some sites may find the text 'DDU' or 'FEU' as part of the result unit or in a note associated with a test result.
     -   Test Method Variance: There are several different methods of testing for D-dimer. Most of the D-dimer tests that yield quantitative results are done in a hospital lab, while those that yield qualitative or semi-quantitative results are performed at the patient's bedside (point of care).
     -   Other:
-        -   Associated LOINC:
+        -   Associated LOINC: 48058-2, 48066-5, 91556-1
         -   Associated CPT:
 
-2.  D-DIME\_FEU (D-dimer fibrin derivatives, quantitative, Fibinogen Equivalent Units)
+2.  D\_DIME\_FEU (D-dimer fibrin derivatives, Fibinogen Equivalent Units)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
-    -   Common Name: Fragment D-dimer; fibrin degradation fragment
-    -   Long Name: D-dimer fibrin derivatives;
-    -   Test Type: D-dimer
+    -   Common Name: D-dimer fibrin derivatives, Fibinogen Equivalent Units
+    -   Long Name: D-dimer fibrin derivatives, quantitative, Fibinogen Equivalent Units
+    -   Test Type: D\_DIME\_FEU
     -   Panels: None
     
     Equivalent Tests: None Related, but Not Equivalent, Tests: Fibrin Degradation Products (FDP); Fibrin Split Products (FSP); Prothrombin Time (PT); Partial Thromboplastin Time (PTT); Fibrinogen; Platelet Count
     
     -   Indications: D-dimer tests are ordered to help rule out the presence of a clot (thrombus). Some of the conditions that the d-dimer test is used to help rule out include deep vein thrombosis (DVT), pulmonary embolism (PE), strokes. The D-dimer test may be used to determine if further testing is necessary to help diagnose diseases and conditions that cause inappropriate clotting. A D-dimer level may be used to help diagnose disseminated intravascular coagulation (DIC) and to monitor the effectiveness of DIC treatment.
-    -   Description: D-dimer is one of the protein fragments produced when a blood clot dissolves in the body. It is a specific plasmin-mediated breakdown product of crosslinked fibrin. When a blood vessel or tissue is injured and bleeds, the body creates a blood clot to stop the bleeding. During this process, threads of a protein called fibrin are produced. These threads crosslink together to form a fibrin net, which, together with platelets, helps hold the forming blood clot in place at the site of the injury until it heals. Once the clot is no longer needed, the body uses an enzyme called plasmin to break up the clot. The fragments of the disintegrating fibrin in the clot are called fibrin degradation products (FDP). One of the fibrin degradation products produced is D-dimer. D-dimer is normally undetectable. It is produced only after a clot has formed and is in the process of being broken down. When there is significant formation and breakdown of blood clots in the body, the D-dimer blood level rises. A positive d-dimer test cannot predict whether or not a clot is present, but rather indicates that further testing is required. A negative D- dimer test means that it is unlikely that a clot is present. A normal D-dimer result has a negative predictive value of approximately 95% for the exclusion of acute PE or DVT when there is low or moderate pretest PE probability.
-    -   Approximate Reference Range: A normal qualitative D-dimer result is “undetectable: or “negative” or “not detected.” Quantitative results of < = 250 ng/mL D-Dimer Units (DDU) OR < = 0.5 mcg/mL Fibrinogen Equivalent Units (FEU) are normal. The normal reportable range is sometimes listed as 110 - 250 ng/mL DDU OR 0.22 - 0.50 mcg/mL FEU. Results can be reported in as many as eight different combinations of types (e.g., FEU, DDU) and magnitude (e.g., ng/mL, mcg/L [μg/L], mcg/ml [μg/mL], mg/L) of units. Unfortunately, at times result units are only reported as the magnitude (whether FEU or DDU type is not reported). In these cases, ranges and abnormal flags can assist in guiding the interpretation, but it is not always possible to assign magnitude. Do not make assumptions if you cannot determine the magnitude of the results.
-    -   Comments: A normal or negative D-dimer result means that it is most likely that the person tested does not have an acute condition or disease that is causing abnormal clot formation and breakdown. The test is used to help rule out clotting as the cause of symptoms. A positive Ddimer result may indicate the presence of an abnormally high level of fibrin degradation products. It tells the doctor that there may be significant blood clot formation and breakdown in the body, but it does not tell the location or cause. An elevated D-dimer does not always indicate the presence of a clot because a number of other factors can cause an increased level (e.g., recent surgery, pregnancy, trauma, infection, heart disease, some cancers). D-dimer is not used as the only test to diagnose a condition.
+    -   Description: D-dimer is one of the protein fragments produced when a blood clot dissolves in the body. It is a specific plasmin-mediated breakdown product of crosslinked fibrin. When a blood vessel or tissue is injured and bleeds, the body creates a blood clot to stop the bleeding. During this process, threads of a protein called fibrin are produced. These threads crosslink together to form a fibrin net, which, together with platelets, helps hold the forming blood clot in place at the site of the injury until it heals. Once the clot is no longer needed, the body uses an enzyme called plasmin to break up the clot. The fragments of the disintegrating fibrin in the clot are called fibrin degradation products (FDP). One of the fibrin degradation products produced is D-dimer. D-dimer is normally undetectable. It is produced only after a clot has formed and is in the process of being broken down. When there is significant formation and breakdown of blood clots in the body, the D-dimer blood level rises. A positive d-dimer test cannot predict whether or not a clot is present, but rather indicates that further testing is required. A negative D- dimer test means that it is unlikely that a clot is present. A normal D-dimer result has a negative predictive value of approximately 95% for the exclusion of acute PE or DVT when there is low or moderate pretest PE probability.  In an FEU lab test D-dimer levels are reported based on the molecular weight of fibrinogen.
+    -   Approximate Reference Range: FEU D-dimer result is typically less than 500 ng/mL.
+    -   Comments: The method of determining DDU or FEU classification will differ from site to site.  Some sites will be able to use the LOINC code.  Some sites may find the text 'DDU' or 'FEU' as part of the result unit or in a note associated with a test result.
     -   Test Method Variance: There are several different methods of testing for D-dimer. Most of the D-dimer tests that yield quantitative results are done in a hospital lab, while those that yield qualitative or semi-quantitative results are performed at the patient's bedside (point of care).
     -   Other:
-        -   Associated LOINC:
+        -   Associated LOINC: 48065-7, 48067-3, 71427-9
         -   Associated CPT:
 
-3.  D-DIME\_NS (D-dimer fibrin derivatives, quantitative, Not Specified)
+3.  D\_DIME\_NS (D-dimer fibrin derivatives, Not Specified)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
-    -   Common Name: Fragment D-dimer; fibrin degradation fragment
-    -   Long Name: D-dimer fibrin derivatives;
-    -   Test Type: D-dimer
+    -   Common Name: D-dimer fibrin derivatives, Not Specified
+    -   Long Name: D-dimer fibrin derivatives, quantitative, Not Specified
+    -   Test Type: D\_DIME\_NS
     -   Panels: None
-    -   Equivalent Tests: None Related, but Not Equivalent, Tests: Fibrin Degradation Products (FDP); Fibrin Split Products (FSP); Prothrombin Time (PT); Partial Thromboplastin Time (PTT); Fibrinogen; Platelet Count
+    -   Equivalent Tests:
     -   Indications: D-dimer tests are ordered to help rule out the presence of a clot (thrombus). Some of the conditions that the d-dimer test is used to help rule out include deep vein thrombosis (DVT), pulmonary embolism (PE), strokes. The D-dimer test may be used to determine if further testing is necessary to help diagnose diseases and conditions that cause inappropriate clotting. A D-dimer level may be used to help diagnose disseminated intravascular coagulation (DIC) and to monitor the effectiveness of DIC treatment.
     -   Description: D-dimer is one of the protein fragments produced when a blood clot dissolves in the body. It is a specific plasmin-mediated breakdown product of crosslinked fibrin. When a blood vessel or tissue is injured and bleeds, the body creates a blood clot to stop the bleeding. During this process, threads of a protein called fibrin are produced. These threads crosslink together to form a fibrin net, which, together with platelets, helps hold the forming blood clot in place at the site of the injury until it heals. Once the clot is no longer needed, the body uses an enzyme called plasmin to break up the clot. The fragments of the disintegrating fibrin in the clot are called fibrin degradation products (FDP). One of the fibrin degradation products produced is D-dimer. D-dimer is normally undetectable. It is produced only after a clot has formed and is in the process of being broken down. When there is significant formation and breakdown of blood clots in the body, the D-dimer blood level rises. A positive d-dimer test cannot predict whether or not a clot is present, but rather indicates that further testing is required. A negative D- dimer test means that it is unlikely that a clot is present. A normal D-dimer result has a negative predictive value of approximately 95% for the exclusion of acute PE or DVT when there is low or moderate pretest PE probability.
     -   Approximate Reference Range: A normal qualitative D-dimer result is “undetectable: or “negative” or “not detected.” Quantitative results of < = 250 ng/mL D-Dimer Units (DDU) OR < = 0.5 mcg/mL Fibrinogen Equivalent Units (FEU) are normal. The normal reportable range is sometimes listed as 110 - 250 ng/mL DDU OR 0.22 - 0.50 mcg/mL FEU. Results can be reported in as many as eight different combinations of types (e.g., FEU, DDU) and magnitude (e.g., ng/mL, mcg/L [μg/L], mcg/ml [μg/mL], mg/L) of units. Unfortunately, at times result units are only reported as the magnitude (whether FEU or DDU type is not reported). In these cases, ranges and abnormal flags can assist in guiding the interpretation, but it is not always possible to assign magnitude. Do not make assumptions if you cannot determine the magnitude of the results.
-    -   Comments: A normal or negative D-dimer result means that it is most likely that the person tested does not have an acute condition or disease that is causing abnormal clot formation and breakdown. The test is used to help rule out clotting as the cause of symptoms. A positive Ddimer result may indicate the presence of an abnormally high level of fibrin degradation products. It tells the doctor that there may be significant blood clot formation and breakdown in the body, but it does not tell the location or cause. An elevated D-dimer does not always indicate the presence of a clot because a number of other factors can cause an increased level (e.g., recent surgery, pregnancy, trauma, infection, heart disease, some cancers). D-dimer is not used as the only test to diagnose a condition.
+    -   Comments: If a test cannot be classified as 'DDU' or 'FEU' by LOINC code or by a text string in either the result\_unit field or a note associated with the test, the test is Not Specified and should be placed in this test\_type.  Generally the LOINCs listed in this row are Not Specified.  If you have reason to believe that a test associated with a LOINC code listed on this row is either DDU or FEU please allow your local site knowledge to override the LOINC classification of Not Specified.  In such a case the test should be placed in either the D\_DIME\_DDU or D\_DIME\_FEU test\_type.
     -   Test Method Variance: There are several different methods of testing for D-dimer. Most of the D-dimer tests that yield quantitative results are done in a hospital lab, while those that yield qualitative or semi-quantitative results are performed at the patient's bedside (point of care).
     -   Other:
-        -   Associated LOINC:
+        -   Associated LOINC: 15129-0, 30240-6, 3246-6, 38898-3, 7799-0
         -   Associated CPT:
 
-4.  D-DIMER\_QL (D-dimer fibrin derivatives, qualitative)
+4.  D\_DIMER\_QL (D-dimer fibrin derivatives, qualitative)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
-    -   Common Name: Fragment D-dimer; fibrin degradation fragment
-    -   Long Name: D-dimer fibrin derivatives;
-    -   Test Type: D-dimer
+    -   Common Name: D-dimer fibrin derivatives, qualitative
+    -   Long Name: D-dimer fibrin derivatives, qualitative
+    -   Test Type: D\_DIMER\_QL
     -   Panels: None
     -   Equivalent Tests: None
     
@@ -1170,40 +1295,177 @@ Prealbumin, microalbumin, urinalysis, liver panel
     -   Comments: A normal or negative D-dimer result means that it is most likely that the person tested does not have an acute condition or disease that is causing abnormal clot formation and breakdown. The test is used to help rule out clotting as the cause of symptoms. A positive Ddimer result may indicate the presence of an abnormally high level of fibrin degradation products. It tells the doctor that there may be significant blood clot formation and breakdown in the body, but it does not tell the location or cause. An elevated D-dimer does not always indicate the presence of a clot because a number of other factors can cause an increased level (e.g., recent surgery, pregnancy, trauma, infection, heart disease, some cancers). D-dimer is not used as the only test to diagnose a condition.
     -   Test Method Variance: There are several different methods of testing for D-dimer. Most of the D-dimer tests that yield quantitative results are done in a hospital lab, while those that yield qualitative or semi-quantitative results are performed at the patient's bedside (point of care).
     -   Other:
-        -   Associated LOINC:
-        -   Associated CPT:
+        -   Associated LOINC: 15179-5, 29280-5, 3247-4
+        -   Associated CPT: 85378, 85379, 85362
 
 
 ### ESR (Erythrocyte sedimentation rate)
 
-***NEEDS TO BE UPDATED***
+***UNDER REVIEW***
+
+-   Common Name: Erythrocyte sedimentation rate
+-   Long Name: Erythrocyte sedimentation rate
+-   Test Type: ESR
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications: Diagnose and Monitor Inflammatory Conditions: ESR is often used alongside other tests to help diagnose and monitor conditions that cause inflammation, such as arthritis, vasculitis, infections, and inflammatory bowel disease.
+-   Description: The Erythrocyte Sedimentation Rate (ESR), also known as the sed rate, is a blood test that helps detect inflammation in the body.
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations): Normal range varies by Sex and age:
+    -   Males younger than 50: Less than 15 mm/hr
+    -   Males older than 50: Less than 20 mm/hr
+    -   Females younger than 50: Less than 20 mm/hr
+    -   Females older than 50: Less than 30 mm/hr
+    -   Newborn babies: 0 to 2 mm/hr
+    -   Children before puberty: 3 to 13 mm/hr
+-   Comments:
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC: 4537-7, 4538-5, 30341-2,
+    -   Associated CPT: 85651, 85652
 
 
 ### (FE) Iron Test Types
 
-1.  FE (Iron in Serum or Plasma)
+1.  FE (Iron)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Iron
+    -   Long Name: Iron in Serum or Plasma
+    -   Test Type: FE
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications: There are different reasons that an iron blood test should be given:
+        -   Symptoms of Iron Deficiency: If the patient experiences symptoms like fatigue, weakness, pale skin, dizziness, shortness of breath, headache, or restless legs syndrome, your doctor might recommend an iron test to determine if iron deficiency is the cause.
+        -   Symptoms of Iron Overload: If the patient exhibits symptoms such as joint pain, abdominal pain, fatigue, weakness, loss of sex drive, or changes in skin color (bronze or gray), an iron blood test could be used to investigate the possibility of iron overload or hemochromatosis.
+        -   Low Red Blood Cell Count or Abnormalities: If a routine complete blood count (CBC) reveals a low red blood cell count, low hemoglobin, or small, pale red blood cells, an iron test may be necessary to identify the cause of the anemia.
+    -   Description: An iron blood test assesses various aspects of iron in your blood to determine if your levels are too high or too low. Iron is crucial for overall health as it's a key component of hemoglobin, the protein in red blood cells that transports oxygen throughout the body.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations): The normal reference range for a serum iron blood test typically falls between 60 to 170 micrograms per deciliter (mcg/dL).
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 35214-6, 2498-4, 14798-3
+        -   Associated CPT:
 
-2.  FE\_QL (Iron in Serum or Plasma  qualitative)
+2.  FE\_QL (Iron qualitative)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Iron qualitative
+    -   Long Name: Iron in Serum or Plasma  qualitative
+    -   Test Type: FE\_QL
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:  These tests produce qualitative results that is either "normal", "abnormal high" (this indicates excessive iron in the blood), or "abnormal low" (this indicates an iron deficiency).
+        -   Symptoms of Iron Deficiency: If the patient experiences symptoms like fatigue, weakness, pale skin, dizziness, shortness of breath, headache, or restless legs syndrome, your doctor might recommend an iron test to determine if iron deficiency is the cause.
+        -   Symptoms of Iron Overload: If the patient exhibits symptoms such as joint pain, abdominal pain, fatigue, weakness, loss of sex drive, or changes in skin color (bronze or gray), an iron blood test could be used to investigate the possibility of iron overload or hemochromatosis.
+    -   Description:  An iron blood test assesses various aspects of iron in your blood to determine if your levels are too high or too low. Iron is crucial for overall health as it's a key component of hemoglobin, the protein in red blood cells that transports oxygen throughout the body.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):  This is a qualitative result so there is no reference range
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 14797-5, 44326-7
+        -   Associated CPT:
 
-3.  FE\_SATURATION (Iron Saturation in Serum or Plasma)
+3.  FE\_SATURATION (Iron Saturation)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Iron Saturation
+    -   Long Name: Iron Saturation in Serum or Plasma
+    -   Test Type: FE\_SATURATION
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications: There are different reasons that an iron saturation in blood test should be given:
+        -   Symptoms of Iron Deficiency: If the patient experiences symptoms like fatigue, weakness, pale skin, dizziness, shortness of breath, headache, or restless legs syndrome, your doctor might recommend an iron test to determine if iron deficiency is the cause.
+        -   Symptoms of Iron Overload: If the patient exhibits symptoms such as joint pain, abdominal pain, fatigue, weakness, loss of sex drive, or changes in skin color (bronze or gray), an iron blood test could be used to investigate the possibility of iron overload or hemochromatosis.
+        -   Low Red Blood Cell Count or Abnormalities: If a routine complete blood count (CBC) reveals a low red blood cell count, low hemoglobin, or small, pale red blood cells, an iron test may be necessary to identify the cause of the anemia.
+    -   Description: Iron is transported through the bloodstream bound to a protein called transferrin. Transferrin is produced by the liver, and its role is to pick up iron absorbed from the diet and deliver it to cells that need it, like those in the bone marrow that produce red blood cells. Iron saturation tells you how much of the available iron-carrying protein is actually carrying iron.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 14801-5, 2502-3
+        -   Associated CPT:
 
-4.  FE\_TIBC (Iron Binding Capacity in Serum or Plasma)
+4.  FE\_TIBC (Iron Binding Capacity)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Iron Binding Capacity
+    -   Long Name: Iron Binding Capacity in Serum or Plasma
+    -   Test Type: FE\_TIBC
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:  There are different reasons that an iron saturation in blood test should be given:
+        -   Symptoms of Iron Deficiency: If the patient experiences symptoms like fatigue, weakness, pale skin, dizziness, shortness of breath, headache, or restless legs syndrome, your doctor might recommend an iron test to determine if iron deficiency is the cause.
+        -   Symptoms of Iron Overload: If the patient exhibits symptoms such as joint pain, abdominal pain, fatigue, weakness, loss of sex drive, or changes in skin color (bronze or gray), an iron blood test could be used to investigate the possibility of iron overload or hemochromatosis.
+    -   Description: The TIBC (Total Iron-Binding Capacity) blood test measures your blood's capacity to bind iron and transport it throughout your body. It's a crucial component of a comprehensive iron panel used to assess iron levels and metabolism, helping diagnose conditions like iron deficiency anemia and iron overload. The test primarily reflects the amount of transferrin, a protein produced by your liver, present in your blood. Transferrin is responsible for binding to and transporting iron to cells that need it. TIBC, therefore, indicates the total capacity of transferrin to bind iron.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations): The reference range for a Total Iron Binding Capacity (TIBC) blood test is typically 240 to 450 mcg/dL.
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 14800-7,2500-7, 35215-3
+        -   Associated CPT:
 
-5.  FE\_UIBC (Iron Binding Capacity in Serum or Plasma unsaturted)
+5.  FE\_UIBC (Iron Binding Capacity unsaturated)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Unsaturated Iron Binding Capacity
+    -   Long Name: Iron Binding Capacity in Serum or Plasma Unsaturated
+    -   Test Type: FE\_UIBC
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications: There are different reasons that an iron saturation in blood test should be given:
+        -   Symptoms of Iron Deficiency: If the patient experiences symptoms like fatigue, weakness, pale skin, dizziness, shortness of breath, headache, or restless legs syndrome, your doctor might recommend an iron test to determine if iron deficiency is the cause.
+        -   Symptoms of Iron Overload: If the patient exhibits symptoms such as joint pain, abdominal pain, fatigue, weakness, loss of sex drive, or changes in skin color (bronze or gray), an iron blood test could be used to investigate the possibility of iron overload or hemochromatosis.
+    -   Description: The Unsaturated Iron Binding Capacity (UIBC) blood test is a measurement of the reserve capacity of transferrin, the blood protein responsible for carrying iron throughout the body. Think of transferrin as a fleet of trucks transporting iron, and UIBC tells you how many of those trucks are currently empty and ready to carry more iron.
+    -   Related Tests: What the UIBC blood test measures compared to other blood iron tests:
+        -   UIBC: The portion of transferrin not yet bound to iron.
+        -   Serum iron: Measures the amount of iron currently in the bloodstream.
+        -   TIBC: The total capacity of transferrin to bind iron (serum iron + UIBC).
+        -   Transferrin saturation: The percentage of transferrin that is currently carrying iron.
+        -   Ferritin: Measures the amount of stored iron in the body.
+    -   Approximate Reference Range (Each site will have slight variations): The typical reference range for UIBC in adults is 150-375 mcg/dL.
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 22753-8, 2501-5, 35216-1
+        -   Associated CPT:
 
-6.  FE\_TRANSFERRIN\_RATIO (Iron/Transerrin ration in Serum or Plasma)
+6.  FE\_TRANSFERRIN\_RATIO (Iron/Transferrin ratio)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Iron/Transferrin ratio
+    -   Long Name: Iron/Transferrin ratio in Serum or Plasma
+    -   Test Type: FE\_TRANSFERRIN\_RATIO
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications: An iron transferrin ratio blood test is a key component of a comprehensive evaluation of iron status.
+        -   Symptoms of Iron Deficiency: If the patient experiences symptoms like fatigue, weakness, pale skin, dizziness, shortness of breath, headache, or restless legs syndrome, your doctor might recommend an iron test to determine if iron deficiency is the cause.
+        -   Symptoms of Iron Overload: If the patient exhibits symptoms such as joint pain, abdominal pain, fatigue, weakness, loss of sex drive, or changes in skin color (bronze or gray), an iron blood test could be used to investigate the possibility of iron overload or hemochromatosis.
+    -   Description: A blood test measuring the iron-transferrin ratio assesses the body's iron levels and its ability to transport iron. It involves measuring serum iron and total iron-binding capacity (TIBC), which reflects transferrin levels, to calculate the percentage of transferrin that is saturated with iron.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations): The transferrin saturation, which reflects the ratio of serum iron to total iron-binding capacity (TIBC), typically falls within the range of 20% to 50%.
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 13452-8, 60517-0
+        -   Associated CPT:
 
 
 ### (FOB) Fecal Occult Blood Test Types
@@ -1329,40 +1591,40 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 ### FOLATE\_RBC (Folate in red blood cells)
 
-***NEEDS TO BE UPDATED***
+***UNDER REVIEW***
 
--   Common Name Folate
--   Long Name: Folate
--   Test Type: FOLATE
+-   Common Name Folate in red blood cells
+-   Long Name:
+-   Test Type: FOLATE\_RBC
 -   Panels:
--   Equivalent Tests: Folic Acid in serum
--   Not Equivalent Tests: RBC folate
--   Indications: To help diagnose the cause of anemia or neuropathy (nerve damage); to evaluate nutritional status in some patients; to monitor effectiveness of treatment for B12 or folate deficiency
--   Description: Fasting for 6-8 hours before sample collection may be required.
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications: Your healthcare provider might order an RBC folate test if you demonstrate fatigue, weakness, pale skin, irritability, sore tongue, diarrhea, weight loss, numbness/tingling, or memory problems.  Megaloblastic anemia is characterized by abnormally large red blood cells and can be caused by folate deficiency.  Conditions that affect folate absorption or metabolism can include celiac disease, Crohn's disease, chronic alcoholism, liver disease, kidney failure, or certain cancers.  This test may also be ordered for patients who are pregnant or planning a pregnancy in order to ensure adequate folate levels.
+-   Description: The folate in red blood cells test is a blood test that measures the level of folate within the red blood cells. This test provides a more stable and accurate assessment of long-term folate status, reflecting the levels accumulated over the lifespan of the red blood cells, which is approximately 120 days. It is less affected by recent dietary intake compared to the serum folate test.
 -   Related Tests: B12; CBC; CMP; Methylmalonic acid (MMA); Homocysteine
--   Approximate Reference Range (Each site will have slight variations: Lower limit of normal: Approximately 1.5 - 3 ng/mL (or mcg/L). Upper limit of normal approximately 17 – 100 ng/mL. (Note: If RBC folate is inadvertently included, the reference range is one useful way to check to see if incorrect folate tests have been pulled. The lower limit of the normal range of RBC folate levels is approximately 100 – 180 and the upper limit of the normal range is RBC folate is approximately 360 – 800.)
--   Comments: B12 and folate are primarily ordered to help diagnose the cause of macrocytic anemia. They are ordered as follow-up tests when large RBCs and a decreased hemoglobin concentration are found during a CBC test. B12 may be ordered with folate, by itself, or with other screening laboratory tests to help diagnose the cause of neuropathy. Either a serum or RBC folate test may be used to help detect a deficiency. Some doctors feel that the RBC folate test is more clinically relevant than serum folate, but there is not widespread agreement on this. High levels of B12 and folate are not usually clinically monitored. Increased folate may be seen with pernicious anemia and with vegetarian diets.
+-   Approximate Reference Range (Each site will have slight variations: Lower limit of normal: a general range for adults is 140 to 628 ng/mL
+-   Comments:
 -   Test Method Variance:
 -   Other:
-    -   Associated LOINC:
-    -   Associated CPT:
+    -   Associated LOINC: 2283-0, 14731-4
+    -   Associated CPT: 82747
 
 
 ### (GFR) Glomerular Filtration Rate Test Types
 
 1.  GFR\_AA\_CKD (Glomerular Filtration Rate, CKD-EPI, African American)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
-    -   Common Name: Estimated GFR, eGFR
-    -   Long Name: Glomerular Filtration Rate/1.73 sq M. predicted black (MDRD)
-    -   Test Type: GFR\_AA\_MD
+    -   Common Name: Glomerular Filtration Rate, CKD-EPI, African American
+    -   Long Name: Glomerular Filtration Rate/1.73 sq M.predicted Black (CKD-EPI)
+    -   Test Type: GFR\_AA\_CKD
     -   Panels: Comprehensive metabolic panel, basic metabolic panel
-    -   Equivalent Tests: Calculated GFR
-    -   Not Equivalent Tests: GFR measured by inulin clearance; Creatinine [SCr]; Creatinine clearance [CrCl]; Microalbumin; Cystatin C; Urine protein; Beta-2 microglobulin; GFR predicted non-Black MDRD (GFR\_NAA\_MD)
-    -   Indications: Measure kidney function; screen for/detect kidney damage; monitor kidney status
-    -   Description: This test estimates how much blood passes through glomeruli, the kidneys’ filters, each minute. A measure of creatinine is required to calculate GFR. The MDRD equation was created from data from the Modification of Diet and Renal Disease (MDRD) Study, is based on 4 variables (i.e. Scr, age, gender, race), and was introduced in 2005. GFR= 175 x (Standardized Scr)-1.154 x (Age)-0.203 x (0.742 if female) x (1.120 if African American) See: <http://www.nkdep.nih.gov/professionals/gfr_calculators/>.
-    -   Related Tests: SCr; CrCl
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
     -   Approximate Reference Range (National Kidney Foundation): GFR Description Kidney Damage Stage
     
     ≥ 90 ml/min Normal GFR 1
@@ -1371,10 +1633,10 @@ Prealbumin, microalbumin, urinalysis, liver panel
     15-29 ml/min Severe decrease in GFR 4
     <15 ml/min Kidney failure 5
     
-    -   Comments: The GFR\_AA\_MD test type should be used when your lab reports results include race. If GFR results are reported without regard to race, populate the GFR\_MDRD test type. The GFR\_AA\_MD is only used for African Americans. Early on in GFR reporting there was no race adjustment; clinicians had to adjust the reported values themselves if their patient was African American. Still today many labs do not have race data associated with their samples, so they report two GFR values, one based on non-African Americans and the other for African Americans. This way clinicians just choose the appropriate result. This test is most accurate for poor kidney function so it may only be reported for values less than 60 ml/min. Although the MDRD equation for African Americans is not intended for use in calculating eGFR for pediatric patients, some HMOs may report eGFR using the MDRD for children (i.e., one of the MDRD TEST\_TYPEs would be populated in the VDW for children at your site if that is the case).
+    -   Comments: The GFR\_AA\_CKD test type should be used when your lab reports results include race. If GFR results are reported without regard to race, populate the GFR\_MDRD test type. The GFR\_AA\_MD is only used for African Americans. Early on in GFR reporting there was no race adjustment; clinicians had to adjust the reported values themselves if their patient was African American. Still today many labs do not have race data associated with their samples, so they report two GFR values, one based on non-African Americans and the other for African Americans. This way clinicians just choose the appropriate result. This test is most accurate for poor kidney function so it may only be reported for values less than 60 ml/min. Although the MDRD equation for African Americans is not intended for use in calculating eGFR for pediatric patients, some HMOs may report eGFR using the MDRD for children (i.e., one of the MDRD TEST\_TYPEs would be populated in the VDW for children at your site if that is the case).
     -   Test Method Variance: Prior to 2005, the equation was as follows: GFR= 186 x (Scr)-1.154 x (Age)-0.203 x (0.742 if female) x (1.120 if African American) Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his GFR would be 62.5, but in 2008 that man would have a GFR of 58.8. It may appear there was a decline in renal function over time, however part of the decline is an artifact of the equation change. Identify when your site lab changed equations.
     -   Other: &#x2013;
-        -   Associated LOINC:
+        -   Associated LOINC: 88293-6
         -   Associated CPT:
 
 2.  GFR\_AA\_MD (Glomerular Filtration Rate, MDRD, African American)
@@ -1407,6 +1669,7 @@ Prealbumin, microalbumin, urinalysis, liver panel
 3.  GFR\_AA\_NS (Glomerular Filtration Rate, method not-specified, African American)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
     -   Common Name: Estimated GFR, eGFR
     -   Long Name: Glomerular Filtration Rate/1.73 sq M. predicted black (MDRD)
@@ -1440,7 +1703,23 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 4.  GFR\_ARV (Glomerular Filtration Rate, ArvRate)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Glomerular Filtration Rate, ArvRate
+    -   Long Name: Glomerular Filtration Rate/1.73 sq M.predicted (Antiretroviral Rate)
+    -   Test Type: GFR\_ARV
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications: Measure kidney function; screen for/detect kidney damage; monitor kidney status
+    -   Description: Glomerular Filtration Rate (GFR) is a key measure of kidney function.  It estimates how much blood the kidneys' filtering units (glomeruli) process per minute. GFR is particularly important for individuals with HIV, as both the infection itself and some antiretroviral drugs can affect kidney function.  The kidneys are crucial for filtering waste products, including some antiretroviral medications, from the body; therefore, GFR is used to assess if ARV dosages need adjustment to prevent potential drug buildup and minimize side effects.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations): An eGFR below 60 mL/min/1.73 m2 may indicate chronic kidney disease
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 69405-9
+        -   Associated CPT:
 
 5.  GFR\_CKD (Glomerular Filtration Rate, CKD-EPI)
 
@@ -1466,10 +1745,44 @@ Prealbumin, microalbumin, urinalysis, liver panel
 6.  GFR\_CKD\_EPI (Glomerular Filtration Rate, CKD-EPI 2021, not based on race)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name:
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC:
+        -   Associated CPT:
 
 7.  GFR\_CKD\_EPI\_CYS (Glomerular Filtration Rate, CKD-EPI 2021, creatine-cystatin not based on race)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name:
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC:
+        -   Associated CPT:
 
 8.  GFR\_CYST (Glomerular Filtration Rate, Cystatin)
 
@@ -1494,7 +1807,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 9.  GFR\_F\_MD (Glomerular Filtration Rate, MDRD, Female)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name:  Glomerular Filtration Rate, MDRD, Female
@@ -1515,7 +1827,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 10. GFR\_M\_MD (Glomerular Filtration Rate, MDRD, Male)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Glomerular Filtration Rate, MDRD, Male
@@ -1564,6 +1875,23 @@ Prealbumin, microalbumin, urinalysis, liver panel
 12. GFR\_NAA\_CKD (Glomerular Filtration Rate, CKD-EPI, Non-African American)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name:
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC:
+        -   Associated CPT:
 
 13. GFR\_NAA\_MD (Glomerular Filtration Rate, MDRD, Non-African American)
 
@@ -1595,10 +1923,44 @@ Prealbumin, microalbumin, urinalysis, liver panel
 14. GFR\_NAA\_NS (Glomerular Filtration Rate, Not Specified, Non-African American)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name:
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC:
+        -   Associated CPT:
 
 15. GFR\_NS (Glomerular Filtration Rate, Not Specified, Non-African American)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name:
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC:
+        -   Associated CPT:
 
 16. GFR\_SCH (Glomerular Filtration Rate, Schwartz)
 
@@ -1691,7 +2053,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 1.  HCO3\_A (Bicarbonate in Arterial blood)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name:  Bicarbonate in Arterial blood
@@ -1712,7 +2073,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 2.  HCO3\_C (Bicarbonate in Capillary blood)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name:  Bicarbonate in Capillary blood
@@ -1733,7 +2093,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 3.  HCO3\_V (Bicarbonate in Venous blood)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name:  Bicarbonate in Venous blood
@@ -1754,7 +2113,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 4.  HCO3\_NS (Bicarbonate source not specified)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name:  Bicarbonate source not specified
@@ -1795,12 +2153,27 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 ### HGBA1C (Hemoglobin A1C)
 
-***NEEDS TO BE UPDATED***
+***UNDER REVIEW***
+
+-   Common Name: Hemoglobin A1c
+-   Long Name: Hemoglobin A1C (% of hemoglobin A1c to total hemoglobin in blood)
+-   Test Type: HGBA1C
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications: A1c levels can indicate if your blood sugar is higher than normal (prediabetes) or high enough to warrant a diagnosis of type 2 diabetes.
+-   Description: The hemoglobin A1c test is a blood test that provides insights into your average blood glucose levels over the preceding 2 to 3 months.
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations): an A1c below 5.7% is considered normal
+-   Comments: 43150-2  (system is ^patient)
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC: 17855-8, 17856-6, 4548-4, 4549-2, 59261-8, 62388-4 , 71875-9, 96595-4
+    -   Associated CPT: 83036, 83037
 
 
 ### IL\_6 (Interleukin 6)
 
-***NEEDS TO BE UPDATED***
 ***UNDER REVIEW***
 
 -   Common Name:  Interleukin 6
@@ -1822,7 +2195,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 ### IL\_6\_QL (Interleukin 6 presence)
 
-***NEEDS TO BE UPDATED***
 ***UNDER REVIEW***
 
 -   Common Name:  Interleukin 6 presence
@@ -1965,7 +2337,23 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 ### LIPASE (Lipase)
 
-***NEEDS TO BE UPDATED***
+***UNDER REVIEW***
+
+-   Common Name: Lipase
+-   Long Name: Lipase
+-   Test Type: LIPASE
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications: High lipase levels, particularly those three to 10 times higher than the normal range, strongly suggest acute pancreatitis. This test can help track the progression of existing pancreatic conditions, like acute or chronic pancreatitis, and determine if treatment is effective.
+-   Description: A lipase blood test, also known as a serum lipase or LPS test, measures the level of the enzyme lipase in your blood. Lipase, primarily produced in the pancreas, plays a vital role in digesting fats within the small intestine. While a small amount of lipase in the bloodstream is normal, elevated levels can indicate problems with the pancreas, such as inflammation (pancreatitis) or other pancreatic disorders.
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations):  Lipase blood test is typically 0 to 160 units per liter (U/L)
+-   Comments: 2572-6 is Lipoprotein lipase and not wanted in VDW
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC: 3040-3
+    -   Associated CPT: 83690
 
 
 ### MAGNESIUM (Magnesium)
@@ -1991,38 +2379,168 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 1.  PG\_B\_QL (Pregnancy Determination, Serum Beta Human Choriogonadotropin, qualitative)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Pregnancy Determination, Serum Beta Human Choriogonadotropin, qualitative
+    -   Long Name: Pregnancy Determination - Beta Human Choriogonadotropin (HCG) in serum, qualitative
+    -   Test Type: PG\_B\_QL
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications: A highly accurate way to confirm pregnancy, even in its very early stages.  Assess Pregnancy Health: Tracking changes in hCG levels over time can help assess the health and viability of the pregnancy.
+    -   Description: HCG (Human Chorionic Gonadotropin) is a hormone primarily produced by the placenta after fertilization and implantation.  It plays a vital role in early pregnancy, supporting the corpus luteum (which produces progesterone to thicken the uterine lining) and maintaining the pregnancy.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations): Not applicable results are qualitative
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 2110-5
+        -   Associated CPT:
 
 2.  PG\_B\_QL\_U (Pregnancy Determination, Urine Beta Human Choriogonadotropin, qualitative)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Pregnancy Determination, Urine Beta Human Choriogonadotropin, qualitative
+    -   Long Name: Pregnancy Determination - Beta Human Choriogonadotropin (HCG) in urine, qualitative
+    -   Test Type: PG\_B\_QL\_U
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications: A highly accurate way to confirm pregnancy, even in its very early stages.  Assess Pregnancy Health: Tracking changes in hCG levels over time can help assess the health and viability of the pregnancy.
+    -   Description: Pregnancy tests work by detecting the presence of a hormone called human chorionic gonadotropin (hCG) in the body. This hormone is produced by the placenta shortly after a fertilized egg implants in the uterus. The presence of hCG in a woman's urine or blood is a strong indicator of pregnancy.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 2112-1
+        -   Associated CPT:
 
 3.  PG\_B\_QN (Pregnancy Determination, Beta Human Choriogonadotropin quantitative)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Pregnancy Determination, Beta Human Choriogonadotropin quantitative
+    -   Long Name: Pregnancy Determination - Beta Human Choriogonadotropin (HCG) in serum or plasma, quantitative
+    -   Test Type: PG\_B\_QN
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications: A highly accurate way to confirm pregnancy, even in its very early stages.  Assess Pregnancy Health: Tracking changes in hCG levels over time can help assess the health and viability of the pregnancy.
+    -   Description: HCG (Human Chorionic Gonadotropin) is a hormone primarily produced by the placenta after fertilization and implantation.  It plays a vital role in early pregnancy, supporting the corpus luteum (which produces progesterone to thicken the uterine lining) and maintaining the pregnancy.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations): Generally, an hCG level above 25 mIU/mL is considered positive for pregnancy.  An hCG level of less than 5 mIU/mL is typically considered negative.
+    -   Comments: 2115-4 is B-HCG Free, 45194-8 is sum of total not just beta
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 20415-6, 2111-3, 21198-7, 55869-2
+        -   Associated CPT:
 
 4.  PG\_B\_QN\_U (Pregnancy Determination, Urine Beta Human Choriogonadotropin quantitative)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Pregnancy Determination, Urine Beta Human Choriogonadotropin quantitative
+    -   Long Name: Pregnancy Determination - Beta Human Choriogonadotropin (HCG) in urine, quantitative
+    -   Test Type: PG\_B\_QN\_U
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications: A highly accurate way to confirm pregnancy, even in its very early stages.  Assess Pregnancy Health: Tracking changes in hCG levels over time can help assess the health and viability of the pregnancy.
+    -   Description: Pregnancy tests work by detecting the presence of a hormone called human chorionic gonadotropin (hCG) in the body. This hormone is produced by the placenta shortly after a fertilized egg implants in the uterus. The presence of hCG in a woman's urine or blood is a strong indicator of pregnancy.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 2113-9, 2114-7, 56497-1
+        -   Associated CPT:
 
-5.  PG\_QL (Pregnancy Determination - Beta Human Choriogonadotropin qualitative)
+5.  PG\_QL (Pregnancy Determination - Human Choriogonadotropin qualitative)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Pregnancy Determination - Human Choriogonadotropin qualitative
+    -   Long Name: Pregnancy Determination - Human Choriogonadotropin (HCG) in serum, qualitative
+    -   Test Type: PG\_QL
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications: The main use of the hCG test is to confirm pregnancy, as hCG is produced after a fertilized egg implants in the uterine wall.
+    -   Description: The human chorionic gonadotropin (hCG) test is a medical test used to detect and measure the levels of the hormone hCG in the body. HCG is primarily produced by the placenta during pregnancy, but it can also be indicative of other medical conditions.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations): This is a qualitative test
+    -   Comments: Use when data do not specify "beta" HCG
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 2116-2, 2118-8, 80385-8
+        -   Associated CPT:
 
 6.  PG\_QL\_U (Pregnancy Determination, Urine Beta Human Choriogonadotropin qualitative)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Pregnancy Determination, Urine Beta Human Choriogonadotropin
+    -   Long Name: Pregnancy Determination - Human Choriogonadotropin (HCG) in urine, qualitative
+    -   Test Type: PG\_QL\_U
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications: The main use of the hCG test is to confirm pregnancy, as hCG is produced after a fertilized egg implants in the uterine wall.
+    -   Description: The human chorionic gonadotropin (hCG) test is a medical test used to detect and measure the levels of the hormone hCG in the body. HCG is primarily produced by the placenta during pregnancy, but it can also be indicative of other medical conditions.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations): This is a qualitative test
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 2106-3, 80384-1
+        -   Associated CPT:
 
-7.  PG\_QN (Pregnancy Determination,  Beta Human Choriogonadotropin quantitative)
+7.  PG\_QN (Pregnancy Determination, Human Choriogonadotropin quantitative)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Pregnancy Determination, Human Choriogonadotropin quantitative
+    -   Long Name: Pregnancy Determination - Human Choriogonadotropin (HCG) in serum, quantitative
+    -   Test Type: PG\_QN
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications: The main use of the hCG test is to confirm pregnancy, as hCG is produced after a fertilized egg implants in the uterine wall.
+    -   Description: The human chorionic gonadotropin (hCG) test is a medical test used to detect and measure the levels of the hormone hCG in the body. HCG is primarily produced by the placenta during pregnancy, but it can also be indicative of other medical conditions.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations): Typically, hCG levels above 25 mIU/mL indicate pregnancy.
+    -   Comments: Use when data do not specify "beta" HCG.  (Choose to not add 30243-0 because 'intact' subunit 12/2013)
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 19080-1, 2117-0, 2119-6, 30243-0, 34670-0, 53957-7, 53958-5, 53959-3, 83086-9
+        -   Associated CPT:
 
 8.  PG\_QN\_U (Pregnancy Determination, Urine Beta Human Choriogonadotropin quantitative)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name:
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC:
+        -   Associated CPT:
 
 
-### PROCALC (Procalcitonin in Serum or Plasma)
+### PHOSPHATE (Phosphate)
 
 ***NEEDS TO BE UPDATED***
 ***UNDER REVIEW***
@@ -2041,6 +2559,32 @@ Prealbumin, microalbumin, urinalysis, liver panel
 -   Test Method Variance:
 -   Other:
     -   Associated LOINC:
+    -   Associated CPT:
+
+
+### PROCALC (Procalcitonin)
+
+***UNDER REVIEW***
+
+-   Common Name: Procalcitonin
+-   Long Name: Procalcitonin in Serum or Plasma
+-   Test Type: PROCALC
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications:  Procalcitonin testing is typically used in the following scenarios:
+    -   Diagnosis of sepsis and severe bacterial infections: PCT can help healthcare providers determine if a patient with symptoms suggestive of infection has a bacterial infection and assess their risk of developing sepsis.
+    -   Monitoring treatment response: Procalcitonin levels tend to decrease as the bacterial infection resolves. Monitoring Procalcitonin levels can help assess the effectiveness of antibiotic therapy.
+    -   Guiding antibiotic therapy: Procalcitonin levels can help clinicians make informed decisions about initiating, escalating, or discontinuing antibiotic treatment, especially in settings like the emergency department and intensive care unit.
+    -   Differentiating between bacterial and non-bacterial infections: Procalcitonin can help distinguish between bacterial infections and other inflammatory conditions, says Testing.com.
+    -   Assessing prognosis: Studies have shown a correlation between high Procalcitonin levels and increased mortality risk in patients with sepsis.
+-   Description: The procalcitonin test is a blood test that measures the levels of procalcitonin in the bloodstream. Normal levels in healthy individuals are very low, typically below 0.1 µg/L. However, in response to a serious bacterial infection, cells throughout the body release procalcitonin into the bloodstream, leading to significantly increased levels. This makes PCT a useful biomarker for diagnosing and assessing the risk of severe bacterial infections and sepsis.
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations): typically below 0.1 µg/L
+-   Comments:
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC: 33959-8, 75241-0
     -   Associated CPT:
 
 
@@ -2218,6 +2762,23 @@ Prealbumin, microalbumin, urinalysis, liver panel
 ### TRANSFERRIN (Transferrin in Serum)
 
 ***NEEDS TO BE UPDATED***
+***UNDER REVIEW***
+
+-   Common Name:
+-   Long Name:
+-   Test Type:
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications:
+-   Description:
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations):
+-   Comments:
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC:
+    -   Associated CPT:
 
 
 ### TRIGL\_F (Triglycerides, Fasting)
@@ -2409,7 +2970,7 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 ### (U\_ACR) Microalbumin to Creatine Ratio Test Types
 
-1.  U\_ACR (Microalbumin [or albumin] to creatinine ratio in urine)
+1.  U\_ACR (Microalbumin to creatinine ratio)
 
     -   Common Name: ACR
     -   Long Name: Microalbumin or albumin to creatinine ratio in urine
@@ -2427,44 +2988,44 @@ Prealbumin, microalbumin, urinalysis, liver panel
         -   Associated LOINC:  14585-4, 14959-1, 30000-4, 32294-1, 77253-3, 89998-9, 9318-7
         -   Associated CPT:
 
-2.  U\_ACR12 (12-hour Microalbumin [or albumin] to creatinine ratio in urine)
+2.  U\_ACR12 (12-hour Microalbumin to creatinine ratio)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
-    -   Common Name: ACR
-    -   Long Name: Microalbumin or albumin to creatinine ratio in urine
-    -   Test Type: U\_ACR
+    -   Common Name: 12 hour Microalbumin to creatinine ratio
+    -   Long Name: 12-hour Microalbumin to creatinine ratio in urine
+    -   Test Type: U\_ACR12
     -   Panels: N/A
     -   Equivalent Tests: N/A
     -   Not Equivalent Tests: Serum or urine Albumin, serum prealbumin, serum or urine microalbumin, Urinalysis
     -   Indications: To screen for possible kidney disorder or for early kidney damage in diabetics
-    -   Description: The microalbumin test is an early indicator of kidney failure. It measures the tiny amounts of albumin that the body begins to release into the urine several years before significant kidney damage becomes apparent. Albumin is a protein that is produced in the liver and is present in high concentrations in the blood. When the kidneys are functioning properly, virtually no albumin is present in the urine. Damaged or diseased kidneys lose their ability to filter proteins out of the urine. Patients who have consistently detectible amounts of albumin in their urine (known as microalbuminuria) have an increased risk of developing progressive kidney failure and cardiovascular disease. Microalbumin measurements can be obtained using urine collected over a 24-hour period, for a specified amount of time (e.g., 4 hours or overnight), or randomly (spot). When a creatinine measurement is performed along with a random microalbumin, the result is the ACR. Creatinine, a byproduct of muscle metabolism, is normally excreted into the urine on a consistent basis. Its level in the urine is relatively stable. Since the concentration (or dilution) of urine varies throughout the day, this property of creatinine allows its measurement to be used as a corrective factor in random/spot urine samples. When a creatinine measurement is performed along with a random microalbumin, the result is the ACR (which the American Diabetes Association states is the preferred test for screening for microalbuminuria).
+    -   Description: This test involves collecting all urine samples over a 12-hour period. The collected urine is stored in a special container in a refrigerator during the collection period and then returned to the lab or healthcare provider for analysis.  The microalbumin test is an early indicator of kidney failure. It measures the tiny amounts of albumin that the body begins to release into the urine several years before significant kidney damage becomes apparent. Albumin is a protein that is produced in the liver and is present in high concentrations in the blood. When the kidneys are functioning properly, virtually no albumin is present in the urine. Damaged or diseased kidneys lose their ability to filter proteins out of the urine. Patients who have consistently detectible amounts of albumin in their urine (known as microalbuminuria) have an increased risk of developing progressive kidney failure and cardiovascular disease. Microalbumin measurements can be obtained using urine collected over a 24-hour period, for a specified amount of time (e.g., 4 hours or overnight), or randomly (spot). When a creatinine measurement is performed along with a random microalbumin, the result is the ACR. Creatinine, a byproduct of muscle metabolism, is normally excreted into the urine on a consistent basis. Its level in the urine is relatively stable. Since the concentration (or dilution) of urine varies throughout the day, this property of creatinine allows its measurement to be used as a corrective factor in random/spot urine samples. When a creatinine measurement is performed along with a random microalbumin, the result is the ACR (which the American Diabetes Association states is the preferred test for screening for microalbuminuria).
     -   Related Tests: Albumin; Creatinine; Microalbumin
     -   Approximate Reference Range: Normal is < 30 mcg albumin/mg creatinine; microalbuminuria = 30 - 299 mcg albumin/mg creatinine (spot or random urine sample)
     -   Comments: Elevated results may also be caused by vigorous exercise, blood in the urine, urinary tract infection, dehydration, and some drugs.
     -   Test Method Variance:
     -   Other:
-        -   Associated LOINC:
+        -   Associated LOINC: 44292-1
         -   Associated CPT:
 
-3.  U\_ACR24 (24-hour Microalbumin [or albumin] to creatinine ratio in urine)
+3.  U\_ACR24 (24-hour Microalbumin to creatinine ratio in urine)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
-    -   Common Name: ACR
-    -   Long Name: Microalbumin or albumin to creatinine ratio in urine
-    -   Test Type: U\_ACR
-    -   Panels: N/A
+    -   Common Name: 24-hour Microalbumin to creatinine ratio in urine24-hour Microalbumin to creatinine ratio in urine
+    -   Long Name: 24-hour Microalbumin to creatinine ratio in urine; albumin to creatinine ratio in urine
+    -   Test Type: U\_ACR24
+    -   Panels: 58447-4 (panel)
     -   Equivalent Tests: N/A
     -   Not Equivalent Tests: Serum or urine Albumin, serum prealbumin, serum or urine microalbumin, Urinalysis
     -   Indications: To screen for possible kidney disorder or for early kidney damage in diabetics
-    -   Description: The microalbumin test is an early indicator of kidney failure. It measures the tiny amounts of albumin that the body begins to release into the urine several years before significant kidney damage becomes apparent. Albumin is a protein that is produced in the liver and is present in high concentrations in the blood. When the kidneys are functioning properly, virtually no albumin is present in the urine. Damaged or diseased kidneys lose their ability to filter proteins out of the urine. Patients who have consistently detectible amounts of albumin in their urine (known as microalbuminuria) have an increased risk of developing progressive kidney failure and cardiovascular disease. Microalbumin measurements can be obtained using urine collected over a 24-hour period, for a specified amount of time (e.g., 4 hours or overnight), or randomly (spot). When a creatinine measurement is performed along with a random microalbumin, the result is the ACR. Creatinine, a byproduct of muscle metabolism, is normally excreted into the urine on a consistent basis. Its level in the urine is relatively stable. Since the concentration (or dilution) of urine varies throughout the day, this property of creatinine allows its measurement to be used as a corrective factor in random/spot urine samples. When a creatinine measurement is performed along with a random microalbumin, the result is the ACR (which the American Diabetes Association states is the preferred test for screening for microalbuminuria).
+    -   Description: This test involves collecting all urine samples over a 24-hour period. The microalbumin test is an early indicator of kidney failure. It measures the tiny amounts of albumin that the body begins to release into the urine several years before significant kidney damage becomes apparent. Albumin is a protein that is produced in the liver and is present in high concentrations in the blood. When the kidneys are functioning properly, virtually no albumin is present in the urine. Damaged or diseased kidneys lose their ability to filter proteins out of the urine. Patients who have consistently detectible amounts of albumin in their urine (known as microalbuminuria) have an increased risk of developing progressive kidney failure and cardiovascular disease. Microalbumin measurements can be obtained using urine collected over a 24-hour period, for a specified amount of time (e.g., 4 hours or overnight), or randomly (spot). When a creatinine measurement is performed along with a random microalbumin, the result is the ACR. Creatinine, a byproduct of muscle metabolism, is normally excreted into the urine on a consistent basis. Its level in the urine is relatively stable. Since the concentration (or dilution) of urine varies throughout the day, this property of creatinine allows its measurement to be used as a corrective factor in random/spot urine samples. When a creatinine measurement is performed along with a random microalbumin, the result is the ACR (which the American Diabetes Association states is the preferred test for screening for microalbuminuria).
     -   Related Tests: Albumin; Creatinine; Microalbumin
     -   Approximate Reference Range: Normal is < 30 mcg albumin/mg creatinine; microalbuminuria = 30 - 299 mcg albumin/mg creatinine (spot or random urine sample)
     -   Comments: Elevated results may also be caused by vigorous exercise, blood in the urine, urinary tract infection, dehydration, and some drugs.
     -   Test Method Variance:
     -   Other:
-        -   Associated LOINC:
+        -   Associated LOINC: 13705-9, 14958-3, 59159-4, 76401-9, 77254-1
         -   Associated CPT:
 
 
@@ -2509,6 +3070,23 @@ Prealbumin, microalbumin, urinalysis, liver panel
 ### U\_HEME\_DIP (Hemoglobin in urine by dipstick)
 
 ***NEEDS TO BE UPDATED***
+***UNDER REVIEW***
+
+-   Common Name:
+-   Long Name:
+-   Test Type:
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications:
+-   Description:
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations):
+-   Comments:
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC:
+    -   Associated CPT:
 
 
 ### U\_MIC\_ALB (Microalbumin [or albumin] in urine)
@@ -2573,7 +3151,7 @@ U\_PCR is used when a child shows evidence of significant and persistent protein
 
 ### U\_PCR24 (24-hour Protein to creatinine ratio in urine)
 
-***NEEDS TO BE UPDATED***
+***UNDER REVIEW***
 
 -   Common Name: 24 hour Urine Protein to Creatinine Ratio
 -   Long Name: 24 hour Protein to creatinine ratio in urine
@@ -2652,6 +3230,23 @@ U\_PCR is used when a child shows evidence of significant and persistent protein
 ### U\_RBC\_DIP (Erythrocytes [red blood cells] in urine by dipstick)
 
 ***NEEDS TO BE UPDATED***
+***UNDER REVIEW***
+
+-   Common Name:
+-   Long Name:
+-   Test Type:
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications:
+-   Description:
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations):
+-   Comments:
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC:
+    -   Associated CPT:
 
 
 ### URIC\_ACID (Urate or Uric Acid in serum or plasma)
@@ -2968,26 +3563,128 @@ volume (MCV)
 1.  NTIMMATURE\_C\_A (Immature neutrophil number, automated count)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name:
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC:
+        -   Associated CPT:
 
 2.  NTIMMATURE\_C\_M (Immature neutrophil number, manual count)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name:
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC:
+        -   Associated CPT:
 
 3.  NTIMMATURE\_C (Immature neutrophil number, count method unknown)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name:
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC:
+        -   Associated CPT:
 
 4.  NTIMMATURE\_P\_A (Immature neutrophil percent, automated)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name:
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC:
+        -   Associated CPT:
 
 5.  NTIMMATURE\_P\_M (Immature neutrophil percent, manual)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name:
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC:
+        -   Associated CPT:
 
 6.  NTIMMATURE\_P (Immature neutrophil percent, method unknown)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name:
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC:
+        -   Associated CPT:
 
 
 ### (NTSEG) Segmented Neutrophil Test Types
@@ -4704,4 +5401,7 @@ TEST\_TYPE LONGNAME
 -   Other:
     -   Associated LOINC:
     -   Associated CPT:
+
+
+## PG\_QL\_U (Pregnancy Determination, Urine Beta Human Choriogonadotropin
 
