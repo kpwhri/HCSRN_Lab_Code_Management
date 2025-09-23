@@ -1442,8 +1442,9 @@ Related, but Not Equivalent, Tests: Fibrin Degradation Products (FDP); Fibrin Sp
 - Panels: Comprehensive metabolic panel, basic metabolic panel
 - Equivalent Tests: 
 - Not Equivalent Tests: 
-- Indications: 
-- Description: 
+- Indications: Measure kidney function; screen for/detect kidney damage; monitor kidney status. 
+- Description:  This test estimates how much blood passes through glomeruli, the kidneys’ filters, each minute. A measure of creatinine is required to calculate GFR. The MDRD equation was created from data from the Modification of Diet and Renal Disease (MDRD) Study, is based on 4 variables (i.e. Scr, age, gender, race).  The GFR test is a blood test used to estimate how well the kidneys are filtering waste from the blood.  The race-based factor for estimated glomerular filtration rate (eGFR) calculations is no longer recommended. The 2021 Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) equation, which removes the race variable, is now the standard used by most medical laboratories.
+ - See: http://www.nkdep.nih.gov/professionals/gfr_calculators/.
 - Related Tests: 
 - Approximate Reference Range (National Kidney Foundation): GFR Description Kidney Damage Stage
 ≥ 90 ml/min Normal GFR 1
@@ -1484,31 +1485,32 @@ Related, but Not Equivalent, Tests: Fibrin Degradation Products (FDP); Fibrin Sp
  - Associated CPT:  82565
 
 **** GFR_AA_NS (Glomerular Filtration Rate, method not-specified, African American)
-*/NEEDS TO BE UPDATED/*
 */UNDER REVIEW/*
-- Common Name: Estimated GFR, eGFR
-- Long Name: Glomerular Filtration Rate/1.73 sq M. predicted black (MDRD)
-- Test Type: GFR_AA_MD
-- Panels: Comprehensive metabolic panel, basic metabolic panel
+- Common Name: Glomerular Filtration Rate, method not-specified, African American
+- Long Name: Glomerular Filtration Rate/1.73 sq M. predicted black (method not specified)
+- Test Type: GFR_AA_NS
+- Panels: 
 - Equivalent Tests: Calculated GFR
-- Not Equivalent Tests: GFR measured by inulin clearance; Creatinine [SCr]; Creatinine clearance [CrCl]; Microalbumin; Cystatin C; Urine protein; Beta-2 microglobulin; GFR predicted non-Black MDRD (GFR_NAA_MD)
+- Not Equivalent Tests: 
 - Indications: Measure kidney function; screen for/detect kidney damage; monitor kidney status
-- Description: This test estimates how much blood passes through glomeruli, the kidneys’ filters, each minute. A measure of creatinine is required to calculate GFR. The MDRD equation was created from data from the Modification of Diet and Renal Disease (MDRD) Study, is based on 4 variables (i.e. Scr, age, gender, race), and was introduced in 2005.
+- Description: This test estimates how much blood passes through glomeruli, the kidneys’ filters, each minute. A measure of creatinine is required to calculate GFR. The MDRD equation was created from data from the Modification of Diet and Renal Disease (MDRD) Study, is based on 4 variables (i.e. Scr, age, gender, race).
 GFR= 175 x (Standardized Scr)-1.154 x (Age)-0.203 x (0.742 if female) x (1.120 if African American)
 See: http://www.nkdep.nih.gov/professionals/gfr_calculators/.
 - Related Tests: SCr; CrCl
 - Approximate Reference Range (National Kidney Foundation):
-GFR Description Kidney Damage Stage
-≥ 90 ml/min Normal GFR 1
-60-89 ml/min Mild decrease in GFR 2
-30-59 ml/min Moderate decrease in GFR 3
-15-29 ml/min Severe decrease in GFR 4
-<15 ml/min Kidney failure 5
+ - GFR Description Kidney Damage Stage
+ - ≥ 90 ml/min Normal GFR 1
+ - 60-89 ml/min Mild decrease in GFR 2
+ - 30-59 ml/min Moderate decrease in GFR 3
+ - 15-29 ml/min Severe decrease in GFR 4
+ - <15 ml/min Kidney failure 5
 - Comments: The GFR_AA_MD test type should be used when your lab reports results include race. If GFR results are reported without regard to race, populate the GFR_MDRD test type. The GFR_AA_MD is only used for African Americans. Early on in GFR reporting there was no race adjustment; clinicians had to adjust the reported values themselves if their patient was African American. Still today many labs do not have race data associated with their samples, so they report two GFR values, one based on non-African Americans and the other for African Americans. This way clinicians just choose the appropriate result. This test is most accurate for poor kidney function so it may only be reported for values less than 60 ml/min. Although the MDRD equation for African Americans is not intended for use in calculating eGFR for pediatric patients, some HMOs may report eGFR using the MDRD for children (i.e., one of the MDRD TEST_TYPEs would be populated in the VDW for children at your site if that is the case).
 - Test Method Variance: Prior to 2005, the equation was as follows:
 GFR= 186 x (Scr)-1.154 x (Age)-0.203 x (0.742 if female) x (1.120 if African American)
 Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his GFR would be 62.5, but in 2008 that man would have a GFR of 58.8. It may appear there was a decline in renal function over time, however part of the decline is an artifact of the equation change. Identify when your site lab changed equations.
 - Other: --
+ - Associated LOINC: 96591-3
+ - Associated CPT:  
 
 **** GFR_ARV (Glomerular Filtration Rate, ArvRate)
 */UNDER REVIEW/*
@@ -1520,6 +1522,7 @@ Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his
 - Not Equivalent Tests:
 - Indications: Measure kidney function; screen for/detect kidney damage; monitor kidney status
 - Description: Glomerular Filtration Rate (GFR) is a key measure of kidney function.  It estimates how much blood the kidneys' filtering units (glomeruli) process per minute. GFR is particularly important for individuals with HIV, as both the infection itself and some antiretroviral drugs can affect kidney function.  The kidneys are crucial for filtering waste products, including some antiretroviral medications, from the body; therefore, GFR is used to assess if ARV dosages need adjustment to prevent potential drug buildup and minimize side effects.
+ - See: http://www.nkdep.nih.gov/professionals/gfr_calculators/.
 - Related Tests:
 - Approximate Reference Range (Each site will have slight variations): An eGFR below 60 mL/min/1.73 m2 may indicate chronic kidney disease
 - Comments:
@@ -1529,7 +1532,6 @@ Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his
  - Associated CPT:  
 
 **** GFR_CKD (Glomerular Filtration Rate, CKD-EPI)
-*/NEEDS TO BE UPDATED/*
 */UNDER REVIEW/*
 - Common Name: Glomerular filtration rate
 - Long Name: Glomerular Filtration Rate/1.73 sq M.predicted (CKD-EPI) 
@@ -1538,7 +1540,8 @@ Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his
 - Equivalent Tests:
 - Not Equivalent Tests:
 - Indications: Measure kidney function; screen for/detect kidney damage; monitor kidney status
-- Description: Glomerular Filtration Rate (GFR) is a key measure of kidney function. It represents the rate at which blood is filtered by the kidneys each minute. This filtration process is essential for removing waste products and excess fluid from the blood, which are then excreted from the body as urine. The kidneys contain tiny filters called glomeruli, which are the main structures responsible for filtration. The glomeruli act like sieves, allowing small molecules like waste products (such as creatinine) and excess water to pass through, while preventing larger substances like blood cells and proteins from entering the filtrate.  The GFR quantifies how efficiently this filtering process is occurring by measuring the volume of blood filtered per unit of time. This is typically expressed in milliliters per minute (mL/min). The MDRD equation was created from data from the Modification of Diet and Renal Disease (MDRD) Study, is based on 4 variables (i.e. Scr, age, gender, race), and was introduced in 2005. GFR= 175 x (Standardized Scr)-1.154 x (Age)-0.203 x (0.742 if female) x (1.120 if African American) See: http://www.nkdep.nih.gov/professionals/gfr_calculators/.
+- Description: Glomerular Filtration Rate (GFR) is a key measure of kidney function. It represents the rate at which blood is filtered by the kidneys each minute. This filtration process is essential for removing waste products and excess fluid from the blood, which are then excreted from the body as urine. The kidneys contain tiny filters called glomeruli, which are the main structures responsible for filtration. The glomeruli act like sieves, allowing small molecules like waste products (such as creatinine) and excess water to pass through, while preventing larger substances like blood cells and proteins from entering the filtrate.  The GFR quantifies how efficiently this filtering process is occurring by measuring the volume of blood filtered per unit of time. This is typically expressed in milliliters per minute (mL/min). The MDRD equation was created from data from the Modification of Diet and Renal Disease (MDRD) Study, is based on 4 variables (i.e. Scr, age, gender, race), and was introduced in 2005. GFR= 175 x (Standardized Scr)-1.154 x (Age)-0.203 x (0.742 if female) x (1.120 if African American).
+ - See: http://www.nkdep.nih.gov/professionals/gfr_calculators/.
 - Related Tests: SCr; CrCl
 - Approximate Reference Range (Each site will have slight variations):  Normal GFR values typically fall within the range of 90 to 120 mL/min/1.73 m² (adjusted for body surface area). A GFR below 60 mL/min/1.73 m² for three months or more suggests potential kidney disease. 
 - Comments:
@@ -1558,6 +1561,7 @@ Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his
 - Not Equivalent Tests:
 - Indications:
 - Description:
+ - See: http://www.nkdep.nih.gov/professionals/gfr_calculators/.
 - Related Tests:
 - Approximate Reference Range (Each site will have slight variations):
 - Comments:
@@ -1577,6 +1581,7 @@ Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his
 - Not Equivalent Tests:
 - Indications:
 - Description:
+ - See: http://www.nkdep.nih.gov/professionals/gfr_calculators/.
 - Related Tests:
 - Approximate Reference Range (Each site will have slight variations):
 - Comments:
@@ -1586,7 +1591,6 @@ Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his
  - Associated CPT:  
 
 **** GFR_CYST (Glomerular Filtration Rate, Cystatin)
-*/NEEDS TO BE UPDATED/*
 */UNDER REVIEW/*
 - Common Name:  Glomerular Filtration Rate, Cystatin
 - Long Name:  Glomerular Filtration Rate/1.73 sq M.predicted (Cystatin) 
@@ -1667,26 +1671,32 @@ Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his
  - Associated CPT:  82565
 
 **** GFR_NAA_CKD (Glomerular Filtration Rate, CKD-EPI, Non-African American)
-*/NEEDS TO BE UPDATED/*
 */UNDER REVIEW/*
-- Common Name:
-- Long Name:
-- Test Type:
+- Common Name: Glomerular Filtration Rate, CKD-EPI, Non-African American
+- Long Name: Glomerular Filtration Rate/1.73 sq M.predicted .non Black (CKD-EPI)
+- Test Type: GFR_NAA_CKD
 - Panels:
 - Equivalent Tests:
 - Not Equivalent Tests:
-- Indications:
-- Description:
+- Indications: Measure kidney function; screen for/detect kidney damage; monitor kidney status
+- Description: The eGFR is a calculation based on the results of a blood test that measures the level of creatinine, a waste product from muscle metabolism, in your blood. For non-African American individuals, the calculation does not include a specific coefficient or adjustment for race. Your kidneys contain millions of tiny filters called glomeruli. The test estimates the volume of blood passing through these filters per minute.  The eGFR is not a direct measurement. Instead, it is a calculation based on the results of a standard blood test that measures your serum creatinine level.
+ - See: http://www.nkdep.nih.gov/professionals/gfr_calculators/.
 - Related Tests:
 - Approximate Reference Range (Each site will have slight variations):
+ - GFR Description Kidney Damage Stage
+ - ≥ 90 ml/min Normal GFR 1
+ - 60-89 ml/min Mild decrease in GFR 2
+ - 30-59 ml/min Moderate decrease in GFR 3
+ - 15-29 ml/min Severe decrease in GFR 4
+ - <15 ml/min Kidney failure 5
 - Comments:
 - Test Method Variance:
 - Other:
- - Associated LOINC:  
+ - Associated LOINC: 88294-4
  - Associated CPT:  
 
 **** GFR_NAA_MD (Glomerular Filtration Rate, MDRD, Non-African American)
-- Common Name: Estimated GFR, eGFR
+- Common Name: Estimated GFR, eGFR, MDRD, Non-African American
 - Long Name: Glomerular Filtration Rate/1.73 sq M. predicted non black (MDRD)
 - Test Type: GFR_NAA_MD
 - Panels: Comprehensive metabolic panel, basic metabolic panel
@@ -1712,41 +1722,53 @@ Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his
  - Associated CPT:  82565
 
 **** GFR_NAA_NS (Glomerular Filtration Rate, Not Specified, Non-African American)
-*/NEEDS TO BE UPDATED/*
 */UNDER REVIEW/*
-- Common Name:
-- Long Name:
+- Common Name: Glomerular Filtration Rate, Not Specified, Non-African American
+- Long Name: Glomerular filtration rate/1.73 sq M.predicted.non Black
 - Test Type:
 - Panels:
 - Equivalent Tests:
 - Not Equivalent Tests:
-- Indications:
-- Description:
+- Indications:  Measure kidney function; screen for/detect kidney damage; monitor kidney status
+- Description:  This test estimates how much blood passes through glomeruli, the kidneys’ filters, each minute. A measure of creatinine is required to calculate GFR. The MDRD equation was created from data from the Modification of Diet and Renal Disease (MDRD) Study, is based on 4 variables (i.e. Scr, age, gender, race), and was introduced in 2005. The equation is: GFR = 175 x (Standardized Scr)-1.154 x (Age)-0.203 x (0.742 if female)
+ - See: http://www.nkdep.nih.gov/professionals/gfr_calculators/.
 - Related Tests:
 - Approximate Reference Range (Each site will have slight variations):
+ - GFR Description Kidney Damage Stage
+ - ≥ 90 ml/min Normal GFR 1
+ - 60-89 ml/min Mild decrease in GFR 2
+ - 30-59 ml/min Moderate decrease in GFR 3
+ - 15-29 ml/min Severe decrease in GFR 4
+ - <15 ml/min Kidney failure 5
 - Comments:
 - Test Method Variance:
 - Other:
- - Associated LOINC:  
+ - Associated LOINC: 96592-1
  - Associated CPT:  
 
-**** GFR_NS (Glomerular Filtration Rate, Not Specified, Non-African American)
-*/NEEDS TO BE UPDATED/*
+**** GFR_NS (Glomerular Filtration Rate, Not Specified)
 */UNDER REVIEW/*
-- Common Name:
-- Long Name:
-- Test Type:
+- Common Name: Glomerular Filtration Rate, Not Specified
+- Long Name: Glomerular filtration rate, method and Race not specified
+- Test Type: GFR_NS
 - Panels:
 - Equivalent Tests:
 - Not Equivalent Tests:
-- Indications:
-- Description:
+- Indications:  Measure kidney function; screen for/detect kidney damage; monitor kidney status
+- Description:  This test estimates how much blood passes through glomeruli, the kidneys’ filters, each minute. A measure of creatinine is required to calculate GFR.
+ - See: http://www.nkdep.nih.gov/professionals/gfr_calculators/.
 - Related Tests:
 - Approximate Reference Range (Each site will have slight variations):
+ - GFR Description Kidney Damage Stage
+ - ≥ 90 ml/min Normal GFR 1
+ - 60-89 ml/min Mild decrease in GFR 2
+ - 30-59 ml/min Moderate decrease in GFR 3
+ - 15-29 ml/min Severe decrease in GFR 4
+ - <15 ml/min Kidney failure 5
 - Comments:
 - Test Method Variance:
 - Other:
- - Associated LOINC:  
+ - Associated LOINC: 45064-3, 45065-0, 45066-8, 50261-7  
  - Associated CPT:  
 
 **** GFR_SCH (Glomerular Filtration Rate, Schwartz)
@@ -2244,23 +2266,22 @@ Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his
  - Associated LOINC: 19080-1, 2117-0, 2119-6, 30243-0, 34670-0, 53957-7, 53958-5, 53959-3, 83086-9
  - Associated CPT:  
 
-**** PG_QN_U (Pregnancy Determination, Urine Beta Human Choriogonadotropin quantitative)
-*/NEEDS TO BE UPDATED/*
+**** PG_QN_U (Pregnancy Determination quantitative from Urine)
 */UNDER REVIEW/*
-- Common Name:
-- Long Name:
-- Test Type:
+- Common Name: Pregnancy Determination quantitative from Urine
+- Long Name: Pregnancy Determination - Beta Human Choriogonadotropin (hCG) in urine, quantitative
+- Test Type: PG_QN_U
 - Panels:
 - Equivalent Tests:
 - Not Equivalent Tests:
-- Indications:
-- Description:
+- Indications: The main use of the hCG test is to confirm pregnancy, as hCG is produced after a fertilized egg implants in the uterine wall.
+- Description: This test measures the exact amount of hCG, a hormone produced during pregnancy, in a urine sample. If hCG levels are lower or rising more slowly than expected for the gestational age, it could indicate an ectopic pregnancy or a potential miscarriage. Abnormally high levels may indicate a multiple pregnancy (such as twins), or a molar pregnancy. 
 - Related Tests:
-- Approximate Reference Range (Each site will have slight variations):
+- Approximate Reference Range (Each site will have slight variations): For a quantitative HCG urine test for pregnancy, a level above 25 mIU/mL is generally considered positive, while a level below 5 mIU/mL is negative. 
 - Comments:
 - Test Method Variance:
 - Other:
- - Associated LOINC:  
+ - Associated LOINC: 2107-1, 25372-4, 99104-2  
  - Associated CPT:  
 
 *** PHOSPHATE (Phosphate)
@@ -2951,33 +2972,446 @@ U_PCR is used when a child shows evidence of significant and persistent protein 
 ** Hematology and Coagulation
 *** ANC (Absolute neutrophil count)
 */NEEDS TO BE UPDATED/*
+*/UNDER REVIEW/*
+- Common Name: Absolute neutrophil count
+- Long Name: Absolute neutrophil count
+- Test Type: ANC
+- Panels:
+- Equivalent Tests:
+- Not Equivalent Tests:
+- Indications: A low ANC, known as neutropenia, signals a weakened immune system and a higher risk of infection. Severe neutropenia (ANC <500) can leave a patient highly vulnerable to serious infections.  A high ANC, known as neutrophilia, suggests your body is under stress from an infection or inflammation.
+- Description: An absolute neutrophil count (ANC) test measures the total number of neutrophils in a blood sample. As the most abundant type of white blood cell, neutrophils are a primary component of the immune system and help fight infection. 
+- Related Tests: An ANC is almost always performed as part of a complete blood count (CBC) with differential. 
+- Approximate Reference Range (Each site will have slight variations): A doctor will interpret your ANC result based on your overall health, age, medical history, and other factors. A normal range for a healthy adult is generally 2,500 to 7,000 cells per microliter, but values vary by lab.
+- Comments: Take CAUTION when using 753-4 (manual)!  /// 752-6 is depricated.  ///  LOINC does not state the LOINCs listed in this row are specific to ANC, but some sites may find indication in their lab data "local name" that these LOINCS are used for ANC. 
+- Test Method Variance:
+- Other:
+ - Associated LOINC: 26499-4, 751-8, 752-6, 753-4
+ - Associated CPT: 85048
 
 *** (BASO) Basophil Test Types
-**** BASO_C_A (Basophil number, automated count)
+**** BASO_C_A (Basophil automated count)
 */NEEDS TO BE UPDATED/*
-**** BASO_C_M (Basophil number, manual count)
+*/UNDER REVIEW/*
+- Common Name: Basophil automated count
+- Long Name: Basophil number, automated count
+- Test Type: BASO_C_A
+- Panels:
+- Equivalent Tests:
+- Not Equivalent Tests:
+- Indications:
+ - An elevated basophil count can be a sign of the following conditions: 
+  - Myeloproliferative disorders: These are blood cancers that cause the bone marrow to produce too many blood cells. Basophilia is a common finding in:
+  - Allergic diseases: Basophils release histamine and other chemicals during allergic reactions, so their numbers may increase with:
+  - Chronic inflammation and autoimmune diseases: These conditions involve a long-term inflammatory response.
+  - Endocrine conditions: Some hormonal disorders can affect basophil levels.
+  - Infections: Persistent or certain parasitic infections can trigger an increase in basophils.
+ - A decreased basophil count, though less common as a significant finding, may occur during certain immune responses. Basopenia can be a sign of:
+  - Acute allergic reactions: During a sudden, severe reaction, basophils release their granules and migrate to tissues, causing their numbers in the blood to drop.
+  - Severe acute infections: As part of the immune response, basophils can be used up or mobilized to the site of infection.
+  - Hyperthyroidism: An overactive thyroid gland is associated with lower basophil levels.
+  - Stress reactions: Emotional or physical stress can cause a temporary drop in basophils.
+  - Medication side effects: The use of corticosteroids, for example, can cause a decrease in basophils.
+- Description: Basophils are granular white blood cells characterized by a pale-staining nucleus with 2 to 3 lobes and a cytoplasm containing coarse, dark-staining granules of variable size.  Automated basophil counting is performed by modern hematology analyzers, which are instruments used to conduct a complete blood count (CBC) with a differential. These machines use a combination of technologies to quickly classify and count basophils along with other white blood cells, but the results can be prone to inconsistencies.
+- Related Tests:
+- Approximate Reference Range (Each site will have slight variations): For adults, the typical reference ranges for an absolute basophil count (ABC) is 0 to 200 cells per microliter.
+- Comments:
+- Test Method Variance:
+- Other:
+ - Associated LOINC: 704-7 
+ - Associated CPT:  
+**** BASO_C_M (Basophil manual count)
 */NEEDS TO BE UPDATED/*
-**** BASO_C (Basophil number, count method not stated)
+*/UNDER REVIEW/*
+- Common Name: Basophil manual count
+- Long Name: Basophil number, manual count
+- Test Type: BASO_C_M
+- Panels:
+- Equivalent Tests:
+- Not Equivalent Tests:
+- Indications:
+ - An elevated basophil count can be a sign of the following conditions: 
+  - Myeloproliferative disorders: These are blood cancers that cause the bone marrow to produce too many blood cells. Basophilia is a common finding in:
+  - Allergic diseases: Basophils release histamine and other chemicals during allergic reactions, so their numbers may increase with:
+  - Chronic inflammation and autoimmune diseases: These conditions involve a long-term inflammatory response.
+  - Endocrine conditions: Some hormonal disorders can affect basophil levels.
+  - Infections: Persistent or certain parasitic infections can trigger an increase in basophils.
+ - A decreased basophil count, though less common as a significant finding, may occur during certain immune responses. Basopenia can be a sign of:
+  - Acute allergic reactions: During a sudden, severe reaction, basophils release their granules and migrate to tissues, causing their numbers in the blood to drop.
+  - Severe acute infections: As part of the immune response, basophils can be used up or mobilized to the site of infection.
+  - Hyperthyroidism: An overactive thyroid gland is associated with lower basophil levels.
+  - Stress reactions: Emotional or physical stress can cause a temporary drop in basophils.
+  - Medication side effects: The use of corticosteroids, for example, can cause a decrease in basophils.
+- Description: Basophils are granular white blood cells characterized by a pale-staining nucleus with 2 to 3 lobes and a cytoplasm containing coarse, dark-staining granules of variable size.  A basophil manual count is a lab procedure for a medical professional to identify and count basophils, a type of white blood cell, by examining a blood smear under a microscope, often as a secondary check when automated analyzers indicate an issue. This manual method is used to provide an accurate absolute basophil count (ABC).
+- Related Tests:
+- Approximate Reference Range (Each site will have slight variations): For adults, the typical reference ranges for an absolute basophil count (ABC) is 0 to 200 cells per microliter.
+- Comments:
+- Test Method Variance:
+- Other:
+ - Associated LOINC: 705-4
+ - Associated CPT:  
+**** BASO_C (Basophil count)
 */NEEDS TO BE UPDATED/*
+*/UNDER REVIEW/*
+- Common Name: Basophil count
+- Long Name: Basophil number , count method not stated
+- Test Type: BASO_C
+- Panels:
+- Equivalent Tests:
+- Not Equivalent Tests:
+- Indications:
+ - An elevated basophil count can be a sign of the following conditions: 
+  - Myeloproliferative disorders: These are blood cancers that cause the bone marrow to produce too many blood cells. Basophilia is a common finding in:
+  - Allergic diseases: Basophils release histamine and other chemicals during allergic reactions, so their numbers may increase with:
+  - Chronic inflammation and autoimmune diseases: These conditions involve a long-term inflammatory response.
+  - Endocrine conditions: Some hormonal disorders can affect basophil levels.
+  - Infections: Persistent or certain parasitic infections can trigger an increase in basophils.
+ - A decreased basophil count, though less common as a significant finding, may occur during certain immune responses. Basopenia can be a sign of:
+  - Acute allergic reactions: During a sudden, severe reaction, basophils release their granules and migrate to tissues, causing their numbers in the blood to drop.
+  - Severe acute infections: As part of the immune response, basophils can be used up or mobilized to the site of infection.
+  - Hyperthyroidism: An overactive thyroid gland is associated with lower basophil levels.
+  - Stress reactions: Emotional or physical stress can cause a temporary drop in basophils.
+  - Medication side effects: The use of corticosteroids, for example, can cause a decrease in basophils.
+- Description: Basophils are granular white blood cells characterized by a pale-staining nucleus with 2 to 3 lobes and a cytoplasm containing coarse, dark-staining granules of variable size.
+- Related Tests:
+- Approximate Reference Range (Each site will have slight variations): For adults, the typical reference ranges for an absolute basophil count (ABC) is 0 to 200 cells per microliter.
+- Comments:
+- Test Method Variance:
+- Other:
+ - Associated LOINC: 26444-0
+ - Associated CPT:  
 **** BASO_P_A (Basophil percent, automated)
 */NEEDS TO BE UPDATED/*
-**** BASO_P_M (Basophil number, manual)
+*/UNDER REVIEW/*
+- Common Name: Basophil percent, automated
+- Long Name: Basophil percent, automated
+- Test Type: BASO_P_A
+- Panels:
+- Equivalent Tests:
+- Not Equivalent Tests:
+- Indications:
+ - An elevated basophil count can be a sign of the following conditions: 
+  - Myeloproliferative disorders: These are blood cancers that cause the bone marrow to produce too many blood cells. Basophilia is a common finding in:
+  - Allergic diseases: Basophils release histamine and other chemicals during allergic reactions, so their numbers may increase with:
+  - Chronic inflammation and autoimmune diseases: These conditions involve a long-term inflammatory response.
+  - Endocrine conditions: Some hormonal disorders can affect basophil levels.
+  - Infections: Persistent or certain parasitic infections can trigger an increase in basophils.
+ - A decreased basophil count, though less common as a significant finding, may occur during certain immune responses. Basopenia can be a sign of:
+  - Acute allergic reactions: During a sudden, severe reaction, basophils release their granules and migrate to tissues, causing their numbers in the blood to drop.
+  - Severe acute infections: As part of the immune response, basophils can be used up or mobilized to the site of infection.
+  - Hyperthyroidism: An overactive thyroid gland is associated with lower basophil levels.
+  - Stress reactions: Emotional or physical stress can cause a temporary drop in basophils.
+  - Medication side effects: The use of corticosteroids, for example, can cause a decrease in basophils.
+- Description: Basophils are granular white blood cells characterized by a pale-staining nucleus with 2 to 3 lobes and a cytoplasm containing coarse, dark-staining granules of variable size.  A manual basophil percentage is the result of a white blood cell (WBC) differential performed by a trained laboratory technician using a microscope. The technician examines a stained blood smear and counts and classifies at least 100, and sometimes 200 to 400, white blood cells to determine the percentage of each type.
+- Related Tests:
+- Approximate Reference Range (Each site will have slight variations): For adults, the typical reference ranges for a relative basophil count (differential): 0.5% to 1% of the total white blood cell count. Some labs may report a slightly wider range, such as 0% to 2%.
+- Comments:
+- Test Method Variance:
+- Other:
+ - Associated LOINC: 706-2
+ - Associated CPT:  
+**** BASO_P_M (Basophil percent, manual)
 */NEEDS TO BE UPDATED/*
-**** BASO_P (Basophil number, method not stated)
+*/UNDER REVIEW/*
+- Common Name: Basophil percent, manual
+- Long Name: Basophil percent, manual
+- Test Type: BASO_P_M
+- Panels:
+- Equivalent Tests:
+- Not Equivalent Tests:
+- Indications:
+ - An elevated basophil percent can be a sign of the following conditions: 
+  - Myeloproliferative disorders: These are blood cancers that cause the bone marrow to produce too many blood cells. Basophilia is a common finding in:
+  - Allergic diseases: Basophils release histamine and other chemicals during allergic reactions, so their numbers may increase with:
+  - Chronic inflammation and autoimmune diseases: These conditions involve a long-term inflammatory response.
+  - Endocrine conditions: Some hormonal disorders can affect basophil levels.
+  - Infections: Persistent or certain parasitic infections can trigger an increase in basophils.
+ - A low basophil percent, though less common as a significant finding, may occur during certain immune responses. Basopenia can be a sign of:
+  - Acute allergic reactions: During a sudden, severe reaction, basophils release their granules and migrate to tissues, causing their numbers in the blood to drop.
+  - Severe acute infections: As part of the immune response, basophils can be used up or mobilized to the site of infection.
+  - Hyperthyroidism: An overactive thyroid gland is associated with lower basophil levels.
+  - Stress reactions: Emotional or physical stress can cause a temporary drop in basophils.
+  - Medication side effects: The use of corticosteroids, for example, can cause a decrease in basophils.
+- Description: Basophils are granular white blood cells characterized by a pale-staining nucleus with 2 to 3 lobes and a cytoplasm containing coarse, dark-staining granules of variable size.  A manual basophil percentage is the result of a white blood cell (WBC) differential performed by a trained laboratory technician using a microscope. The technician examines a stained blood smear and counts and classifies at least 100, and sometimes 200 to 400, white blood cells to determine the percentage of each type.
+- Related Tests:
+- Approximate Reference Range (Each site will have slight variations): For adults, the typical reference ranges for a relative basophil count (differential): 0.5% to 1% of the total white blood cell count. Some labs may report a slightly wider range, such as 0% to 2%.
+- Comments:
+- Test Method Variance:
+- Other:
+ - Associated LOINC: 707-0
+ - Associated CPT:  
+**** BASO_P (Basophil percent)
 */NEEDS TO BE UPDATED/*
+*/UNDER REVIEW/*
+- Common Name: Basophil percent
+- Long Name: Basophil percent, method not stated
+- Test Type: BASO_P
+- Panels:
+- Equivalent Tests:
+- Not Equivalent Tests:
+- Indications:
+ - An elevated basophil percent can be a sign of the following conditions: 
+  - Myeloproliferative disorders: These are blood cancers that cause the bone marrow to produce too many blood cells. Basophilia is a common finding in:
+  - Allergic diseases: Basophils release histamine and other chemicals during allergic reactions, so their numbers may increase with:
+  - Chronic inflammation and autoimmune diseases: These conditions involve a long-term inflammatory response.
+  - Endocrine conditions: Some hormonal disorders can affect basophil levels.
+  - Infections: Persistent or certain parasitic infections can trigger an increase in basophils.
+ - A low basophil percent, though less common as a significant finding, may occur during certain immune responses. Basopenia can be a sign of:
+  - Acute allergic reactions: During a sudden, severe reaction, basophils release their granules and migrate to tissues, causing their numbers in the blood to drop.
+  - Severe acute infections: As part of the immune response, basophils can be used up or mobilized to the site of infection.
+  - Hyperthyroidism: An overactive thyroid gland is associated with lower basophil levels.
+  - Stress reactions: Emotional or physical stress can cause a temporary drop in basophils.
+  - Medication side effects: The use of corticosteroids, for example, can cause a decrease in basophils.
+- Description: Basophils are granular white blood cells characterized by a pale-staining nucleus with 2 to 3 lobes and a cytoplasm containing coarse, dark-staining granules of variable size.
+- Related Tests:
+- Approximate Reference Range (Each site will have slight variations): For adults, the typical reference ranges for an absolute basophil count (ABC) is 0 to 200 cells per microliter.
+- Comments:
+- Test Method Variance:
+- Other:
+ - Associated LOINC: 30180-4
+ - Associated CPT:  
+
 *** (EOS) Eosinophil Test Types
 **** EOS_C_A (Eosinophil number, automated count)
 */NEEDS TO BE UPDATED/*
+*/UNDER REVIEW/*
+- Common Name: Eosinophil number, automated count
+- Long Name: Eosinophil number, automated count
+- Test Type: EOS_C_A
+- Panels:
+- Equivalent Tests:
+- Not Equivalent Tests:
+- Indications: Eosinophil testing is indicated when a complete blood count (CBC) reveals abnormal levels or when a patient's symptoms suggest an eosinophil-related disorder.
+ - Indications for high eosinophil counts (eosinophilia):
+  - Allergic rhinitis and asthma: Eosinophils are a key driver of inflammation in allergic diseases. An elevated count can indicate the presence or severity of these conditions, especially eosinophilic asthma.
+  - Eosinophilic gastrointestinal disorders: This includes conditions like eosinophilic esophagitis, gastritis, and colitis, which cause inflammation in parts of the digestive tract.
+  - Skin conditions: High eosinophil levels are associated with various dermatological issues, including eczema and atopic dermatitis.
+  - Drug reactions: An allergic reaction to certain medications, such as DRESS syndrome (Drug Rash with Eosinophilia and Systemic Symptoms), can cause eosinophilia. 
+  - Parasitic infestations: Eosinophils play a critical role in combating parasitic infections like roundworms, hookworms, and schistosomes. This is a very common cause of high eosinophil levels, particularly in tropical regions.
+  - Fungal infections: Certain fungal infections, such as aspergillosis, can lead to elevated eosinophil counts. 
+  - Blood cancers: Some malignancies, including Hodgkin lymphoma, certain types of leukemia, and other myeloproliferative disorders, are associated with high eosinophil levels.
+  - Hypereosinophilic syndrome (HES): A rare disorder characterized by extremely high eosinophil counts that can lead to organ damage.
+  - Primary eosinophilia: A rare disorder involving the clonal proliferation of eosinophils, often linked to specific genetic mutations. 
+  - Systemic autoimmune diseases: Conditions like vasculitis (e.g., Churg-Strauss syndrome) and inflammatory bowel diseases (Crohn's disease, ulcerative colitis) are known to cause eosinophilia. 
+ - Indications for low eosinophil counts (eosinopenia):
+  - Excess cortisol: The overproduction of cortisol, as seen in Cushing's syndrome, can lead to lower-than-normal eosinophil counts.
+  - Steroid use: The use of corticosteroids can suppress eosinophil levels. 
+  - Sepsis: A severe, life-threatening infection of the bloodstream can cause a sharp drop in eosinophil levels.
+  - Acute inflammation or stress: The body's acute inflammatory response, often from severe infection, can result in low eosinophil counts. 
+- Description: A type of white blood cell characterized by the presence of granules in its cytoplasm with a nucleus that usually has two lobes connected by a slender thread of chromatin. The cytoplasm contains coarse, round and uniform granules stainable by eosin.
+- Related Tests:
+- Approximate Reference Range (Each site will have slight variations):
+
+Normal Counts by Age:
+  
+| *Age*               | *Absolute Eosinophil Count*                |
+|---------------------+--------------------------------------------|
+| Newborn to 6 months | 0 to 900 cells/µL                          |
+| 6 months to 1 year  | 150 to 585 cells/µL                        |
+| 1 to 2 years        | 180 to 510 cells/µL                        |
+| 3 to 11 years       | 0 to 500 cells/µL                          |
+| 12 to 17 years      | 100 to 200 cells/µL                        |
+| 18+ years (Adults)  | 0 to 500 cells/µL (less than 0.48 x 10⁹/L) |
+
+- Comments:
+- Test Method Variance:
+- Other:
+ - Associated LOINC:  711-2
+ - Associated CPT:  
 **** EOS_C_M (Eosinophil number, manual count)
 */NEEDS TO BE UPDATED/*
-**** EOS_C (Eosinophil number, count method not stated)
+*/UNDER REVIEW/*
+- Common Name: Eosinophil number, manual count
+- Long Name: Eosinophil number, manual count
+- Test Type: EOS_C_M
+- Panels:
+- Equivalent Tests:
+- Not Equivalent Tests:
+- Indications: Eosinophil testing is indicated when a complete blood count (CBC) reveals abnormal levels or when a patient's symptoms suggest an eosinophil-related disorder.
+ - Indications for high eosinophil counts (eosinophilia):
+  - Allergic rhinitis and asthma: Eosinophils are a key driver of inflammation in allergic diseases. An elevated count can indicate the presence or severity of these conditions, especially eosinophilic asthma.
+  - Eosinophilic gastrointestinal disorders: This includes conditions like eosinophilic esophagitis, gastritis, and colitis, which cause inflammation in parts of the digestive tract.
+  - Skin conditions: High eosinophil levels are associated with various dermatological issues, including eczema and atopic dermatitis.
+  - Drug reactions: An allergic reaction to certain medications, such as DRESS syndrome (Drug Rash with Eosinophilia and Systemic Symptoms), can cause eosinophilia. 
+  - Parasitic infestations: Eosinophils play a critical role in combating parasitic infections like roundworms, hookworms, and schistosomes. This is a very common cause of high eosinophil levels, particularly in tropical regions.
+  - Fungal infections: Certain fungal infections, such as aspergillosis, can lead to elevated eosinophil counts. 
+  - Blood cancers: Some malignancies, including Hodgkin lymphoma, certain types of leukemia, and other myeloproliferative disorders, are associated with high eosinophil levels.
+  - Hypereosinophilic syndrome (HES): A rare disorder characterized by extremely high eosinophil counts that can lead to organ damage.
+  - Primary eosinophilia: A rare disorder involving the clonal proliferation of eosinophils, often linked to specific genetic mutations. 
+  - Systemic autoimmune diseases: Conditions like vasculitis (e.g., Churg-Strauss syndrome) and inflammatory bowel diseases (Crohn's disease, ulcerative colitis) are known to cause eosinophilia. 
+ - Indications for low eosinophil counts (eosinopenia):
+  - Excess cortisol: The overproduction of cortisol, as seen in Cushing's syndrome, can lead to lower-than-normal eosinophil counts.
+  - Steroid use: The use of corticosteroids can suppress eosinophil levels. 
+  - Sepsis: A severe, life-threatening infection of the bloodstream can cause a sharp drop in eosinophil levels.
+  - Acute inflammation or stress: The body's acute inflammatory response, often from severe infection, can result in low eosinophil counts. 
+- Description: A type of white blood cell characterized by the presence of granules in its cytoplasm with a nucleus that usually has two lobes connected by a slender thread of chromatin. The cytoplasm contains coarse, round and uniform granules stainable by eosin.
+- Related Tests:
+- Approximate Reference Range (Each site will have slight variations):
+
+Normal Counts by Age:
+  
+| *Age*               | *Absolute Eosinophil Count*                |
+|---------------------+--------------------------------------------|
+| Newborn to 6 months | 0 to 900 cells/µL                          |
+| 6 months to 1 year  | 150 to 585 cells/µL                        |
+| 1 to 2 years        | 180 to 510 cells/µL                        |
+| 3 to 11 years       | 0 to 500 cells/µL                          |
+| 12 to 17 years      | 100 to 200 cells/µL                        |
+| 18+ years (Adults)  | 0 to 500 cells/µL (less than 0.48 x 10⁹/L) |
+
+- Comments:
+- Test Method Variance:
+- Other:
+ - Associated LOINC: 712-0
+ - Associated CPT:  
+**** EOS_C (Eosinophil number)
 */NEEDS TO BE UPDATED/*
+*/UNDER REVIEW/*
+- Common Name: Eosinophil number
+- Long Name: Eosinophil number, count method not stated
+- Test Type: EOS_C
+- Panels:
+- Equivalent Tests:
+- Not Equivalent Tests:
+- Indications: Eosinophil testing is indicated when a complete blood count (CBC) reveals abnormal levels or when a patient's symptoms suggest an eosinophil-related disorder.
+ - Indications for high eosinophil counts (eosinophilia):
+  - Allergic rhinitis and asthma: Eosinophils are a key driver of inflammation in allergic diseases. An elevated count can indicate the presence or severity of these conditions, especially eosinophilic asthma.
+  - Eosinophilic gastrointestinal disorders: This includes conditions like eosinophilic esophagitis, gastritis, and colitis, which cause inflammation in parts of the digestive tract.
+  - Skin conditions: High eosinophil levels are associated with various dermatological issues, including eczema and atopic dermatitis.
+  - Drug reactions: An allergic reaction to certain medications, such as DRESS syndrome (Drug Rash with Eosinophilia and Systemic Symptoms), can cause eosinophilia. 
+  - Parasitic infestations: Eosinophils play a critical role in combating parasitic infections like roundworms, hookworms, and schistosomes. This is a very common cause of high eosinophil levels, particularly in tropical regions.
+  - Fungal infections: Certain fungal infections, such as aspergillosis, can lead to elevated eosinophil counts. 
+  - Blood cancers: Some malignancies, including Hodgkin lymphoma, certain types of leukemia, and other myeloproliferative disorders, are associated with high eosinophil levels.
+  - Hypereosinophilic syndrome (HES): A rare disorder characterized by extremely high eosinophil counts that can lead to organ damage.
+  - Primary eosinophilia: A rare disorder involving the clonal proliferation of eosinophils, often linked to specific genetic mutations. 
+  - Systemic autoimmune diseases: Conditions like vasculitis (e.g., Churg-Strauss syndrome) and inflammatory bowel diseases (Crohn's disease, ulcerative colitis) are known to cause eosinophilia. 
+ - Indications for low eosinophil counts (eosinopenia):
+  - Excess cortisol: The overproduction of cortisol, as seen in Cushing's syndrome, can lead to lower-than-normal eosinophil counts.
+  - Steroid use: The use of corticosteroids can suppress eosinophil levels. 
+  - Sepsis: A severe, life-threatening infection of the bloodstream can cause a sharp drop in eosinophil levels.
+  - Acute inflammation or stress: The body's acute inflammatory response, often from severe infection, can result in low eosinophil counts. 
+- Description: A type of white blood cell characterized by the presence of granules in its cytoplasm with a nucleus that usually has two lobes connected by a slender thread of chromatin. The cytoplasm contains coarse, round and uniform granules stainable by eosin.
+- Related Tests:
+- Approximate Reference Range (Each site will have slight variations):
+
+Normal Counts by Age:
+  
+| *Age*               | *Absolute Eosinophil Count*                |
+|---------------------+--------------------------------------------|
+| Newborn to 6 months | 0 to 900 cells/µL                          |
+| 6 months to 1 year  | 150 to 585 cells/µL                        |
+| 1 to 2 years        | 180 to 510 cells/µL                        |
+| 3 to 11 years       | 0 to 500 cells/µL                          |
+| 12 to 17 years      | 100 to 200 cells/µL                        |
+| 18+ years (Adults)  | 0 to 500 cells/µL (less than 0.48 x 10⁹/L) |
+
+- Comments:
+- Test Method Variance:
+- Other:
+ - Associated LOINC: 26449-9
+ - Associated CPT:  
 **** EOS_P_A (Eosinophil percent, automated)
 */NEEDS TO BE UPDATED/*
+*/UNDER REVIEW/*
+- Common Name: Eosinophil percent, automated
+- Long Name: Eosinophil percent, automated
+- Test Type: EOS_P_A
+- Panels:
+- Equivalent Tests:
+- Not Equivalent Tests:
+- Indications: Eosinophil testing is indicated when a complete blood count (CBC) reveals abnormal levels or when a patient's symptoms suggest an eosinophil-related disorder.
+ - Indications for high eosinophil counts (eosinophilia):
+  - Allergic rhinitis and asthma: Eosinophils are a key driver of inflammation in allergic diseases. An elevated count can indicate the presence or severity of these conditions, especially eosinophilic asthma.
+  - Eosinophilic gastrointestinal disorders: This includes conditions like eosinophilic esophagitis, gastritis, and colitis, which cause inflammation in parts of the digestive tract.
+  - Skin conditions: High eosinophil levels are associated with various dermatological issues, including eczema and atopic dermatitis.
+  - Drug reactions: An allergic reaction to certain medications, such as DRESS syndrome (Drug Rash with Eosinophilia and Systemic Symptoms), can cause eosinophilia. 
+  - Parasitic infestations: Eosinophils play a critical role in combating parasitic infections like roundworms, hookworms, and schistosomes. This is a very common cause of high eosinophil levels, particularly in tropical regions.
+  - Fungal infections: Certain fungal infections, such as aspergillosis, can lead to elevated eosinophil counts. 
+  - Blood cancers: Some malignancies, including Hodgkin lymphoma, certain types of leukemia, and other myeloproliferative disorders, are associated with high eosinophil levels.
+  - Hypereosinophilic syndrome (HES): A rare disorder characterized by extremely high eosinophil counts that can lead to organ damage.
+  - Primary eosinophilia: A rare disorder involving the clonal proliferation of eosinophils, often linked to specific genetic mutations. 
+  - Systemic autoimmune diseases: Conditions like vasculitis (e.g., Churg-Strauss syndrome) and inflammatory bowel diseases (Crohn's disease, ulcerative colitis) are known to cause eosinophilia. 
+ - Indications for low eosinophil counts (eosinopenia):
+  - Excess cortisol: The overproduction of cortisol, as seen in Cushing's syndrome, can lead to lower-than-normal eosinophil counts.
+  - Steroid use: The use of corticosteroids can suppress eosinophil levels. 
+  - Sepsis: A severe, life-threatening infection of the bloodstream can cause a sharp drop in eosinophil levels.
+  - Acute inflammation or stress: The body's acute inflammatory response, often from severe infection, can result in low eosinophil counts. 
+- Description: A type of white blood cell characterized by the presence of granules in its cytoplasm with a nucleus that usually has two lobes connected by a slender thread of chromatin. The cytoplasm contains coarse, round and uniform granules stainable by eosin.
+- Related Tests:
+- Approximate Reference Range (Each site will have slight variations): The normal reference range for eosinophil percentage is typically 1% to 4% of the total white blood cell (WBC) count.
+- Comments:
+- Test Method Variance:
+- Other:
+ - Associated LOINC: 713-8
+ - Associated CPT:  
 **** EOS_P_M (Eosinophil percent, manual)
 */NEEDS TO BE UPDATED/*
-**** EOS_P (Eosinophil percent, method not stated)
+*/UNDER REVIEW/*
+- Common Name: Eosinophil percent, manual
+- Long Name: Eosinophil percent, manual
+- Test Type: EOS_P_M
+- Panels:
+- Equivalent Tests:
+- Not Equivalent Tests:
+- Indications: Eosinophil testing is indicated when a complete blood count (CBC) reveals abnormal levels or when a patient's symptoms suggest an eosinophil-related disorder.
+ - Indications for high eosinophil counts (eosinophilia):
+  - Allergic rhinitis and asthma: Eosinophils are a key driver of inflammation in allergic diseases. An elevated count can indicate the presence or severity of these conditions, especially eosinophilic asthma.
+  - Eosinophilic gastrointestinal disorders: This includes conditions like eosinophilic esophagitis, gastritis, and colitis, which cause inflammation in parts of the digestive tract.
+  - Skin conditions: High eosinophil levels are associated with various dermatological issues, including eczema and atopic dermatitis.
+  - Drug reactions: An allergic reaction to certain medications, such as DRESS syndrome (Drug Rash with Eosinophilia and Systemic Symptoms), can cause eosinophilia. 
+  - Parasitic infestations: Eosinophils play a critical role in combating parasitic infections like roundworms, hookworms, and schistosomes. This is a very common cause of high eosinophil levels, particularly in tropical regions.
+  - Fungal infections: Certain fungal infections, such as aspergillosis, can lead to elevated eosinophil counts. 
+  - Blood cancers: Some malignancies, including Hodgkin lymphoma, certain types of leukemia, and other myeloproliferative disorders, are associated with high eosinophil levels.
+  - Hypereosinophilic syndrome (HES): A rare disorder characterized by extremely high eosinophil counts that can lead to organ damage.
+  - Primary eosinophilia: A rare disorder involving the clonal proliferation of eosinophils, often linked to specific genetic mutations. 
+  - Systemic autoimmune diseases: Conditions like vasculitis (e.g., Churg-Strauss syndrome) and inflammatory bowel diseases (Crohn's disease, ulcerative colitis) are known to cause eosinophilia. 
+ - Indications for low eosinophil counts (eosinopenia):
+  - Excess cortisol: The overproduction of cortisol, as seen in Cushing's syndrome, can lead to lower-than-normal eosinophil counts.
+  - Steroid use: The use of corticosteroids can suppress eosinophil levels. 
+  - Sepsis: A severe, life-threatening infection of the bloodstream can cause a sharp drop in eosinophil levels.
+  - Acute inflammation or stress: The body's acute inflammatory response, often from severe infection, can result in low eosinophil counts. 
+- Description: A type of white blood cell characterized by the presence of granules in its cytoplasm with a nucleus that usually has two lobes connected by a slender thread of chromatin. The cytoplasm contains coarse, round and uniform granules stainable by eosin.
+- Related Tests:
+- Approximate Reference Range (Each site will have slight variations): The normal reference range for eosinophil percentage is typically 1% to 4% of the total white blood cell (WBC) count.
+- Comments:
+- Test Method Variance:
+- Other:
+ - Associated LOINC: 714-6
+ - Associated CPT:  
+**** EOS_P (Eosinophil percent)
 */NEEDS TO BE UPDATED/*
+*/UNDER REVIEW/*
+- Common Name: Eosinophil percent
+- Long Name: Eosinophil percent, method not stated
+- Test Type: EOS_P
+- Panels:
+- Equivalent Tests:
+- Not Equivalent Tests:
+- Indications: Eosinophil testing is indicated when a complete blood count (CBC) reveals abnormal levels or when a patient's symptoms suggest an eosinophil-related disorder.
+ - Indications for high eosinophil counts (eosinophilia):
+  - Allergic rhinitis and asthma: Eosinophils are a key driver of inflammation in allergic diseases. An elevated count can indicate the presence or severity of these conditions, especially eosinophilic asthma.
+  - Eosinophilic gastrointestinal disorders: This includes conditions like eosinophilic esophagitis, gastritis, and colitis, which cause inflammation in parts of the digestive tract.
+  - Skin conditions: High eosinophil levels are associated with various dermatological issues, including eczema and atopic dermatitis.
+  - Drug reactions: An allergic reaction to certain medications, such as DRESS syndrome (Drug Rash with Eosinophilia and Systemic Symptoms), can cause eosinophilia. 
+  - Parasitic infestations: Eosinophils play a critical role in combating parasitic infections like roundworms, hookworms, and schistosomes. This is a very common cause of high eosinophil levels, particularly in tropical regions.
+  - Fungal infections: Certain fungal infections, such as aspergillosis, can lead to elevated eosinophil counts. 
+  - Blood cancers: Some malignancies, including Hodgkin lymphoma, certain types of leukemia, and other myeloproliferative disorders, are associated with high eosinophil levels.
+  - Hypereosinophilic syndrome (HES): A rare disorder characterized by extremely high eosinophil counts that can lead to organ damage.
+  - Primary eosinophilia: A rare disorder involving the clonal proliferation of eosinophils, often linked to specific genetic mutations. 
+  - Systemic autoimmune diseases: Conditions like vasculitis (e.g., Churg-Strauss syndrome) and inflammatory bowel diseases (Crohn's disease, ulcerative colitis) are known to cause eosinophilia. 
+ - Indications for low eosinophil counts (eosinopenia):
+  - Excess cortisol: The overproduction of cortisol, as seen in Cushing's syndrome, can lead to lower-than-normal eosinophil counts.
+  - Steroid use: The use of corticosteroids can suppress eosinophil levels. 
+  - Sepsis: A severe, life-threatening infection of the bloodstream can cause a sharp drop in eosinophil levels.
+  - Acute inflammation or stress: The body's acute inflammatory response, often from severe infection, can result in low eosinophil counts. 
+- Description: A type of white blood cell characterized by the presence of granules in its cytoplasm with a nucleus that usually has two lobes connected by a slender thread of chromatin. The cytoplasm contains coarse, round and uniform granules stainable by eosin.
+- Related Tests:
+- Approximate Reference Range (Each site will have slight variations): The normal reference range for eosinophil percentage is typically 1% to 4% of the total white blood cell (WBC) count.
+- Comments:
+- Test Method Variance:
+- Other:
+ - Associated LOINC: 26450-7
+ - Associated CPT:  
 *** FERRITIN (Ferritin in blood)
 - Common Name: Ferritin
 - Long Name: Ferritin in blood, serum, or plasma
@@ -2995,8 +3429,27 @@ U_PCR is used when a child shows evidence of significant and persistent protein 
  - Associated LOINC:  2276-4, 14723-1, 20567-4, 35209-6, 14724-9, 24373-3
  - Associated CPT: 82728
 
-*** FIBRINOGEN (Fibrinogen activity in platelet poor plasma)
+*** FIBRINOGEN (Fibrinogen in platelet poor plasma)
 */NEEDS TO BE UPDATED/*
+*/UNDER REVIEW/*
+- Common Name: Fibrinogen in platelet poor plasma
+- Long Name: Fibrinogen activity in platelet poor plasma (PPP) 
+- Test Type: FIBRINOGEN
+- Panels:
+- Equivalent Tests:
+- Not Equivalent Tests:
+- Indications: Testing fibrinogen levels in a platelet-poor blood sample is indicated to assess blood clotting function and evaluate bleeding or clotting disorders. This test measures the amount and function of fibrinogen, a crucial protein produced by the liver that is converted into fibrin to form blood clots. The use of platelet-poor plasma (PPP), which has most platelets removed, is critical for accuracy because residual platelets can interfere with the test results.
+- Description: A fibrinogen test on platelet-poor plasma (PPP) measures the amount or activity of the clotting protein fibrinogen (Factor I). Using PPP is essential for the accuracy of coagulation tests because it removes platelets, which are also involved in clotting and can interfere with results. This test helps diagnose bleeding disorders, evaluate abnormal clotting, and monitor conditions that affect the liver, where fibrinogen is produced. The blood sample is centrifuged (spun at high speed) to separate the cellular components, including red blood cells and platelets, from the liquid plasma. The plasma is then removed for testing. 
+- Related Tests:
+- Approximate Reference Range (Each site will have slight variations): Normal fibrinogen reference ranges can vary between labs, but are typically between 200 and 400 mg/dL. 
+ - Low fibrinogen levels: These can indicate a congenital deficiency (rare), liver disease (which impairs production), malnutrition, or rapid consumption of fibrinogen due to an underlying condition like DIC.
+ - High fibrinogen levels: As an acute phase reactant, fibrinogen can increase during inflammation or tissue damage. Elevated levels may be seen in cases of infection, cancer, rheumatoid arthritis, pregnancy, or in patients with coronary heart disease or stroke.
+ - Discrepancy between activity and antigen tests: If the fibrinogen activity test is low but the antigen test shows a normal quantity, it may indicate a functional problem with the fibrinogen protein, known as dysfibrinogenemia. 
+- Comments: Does not include fibrinogen fragments codes
+- Test Method Variance:
+- Other:
+ - Associated LOINC: 3255-7, 16859-1, 30902-1, 42568-6, 48664-7, 49045-8 
+ - Associated CPT: 85384
 
 *** HGB (Hemoglobin)
 - Common Name: Hemoglobin; Hgb; Hb
@@ -3480,15 +3933,15 @@ Method Variance:
 *** Opiates from natural sources
 **** U_CODEINE_CNF (Codeine in Urine by Confirmation)
 */NEEDS TO BE UPDATED/*
-
-- - Common Name: Codeine in Urine by Confirmatory method
-- Long Name:
-- Test Type:
+*/UNDER REVIEW/*
+- Common Name: Codeine in Urine by Confirmation
+- Long Name: Codeine in Urine by Confirmatory method
+- Test Type: U_CODEINE_CNF
 - Panels:
 - Equivalent Tests:
 - Not Equivalent Tests:
 - Indications:
-- Description:
+- Description: In forensic and clinical settings, a urine drug test for codeine is performed in two steps: an initial immunoassay (IA) screening, followed by a highly sensitive and specific confirmation method, typically mass spectrometry. This two-tiered approach ensures accuracy and helps rule out false positives.  The immunoassay uses antibodies that bind to a specific drug or its metabolites, triggering a color change or other signal if the drug is present above a set cutoff level.
 
 - Related Tests:
 - Approximate Reference Range (Each site will have slight variations):
@@ -3497,12 +3950,14 @@ For opioid results place the component value from the EverLOINC.SAS table into t
 
 - - Test Method Variance:
 - Other:
+ - Associated LOINC: 13641-6 (Codeine),16197-6 (Codeine),16211-5 (Dihydrocodeine),16250-3 (Codeine),19448-0 (Dihydrocodeine),19449-8 (Dihydrocodeine),3508-9 (Codeine),49829-5 (Norcodeine),51448-9 (Dihydrocodeine+Hydrocodol),51739-1 (Codeine.free),60514-7 (6_Acetylcodeine),70206-8 (Codeine)
+ - Associated CPT:  
 
 **** U_CODEINE_SCR (Codeine in Urine by Screen)
 */NEEDS TO BE UPDATED/*
-
-- - Common Name: Codeine in Urine by Screen method
-- Long Name:
+*/UNDER REVIEW/*
+- Common Name: Codeine in Urine by Screen method
+- Long Name: Codeine in Urine by Confirmatory method
 - Test Type:
 - Panels:
 - Equivalent Tests:
@@ -3514,16 +3969,17 @@ For opioid results place the component value from the EverLOINC.SAS table into t
 - Approximate Reference Range (Each site will have slight variations):
 - Comments:
 For opioid results place the component value from the EverLOINC.SAS table into the local_cd field of the LAB_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
-
 - Test Method Variance:
 - Other:
+ - Associated LOINC: 14066-5 (Dihydrocodeine),19411-8 (Codeine),19446-4 (Dihydrocodeine),3507-1 (Codeine),89310-7 (Codeine_6_glucuronide)
+ - Associated CPT:  
   
 **** U_MORPHINE_CNF (Morphine in Urine by Confirmation)
 */NEEDS TO BE UPDATED/*
-
-- - Common Name: Codeine in Urine by Confirmatory method
-- Long Name:
-- Test Type:
+*/UNDER REVIEW/*
+- Common Name: Morphine in Urine by Confirmation
+- Long Name: Morphine in Urine by Confirmatory method
+- Test Type: U_MORPHINE_CNF
 - Panels:
 - Equivalent Tests:
 - Not Equivalent Tests:
@@ -3537,13 +3993,15 @@ For opioid results place the component value from the EverLOINC.SAS table into t
 
 - Test Method Variance:
 - Other:
+ - Associated LOINC: 10975-1 (6_Monoacetylmorphine),13648-1 (Morphine),14845-2 (6_Monoacetylmorphine),16196-8 (Morphine),16198-4 (Diamorphine),16251-1 (Morphine),16755-1 (Diamorphine),19322-7 (6_Monoacetylmorphine),19463-9 (Ethylmorphine),19592-5 (6_Monoacetylmorphine),19593-3 (6_Monoacetylmorphine),19594-1 (6_Monoacetylmorphine),20514-6 (6_Monoacetylmorphine),20527-8 (Ethylmorphine),21050-0 (6_Monoacetylmorphine),27073-6 (6_Monoacetylmorphine),3547-7 (Diamorphine),3619-4 (Ethylmorphine),3830-7 (Morphine),3831-5 (Morphine),3851-3 (Nicomorphine),49831-1 (Normorphine),55520-1 (6_Monoacetylmorphine),70197-9 (6_Monoacetylmorphine),70210-0 (Morphine),74817-8 (Desomorphine)
+ - Associated CPT:  
 
 **** U_MORPHINE_SCR (Morphine in Urine by Screen)
 */NEEDS TO BE UPDATED/*
-
-- - Common Name: Codeine in Urine by Screen method
-- Long Name:
-- Test Type:
+*/UNDER REVIEW/*
+- Common Name: Morphine in Urine by Screen
+- Long Name: Morphine in Urine by Screen method
+- Test Type: U_MORPHINE_SCR
 - Panels:
 - Equivalent Tests:
 - Not Equivalent Tests:
@@ -3557,11 +4015,13 @@ For opioid results place the component value from the EverLOINC.SAS table into t
 
 - Test Method Variance:
 - Other:
+ - Associated LOINC: 
+ - Associated CPT:  
   
 **** U_OPIATE_CNF (Opiate in Urine by Confirmation)
 */NEEDS TO BE UPDATED/*
-
-- - Common Name: Codeine in Urine by Confirmatory method
+*/UNDER REVIEW/*
+- Common Name: Codeine in Urine by Confirmatory method
 - Long Name:
 - Test Type:
 - Panels:
@@ -3577,11 +4037,13 @@ For opioid results place the component value from the EverLOINC.SAS table into t
 
 - Test Method Variance:
 - Other:
+ - Associated LOINC: 
+ - Associated CPT:  
 
 **** U_OPIATE_SCR (Opiate in Urine by Screen)
 */NEEDS TO BE UPDATED/*
-
-- - Common Name: Codeine in Urine by Screen method
+*/UNDER REVIEW/*
+- Common Name: Codeine in Urine by Screen method
 - Long Name:
 - Test Type:
 - Panels:
@@ -3597,12 +4059,14 @@ For opioid results place the component value from the EverLOINC.SAS table into t
 
 - Test Method Variance:
 - Other:
+ - Associated LOINC: 
+ - Associated CPT:  
   
 
 *** Semi-synthetic opioids
 **** U_HYDROCODONE_CNF (Hydrocodone in Urine by Confirmation)
 */NEEDS TO BE UPDATED/*
-
+*/UNDER REVIEW/*
 - - Common Name: Codeine in Urine by Confirmatory method
 - Long Name:
 - Test Type:
@@ -3622,7 +4086,7 @@ For opioid results place the component value from the EverLOINC.SAS table into t
 
 **** U_HYDROCODONE_SCR (Hydrocodone in Urine by Screen)
 */NEEDS TO BE UPDATED/*
-
+*/UNDER REVIEW/*
 - - Common Name: Codeine in Urine by Screen method
 - Long Name:
 - Test Type:
