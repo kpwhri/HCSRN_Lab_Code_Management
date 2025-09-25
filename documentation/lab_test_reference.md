@@ -3330,7 +3330,6 @@ U\_PCR is used when a child shows evidence of significant and persistent protein
 
 ### ANC (Absolute neutrophil count)
 
-***NEEDS TO BE UPDATED***
 ***UNDER REVIEW***
 
 -   Common Name: Absolute neutrophil count
@@ -3354,7 +3353,6 @@ U\_PCR is used when a child shows evidence of significant and persistent protein
 
 1.  BASO\_C\_A (Basophil automated count)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Basophil automated count
@@ -3387,7 +3385,6 @@ U\_PCR is used when a child shows evidence of significant and persistent protein
 
 2.  BASO\_C\_M (Basophil manual count)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Basophil manual count
@@ -3420,7 +3417,6 @@ U\_PCR is used when a child shows evidence of significant and persistent protein
 
 3.  BASO\_C (Basophil count)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Basophil count
@@ -3453,7 +3449,6 @@ U\_PCR is used when a child shows evidence of significant and persistent protein
 
 4.  BASO\_P\_A (Basophil percent, automated)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Basophil percent, automated
@@ -3486,7 +3481,6 @@ U\_PCR is used when a child shows evidence of significant and persistent protein
 
 5.  BASO\_P\_M (Basophil percent, manual)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Basophil percent, manual
@@ -3519,7 +3513,6 @@ U\_PCR is used when a child shows evidence of significant and persistent protein
 
 6.  BASO\_P (Basophil percent)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Basophil percent
@@ -3555,7 +3548,6 @@ U\_PCR is used when a child shows evidence of significant and persistent protein
 
 1.  EOS\_C\_A (Eosinophil number, automated count)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Eosinophil number, automated count
@@ -3648,7 +3640,6 @@ U\_PCR is used when a child shows evidence of significant and persistent protein
 
 2.  EOS\_C\_M (Eosinophil number, manual count)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Eosinophil number, manual count
@@ -3741,7 +3732,6 @@ U\_PCR is used when a child shows evidence of significant and persistent protein
 
 3.  EOS\_C (Eosinophil number)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Eosinophil number
@@ -3834,7 +3824,6 @@ U\_PCR is used when a child shows evidence of significant and persistent protein
 
 4.  EOS\_P\_A (Eosinophil percent, automated)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Eosinophil percent, automated
@@ -3871,7 +3860,6 @@ U\_PCR is used when a child shows evidence of significant and persistent protein
 
 5.  EOS\_P\_M (Eosinophil percent, manual)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Eosinophil percent, manual
@@ -3908,7 +3896,6 @@ U\_PCR is used when a child shows evidence of significant and persistent protein
 
 6.  EOS\_P (Eosinophil percent)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Eosinophil percent
@@ -3965,7 +3952,6 @@ U\_PCR is used when a child shows evidence of significant and persistent protein
 
 ### FIBRINOGEN (Fibrinogen in platelet poor plasma)
 
-***NEEDS TO BE UPDATED***
 ***UNDER REVIEW***
 
 -   Common Name: Fibrinogen in platelet poor plasma
@@ -4050,54 +4036,252 @@ volume (MCV)
 
 1.  LYMPH\_C\_A (Lymphocyte number, automated count)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Lymphocyte number, automated count
+    -   Long Name: Lymphocyte number, automated count
+    -   Test Type: LYMPH\_C\_A
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications: A lymphocyte count is indicated to assess the immune system and diagnose or monitor various conditions, including infections, autoimmune disorders, and blood cancers. It is commonly ordered as part of a complete blood count (CBC) with a differential.
+    -   Description: A lymphocyte count test is a measurement of the number of lymphocytes in a blood sample. These white blood cells are a vital part of your immune system and help protect the body from infection and disease.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations): The normal absolute lymphocyte count (ALC) for adults is generally between 1,000 and 4,800 lymphocytes per microliter. Children's lymphocyte counts are naturally higher than adults', especially in younger children, as their immune systems are actively developing. A normal count for children can be between 3,000 and 9,500 lymphocytes per microliter.
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 731-0
+        -   Associated CPT:
 
 2.  LYMPH\_C\_M (Lymphocyte number, manual count)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Lymphocyte number, manual count
+    -   Long Name: Lymphocyte number, manual count
+    -   Test Type: LYMPH\_C\_M
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications: A lymphocyte count is indicated to assess the immune system and diagnose or monitor various conditions, including infections, autoimmune disorders, and blood cancers. It is commonly ordered as part of a complete blood count (CBC) with a differential.
+    -   Description: A lymphocyte count test is a measurement of the number of lymphocytes in a blood sample. These white blood cells are a vital part of your immune system and help protect the body from infection and disease.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations): The normal absolute lymphocyte count (ALC) for adults is generally between 1,000 and 4,800 lymphocytes per microliter. Children's lymphocyte counts are naturally higher than adults', especially in younger children, as their immune systems are actively developing. A normal count for children can be between 3,000 and 9,500 lymphocytes per microliter.
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 732-8
+        -   Associated CPT:
 
-3.  LYMPH\_C (Lymphocyte number, count method unknown)
+3.  LYMPH\_C (Lymphocyte number)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Lymphocyte number
+    -   Long Name: Lymphocyte number, count method not stated
+    -   Test Type: LYMPH\_C
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications: A lymphocyte count is indicated to assess the immune system and diagnose or monitor various conditions, including infections, autoimmune disorders, and blood cancers. It is commonly ordered as part of a complete blood count (CBC) with a differential.
+    -   Description: A lymphocyte count test is a measurement of the number of lymphocytes in a blood sample. These white blood cells are a vital part of your immune system and help protect the body from infection and disease.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations): The normal absolute lymphocyte count (ALC) for adults is generally between 1,000 and 4,800 lymphocytes per microliter. Children's lymphocyte counts are naturally higher than adults', especially in younger children, as their immune systems are actively developing. A normal count for children can be between 3,000 and 9,500 lymphocytes per microliter.
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 26474-7
+        -   Associated CPT:
 
 4.  LYMPH\_P\_A (Lymphocyte percent, automated)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Lymphocyte percent, automated
+    -   Long Name: Lymphocyte percent, automated
+    -   Test Type: LYMPH\_P\_A
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications: A lymphocyte percentage test, or relative lymphocyte count, is a component of a complete blood count (CBC) with differential. Changes in the percentage of lymphocytes can reveal an underlying problem with the immune system.
+        -   An increased percentage of lymphocytes is a common sign of a viral infection, such as infectious mononucleosis (Epstein-Barr virus), measles, mumps, or hepatitis. It can also occur with some bacterial infections, like whooping cough or tuberculosis.
+        -   A decreased percentage can be caused by certain viral infections, including HIV and influenza, especially in severe or later stages.
+    -   Description: A lymphocyte percentage test measures the proportion of lymphocytes relative to the total number of white blood cells (WBCs) in a blood sample. The test is typically part of a complete blood count (CBC) with a differential, which provides a detailed breakdown of all the different types of WBCs.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations): In adults, the typical reference range for a lymphocyte percentage is 20% to 40% of the total white blood cell (WBC) count. This measurement is also known as a lymphocyte differential.
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 736-9
+        -   Associated CPT:
 
 5.  LYMPH\_P\_M (Lymphocyte percent, manual)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Lymphocyte percent, manual
+    -   Long Name: Lymphocyte percent, manual
+    -   Test Type: LYMPH\_P\_M
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications: A lymphocyte percentage test, or relative lymphocyte count, is a component of a complete blood count (CBC) with differential. Changes in the percentage of lymphocytes can reveal an underlying problem with the immune system.
+        -   An increased percentage of lymphocytes is a common sign of a viral infection, such as infectious mononucleosis (Epstein-Barr virus), measles, mumps, or hepatitis. It can also occur with some bacterial infections, like whooping cough or tuberculosis.
+        -   A decreased percentage can be caused by certain viral infections, including HIV and influenza, especially in severe or later stages.
+    -   Description: A lymphocyte percentage test measures the proportion of lymphocytes relative to the total number of white blood cells (WBCs) in a blood sample. The test is typically part of a complete blood count (CBC) with a differential, which provides a detailed breakdown of all the different types of WBCs.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations): In adults, the typical reference range for a lymphocyte percentage is 20% to 40% of the total white blood cell (WBC) count. This measurement is also known as a lymphocyte differential.
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 737-7
+        -   Associated CPT:
 
-6.  LYMPH\_P (Lymphocyte percent, method unknown)
+6.  LYMPH\_P (Lymphocyte percent)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Lymphocyte percent
+    -   Long Name: Lymphocyte percent, method not stated
+    -   Test Type: LYMPH\_P
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications: A lymphocyte percentage test, or relative lymphocyte count, is a component of a complete blood count (CBC) with differential. Changes in the percentage of lymphocytes can reveal an underlying problem with the immune system.
+        -   An increased percentage of lymphocytes is a common sign of a viral infection, such as infectious mononucleosis (Epstein-Barr virus), measles, mumps, or hepatitis. It can also occur with some bacterial infections, like whooping cough or tuberculosis.
+        -   A decreased percentage can be caused by certain viral infections, including HIV and influenza, especially in severe or later stages.
+    -   Description: A lymphocyte percentage test measures the proportion of lymphocytes relative to the total number of white blood cells (WBCs) in a blood sample. The test is typically part of a complete blood count (CBC) with a differential, which provides a detailed breakdown of all the different types of WBCs.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations): In adults, the typical reference range for a lymphocyte percentage is 20% to 40% of the total white blood cell (WBC) count. This measurement is also known as a lymphocyte differential.
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 26478-8
+        -   Associated CPT:
 
 
 ### (MONO) Monocyte Test Types
 
 1.  MONO\_C\_A (Monocyte number, automated count)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Monocyte number, automated count
+    -   Long Name: Monocyte number, automated count
+    -   Test Type: MONO\_C\_A
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications: A high monocyte count can signal that the body is fighting off an infection or inflammation.  A low monocyte count may indicate issues with bone marrow production or a suppressed immune system.
+    -   Description: A monocyte count is a blood test that measures the number of monocytes, a type of white blood cell, in a blood sample.  Monocytes are identified by their distinct size and the expression of specific surface markers, particularly CD14, and are classified into classical, intermediate, and non-classical subsets based on the levels of CD14 and CD16 expression detected through flow cytometry. While historically identified by their morphology (large size, indented or kidney-shaped nucleus, and blue-gray cytoplasm), modern identification relies on flow cytometry to analyze the levels of these cell surface markers.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations): For adults, the normal range of monocyte absolute count of approximately 200 to 800 monocytes per microliter of blood.
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 742-7
+        -   Associated CPT:
 
 2.  MONO\_C\_M (Monocyte number, manual count)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Monocyte number, manual count
+    -   Long Name: Monocyte number, manual count
+    -   Test Type: MONO\_C\_M
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications: A high monocyte count can signal that the body is fighting off an infection or inflammation.  A low monocyte count may indicate issues with bone marrow production or a suppressed immune system.
+    -   Description: A monocyte count is a blood test that measures the number of monocytes, a type of white blood cell, in a blood sample.  Monocytes are identified by their distinct size and the expression of specific surface markers, particularly CD14, and are classified into classical, intermediate, and non-classical subsets based on the levels of CD14 and CD16 expression detected through flow cytometry. While historically identified by their morphology (large size, indented or kidney-shaped nucleus, and blue-gray cytoplasm), modern identification relies on flow cytometry to analyze the levels of these cell surface markers.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations): For adults, the normal range of monocyte absolute count of approximately 200 to 800 monocytes per microliter of blood.
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 743-5
+        -   Associated CPT:
 
-3.  MONO\_C (Monocyte number, count method unknown)
+3.  MONO\_C (Monocyte number)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Monocyte number
+    -   Long Name: Monocyte number, count method not stated
+    -   Test Type: MONO\_C
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications: A high monocyte count can signal that the body is fighting off an infection or inflammation.  A low monocyte count may indicate issues with bone marrow production or a suppressed immune system.
+    -   Description: A monocyte count is a blood test that measures the number of monocytes, a type of white blood cell, in a blood sample.  Monocytes are identified by their distinct size and the expression of specific surface markers, particularly CD14, and are classified into classical, intermediate, and non-classical subsets based on the levels of CD14 and CD16 expression detected through flow cytometry. While historically identified by their morphology (large size, indented or kidney-shaped nucleus, and blue-gray cytoplasm), modern identification relies on flow cytometry to analyze the levels of these cell surface markers.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations): For adults, the normal range of monocyte absolute count of approximately 200 to 800 monocytes per microliter of blood.
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 26484-6
+        -   Associated CPT:
 
 4.  MONO\_P\_A (Monocyte percent, automated)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Monocyte percent, automated
+    -   Long Name: Monocyte percent, automated
+    -   Test Type: MONO\_P\_A
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications: A monocyte percentage test is typically ordered as part of a complete blood count (CBC) with differential, which measures the number of different white blood cells. High monocytes can signal that the body is fighting an acute or chronic infection, responding to inflammation, or dealing with other medical conditions. Low monocyte levels can be caused by conditions or treatments that suppress the immune system or affect the bone marrow.
+    -   Description: A monocyte percentage test is a component of a standard blood differential test, which is often included in a complete blood count (CBC). This test measures the proportion of monocytes, a type of white blood cell (WBC), relative to the total number of WBCs in a blood sample.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations): For adults, the normal range for a monocyte count is 2% to 8% of the total white blood cell (WBC) count.
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 5905-5
+        -   Associated CPT:
 
 5.  MONO\_P\_M (Monocyte percent, manual)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Monocyte percent, manual
+    -   Long Name: Monocyte percent, manual
+    -   Test Type: MONO\_P\_M
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications: A monocyte percentage test is typically ordered as part of a complete blood count (CBC) with differential, which measures the number of different white blood cells. High monocytes can signal that the body is fighting an acute or chronic infection, responding to inflammation, or dealing with other medical conditions. Low monocyte levels can be caused by conditions or treatments that suppress the immune system or affect the bone marrow.
+    -   Description: A monocyte percentage test is a component of a standard blood differential test, which is often included in a complete blood count (CBC). This test measures the proportion of monocytes, a type of white blood cell (WBC), relative to the total number of WBCs in a blood sample.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations): For adults, the normal range for a monocyte count is 2% to 8% of the total white blood cell (WBC) count.
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 744-3
+        -   Associated CPT:
 
-6.  MONO\_P (Monocyte percent, method unknown)
+6.  MONO\_P (Monocyte percent)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Monocyte percent
+    -   Long Name: Monocyte percent, method not stated
+    -   Test Type: MONO\_P
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications: A monocyte percentage test is typically ordered as part of a complete blood count (CBC) with differential, which measures the number of different white blood cells. High monocytes can signal that the body is fighting an acute or chronic infection, responding to inflammation, or dealing with other medical conditions. Low monocyte levels can be caused by conditions or treatments that suppress the immune system or affect the bone marrow.
+    -   Description: A monocyte percentage test is a component of a standard blood differential test, which is often included in a complete blood count (CBC). This test measures the proportion of monocytes, a type of white blood cell (WBC), relative to the total number of WBCs in a blood sample.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations): For adults, the normal range for a monocyte count is 2% to 8% of the total white blood cell (WBC) count.
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 26485-3
+        -   Associated CPT:
 
 
 ### (NTBAND) Band Neutrophil Test Types
@@ -4105,26 +4289,128 @@ volume (MCV)
 1.  NTBAND\_C\_A (Band neutrophil number, automated count)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name:
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC:
+        -   Associated CPT:
 
 2.  NTBAND\_C\_M (Band neutrophil number, manual count)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name:
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC:
+        -   Associated CPT:
 
 3.  NTBAND\_C (Band neutrophil number, count method unknown)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name:
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC:
+        -   Associated CPT:
 
 4.  NTBAND\_P\_A (Band neutrophil percent, automated)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name:
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC:
+        -   Associated CPT:
 
 5.  NTBAND\_P\_M (Band neutrophil percent, manual)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name:
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC:
+        -   Associated CPT:
 
 6.  NTBAND\_P (Band neutrophil percent, method unknown)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name:
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC:
+        -   Associated CPT:
 
 
 ### (NTHYP) Hypersegmented Neutrophil Test Types
@@ -4132,26 +4418,128 @@ volume (MCV)
 1.  NTHYP\_C\_A (Hypersegmented neutrophil number, automated count)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name:
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC:
+        -   Associated CPT:
 
 2.  NTHYP\_C\_M (Hypersegmented neutrophil number, manual count)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name:
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC:
+        -   Associated CPT:
 
 3.  NTHYP\_C (Hypersegmented neutrophil number, count method unknown)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name:
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC:
+        -   Associated CPT:
 
 4.  NTHYP\_P\_A (Hypersegmented neutrophil percent, automated)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name:
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC:
+        -   Associated CPT:
 
 5.  NTHYP\_P\_M (Hypersegmented neutrophil percent, manual)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name:
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC:
+        -   Associated CPT:
 
 6.  NTHYP\_P (Hypersegmented neutrophil percent, method unknown)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name:
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC:
+        -   Associated CPT:
 
 
 ### (NTIMMATURE) Immature Neutrophil Test Types
@@ -4288,26 +4676,128 @@ volume (MCV)
 1.  NTSEG\_C\_A (Segmented neutrophil number, automated count)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name:
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC:
+        -   Associated CPT:
 
 2.  NTSEG\_C\_M (Segmented neutrophil number, manual count)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name:
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC:
+        -   Associated CPT:
 
 3.  NTSEG\_C (Segmented neutrophil number, count method unknown)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name:
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC:
+        -   Associated CPT:
 
 4.  NTSEG\_P\_A (Segmented neutrophil percent, automated)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name:
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC:
+        -   Associated CPT:
 
 5.  NTSEG\_P\_M (Segmented neutrophil percent, manual)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name:
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC:
+        -   Associated CPT:
 
 6.  NTSEG\_P (Segmented neutrophil percent, method unknown)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name:
+    -   Long Name:
+    -   Test Type:
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC:
+        -   Associated CPT:
 
 
 ### PLATELETS (Platelet count in blood)
