@@ -1745,46 +1745,152 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 6.  GFR\_CKD\_EPI (Glomerular Filtration Rate, CKD-EPI 2021, not based on race)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
-    -   Common Name:
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Glomerular Filtration Rate, CKD-EPI 2021, not based on race
+    -   Long Name: Glomerular filtration rate/1.73 sq M.predicted (CKD-EPI 2021) creatinine formula not based on race
+    -   Test Type: GFR\_CKD\_EPI
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: Healthcare providers order this test to:
+        -   Diagnose Chronic Kidney Disease (CKD): Identifying individuals with an eGFR below 60 mL/min/1.73m² for more than three months.
+        -   Stage Kidney Disease: Classifying the severity of CKD from Stage 1 to Stage 5 to determine appropriate treatment plans.
+        -   Screen At-Risk Patients: Monitoring individuals with risk factors such as diabetes, high blood pressure (hypertension), heart disease, or a family history of kidney disease.
+        -   Determine Medication Dosing: Adjusting doses for drugs excreted by the kidneys to prevent toxicity.
+        -   Evaluate Transplant & Dialysis Eligibility: Assessing when a patient reaches the threshold for kidney transplant waitlists (eGFR ≤ 20 mL/min) or requires dialysis.
+        -   Monitor Kidney Health: Tracking function in patients with active kidney disease or those taking medications that may cause kidney damage.
+    -   Description: Glomerular Filtration Rate (GFR) measures how well the kidneys filter waste from the blood. The CKD-EPI 2021 equation is the current clinical standard for estimating GFR (eGFR) in adults, specifically designed to exclude race as a variable to improve health equity and accuracy.
         -   See: <http://www.nkdep.nih.gov/professionals/gfr_calculators/>.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
-    -   Comments:
+    -   Approximate Reference Range (Each site will have slight variations): Results are reported in mL/min/1.73m². A higher number indicates better kidney function.
+    
+    <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+    
+    
+    <colgroup>
+    <col  class="org-left" />
+    
+    <col  class="org-left" />
+    </colgroup>
+    <thead>
+    <tr>
+    <th scope="col" class="org-left"><b>GFR Value</b></th>
+    <th scope="col" class="org-left"><b>Interpretation</b></th>
+    </tr>
+    </thead>
+    
+    <tbody>
+    <tr>
+    <td class="org-left">90 or higher</td>
+    <td class="org-left">Normal or high kidney function</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">60 to 89</td>
+    <td class="org-left">Mildly decreased function; may be normal if no other signs of damage are present</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">30 to 59</td>
+    <td class="org-left">Moderate decrease; often indicates Chronic Kidney Disease (CKD) Stage 3</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">15 to 29</td>
+    <td class="org-left">Severe decrease in function (Stage 4)</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">Below 15</td>
+    <td class="org-left">Kidney failure (Stage 5)</td>
+    </tr>
+    </tbody>
+    </table>
+    
+    -   Comments: This test\_type holds the 2021 non-race based calculation from the National Kidney Foundation and the American Society of Nephrology.
     -   Test Method Variance:
     -   Other:
-        -   Associated LOINC:
+        -   Associated LOINC: 98979-8
         -   Associated CPT:
 
 7.  GFR\_CKD\_EPI\_CYS (Glomerular Filtration Rate, CKD-EPI 2021, creatine-cystatin not based on race)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
-    -   Common Name:
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Glomerular Filtration Rate, CKD-EPI 2021, creatine-cystatin not based on race
+    -   Long Name: Glomerular filtration rate/1.73 sq M.predicted (CKD-EPI 2021) creatinine-cystatin not based on race
+    -   Test Type: GFR\_CKD\_EPI\_CYS
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: Healthcare providers order this test to:
+        -   Diagnose Chronic Kidney Disease (CKD): Identifying individuals with an eGFR below 60 mL/min/1.73m² for more than three months.
+        -   Stage Kidney Disease: Classifying the severity of CKD from Stage 1 to Stage 5 to determine appropriate treatment plans.
+        -   Screen At-Risk Patients: Monitoring individuals with risk factors such as diabetes, high blood pressure (hypertension), heart disease, or a family history of kidney disease.
+        -   Determine Medication Dosing: Adjusting doses for drugs excreted by the kidneys to prevent toxicity.
+        -   Evaluate Transplant & Dialysis Eligibility: Assessing when a patient reaches the threshold for kidney transplant waitlists (eGFR ≤ 20 mL/min) or requires dialysis.
+        -   Monitor Kidney Health: Tracking function in patients with active kidney disease or those taking medications that may cause kidney damage.
+    -   Description: The CKD-EPI 2021 Creatinine-Cystatin C equation is a race-neutral method for calculating the Estimated Glomerular Filtration Rate (eGFR). Developed to address health inequities, it replaces older formulas that used race as a biological proxy.  Combining both creatinine and cystatin C provides a more accurate estimate of GFR than using either marker alone.
         -   See: <http://www.nkdep.nih.gov/professionals/gfr_calculators/>.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
-    -   Comments:
+    -   Approximate Reference Range (Each site will have slight variations): Results are reported in mL/min/1.73m². A higher number indicates better kidney function.
+    
+    <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+    
+    
+    <colgroup>
+    <col  class="org-left" />
+    
+    <col  class="org-left" />
+    </colgroup>
+    <thead>
+    <tr>
+    <th scope="col" class="org-left"><b>GFR Value</b></th>
+    <th scope="col" class="org-left"><b>Interpretation</b></th>
+    </tr>
+    </thead>
+    
+    <tbody>
+    <tr>
+    <td class="org-left">90 or higher</td>
+    <td class="org-left">Normal or high kidney function</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">60 to 89</td>
+    <td class="org-left">Mildly decreased function; may be normal if no other signs of damage are present</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">30 to 59</td>
+    <td class="org-left">Moderate decrease; often indicates Chronic Kidney Disease (CKD) Stage 3</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">15 to 29</td>
+    <td class="org-left">Severe decrease in function (Stage 4)</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">Below 15</td>
+    <td class="org-left">Kidney failure (Stage 5)</td>
+    </tr>
+    </tbody>
+    </table>
+    
+    -   Comments: This test\_type holds the 2021 non-race based calculation from the National Kidney Foundation and the American Society of Nephrology.
     -   Test Method Variance:
     -   Other:
-        -   Associated LOINC:
+        -   Associated LOINC: 98980-6
         -   Associated CPT:
 
 8.  GFR\_CYST (Glomerular Filtration Rate, Cystatin)
@@ -2564,9 +2670,9 @@ Prealbumin, microalbumin, urinalysis, liver panel
 ***NEEDS TO BE UPDATED***
 ***UNDER REVIEW***
 
--   Common Name:
--   Long Name:
--   Test Type:
+-   Common Name: Phosphate
+-   Long Name: Phosphate in serum/plasma or blood
+-   Test Type: PHOSPHATE
 -   Panels:
 -   Equivalent Tests:
 -   Not Equivalent Tests:
@@ -2577,7 +2683,7 @@ Prealbumin, microalbumin, urinalysis, liver panel
 -   Comments:
 -   Test Method Variance:
 -   Other:
-    -   Associated LOINC:
+    -   Associated LOINC: 14879-1, 20941-1, 24519-1, 2774-8, 2777-1, 35221-1, 48641-5
     -   Associated CPT:
 
 
@@ -2778,14 +2884,14 @@ Prealbumin, microalbumin, urinalysis, liver panel
     -   Associated CPT:  84155
 
 
-### TRANSFERRIN (Transferrin in Serum)
+### TRANSFERRIN (Transferrin)
 
 ***NEEDS TO BE UPDATED***
 ***UNDER REVIEW***
 
--   Common Name:
--   Long Name:
--   Test Type:
+-   Common Name: Transferrin
+-   Long Name: Transferrin in Serum or Plasma
+-   Test Type: TRANSFERRIN
 -   Panels:
 -   Equivalent Tests:
 -   Not Equivalent Tests:
@@ -2796,7 +2902,7 @@ Prealbumin, microalbumin, urinalysis, liver panel
 -   Comments:
 -   Test Method Variance:
 -   Other:
-    -   Associated LOINC:
+    -   Associated LOINC: 22674-6, 3034-6, 35229-4
     -   Associated CPT:
 
 
@@ -3091,9 +3197,9 @@ Prealbumin, microalbumin, urinalysis, liver panel
 ***NEEDS TO BE UPDATED***
 ***UNDER REVIEW***
 
--   Common Name:
--   Long Name:
--   Test Type:
+-   Common Name: Hemoglobin in urine by dipstick
+-   Long Name: Hemoglobin in urine by dipstick
+-   Test Type: U\_HEME\_DIP
 -   Panels:
 -   Equivalent Tests:
 -   Not Equivalent Tests:
@@ -3101,11 +3207,11 @@ Prealbumin, microalbumin, urinalysis, liver panel
 -   Description:
 -   Related Tests:
 -   Approximate Reference Range (Each site will have slight variations):
--   Comments:
+-   Comments: Is LOINC 752-2 a dipstick even though the words dipstick or test strip do not appear in the definition?  We are assuming Yes.
 -   Test Method Variance:
 -   Other:
-    -   Associated LOINC:
-    -   Associated CPT:
+    -   Associated LOINC: 49137-3, 50559-4, 57751-0, 5794-3, 725-2
+    -   Associated CPT: 81000
 
 
 ### U\_MIC\_ALB (Microalbumin [or albumin] in urine)
@@ -3246,14 +3352,14 @@ U\_PCR is used when a child shows evidence of significant and persistent protein
         -   Associated CPT:  81000
 
 
-### U\_RBC\_DIP (Erythrocytes [red blood cells] in urine by dipstick)
+### U\_RBC\_DIP (Erythrocytes in urine by dipstick)
 
 ***NEEDS TO BE UPDATED***
 ***UNDER REVIEW***
 
--   Common Name:
--   Long Name:
--   Test Type:
+-   Common Name: Erythrocytes in urine by dipstick
+-   Long Name: Erythrocytes (red blood cells) in urine by dipstick
+-   Test Type: U\_RBC\_DIP
 -   Panels:
 -   Equivalent Tests:
 -   Not Equivalent Tests:
@@ -3264,7 +3370,7 @@ U\_PCR is used when a child shows evidence of significant and persistent protein
 -   Comments:
 -   Test Method Variance:
 -   Other:
-    -   Associated LOINC:
+    -   Associated LOINC: 20409-9, 33051-4, 53292-9, 57747-8
     -   Associated CPT:
 
 
@@ -4288,128 +4394,152 @@ volume (MCV)
 
 1.  NTBAND\_C\_A (Band neutrophil number, automated count)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
-    -   Common Name:
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Band neutrophil number, automated count
+    -   Long Name: Band neutrophil number, automated count
+    -   Test Type: NTBAND\_C\_A
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: This test is ordered in the following situations:
+        -   A suspicion of bacterial infection
+        -   An assessment of sepsis
+        -   Monitoring patients with bone marrow issues
+        -   Evaluating febrile infants and children
+        -   Monitoring recovery from chemotherapy
+    -   Description: An automated band neutrophil number test is a lab measurement of the concentration of immature neutrophils in the blood, calculated as part of an automated complete blood count (CBC). Automated analyzers report the percentage and absolute number of immature granulocytes (IG), which often includes band neutrophils.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
-    -   Comments:
+    -   Approximate Reference Range (Each site will have slight variations):  In a healthy person there should be no band neutrophils.
+    -   Comments: Ordering an automated band neutrophil count has become increasingly limited in clinical practice due to its inaccuracy and imprecision compared to manual counting and other inflammatory markers.  Can only use for ANC if combined with Ntseg and Ntimmature.  Although this summing of segs, bands and immature might be possible it is NOT recommended. (34524-9 is qualitative)
     -   Test Method Variance:
     -   Other:
-        -   Associated LOINC:
+        -   Associated LOINC: 30229-9, 34524-9
         -   Associated CPT:
 
 2.  NTBAND\_C\_M (Band neutrophil number, manual count)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
-    -   Common Name:
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Band neutrophil number, manual count
+    -   Long Name: Band neutrophil number, manual count
+    -   Test Type: NTBAND\_C\_M
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: This test is ordered in the following situations:
+        -   A suspicion of bacterial infection
+        -   An assessment of sepsis
+        -   Monitoring patients with bone marrow issues
+        -   Evaluating febrile infants and children
+        -   Monitoring recovery from chemotherapy
+    -   Description: A manual band neutrophil count is a lab test that involves the microscopic examination of a blood sample to determine the percentage of immature neutrophils, known as band neutrophils. An elevated number of band neutrophils, or "bandemia," is a key indicator of infection or inflammation.  The body's bone marrow produces neutrophils, a type of white blood cell (WBC), to fight infection. In response to an infection, the bone marrow ramps up production and releases immature neutrophils (bands) into the bloodstream prematurely. This phenomenon is known as a "left shift" and suggests the body is fighting a bacterial infection or another inflammatory process.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
-    -   Comments:
+    -   Approximate Reference Range (Each site will have slight variations): In a healthy person there should be no band neutrophils.
+    -   Comments: Can only use for ANC if combined with Ntseg and Ntimmature.  Although this summing of segs, bands and immature might be possible it is NOT recommended.
     -   Test Method Variance:
     -   Other:
-        -   Associated LOINC:
+        -   Associated LOINC: 763-3
         -   Associated CPT:
 
-3.  NTBAND\_C (Band neutrophil number, count method unknown)
+3.  NTBAND\_C (Band neutrophil number)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
-    -   Common Name:
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Band neutrophil number
+    -   Long Name: Band neutrophil number, count method unknown
+    -   Test Type: NTBAND\_C
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: This test is ordered in the following situations:
+        -   A suspicion of bacterial infection
+        -   An assessment of sepsis
+        -   Monitoring patients with bone marrow issues
+        -   Evaluating febrile infants and children
+        -   Monitoring recovery from chemotherapy
+    -   Description: A band neutrophil test, part of a blood differential count, measures immature neutrophils, which are a type of white blood cell that fights infection. An elevated number of band neutrophils can indicate the body is fighting an infection or dealing with inflammation, as the bone marrow is releasing these young cells into the bloodstream. This is often called a "left shift".
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
-    -   Comments:
+    -   Approximate Reference Range (Each site will have slight variations): In a healthy person there should be no band neutrophils.
+    -   Comments: Can only use for ANC if combined with Ntseg and Ntimmature.  Although this summing of segs, bands and immature might be possible it is NOT recommended.
     -   Test Method Variance:
     -   Other:
-        -   Associated LOINC:
+        -   Associated LOINC: 26507-4
         -   Associated CPT:
 
 4.  NTBAND\_P\_A (Band neutrophil percent, automated)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
-    -   Common Name:
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Band neutrophil percent, automated
+    -   Long Name: Band neutrophil percent, automated
+    -   Test Type: NTBAND\_P\_A
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: This test is ordered in the following situations:
+        -   A suspicion of bacterial infection
+        -   An assessment of sepsis
+        -   Monitoring patients with bone marrow issues
+        -   Evaluating febrile infants and children
+        -   Monitoring recovery from chemotherapy
+    -   Description: A band neutrophil test measures the percentage of immature neutrophils in a blood sample, indicating the body's immune response to infection or inflammation. An automated percent result shows this percentage calculated by a machine, with normal values typically between $0\%$ and $6\%$. A result higher than normal, called a left shift or bandemia, suggests the body is releasing immature neutrophils before they are fully mature, which can be triggered by bacterial infections, inflammation, or physical stress.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
-    -   Comments:
+    -   Approximate Reference Range (Each site will have slight variations): In a healthy person there should be 0% band neutrophils.  Up to 3% can still be considered within a typical range.
+    -   Comments: Can only use to calculate ANC if  Ntseg and Ntimmature percentages are also used.  Although this calculation using segs, bands and immature might be possible it is NOT recommended.
     -   Test Method Variance:
     -   Other:
-        -   Associated LOINC:
+        -   Associated LOINC: 35332-6
         -   Associated CPT:
 
 5.  NTBAND\_P\_M (Band neutrophil percent, manual)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
-    -   Common Name:
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Band neutrophil percent, manual
+    -   Long Name: Band neutrophil percent, manual
+    -   Test Type: NTBAND\_P\_M
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: This test is ordered in the following situations:
+        -   A suspicion of bacterial infection
+        -   An assessment of sepsis
+        -   Monitoring patients with bone marrow issues
+        -   Evaluating febrile infants and children
+        -   Monitoring recovery from chemotherapy
+    -   Description: A manual band neutrophil percentage test is performed through a microscopic examination of a stained blood smear, which is part of a complete manual white blood cell (WBC) differential count. Band neutrophils are immature WBCs with a horseshoe-shaped nucleus, unlike mature segmented neutrophils, which have a segmented, lobular nucleus. An increased percentage of band neutrophils is known as a "left shift" and often indicates a bacterial infection or significant inflammation.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
-    -   Comments:
+    -   Approximate Reference Range (Each site will have slight variations): In a healthy person there should be 0% band neutrophils.  Up to 3% can still be considered within a typical range.
+    -   Comments: Can only use to calculate ANC if  Ntseg and Ntimmature percentages are also used.  Although this calculation using segs, bands and immature might be possible it is NOT recommended.
     -   Test Method Variance:
     -   Other:
-        -   Associated LOINC:
+        -   Associated LOINC: 764-1, 71670-4
         -   Associated CPT:
 
-6.  NTBAND\_P (Band neutrophil percent, method unknown)
+6.  NTBAND\_P (Band neutrophil percent)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
-    -   Common Name:
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Band neutrophil percent
+    -   Long Name: Band neutrophil percent, method unknown
+    -   Test Type: NTBAND\_P
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications:  This test is ordered in the following situations:
+        -   A suspicion of bacterial infection
+        -   An assessment of sepsis
+        -   Monitoring patients with bone marrow issues
+        -   Evaluating febrile infants and children
+        -   Monitoring recovery from chemotherapy
+    -   Description: The band neutrophil percentage is a lab test that measures the proportion of immature neutrophils, a type of white blood cell, in your bloodstream. This test is a component of a complete blood count (CBC) with differential, which provides a breakdown of all the different white blood cell types.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
-    -   Comments:
+    -   Approximate Reference Range (Each site will have slight variations): In a healthy person there should be 0% band neutrophils.  Up to 3% can still be considered within a typical range.
+    -   Comments: Can only use to calculate ANC if  Ntseg and Ntimmature percentages are also used.  Although this calculation using segs, bands and immature might be possible it is NOT recommended.
     -   Test Method Variance:
     -   Other:
-        -   Associated LOINC:
+        -   Associated LOINC: 26508-2
         -   Associated CPT:
 
 
@@ -4417,128 +4547,118 @@ volume (MCV)
 
 1.  NTHYP\_C\_A (Hypersegmented neutrophil number, automated count)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
-    -   Common Name:
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Hypersegmented neutrophil number, automated count
+    -   Long Name: Hypersegmented neutrophil number, automated count
+    -   Test Type: NTHYP\_C\_A
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The presence of hypersegmented neutrophils is a hallmark diagnostic feature for several conditions: Megaloblastic Anemia, Medication Side Effects, Myelodysplatic Syndromes, and Chronic Inflammation.
+    -   Description: Hypersegmented neutrophils are mature white blood cells with an abnormally high number of nuclear segments (lobes). While automated hematology analyzers perform the initial count, definitive identification of these cells typically requires a manual microscopic review.  An automated Complete Blood Count (CBC) with differential uses flow cytometry or computerized analyzers to count and categorize white blood cells.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): A neutrophil is classified as hypersegmented if it meets either of the following criteria:
+        -   A single neutrophil with 6 or more nuclear lobes
+        -   More than 3% to 5% of neutrophils in a sample having 5 or more lobes
     -   Comments:
     -   Test Method Variance:
     -   Other:
-        -   Associated LOINC:
+        -   Associated LOINC: 34199-0
         -   Associated CPT:
 
 2.  NTHYP\_C\_M (Hypersegmented neutrophil number, manual count)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
-    -   Common Name:
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Hypersegmented neutrophil number, manual count
+    -   Long Name: Hypersegmented neutrophil number, manual count
+    -   Test Type: NTHYP\_C\_M
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications:  A manual differential blood smear is typically ordered to look for hypersegmented neutrophils when a patient exhibits: 
+        -   Suspected Megaloblastic Anemia: Often caused by Vitamin B12 or Folate deficiency.
+        -   Macrocytosis: An elevated Mean Corpuscular Volume indicating unusually large red blood cells.
+        -   Pancytopenia: Unexplained low counts across all blood cell types (red cells, white cells, and platelets).
+        -   Drug Toxicity: Monitoring patients on medications like Methotrexate or Hydroxyurea, which interfere with DNA synthesis.
+        -   Myelodysplastic Syndromes: Assessing for bone marrow maturation defects or clonal disorders.
+    -   Description:  A microscopic lab test where a pathologist examines a stained blood smear, counting neutrophils with six or more nuclear lobes, indicating abnormal maturation, most strongly suggesting megaloblastic anemia.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): If more than 3% to 5% of neutrophils have five lobes.
     -   Comments:
     -   Test Method Variance:
     -   Other:
-        -   Associated LOINC:
-        -   Associated CPT:
+        -   Associated LOINC: 766-6
+        -   Associated CPT: 85007
 
-3.  NTHYP\_C (Hypersegmented neutrophil number, count method unknown)
+3.  NTHYP\_C (Hypersegmented neutrophil number)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
-    -   Common Name:
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Hypersegmented neutrophil number
+    -   Long Name: Hypersegmented neutrophil number, method not specified or other method
+    -   Test Type: NTHYP\_C
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: Hypersegmented neutrophils contain more than six nuclear lobes are a key sign of megaloblastic anemia (B12/folate deficiency), but also point to myelodysplastic syndromes (MDS), certain medications (affecting DNA), chronic liver issues, and rare genetic disorders, often accompanied by large red blood cells (macrocytes).
+    -   Description: Identifies white blood cells with an abnormally high number of nuclear lobes.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): While normal, mature neutrophils contain 3 to 5 lobes, hypersegmented cells are characterized by having 6 or more lobes, or a significant percentage (over 3%–5%) having 5 or more lobes.
     -   Comments:
     -   Test Method Variance:
     -   Other:
-        -   Associated LOINC:
+        -   Associated LOINC: 30449-3, 765-8
         -   Associated CPT:
 
 4.  NTHYP\_P\_A (Hypersegmented neutrophil percent, automated)
 
     ***NEEDS TO BE UPDATED***
-    ***UNDER REVIEW***
-    
-    -   Common Name:
-    -   Long Name:
-    -   Test Type:
-    -   Panels:
-    -   Equivalent Tests:
-    -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
-    -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
-    -   Comments:
-    -   Test Method Variance:
-    -   Other:
-        -   Associated LOINC:
-        -   Associated CPT:
+    There are no LOINCs that have been identified for this Test Type.
 
 5.  NTHYP\_P\_M (Hypersegmented neutrophil percent, manual)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
-    -   Common Name:
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Hypersegmented neutrophil percent, manual
+    -   Long Name: Hypersegmented neutrophil percent, manual
+    -   Test Type: NTHYP\_P\_M
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: Hypersegmented neutrophils contain more than six nuclear lobes are a key sign of megaloblastic anemia (B12/folate deficiency), but also point to myelodysplastic syndromes (MDS), certain medications (affecting DNA), chronic liver issues, and rare genetic disorders, often accompanied by large red blood cells (macrocytes).
+    -   Description: Measures the proportion of mature white blood cells (neutrophils) that have an abnormally high number of segments (lobes) in their nucleus.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): The total count of neutrophils in a standard test typically falls within these ranges: 
+        -   Absolute Neutrophil Count (ANC): 1,500 to 7,700 cells/µL.
+        -   Relative Percentage: 40% to 70% of total white blood cells.
     -   Comments:
     -   Test Method Variance:
     -   Other:
-        -   Associated LOINC:
-        -   Associated CPT:
+        -   Associated LOINC: 767-4
+        -   Associated CPT: 85007
 
 6.  NTHYP\_P (Hypersegmented neutrophil percent, method unknown)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
-    -   Common Name:
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Hypersegmented neutrophil percent
+    -   Long Name: Hypersegmented neutrophil percent, method unknown
+    -   Test Type: NTHYP\_P
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: Hypersegmented neutrophils contain more than six nuclear lobes are a key sign of megaloblastic anemia (B12/folate deficiency), but also point to myelodysplastic syndromes (MDS), certain medications (affecting DNA), chronic liver issues, and rare genetic disorders, often accompanied by large red blood cells (macrocytes).
+    -   Description: Measures the proportion of mature white blood cells (neutrophils) that have an abnormally high number of segments (lobes) in their nucleus.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): The total count of neutrophils in a standard test typically falls within these ranges: 
+        -   Absolute Neutrophil Count (ANC): 1,500 to 7,700 cells/µL.
+        -   Relative Percentage: 40% to 70% of total white blood cells.
     -   Comments:
     -   Test Method Variance:
     -   Other:
-        -   Associated LOINC:
+        -   Associated LOINC: 30450-1
         -   Associated CPT:
 
 
@@ -4546,128 +4666,101 @@ volume (MCV)
 
 1.  NTIMMATURE\_C\_A (Immature neutrophil number, automated count)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
-    
-    -   Common Name:
-    -   Long Name:
-    -   Test Type:
-    -   Panels:
-    -   Equivalent Tests:
-    -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
-    -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
-    -   Comments:
-    -   Test Method Variance:
-    -   Other:
-        -   Associated LOINC:
-        -   Associated CPT:
+    There are no LOINCs associated with this test type.
 
 2.  NTIMMATURE\_C\_M (Immature neutrophil number, manual count)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
-    
-    -   Common Name:
-    -   Long Name:
-    -   Test Type:
-    -   Panels:
-    -   Equivalent Tests:
-    -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
-    -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
-    -   Comments:
-    -   Test Method Variance:
-    -   Other:
-        -   Associated LOINC:
-        -   Associated CPT:
+    There are no LOINCs associated with this test type.
 
 3.  NTIMMATURE\_C (Immature neutrophil number, count method unknown)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
-    -   Common Name:
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Immature neutrophil number
+    -   Long Name: Immature neutrophil number, count method unknown
+    -   Test Type: NTIMMATURE\_C
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: Mature neutrophils are the body's primary defense against infection, their immature counterparts are normally confined to the bone marrow.
+    -   Description: Measures young neutrophils (like bands, metamyelocytes, myelocytes) in your blood, indicating the bone marrow's stress or release of reserves, typically due to infection or inflammation, revealing a "left shift" that helps diagnose issues like sepsis or bone marrow disorders.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Immature neutrophils are usually measured in two ways:
+        -   Band Neutrophils (Bands):
+            -   Percentage: Typically 0% to 3% of total white blood cells.
+            -   Absolute Count: Generally less than 0.7 x 10⁹/L (or <700 cells/µL).
+        -   Immature Granulocytes (IG):
+            -   This category includes earlier stages than bands (metamyelocytes, myelocytes, and promyelocytes).
+            -   Percentage: Usually 0% to 1.0%.
+            -   Absolute Count: Often reported as 0.00 to 0.04 x 10³/µL.
+    
+    Clinical Significance
+    
     -   Comments:
     -   Test Method Variance:
     -   Other:
-        -   Associated LOINC:
+        -   Associated LOINC: 26523-1, 30433-7
         -   Associated CPT:
 
 4.  NTIMMATURE\_P\_A (Immature neutrophil percent, automated)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
-    
-    -   Common Name:
-    -   Long Name:
-    -   Test Type:
-    -   Panels:
-    -   Equivalent Tests:
-    -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
-    -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
-    -   Comments:
-    -   Test Method Variance:
-    -   Other:
-        -   Associated LOINC:
-        -   Associated CPT:
+    There are no LOINCs associated with this test type.
 
 5.  NTIMMATURE\_P\_M (Immature neutrophil percent, manual)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
-    -   Common Name:
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Immature neutrophil percent, manual
+    -   Long Name: Immature neutrophil percent, manual
+    -   Test Type: NTIMMATURE\_P\_M
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: Mature neutrophils are the body's primary defense against infection, their immature counterparts are normally confined to the bone marrow.
+    -   Description: Measures young neutrophils (like bands, metamyelocytes, myelocytes) in your blood, indicating the bone marrow's stress or release of reserves, typically due to infection or inflammation, revealing a "left shift" that helps diagnose issues like sepsis or bone marrow disorders.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Immature neutrophils are usually measured in two ways:
+        -   Band Neutrophils (Bands):
+            -   Percentage: Typically 0% to 3% of total white blood cells.
+            -   Absolute Count: Generally less than 0.7 x 10⁹/L (or <700 cells/µL).
+        -   Immature Granulocytes (IG):
+            -   This category includes earlier stages than bands (metamyelocytes, myelocytes, and promyelocytes).
+            -   Percentage: Usually 0% to 1.0%.
+            -   Absolute Count: Often reported as 0.00 to 0.04 x 10³/µL.
     -   Comments:
     -   Test Method Variance:
     -   Other:
-        -   Associated LOINC:
+        -   Associated LOINC: 74425-0, 74428-4
         -   Associated CPT:
 
 6.  NTIMMATURE\_P (Immature neutrophil percent, method unknown)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
-    -   Common Name:
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Immature neutrophil percent
+    -   Long Name: Immature neutrophil percent, method unknown
+    -   Test Type: NTIMMATURE\_P
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: Mature neutrophils are the body's primary defense against infection, their immature counterparts are normally confined to the bone marrow.
+    -   Description: Measures young neutrophils (like bands, metamyelocytes, myelocytes) in your blood, indicating the bone marrow's stress or release of reserves, typically due to infection or inflammation, revealing a "left shift" that helps diagnose issues like sepsis or bone marrow disorders.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Immature neutrophils are usually measured in two ways:
+        -   Band Neutrophils (Bands):
+            -   Percentage: Typically 0% to 3% of total white blood cells.
+            -   Absolute Count: Generally less than 0.7 x 10⁹/L (or <700 cells/µL).
+        -   Immature Granulocytes (IG):
+            -   This category includes earlier stages than bands (metamyelocytes, myelocytes, and promyelocytes).
+            -   Percentage: Usually 0% to 1.0%.
+            -   Absolute Count: Often reported as 0.00 to 0.04 x 10³/µL.
     -   Comments:
     -   Test Method Variance:
     -   Other:
-        -   Associated LOINC:
+        -   Associated LOINC: 53797-7, 26498-6, 26524-9, 28541-1
         -   Associated CPT:
 
 
@@ -4675,129 +4768,128 @@ volume (MCV)
 
 1.  NTSEG\_C\_A (Segmented neutrophil number, automated count)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
-    
-    -   Common Name:
-    -   Long Name:
-    -   Test Type:
-    -   Panels:
-    -   Equivalent Tests:
-    -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
-    -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
-    -   Comments:
-    -   Test Method Variance:
-    -   Other:
-        -   Associated LOINC:
-        -   Associated CPT:
+    There are no LOINCs associated with this test type.
 
 2.  NTSEG\_C\_M (Segmented neutrophil number, manual count)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
-    -   Common Name:
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Segmented neutrophil number, manual count
+    -   Long Name: Segmented neutrophil number, manual count
+    -   Test Type: NTSEG\_C\_M
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: Healthcare providers order this test when a patient exhibits signs of an active immune response: 
+        -   Systemic symptoms: Persistent fever, shaking chills, and night sweats.
+        -   Respiratory signs: Rapid pulse or rapid, shallow breathing.
+        -   Gastrointestinal distress: Nausea, vomiting, or chronic diarrhea.
+        -   Localized issues: Wounds that do not heal or the presence of an abscess.
+    -   Description: A Segmented Neutrophil lab test measures the number of mature neutrophils in your blood. Segmented neutrophils, often called "segs" or "polys," are the primary white blood cells (WBCs) responsible for fighting bacterial and fungal infections.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
-    -   Comments:
+    -   Approximate Reference Range (Each site will have slight variations): The reference range for segmented neutrophils (mature neutrophils) in adults is typically an absolute count of 1,500 to 8,000 cells/µL (or x 10^9/L)
+    -   Comments: Can only use for ANC if combined with Ntband and Ntimmature counts.  Although this summing of segs, bands and immature might be possible it is NOT recommended.
     -   Test Method Variance:
     -   Other:
-        -   Associated LOINC:
-        -   Associated CPT:
+        -   Associated LOINC: 768-2
+        -   Associated CPT: 85007, 85009, 85032
 
 3.  NTSEG\_C (Segmented neutrophil number, count method unknown)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
-    -   Common Name:
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Segmented neutrophil number
+    -   Long Name: Segmented neutrophil number, count method unknown
+    -   Test Type: NTSEG\_C
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: Healthcare providers order this test when a patient exhibits signs of an active immune response: 
+        -   Systemic symptoms: Persistent fever, shaking chills, and night sweats.
+        -   Respiratory signs: Rapid pulse or rapid, shallow breathing.
+        -   Gastrointestinal distress: Nausea, vomiting, or chronic diarrhea.
+        -   Localized issues: Wounds that do not heal or the presence of an abscess.
+    -   Description: A Segmented Neutrophil lab test measures the number of mature neutrophils in your blood. Segmented neutrophils, often called "segs" or "polys," are the primary white blood cells (WBCs) responsible for fighting bacterial and fungal infections.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
-    -   Comments:
+    -   Approximate Reference Range (Each site will have slight variations): The reference range for segmented neutrophils (mature neutrophils) in adults is typically an absolute count of 1,500 to 8,000 cells/µL (or x 10^9/L)
+    -   Comments: Can only use for ANC if combined with Ntband and Ntimmature counts.  Although this summing of segs, bands and immature might be possible it is NOT recommended.
     -   Test Method Variance:
     -   Other:
-        -   Associated LOINC:
-        -   Associated CPT:
+        -   Associated LOINC: 30451-9
+        -   Associated CPT: 85048
 
 4.  NTSEG\_P\_A (Segmented neutrophil percent, automated)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
-    -   Common Name:
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Segmented neutrophil percent, automated
+    -   Long Name: Segmented neutrophil percent, automated
+    -   Test Type: NTSEG\_P\_A
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: Healthcare providers order this test when a patient exhibits signs of an active immune response: 
+        -   Systemic symptoms: Persistent fever, shaking chills, and night sweats.
+        -   Respiratory signs: Rapid pulse or rapid, shallow breathing.
+        -   Gastrointestinal distress: Nausea, vomiting, or chronic diarrhea.
+        -   Localized issues: Wounds that do not heal or the presence of an abscess.
+    -   Description: A Segmented Neutrophil lab test measures the percentage of mature neutrophils in your blood. Segmented neutrophils, often called "segs" or "polys," are the primary white blood cells (WBCs) responsible for fighting bacterial and fungal infections.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
-    -   Comments:
+    -   Approximate Reference Range (Each site will have slight variations): The reference range for segmented neutrophils (mature neutrophils) in adults is typically 40-60% of total white blood cells.
+    -   Comments: Can only use for ANC if combined with Ntband and Ntimmature counts.  Although this summing of segs, bands and immature might be possible it is NOT recommended.
     -   Test Method Variance:
     -   Other:
-        -   Associated LOINC:
-        -   Associated CPT:
+        -   Associated LOINC: 32200-8, 770-8, 19023-1
+        -   Associated CPT: 85048, 85004, 85025
 
 5.  NTSEG\_P\_M (Segmented neutrophil percent, manual)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
-    -   Common Name:
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Segmented neutrophil percent, manual
+    -   Long Name: Segmented neutrophil percent, manual
+    -   Test Type: NTSEG\_P\_M
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: Healthcare providers order this test when a patient exhibits signs of an active immune response: 
+        -   Systemic symptoms: Persistent fever, shaking chills, and night sweats.
+        -   Respiratory signs: Rapid pulse or rapid, shallow breathing.
+        -   Gastrointestinal distress: Nausea, vomiting, or chronic diarrhea.
+        -   Localized issues: Wounds that do not heal or the presence of an abscess.
+    -   Description: A Segmented Neutrophil lab test measures the percentage of mature neutrophils in your blood. Segmented neutrophils, often called "segs" or "polys," are the primary white blood cells (WBCs) responsible for fighting bacterial and fungal infections.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
-    -   Comments:
+    -   Approximate Reference Range (Each site will have slight variations): The reference range for segmented neutrophils (mature neutrophils) in adults is typically 40-60% of total white blood cells.
+    -   Comments: Can only use for ANC if combined with Ntband and Ntimmature counts.  Although this summing of segs, bands and immature might be possible it is NOT recommended.
     -   Test Method Variance:
     -   Other:
-        -   Associated LOINC:
-        -   Associated CPT:
+        -   Associated LOINC: 769-0, 23761-0, 31160-5
+        -   Associated CPT: 85007
 
 6.  NTSEG\_P (Segmented neutrophil percent, method unknown)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
-    -   Common Name:
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Segmented neutrophil percent
+    -   Long Name: Segmented neutrophil percent, method unknown
+    -   Test Type: NTSEG\_P
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: Healthcare providers order this test when a patient exhibits signs of an active immune response: 
+        -   Systemic symptoms: Persistent fever, shaking chills, and night sweats.
+        -   Respiratory signs: Rapid pulse or rapid, shallow breathing.
+        -   Gastrointestinal distress: Nausea, vomiting, or chronic diarrhea.
+        -   Localized issues: Wounds that do not heal or the presence of an abscess.
+    -   Description: A Segmented Neutrophil lab test measures the percentage of mature neutrophils in your blood. Segmented neutrophils, often called "segs" or "polys," are the primary white blood cells (WBCs) responsible for fighting bacterial and fungal infections.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
-    -   Comments:
+    -   Approximate Reference Range (Each site will have slight variations): The reference range for segmented neutrophils (mature neutrophils) in adults is typically 40-60% of total white blood cells.
+    -   Comments: Can only use for ANC if combined with Ntband and Ntimmature counts.  Although this summing of segs, bands and immature might be possible it is NOT recommended.
     -   Test Method Variance:
     -   Other:
-        -   Associated LOINC:
-        -   Associated CPT:
+        -   Associated LOINC: 26505-8, 34999-3, 30395-8, 26511-6
+        -   Associated CPT: 85048
 
 
 ### PLATELETS (Platelet count in blood)
@@ -4835,6 +4927,8 @@ volume (MCV)
 -   Comments: A PT of 20 seconds in one lab may not represent the same degree of anticoagulation as a PT of 20 seconds in another lab. Because of the variation in PT reporting, the INR was created to adjust for the sensitivity of the thromboplastin reagent used to measure PT.
 -   Test Method Variance: The test results depend on the method used. .
 -   Other: &#x2013;
+    -   Associated LOINC:
+    -   Associated CPT:
 
 
 ### PTT (activated Partial throomboplastin time)
@@ -4852,6 +4946,8 @@ volume (MCV)
 -   Comments: A PT of 20 seconds in one lab may not represent the same degree of anticoagulation as a PT of 20 seconds in another lab. Because of the variation in PT reporting, the INR was created to adjust for the sensitivity of the thromboplastin reagent used to measure PT.
 -   Test Method Variance: The test results depend on the method used. .
 -   Other: &#x2013;
+    -   Associated LOINC:
+    -   Associated CPT:
 
 
 ### RBC (Red Blood Cell Count [in blood])
@@ -4869,33 +4965,39 @@ volume (MCV)
 -   Comments: RBC counts must be interpreted along with HGB, HCT, and/or red blood cell indices (MCV, mean corpuscular hemoglobin concentration [MCHC], and mean corpuscular hemoglobin [MCH]). RBCs are made in the bone marrow and carry oxygen from the lungs to body cells and transport carbon dioxide from cells back to the lungs. Changes in RBC count are usually associated with changes in HGB levels. When the RBC falls below normal, anemia occurs. A decreased number of RBCs can result from blood loss. A slight decrease in RBC is seen in pregnancy as a result of expansion of body fluids. Disorders such as RBC destruction (e.g., hemolytic anemia) or decreased RBC production (e.g., iron deficiency anemia) can result in low RBC counts. When RBC rises about normal, polycythemia occurs. Dehydration, congenital heart diseases, some pulmonary diseases, and tissue hypoxia over an extended period of time can result in increases in RBCs. RBC counts are higher among those who live in high altitudes because the body produces more red RBCs in response to decreased oxygen available at high altitude.
 -   Test Method Variance: &#x2013;
 -   Other: &#x2013;
+    -   Associated LOINC:
+    -   Associated CPT:
 
 
 ### (WBC) White Blood Cell Test Types
 
 1.  WBC (Total White Blood Cell Count)
 
+    ***UNDER REVIEW***
+    
     -   Common Name: WBC count; Leukocyte count; White count
     -   Long Name: Total white blood cell count
     -   Test Type: WBC
     -   Panels: Complete blood count
-    -   Equivalent Tests: &#x2013;
+    -   Equivalent Tests:
     -   Not Equivalent Tests: Tests of individual types of WBCs (neutrophils, lymphocytes, monocytes, eosinophils, or basophils).
     -   Indications: To assist in determining the presence of an infection or a disease (e.g., leukemia) that affects the production of white blood cells; to monitor treatment and bone marrow function.
     -   Description: The white blood cell (WBC) count is used to evaluate the number of white blood cells in blood. White blood cells are made in the bone marrow and protect the body against infection as well as aiding in the immune response. If there is an infection, white blood cells will attack and destroy the pathogen causing the infection.
     -   Related Tests: Blood smear; tests of individual types of WBCs (neutrophils, lymphocytes, monocytes, eosinophils, or basophils). One component of the complete blood count (CBC); (Other components of the CBC include hemoglobin, red blood cells, hematocrit, and platelets).
     -   Approximate Reference Range (Each site will have slight variations): 4,500 – 10,000 WBCs per microliter (mcl or μL or 10-6/Liter) of blood
     -   Comments: White blood cells are also called leukocytes. Conditions that inhibit WBC proliferation and/or weaken the immune system (e.g., HIV infection, chemotherapy) cause a decrease in the number of WBCs. An elevated number of WBCs is called leukocytosis. A decreased WBC count is called leukopenia. On average, infants have higher WBC counts than do adults. Some drugs and smoking can affect the WBC count.
-    -   Test Method Variance: &#x2013;
-    -   Other: &#x2013;
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 26464-8, 49498-9
+        -   Associated CPT: 85048
 
 2.  WBC\_A (White Blood Cell, automated count)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
-    -   Common Name: WBC count; Leukocyte count; White count
-    -   Long Name: Total white blood cell count
-    -   Test Type: WBC
+    -   Common Name: White Blood Cell, automated count
+    -   Long Name: White Blood Cell, automated count
+    -   Test Type: WBC\_A
     -   Panels: Complete blood count
     -   Equivalent Tests: &#x2013;
     -   Not Equivalent Tests: Tests of individual types of WBCs (neutrophils, lymphocytes, monocytes, eosinophils, or basophils).
@@ -4906,50 +5008,57 @@ volume (MCV)
     -   Comments: White blood cells are also called leukocytes. Conditions that inhibit WBC proliferation and/or weaken the immune system (e.g., HIV infection, chemotherapy) cause a decrease in the number of WBCs. An elevated number of WBCs is called leukocytosis. A decreased WBC count is called leukopenia. On average, infants have higher WBC counts than do adults. Some drugs and smoking can affect the WBC count.
     -   Test Method Variance: &#x2013;
     -   Other: &#x2013;
+        -   Associated LOINC: 6690-2
+        -   Associated CPT: 85025, 85027, 85004, 85048
 
 3.  WBC\_COR (White blood cell total, corrected for nucleated red blood cells)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
-    -   Common Name: WBC count; Leukocyte count; White count
-    -   Long Name: Total white blood cell count
-    -   Test Type: WBC
+    -   Common Name: White blood cell total, corrected for nucleated red blood cells
+    -   Long Name: White blood cell total, corrected for nucleated red blood cells
+    -   Test Type: WBC\_COR
     -   Panels: Complete blood count
-    -   Equivalent Tests: &#x2013;
+    -   Equivalent Tests:
     -   Not Equivalent Tests: Tests of individual types of WBCs (neutrophils, lymphocytes, monocytes, eosinophils, or basophils).
     -   Indications: To assist in determining the presence of an infection or a disease (e.g., leukemia) that affects the production of white blood cells; to monitor treatment and bone marrow function.
     -   Description: The white blood cell (WBC) count is used to evaluate the number of white blood cells in blood. White blood cells are made in the bone marrow and protect the body against infection as well as aiding in the immune response. If there is an infection, white blood cells will attack and destroy the pathogen causing the infection.
     -   Related Tests: Blood smear; tests of individual types of WBCs (neutrophils, lymphocytes, monocytes, eosinophils, or basophils). One component of the complete blood count (CBC); (Other components of the CBC include hemoglobin, red blood cells, hematocrit, and platelets).
     -   Approximate Reference Range (Each site will have slight variations): 4,500 – 10,000 WBCs per microliter (mcl or μL or 10-6/Liter) of blood
     -   Comments: White blood cells are also called leukocytes. Conditions that inhibit WBC proliferation and/or weaken the immune system (e.g., HIV infection, chemotherapy) cause a decrease in the number of WBCs. An elevated number of WBCs is called leukocytosis. A decreased WBC count is called leukopenia. On average, infants have higher WBC counts than do adults. Some drugs and smoking can affect the WBC count.
-    -   Test Method Variance: &#x2013;
-    -   Other: &#x2013;
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 12227-5
+        -   Associated CPT:
 
 4.  WBC\_COR\_A (White blood cell total, corrected for nucleated red blood cells)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
-    -   Common Name: WBC count; Leukocyte count; White count
-    -   Long Name: Total white blood cell count
-    -   Test Type: WBC
+    -   Common Name: White blood cell total number, corrected for nucleated red blood cells, automated count
+    -   Long Name: White blood cell total number, corrected for nucleated red blood cells, automated count
+    -   Test Type: WBC\_COR\_A
     -   Panels: Complete blood count
-    -   Equivalent Tests: &#x2013;
+    -   Equivalent Tests:
     -   Not Equivalent Tests: Tests of individual types of WBCs (neutrophils, lymphocytes, monocytes, eosinophils, or basophils).
     -   Indications: To assist in determining the presence of an infection or a disease (e.g., leukemia) that affects the production of white blood cells; to monitor treatment and bone marrow function.
     -   Description: The white blood cell (WBC) count is used to evaluate the number of white blood cells in blood. White blood cells are made in the bone marrow and protect the body against infection as well as aiding in the immune response. If there is an infection, white blood cells will attack and destroy the pathogen causing the infection.
     -   Related Tests: Blood smear; tests of individual types of WBCs (neutrophils, lymphocytes, monocytes, eosinophils, or basophils). One component of the complete blood count (CBC); (Other components of the CBC include hemoglobin, red blood cells, hematocrit, and platelets).
     -   Approximate Reference Range (Each site will have slight variations): 4,500 – 10,000 WBCs per microliter (mcl or μL or 10-6/Liter) of blood
     -   Comments: White blood cells are also called leukocytes. Conditions that inhibit WBC proliferation and/or weaken the immune system (e.g., HIV infection, chemotherapy) cause a decrease in the number of WBCs. An elevated number of WBCs is called leukocytosis. A decreased WBC count is called leukopenia. On average, infants have higher WBC counts than do adults. Some drugs and smoking can affect the WBC count.
-    -   Test Method Variance: &#x2013;
-    -   Other: &#x2013;
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 33256-9
+        -   Associated CPT:
 
 5.  WBC\_M (White Blood Cell Count, manual count)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
-    -   Common Name: WBC count; Leukocyte count; White count
-    -   Long Name: Total white blood cell count
-    -   Test Type: WBC - Panels: Complete blood count
+    -   Common Name: White Blood Cell Count, manual count
+    -   Long Name: White Blood Cell Count, manual count
+    -   Test Type: WBC\_M
+    -   Panels: Complete blood count
     -   Equivalent Tests:
     -   Not Equivalent Tests: Tests of individual types of WBCs (neutrophils, lymphocytes, monocytes, eosinophils, or basophils).
     -   Indications: To assist in determining the presence of an infection or a disease (e.g., leukemia) that affects the production of white blood cells; to monitor treatment and bone marrow function.
@@ -4961,16 +5070,18 @@ volume (MCV)
     Method Variance:
     
     -   Other:
+        -   Associated LOINC: 804-5
+        -   Associated CPT:
 
 6.  WBC\_OTH\_C (White blood cell other leukocytes, count)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
-    -   Common Name: WBC count; Leukocyte count; White count
-    -   Long Name: Total white blood cell count
-    -   Test Type: WBC
+    -   Common Name: White blood cell other leukocytes, count
+    -   Long Name: White blood cell other leukocytes, count
+    -   Test Type: WBC\_OTH\_C
     -   Panels: Complete blood count
-    -   Equivalent Tests: &#x2013;
+    -   Equivalent Tests:
     -   Not Equivalent Tests: Tests of individual types of WBCs (neutrophils, lymphocytes, monocytes, eosinophils, or basophils).
     -   Indications: To assist in determining the presence of an infection or a disease (e.g., leukemia) that affects the production of white blood cells; to monitor treatment and bone marrow function.
     -   Description: The white blood cell (WBC) count is used to evaluate the number of white blood cells in blood. White blood cells are made in the bone marrow and protect the body against infection as well as aiding in the immune response. If there is an infection, white blood cells will attack and destroy the pathogen causing the infection.
@@ -4979,16 +5090,18 @@ volume (MCV)
     -   Comments: White blood cells are also called leukocytes. Conditions that inhibit WBC proliferation and/or weaken the immune system (e.g., HIV infection, chemotherapy) cause a decrease in the number of WBCs. An elevated number of WBCs is called leukocytosis. A decreased WBC count is called leukopenia. On average, infants have higher WBC counts than do adults. Some drugs and smoking can affect the WBC count.
     -   Test Method Variance: &#x2013;
     -   Other: &#x2013;
+        -   Associated LOINC: 30406-3, 51383-8, 729-4, 15190-2
+        -   Associated CPT:
 
 7.  WBC\_OTH\_P (White blood cell other leukocytes, percent)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
     -   Common Name: WBC count; Leukocyte count; White count
     -   Long Name: Total white blood cell count
     -   Test Type: WBC
     -   Panels: Complete blood count
-    -   Equivalent Tests: &#x2013;
+    -   Equivalent Tests:
     -   Not Equivalent Tests: Tests of individual types of WBCs (neutrophils, lymphocytes, monocytes, eosinophils, or basophils).
     -   Indications: To assist in determining the presence of an infection or a disease (e.g., leukemia) that affects the production of white blood cells; to monitor treatment and bone marrow function.
     -   Description: The white blood cell (WBC) count is used to evaluate the number of white blood cells in blood. White blood cells are made in the bone marrow and protect the body against infection as well as aiding in the immune response. If there is an infection, white blood cells will attack and destroy the pathogen causing the infection.
@@ -4997,6 +5110,8 @@ volume (MCV)
     -   Comments: White blood cells are also called leukocytes. Conditions that inhibit WBC proliferation and/or weaken the immune system (e.g., HIV infection, chemotherapy) cause a decrease in the number of WBCs. An elevated number of WBCs is called leukocytosis. A decreased WBC count is called leukopenia. On average, infants have higher WBC counts than do adults. Some drugs and smoking can affect the WBC count.
     -   Test Method Variance: &#x2013;
     -   Other: &#x2013;
+        -   Associated LOINC: 26471-3, 730-2, 40646-2
+        -   Associated CPT:
 
 
 ## Influenza
@@ -5004,87 +5119,380 @@ volume (MCV)
 
 ### INF\_A\_VTC (Influenza virus A organism-specific culture)
 
-***NEEDS TO BE UPDATED***
+***UNDER REVIEW***
+
+-   Common Name: Influenza virus A organism-specific culture
+-   Long Name: Influenza virus A organism-specific culture
+-   Test Type: INF\_A\_VTC
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications: Primarily indicated for public health surveillance, outbreak investigation, and diagnostic confirmation when other tests are inconclusive.
+-   Description: An Influenza A virus organism-specific culture test isolates the actual virus from a patient's respiratory sample (like a nasopharyngeal swab) by growing it in live cell lines or embryonated eggs, then identifies it using techniques like fluorescent antibody staining or hemadsorption, providing a definitive diagnosis but taking longer (days) than rapid tests, and is considered a gold standard for confirmation.
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations): There is no presence of the Influenza virus in a healthy person.
+-   Comments:
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC: 48310-7
+    -   Associated CPT:
 
 
-### INF\_A\_NS (Influenza virus A method not specified)
+### INF\_A\_NS (Influenza virus A)
 
-***NEEDS TO BE UPDATED***
+***UNDER REVIEW***
+
+-   Common Name: Influenza virus A
+-   Long Name: Influenza virus A method not specified
+-   Test Type: INF\_A\_NS
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications: Laboratory testing for Influenza Virus A is primarily indicated when results will directly influence clinical management, such as the decision to initiate antiviral therapy or implement infection control measures.
+-   Description: A laboratory test for Influenza Virus A is a diagnostic procedure used to detect the presence of the virus in a patient's respiratory system.
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations): There is no presence of the Influenza virus in a healthy person.
+-   Comments: LOINCs indicates this is an antigen test
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC: 31859-2 (NS), 43874-7 (NPH), 44562-7 (BAL), 31858-4 (THRT), 44563-5 (NSWAB)
+    -   Associated CPT:
 
 
 ### INF\_A\_EIA (Influenza virus A immunoassay)
 
+***UNDER REVIEW***
+
+-   Common Name: Influenza virus A immunoassay
+-   Long Name: Influenza virus A immunoassay
+-   Test Type: INF\_A\_EIA
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications: Indications for an influenza virus A immunoassay lab test include:
+    -   Symptomatic Patients: Testing is indicated for individuals presenting with "influenza-like illness," which includes fever (≥100.4°F), cough, sore throat, muscle aches, fatigue, and headaches.
+    -   Influencing Treatment Decisions: The test is indicated if the result will determine whether to initiate antiviral therapy, especially for outpatients who are not at high risk but seek care within 48 hours of symptom onset.
+    -   High-Risk Populations: Testing is strongly recommended for symptomatic patients at higher risk of complications to guide prompt treatment, including:
+        -   Adults ≥65 years and children <2 years.
+        -   Pregnant women or those up to two weeks postpartum.
+        -   Individuals with chronic conditions (e.g., asthma, COPD, heart failure, or diabetes).
+        -   Immunocompromised persons.
+-   Description: An Influenza A immunoassay lab test, often a rapid antigen test (RIDT) or a more sensitive molecular test (like RT-PCR), detects viral proteins (antigens) or genetic material from Influenza A in respiratory samples (swabs, washes) to diagnose infection quickly, differentiating it from Influenza B but not subtypes, offering results in minutes to hours, though RIDTs have lower sensitivity and may miss early infections compared to PCR.
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations):  The index values are:
+    -   Negative	≤ 0.89 IV	No significant level of influenza A antibody detected.
+    -   Equivocal	0.90 – 1.10 IV	Questionable presence; repeat testing in 10–14 days is recommended.
+    -   Positive	≥ 1.11 IV	Antibodies detected, suggesting current, recent, or past infection.
+-   Comments: LOINCs indicates this is an antigen test
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC: 46082-4 (NPH), 5860-2 (THRT), 5862-8 (NS), 44564-3 (NSWAB)
+    -   Associated CPT:
+
+
+### INF\_A\_IF (Influenza virus A immunofluorescence)
+
+***UNDER REVIEW***
+
+-   Common Name: Influenza virus A immunofluorescence
+-   Long Name: Influenza virus A immunofluorescence
+-   Test Type: INF\_A\_IF
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications: Immunofluorescence (IF) lab tests—including Direct (DFA) and Indirect (IFA) fluorescent antibody staining—are antigen detection assays used to identify Influenza virus A and B in respiratory specimens.
+-   Description: An Influenza A immunofluorescence (IF) lab test detects viral antigens in respiratory samples (like nasal swabs) using fluorescently labeled antibodies, allowing rapid identification (1-4 hours) under a microscope, providing quick diagnosis for flu, especially Influenza A, with moderate sensitivity but high specificity, helping differentiate it from other respiratory viruses.
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations): If the virus is detectected then the test is positive.
+-   Comments: LOINCs indicates this is an antigen test
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC: 44558-5 (NPH), 5863-6 (NS), 44559-3 (BAL), 5861-0 (THRT), 44560-1 (NSWAB)
+    -   Associated CPT:
+
+
+### INF\_A\_PCR (Influenza virus A probe and target amplication)
+
+***UNDER REVIEW***
+
+-   Common Name: Influenza virus A probe and target amplication
+-   Long Name: Influenza virus A probe and target amplication
+-   Test Type: INF\_A\_PCR
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications: A lab test is indicated for hospitalized patients, high-risk outpatients, clinical management decisions, surveillance and public health, and preferred timing and method.
+-   Description: Influenza A probe and target amplification in diagnostics involves amplifying the virus's genetic material (RNA) using primers, often isothermally (constant temp), then detecting it with specific probes (like molecular beacons or barcoded oligos) that light up or change signal when they bind to the viral target (e.g., M gene), allowing rapid, sensitive detection and sometimes subtyping.
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations): No reference range presence indicates a positive result.
+-   Comments: LOINC indicates this is H1 2009 pandemic RNA
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC: 55465-9 (NS), 61101-2 (NS), 59423-4 (NS), 55464-2 (NS), 55463-4 (NS), 44263-2 (NS), 40981-3 (NS), 39103-7 (NS), 38381-0 (NS), 39102-9 (NS), 39025-2 (NS), 34487-9 (NS), 53250-7 (NS), 49521-8 (NS),  49524-2 (NS) (updated 12/2014), 92142-9 (NS)
+    -   Associated CPT:
+
+
+### INF\_B\_VTC (Influenza virus B organism-specific culture)
+
+***UNDER REVIEW***
+
+-   Common Name: Influenza virus B organism-specific culture
+-   Long Name: Influenza virus B organism-specific culture
+-   Test Type: INF\_B\_VTC
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications: The organism-specific culture remains clinically indicated in the following high-priority scenarios: outbreak management & surveillance, confirming ambiguous results, monitoring treatment resistance, and severe or atypical illness.
+-   Description: An organism-specific culture lab test for Influenza B involves growing the virus from a patient's respiratory sample (like a swab) in living cells (cell culture), identifying its presence, and then confirming it's Influenza B.  While molecular tests like PCR are now more common for rapid diagnosis, viral culture remains the "gold standard" for confirmed identification and detailed characterization of the virus.
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations):  Not applicable since presence results in a positive diagnosis.
+-   Comments:
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC: 38382-8 (NS)
+    -   Associated CPT:
+
+
+### INF\_B\_NS (Influenza virus B)
+
 ***NEEDS TO BE UPDATED***
+***UNDER REVIEW***
+
+-   Common Name: Influenza virus B
+-   Long Name: Influenza virus B method not specified
+-   Test Type: INF\_B\_NS
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications:
+-   Description:
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations):
+-   Comments: LOINCs indicates this is an antigen test
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC: 31864-2 (NS), 43895-2 (NPH), 44576-7 (BAL), 31863-4 (THRT), 44577-5 (NSWAB)
+    -   Associated CPT:
 
 
-### INF\_A\_IF (Influenza  virus A immunofluorescence)
-
-***NEEDS TO BE UPDATED***
-
-
-### INF\_A\_PCR (Influenza  virus A probe and target amplication)
-
-***NEEDS TO BE UPDATED***
-
-
-### INF\_B\_VTC (Influenza  virus B organism-specific culture)
-
-***NEEDS TO BE UPDATED***
-
-
-### INF\_B\_NS (Influenza  virus B method not specified)
-
-***NEEDS TO BE UPDATED***
-
-
-### INF\_B\_EIA (Influenza  virus B immunoassay)
+### INF\_B\_EIA (Influenza virus B immunoassay)
 
 ***NEEDS TO BE UPDATED***
+***UNDER REVIEW***
+
+-   Common Name: Influenza virus B immunoassay
+-   Long Name: Influenza virus B immunoassay
+-   Test Type: INF\_B\_EIA
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications:
+-   Description:
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations):
+-   Comments: LOINCs indicates this is an antigen test
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC: 46083-2 (NPH), 5864-4 (THRT), 5866-9 (NS), 44575-9 (NSWAB)
+    -   Associated CPT:
 
 
-### INF\_B\_IF (Influenza  virus B immunofluorescence)
-
-***NEEDS TO BE UPDATED***
-
-
-### INF\_B\_PCR (Influenza  virus B probe and target amplication)
-
-***NEEDS TO BE UPDATED***
-
-
-### INF\_AB\_NS (Influenza  virus A+B method not specified)
-
-***NEEDS TO BE UPDATED***
-
-
-### INF\_AB\_EIA (Influenza  virus A+B immunoassay)
-
-***NEEDS TO BE UPDATED***
-
-
-### INF\_AB\_IF (Influenza  virus A+B immunofluorescence)
+### INF\_B\_IF (Influenza virus B immunofluorescence)
 
 ***NEEDS TO BE UPDATED***
+***UNDER REVIEW***
+
+-   Common Name: Influenza virus B immunofluorescence
+-   Long Name: Influenza virus B immunofluorescence
+-   Test Type: INF\_B\_IF
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications:
+-   Description:
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations):
+-   Comments: LOINCs indicates this is an antigen test
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC: 5865-1(THRT), 5867-7 (NS), 44572-6 (BAL), 44573-4 (NSWAB), 44571-8 (NPH)
+    -   Associated CPT:
 
 
-### INF\_AB\_PCR (Influenza  virus A+B probe and target amplication)
+### INF\_B\_PCR (Influenza virus B probe and target amplication)
 
 ***NEEDS TO BE UPDATED***
+***UNDER REVIEW***
+
+-   Common Name: Influenza virus B probe and target amplication
+-   Long Name: Influenza virus B probe and target amplication
+-   Test Type: INF\_B\_PCR
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications:
+-   Description:
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations):
+-   Comments: Viral RNA test
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC: 40982-1 (NS), 53251-5 (NS), 92141-1 (NS)
+    -   Associated CPT:
 
 
-### INF\_NS\_VTC (Influenza  virus not specified organism-specific culture)
+### INF\_AB\_NS (Influenza virus A+B)
 
 ***NEEDS TO BE UPDATED***
+***UNDER REVIEW***
+
+-   Common Name: Influenza virus A+B
+-   Long Name: Influenza virus A+B method not specified
+-   Test Type: INF\_AB\_NS
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications:
+-   Description:
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations):
+-   Comments: Only use INF\_AB\_NS if one of the LOINCs listed here is in the data stream.  LOINCs indicates this is an antigen test
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC: 33535-6 (NPH) 24015-0 (NS), 44566-8 (BAL), 31860-0 (THRT), 31861-8 (THRT), 31862-6 (NS), 44567-6 (NSWAB)
+    -   Associated CPT:
+
+
+### INF\_AB\_EIA (Influenza virus A+B immunoassay)
+
+***NEEDS TO BE UPDATED***
+***UNDER REVIEW***
+
+-   Common Name: Influenza virus A+B immunoassay
+-   Long Name: Influenza virus A+B immunoassay
+-   Test Type: INF\_AB\_EIA
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications:
+-   Description:
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations):
+-   Comments: Only use INF\_AB\_EIA if the LOINC listed here is in the data stream.  LOINC indicates this is an antigen test.
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC: 6437-8 (NS), 6441-0 (NS), 6435-2 (THRT), 6439-4 (THRT)
+    -   Associated CPT:
+
+
+### INF\_AB\_IF (Influenza virus A+B immunofluorescence)
+
+***NEEDS TO BE UPDATED***
+***UNDER REVIEW***
+
+-   Common Name: Influenza virus A+B immunofluorescence
+-   Long Name: Influenza virus A+B immunofluorescence
+-   Test Type: INF\_AB\_IF
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications:
+-   Description:
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations):
+-   Comments: Only use INF\_AB\_IF if the LOINC listed here is in the data stream.  LOINC indicates this is an antigen test.
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC: 6438-6 (NS), 6442-8 (NS), 6440-2 (THRT), 6436-0 (THRT), 61102-0 (NS)
+    -   Associated CPT:
+
+
+### INF\_AB\_PCR (Influenza virus A+B probe and target amplication)
+
+***NEEDS TO BE UPDATED***
+***UNDER REVIEW***
+
+-   Common Name: Influenza virus A+B probe and target amplication
+-   Long Name: Influenza virus A+B probe and target amplication
+-   Test Type: INF\_AB\_PCR
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications:
+-   Description:
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations):
+-   Comments: Only use INF\_AB\_PCR if one of the LOINCs listed here is in the data stream.  62462-7 is Viral RNA test.
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC: 62462-7 (NS) 48509-4 (NS)
+    -   Associated CPT:
+
+
+### INF\_NS\_VTC (Influenza virus not specified organism-specific culture)
+
+***NEEDS TO BE UPDATED***
+***UNDER REVIEW***
+
+-   Common Name: Influenza virus not specified organism-specific culture
+-   Long Name: Influenza virus not specified organism-specific culture
+-   Test Type: INF\_NS\_VTC
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications:
+-   Description:
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations):
+-   Comments:
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC: 6604-3 (NS) 6601-9 (SPUTUM), 6603-5 (THRT), 6602-7 (SPUTUM)
+    -   Associated CPT:
 
 
 ### INF\_NS\_NS (Influenza virus not specified method not specified)
 
 ***NEEDS TO BE UPDATED***
+***UNDER REVIEW***
+
+-   Common Name:
+-   Long Name: Influenza virus not specified method not specified
+-   Test Type: INF\_NS\_NS
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications:
+-   Description:
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations):
+-   Comments:
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC: 54244-9 (NS); 54240-7 (NS)
+    -   Associated CPT:
 
 
 ### INF\_NS\_PCR (Influenza virus not specified probe and target amplification)
 
 ***NEEDS TO BE UPDATED***
+***UNDER REVIEW***
+
+-   Common Name:
+-   Long Name: Influenza virus not specified probe and target amplification
+-   Test Type: INF\_NS\_PCR
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications:
+-   Description:
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations):
+-   Comments:
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC: 54243-1 (NS)
+    -   Associated CPT:
 
 
 ## COVID-19
@@ -5093,78 +5501,353 @@ volume (MCV)
 ### SARS\_COV\_2\_AB\_IGA (SARS-CoV-2 (COVID19) IgA Ab [Presence] in Serum, Plasma or Blood by Immunoassay)
 
 ***NEEDS TO BE UPDATED***
+***UNDER REVIEW***
+
+-   Common Name: SARS-CoV-2 (COVID19) IgA Ab [Presence] in Serum, Plasma or Blood by Immunoassay
+-   Long Name: SARS-CoV-2 (COVID19) IgA Ab [Presence] in Serum, Plasma or Blood by Immunoassay
+-   Test Type: SARS\_COV\_2\_AB\_IGA
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications:
+-   Description:
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations):
+-   Comments:
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC: 94562-6, 94720-0, 94768-9, 95427-1
+    -   Associated CPT:
 
 
 ### SARS\_COV\_2\_AB\_IGG (SARS-CoV-2 (COVID19) IgG Ab [Presence] in Serum, Plasma or Blood by Immunoassay)
 
 ***NEEDS TO BE UPDATED***
+***UNDER REVIEW***
+
+-   Common Name: SARS-CoV-2 (COVID19) IgG Ab [Presence] in Serum, Plasma or Blood by Immunoassay
+-   Long Name: SARS-CoV-2 (COVID19) IgG Ab [Presence] in Serum, Plasma or Blood by Immunoassay
+-   Test Type: SARS\_COV\_2\_AB\_IGG
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications:
+-   Description:
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations):
+-   Comments:
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC: 94505-5, 94507-1, 94563-4, 94761-4, 95429-7,96742-2, 99596-9, 99597-7
+    -   Associated CPT:
 
 
 ### SARS\_COV\_2\_AB\_IGM (SARS-CoV-2 (COVID19) IgM Ab [Presence] in Serum, Plasma or Blood by Immunoassay)
 
 ***NEEDS TO BE UPDATED***
+***UNDER REVIEW***
+
+-   Common Name: SARS-CoV-2 (COVID19) IgM Ab [Presence] in Serum, Plasma or Blood by Immunoassay
+-   Long Name: SARS-CoV-2 (COVID19) IgM Ab [Presence] in Serum, Plasma or Blood by Immunoassay
+-   Test Type: SARS\_COV\_2\_AB\_IGM
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications:
+-   Description:
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations):
+-   Comments:
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC: 94506-3, 94508-9, 94564-2, 95416-4, 95428-9
+    -   Associated CPT:
 
 
 ### SARS\_COV\_2\_AB\_IGMA (SARS-CoV-2 (COVID19) IgA+IgM [Presence] in Serum or Plasma by Immunoassay)
 
 ***NEEDS TO BE UPDATED***
+***UNDER REVIEW***
+
+-   Common Name: SARS-CoV-2 (COVID19) IgA+IgM [Presence] in Serum or Plasma by Immunoassay
+-   Long Name: SARS-CoV-2 (COVID19) IgA+IgM [Presence] in Serum or Plasma by Immunoassay
+-   Test Type: SARS\_COV\_2\_AB\_IGMA
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications:
+-   Description:
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations):
+-   Comments:
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC: 95125-1
+    -   Associated CPT:
 
 
 ### SARS\_COV\_2\_AB\_IGMG (SARS-CoV-2 (COVID19) IgG+IgM Ab [Presence] in Serum or Plasma by Immunoassay)
 
 ***NEEDS TO BE UPDATED***
+***UNDER REVIEW***
+
+-   Common Name: SARS-CoV-2 (COVID19) IgG+IgM Ab [Presence] in Serum or Plasma by Immunoassay
+-   Long Name: SARS-CoV-2 (COVID19) IgG+IgM Ab [Presence] in Serum or Plasma by Immunoassay
+-   Test Type: SARS\_COV\_2\_AB\_IGMG
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications:
+-   Description:
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations):
+-   Comments:
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC: 94503-0, 94547-7, 95542-7
+    -   Associated CPT:
 
 
 ### SARS\_COV\_2\_AB\_NEUT (SARS-CoV-2 (COVID19) neutralizing antibody in Serum or Plasma)
 
 ***NEEDS TO BE UPDATED***
+***UNDER REVIEW***
+
+-   Common Name: SARS-CoV-2 (COVID19) neutralizing antibody in Serum or Plasma
+-   Long Name: SARS-CoV-2 (COVID19) neutralizing antibody in Serum or Plasma
+-   Test Type: SARS\_COV\_2\_AB\_NEUT
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications:
+-   Description:
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations):
+-   Comments: Test\_Type value originally contained NUET. Corrected to NEUT on 10/15/2021.
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC: 95410-7, 95411-5, 96603-6, 98734-7
+    -   Associated CPT:
 
 
 ### SARS\_COV\_2\_AB\_NEUT\_P (Percent neutralization by SARS-CoV-2 spike protein RBD neutralizing antibody-Serum/Plasma)
 
 ***NEEDS TO BE UPDATED***
+***UNDER REVIEW***
+
+-   Common Name: Percent neutralization by SARS-CoV-2 spike protein RBD neutralizing antibody-Serum/Plasma
+-   Long Name: Percent neutralization by SARS-CoV-2 spike protein RBD neutralizing antibody-Serum/Plasma
+-   Test Type: SARS\_COV\_2\_AB\_NEUT\_P
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications:
+-   Description:
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations):
+-   Comments: Test\_Type value originally contained NUET. Corrected to NEUT on 10/15/2021.
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC: 98733-9
+    -   Associated CPT:
 
 
 ### SARS\_COV\_2\_AB\_NEUT\_T (SARS-CoV-2 (COVID-19) S protein RBD neutralizing antibody [Titer] in Serum or Plasma by Immunoassay)
 
 ***NEEDS TO BE UPDATED***
+***UNDER REVIEW***
+
+-   Common Name: SARS-CoV-2 (COVID-19) S protein RBD neutralizing antibody [Titer] in Serum or Plasma by Immunoassay
+-   Long Name: SARS-CoV-2 (COVID-19) S protein RBD neutralizing antibody [Titer] in Serum or Plasma by Immunoassay
+-   Test Type: SARS\_COV\_2\_AB\_NEUT\_T
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications:
+-   Description:
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations):
+-   Comments: Test\_Type value originally contained NUET. Corrected to NEUT on 10/15/2021.
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC: 98732-1
+    -   Associated CPT:
 
 
 ### SARS\_COV\_2\_AB\_TOT (SARS-CoV-2 (COVID19) Ab in Serum, Plasma or Saliva)
 
 ***NEEDS TO BE UPDATED***
+***UNDER REVIEW***
+
+-   Common Name: SARS-CoV-2 (COVID19) Ab in Serum, Plasma or Saliva
+-   Long Name: SARS-CoV-2 (COVID19) Ab in Serum, Plasma or Saliva
+-   Test Type: SARS\_COV\_2\_AB\_TOT
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications:
+-   Description:
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations):
+-   Comments:
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC: 94504-8, 94661-6, 94762-2, 94769-7, 95825-6, 98069-8
+    -   Associated CPT:
 
 
 ### SARS\_COV\_2\_IA (SARS-CoV-2 (COVID19) Ag [Presence] in Respiratory specimen by Rapid immunoassay)
 
 ***NEEDS TO BE UPDATED***
+***UNDER REVIEW***
+
+-   Common Name: SARS-CoV-2 (COVID19) Ag [Presence] in Respiratory specimen by Rapid immunoassay
+-   Long Name: SARS-CoV-2 (COVID19) Ag [Presence] in Respiratory specimen by Rapid immunoassay
+-   Test Type: SARS\_COV\_2\_IA
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications:
+-   Description:
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations):
+-   Comments:
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC: 94558-4, 96119-3, 97097-0
+    -   Associated CPT:
 
 
 ### SARS\_COV\_2\_NS (SARS-CoV-2 (COVID19) unspecified or other specimen or method)
 
 ***NEEDS TO BE UPDATED***
+***UNDER REVIEW***
+
+-   Common Name: SARS-CoV-2 (COVID19)
+-   Long Name: SARS-CoV-2 (COVID19) unspecified or other specimen or method
+-   Test Type: SARS\_COV\_2\_NS
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications:
+-   Description:
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations):
+-   Comments:
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC: 94763-0, 94764-8, 94822-4
+    -   Associated CPT:
 
 
 ### SARS\_COV\_2\_NAAT (SARS-CoV-2 (COVID19) (Nucleic Acid Amp Testing or gene presence in Resp, ser/plas or unspec specimen)
 
 ***NEEDS TO BE UPDATED***
-**\*\*SARS\_COV\_2\_T\_STIM (SARS\_CoV-2 stimulated gamma interferon release by Helper CD4+ T-cells [Units/volume] by Immunoassay)
-\*/NEEDS TO BE UPDATED/**
+***UNDER REVIEW***
+
+-   Common Name: SARS-CoV-2 (COVID19) (Nucleic Acid Amp Testing or gene presence in Resp, ser/plas or unspec specimen
+-   Long Name: SARS-CoV-2 (COVID19) (Nucleic Acid Amp Testing or gene presence in Resp, ser/plas or unspec specimen
+-   Test Type: SARS\_COV\_2\_NAAT
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications:
+-   Description:
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations):
+-   Comments:
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC: 94306-8, 94307-6, 94308-4, 94309-2, 94314-2, 94315-9, 94316-7, 94500-6, 94531-1, 94533-7, 94534-5, 94559-2, 94565-9, 94639-2, 94640-0, 94641-8, 94660-8, 94756-4, 94757-2, 94758-0, 94759-8, 94760-6, 94765-5, 94766-3, 94767-1, 94845-5, 95406-5, 95409-9, 95424-8, 95425-5, 95608-6, 95609-4, 96091-4, 95823-1, 95824-9, 95826-4, 96448-6, 96120-1, 96123-5, 96797-6, 96763-8, 96765-3, 96897-4, 96957-6, 96958-4, 96986-5, 97098-8, 101289-7
+    -   Associated CPT:
+
+
+### SARS\_COV\_2\_T\_STIM (SARS\_CoV-2 stimulated gamma interferon release by Helper CD4+ T-cells [Units/volume] by Immunoassay)
+
+***NEEDS TO BE UPDATED***
+***UNDER REVIEW***
+
+-   Common Name: SARS\_CoV-2 stimulated gamma interferon release by Helper CD4+ T-cells [Units/volume] by Immunoassay
+-   Long Name: SARS\_CoV-2 stimulated gamma interferon release by Helper CD4+ T-cells [Units/volume] by Immunoassay
+-   Test Type: SARS\_COV\_2\_T\_STIM
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications:
+-   Description:
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations):
+-   Comments:
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC: 98846-9, 98847-7, 99772-6, 99773-4, 99774-2
+    -   Associated CPT:
 
 
 ### SARS\_COV\_2\_VAR (SARS-CoV-2 (COVID-19) variant [Type] in Specimen)
 
 ***NEEDS TO BE UPDATED***
+***UNDER REVIEW***
+
+-   Common Name: SARS-CoV-2 (COVID-19) variant [Type] in Specimen
+-   Long Name: SARS-CoV-2 (COVID-19) variant [Type] in Specimen
+-   Test Type: SARS\_COV\_2\_VAR
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications:
+-   Description:
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations):
+-   Comments:
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC: 96741-4, 96756-2, 96755-4, 96757-0, 96751-3, 96752-1, 96894-1, 96895-8, 96896-6, 99314-7
+    -   Associated CPT:
 
 
 ### SARS\_COV\_2\_VL (SARS-CoV-2 (COVID-19) N gene [#/volume] (viral load) in Resp specimen by NAA with probe detection)
 
 ***NEEDS TO BE UPDATED***
+***UNDER REVIEW***
+
+-   Common Name: SARS-CoV-2 (COVID-19) N gene [#/volume] (viral load) in Resp specimen by NAA with probe detection
+-   Long Name: SARS-CoV-2 (COVID-19) N gene [#/volume] (viral load) in Resp specimen by NAA with probe detection
+-   Test Type: SARS\_COV\_2\_VL
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications:
+-   Description:
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations):
+-   Comments:
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC: 95521-1, 97104-4
+    -   Associated CPT:
 
 
-### SARS\_COV\_2\_VL\_LOG (SARS-CoV-2 (COVID19) RNA [Log #/volume] (viral load) Unspecified specimen by NAA - probe detection)
+### SARS\_COV\_2\_VL\_LOG (SARS-CoV-2 (COVID19) RNA [Log #/volume] (viral load))
 
 ***NEEDS TO BE UPDATED***
+***UNDER REVIEW***
+
+-   Common Name: SARS-CoV-2 (COVID19) RNA [Log #/volume] (viral load)
+-   Long Name: SARS-CoV-2 (COVID19) RNA [Log #/volume] (viral load) Unspecified specimen by NAA - probe detection
+-   Test Type: SARS\_COV\_2\_VL\_LOG
+-   Panels:
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications:
+-   Description:
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations):
+-   Comments:
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC: 94819-0, 95522-9
+    -   Associated CPT:
 
 
 ## Opioid Urine Toxicity
@@ -5185,14 +5868,10 @@ volume (MCV)
     -   Not Equivalent Tests:
     -   Indications:
     -   Description: In forensic and clinical settings, a urine drug test for codeine is performed in two steps: an initial immunoassay (IA) screening, followed by a highly sensitive and specific confirmation method, typically mass spectrometry. This two-tiered approach ensures accuracy and helps rule out false positives.  The immunoassay uses antibodies that bind to a specific drug or its metabolites, triggering a color change or other signal if the drug is present above a set cutoff level.
-    
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
-    -   Comments:
-    
-    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
-    
-    -   - Test Method Variance:
+    -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
+    -   Test Method Variance:
     -   Other:
         -   Associated LOINC: 13641-6 (Codeine),16197-6 (Codeine),16211-5 (Dihydrocodeine),16250-3 (Codeine),19448-0 (Dihydrocodeine),19449-8 (Dihydrocodeine),3508-9 (Codeine),49829-5 (Norcodeine),51448-9 (Dihydrocodeine+Hydrocodol),51739-1 (Codeine.free),60514-7 (6\_Acetylcodeine),70206-8 (Codeine)
         -   Associated CPT:
@@ -5204,19 +5883,15 @@ volume (MCV)
     
     -   Common Name: Codeine in Urine by Screen method
     -   Long Name: Codeine in Urine by Confirmatory method
-    -   Test Type:
+    -   Test Type: U\_CODEINE\_SCR
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
     -   Indications:
     -   Description:
-    
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
-    -   Comments:
-    
-    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
-    
+    -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
         -   Associated LOINC: 14066-5 (Dihydrocodeine),19411-8 (Codeine),19446-4 (Dihydrocodeine),3507-1 (Codeine),89310-7 (Codeine\_6\_glucuronide)
@@ -5235,13 +5910,9 @@ volume (MCV)
     -   Not Equivalent Tests:
     -   Indications:
     -   Description:
-    
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
-    -   Comments:
-    
-    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
-    
+    -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
         -   Associated LOINC: 10975-1 (6\_Monoacetylmorphine),13648-1 (Morphine),14845-2 (6\_Monoacetylmorphine),16196-8 (Morphine),16198-4 (Diamorphine),16251-1 (Morphine),16755-1 (Diamorphine),19322-7 (6\_Monoacetylmorphine),19463-9 (Ethylmorphine),19592-5 (6\_Monoacetylmorphine),19593-3 (6\_Monoacetylmorphine),19594-1 (6\_Monoacetylmorphine),20514-6 (6\_Monoacetylmorphine),20527-8 (Ethylmorphine),21050-0 (6\_Monoacetylmorphine),27073-6 (6\_Monoacetylmorphine),3547-7 (Diamorphine),3619-4 (Ethylmorphine),3830-7 (Morphine),3831-5 (Morphine),3851-3 (Nicomorphine),49831-1 (Normorphine),55520-1 (6\_Monoacetylmorphine),70197-9 (6\_Monoacetylmorphine),70210-0 (Morphine),74817-8 (Desomorphine)
@@ -5260,16 +5931,12 @@ volume (MCV)
     -   Not Equivalent Tests:
     -   Indications:
     -   Description:
-    
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
-    -   Comments:
-    
-    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
-    
+    -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
-        -   Associated LOINC:
+        -   Associated LOINC: 10976-9 (6\_Monoacetylmorphine),16851-8 (Ethylmorphine),19321-9 (6\_Monoacetylmorphine),19439-9 (Diamorphine),19462-1 (Ethylmorphine),19591-7 (6\_Monoacetylmorphine),19597-4 (Morphine),3546-9 (Diamorphine),3618-6 (Ethylmorphine),74818-6 (Desomorphine),89308-1 (Morphine\_6\_glucuronide)
         -   Associated CPT:
 
 5.  U\_OPIATE\_CNF (Opiate in Urine by Confirmation)
@@ -5277,24 +5944,20 @@ volume (MCV)
     ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
-    -   Common Name: Codeine in Urine by Confirmatory method
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Opiates in Urine by Confirmatory method
+    -   Long Name: Opiates in Urine by Confirmatory method
+    -   Test Type: U\_OPIATE\_CNF
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
     -   Indications:
     -   Description:
-    
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
-    -   Comments:
-    
-    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
-    
+    -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
-        -   Associated LOINC:
+        -   Associated LOINC: 17384-9 (Opiates),18390-5 (Opiates),19298-9 (Opiates positive),52952-9 (Opiates),8220-6 (Opiates),8221-4 (Opiates)
         -   Associated CPT:
 
 6.  U\_OPIATE\_SCR (Opiate in Urine by Screen)
@@ -5302,24 +5965,20 @@ volume (MCV)
     ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
-    -   Common Name: Codeine in Urine by Screen method
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Opiates in Urine by  Screen method
+    -   Long Name: Opiates in Urine by  Screen method
+    -   Test Type: U\_OPIATE\_SCR
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
     -   Indications:
     -   Description:
-    
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
-    -   Comments:
-    
-    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
-    
+    -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
-        -   Associated LOINC:
+        -   Associated LOINC: 19295-5 (Opiates),19296-3 (Opiates tested for),19297-1 (Opiates tested for),21431-2 (Opiates),3879-4 (Opiates),5706-7 (Opiates),5707-5 (Opiates),70150-8 (Opiates),70151-6 (Opiates),8222-2 (Opiates)
         -   Associated CPT:
 
 
@@ -5330,407 +5989,409 @@ volume (MCV)
     ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
-    -   - Common Name: Codeine in Urine by Confirmatory method
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Hydrocodone in Urine by Confirmatory method
+    -   Long Name: Hydrocodone in Urine by Confirmatory method
+    -   Test Type: U\_HYDROCODONE\_CNF
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
     -   Indications:
     -   Description:
-    
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
-    -   Comments:
-    
-    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
-    
+    -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
+        -   Associated LOINC: 16252-9 (HYDROcodone),19483-7 (HYDROcodone),3681-4 (HYDROcodone),61421-4 (Norhydrocodone),61422-2 (Norhydrocodone),74760-0 (HYDROcodone & metabolites panel)
+        -   Associated CPT:
 
 2.  U\_HYDROCODONE\_SCR (Hydrocodone in Urine by Screen)
 
     ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
-    -   - Common Name: Codeine in Urine by Screen method
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Hydrocodone in Urine by  Screen method
+    -   Long Name: Hydrocodone in Urine by  Screen method
+    -   Test Type: U\_HYDROCODONE\_SCR
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
     -   Indications:
     -   Description:
-    
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
-    -   Comments:
-    
-    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
-    
+    -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
+        -   Associated LOINC: 12308-3 (HYDROcodone),19482-9 (HYDROcodone),89304-0 (Norhydrocodone)
+        -   Associated CPT:
 
 3.  U\_HYDROMORPHONE\_CNF (Hydromorphone in Urine by Confirmation)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
-    -   Common Name: Codeine in Urine by Confirmatory method
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Hydromorphone in Urine by Confirmatory method
+    -   Long Name: Hydromorphone in Urine by Confirmatory method
+    -   Test Type: U\_HYDROMORPHONE\_CNF
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
     -   Indications:
     -   Description:
-    
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
-    -   Comments:
-    
-    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
-    
+    -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
+        -   Associated LOINC: 16998-7 (HYDROmorphone),18473-9 (HYDROmorphone),9835-0 (HYDROmorphone)
+        -   Associated CPT:
 
 4.  U\_HYDROMORPHONE\_SCR (Hydromorphone in Urine by Screen)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
-    -   Common Name: Codeine in Urine by Screen method
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Hydromorphone in Urine by  Screen method
+    -   Long Name: Hydromorphone in Urine by  Screen method
+    -   Test Type: U\_HYDROMORPHONE\_SCR
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
     -   Indications:
     -   Description:
-    
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
-    -   Comments:
-    
-    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
-    
+    -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
+        -   Associated LOINC: 19486-0 (HYDROmorphone),89309-9 (HYDROmorphone\_3\_glucuronide),9834-3 (HYDROmorphone)
+        -   Associated CPT:
 
 5.  U\_OXYCODONE\_CNF (Oxycodone in Urine by Confirmation)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
-    -   Common Name: Codeine in Urine by Confirmatory method
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Oxycodone in Urine by Confirmation
+    -   Long Name: Oxycodone in Urine by Confirmatory method
+    -   Test Type: U\_OXYCODONE\_CNF
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
     -   Indications:
     -   Description:
-    
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
-    -   Comments:
-    
-    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
-    
+    -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
+        -   Associated LOINC: 11246-6 (oxyCODONE),16249-5 (oxyCODONE),19643-6 (oxyCODONE),61197-0 (oxyCODONE+Oxymorphone),61424-8 (Noroxycodone),61425-5 (Noroxycodone),70215-9 (oxyCODONE),89303-2 (Noroxycodone)
+        -   Associated CPT:
 
 6.  U\_OXYCODONE\_SCR (Oxycodone in Urine by Screen)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
-    -   Common Name: Codeine in Urine by Screen method
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Oxycodone in Urine by Screen
+    -   Long Name: Oxycodone in Urine by Screen method
+    -   Test Type: U\_OXYCODONE\_SCR
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
     -   Indications:
     -   Description:
-    
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
-    -   Comments:
-    
-    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
-    
+    -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
+        -   Associated LOINC: 10998-3 (oxyCODONE),19642-8 (oxyCODONE),58430-0 (oxyCODONE+Oxymorphone)
+        -   Associated CPT:
 
 7.  U\_OXYMORPHONE\_CNF (Oxymorphone in Urine by Confirmation)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
-    -   Common Name: Codeine in Urine by Confirmatory method
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Oxymorphone in Urine by Confirmation
+    -   Long Name: Oxymorphone in Urine by Confirmatory method
+    -   Test Type: U\_OXYMORPHONE\_CNF
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
     -   Indications:
     -   Description:
-    
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
-    -   Comments:
-    
-    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
-    
+    -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
+        -   Associated LOINC: 17395-5 (oxyMORphone),18325-1 (oxyMORphone),19648-5 (oxyMORphone),89302-4 (Noroxymorphone),90894-7 (Noroxymorphone)
+        -   Associated CPT:
 
 8.  U\_OXYMORPHONE\_SCR (Oxymorphone in Urine by Screen)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
-    -   Common Name: Codeine in Urine by Screen method
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Oxymorphone in Urine by Screen
+    -   Long Name: Oxymorphone in Urine by  Screen method
+    -   Test Type: U\_OXYMORPHONE\_SCR
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
     -   Indications:
     -   Description:
-    
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
-    -   Comments:
-    
-    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
-    
+    -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
+        -   Associated LOINC: 11247-4 (oxyMORphone),19646-9 (oxyMORphone),89301-6 (oxyMORphone\_3\_glucuronide)
+        -   Associated CPT:
 
 
 ### Synthetic opioids
 
 1.  U\_DIPIPANONE\_CNF (Dipipanone in Urine by Confirmation)
 
-    -   Common Name: Dipipanone in Urine by Confirmatory method
-    -   Long Name:
-    -   Test Type:
+    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Dipipanone in Urine by Confirmation
+    -   Long Name: Dipipanone in Urine by Confirmatory method
+    -   Test Type: U\_DIPIPANONE\_CNF
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
     -   Indications:
     -   Description:
-    
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
-    
     -   Test Method Variance:
     -   Other:
+        -   Associated LOINC: 3574-1 (Dipipanone)
+        -   Associated CPT:
 
 2.  U\_DIPIPANONE\_SCR (Dipipanone in Urine by Screen)
 
-    -   Common Name: Dipipanone in Urine by Screen method
-    -   Long Name:
-    -   Test Type:
+    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Dipipanone in Urine by Screen
+    -   Long Name: Dipipanone in Urine by  Screen method
+    -   Test Type: U\_DIPIPANONE\_SCR
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
     -   Indications:
     -   Description:
-    
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
-    -   Comments:
-    
-    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
-    
+    -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
+        -   Associated LOINC: 3573-3 (Dipipanone)
+        -   Associated CPT:
 
 3.  U\_FENTANYL\_CNF (Fentanyl in Urine by Confirmation)
 
-    -   Common Name: Fentanyl in Urine by Confirmatory method
-    -   Long Name:
-    -   Test Type:
+    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Fentanyl in Urine by Confirmation
+    -   Long Name: Fentanyl in Urine by Confirmatory method
+    -   Test Type: U\_FENTANYL\_CNF
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
     -   Indications:
     -   Description:
-    
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
-    
     -   Test Method Variance:
     -   Other:
+        -   Associated LOINC: 11073-4 (Despropionylfentanyl),11075-9 (Norfentanyl),3637-6 (fentaNYL),40839-3 (fentaNYL),43200-5 (Norfentanyl),58381-5 (fentaNYL),58383-1 (Norfentanyl),66129-8 (Fentanyl+Norfentanyl),67822-7 (Fentanyl & Norfentanyl panel),74372-4 (Acetyl fentaNYL),74810-3 (Acetyl fentaNYL)
+        -   Associated CPT:
 
 4.  U\_FENTANYL\_SCR (Fentanyl in Urine by Screen)
 
-    -   Common Name: Fentanyl in Urine by Screen method
-    -   Long Name:
-    -   Test Type:
+    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Fentanyl in Urine by Screen
+    -   Long Name: Fentanyl in Urine by  Screen method
+    -   Test Type: U\_FENTANYL\_SCR
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
     -   Indications:
     -   Description:
-    
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
-    
     -   Test Method Variance:
     -   Other:
+        -   Associated LOINC: 11235-9 (fentaNYL), 43199-9 (Norfentanyl), 58379-9 (Fentanyl+Norfentanyl), 59673-4 (fentaNYL)
+        -   Associated CPT:
 
 5.  U\_LEVORPHANOL\_CNF (Levorphanol in Urine by Confirmation)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
-    -   Common Name: Codeine in Urine by Confirmatory method
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Levorphanol in Urine by Confirmation
+    -   Long Name: Levorphanol in Urine by Confirmatory method
+    -   Test Type: U\_LEVORPHANOL\_CNF
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
     -   Indications:
     -   Description:
-    
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
-    -   Comments:
-    
-    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
-    
+    -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
+        -   Associated LOINC: 16213-1 (Levorphanol), 20540-1 (Levorphanol), 3712-7 (Levorphanol)
+        -   Associated CPT:
 
 6.  U\_LEVORPHANOL\_SCR (Levorphanol in Urine by Screen)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
-    -   Common Name: Codeine in Urine by Screen method
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Levorphanol in Urine by Screen
+    -   Long Name: Levorphanol in Urine by  Screen method
+    -   Test Type: U\_LEVORPHANOL\_SCR
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
     -   Indications:
     -   Description:
-    
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
-    
     -   Test Method Variance:
     -   Other:
+        -   Associated LOINC: 19516-4 (Levorphanol),27076-9 (Dextromethorphan+Levorphanol),3711-9 (Levorphanol)
+        -   Associated CPT:
 
 7.  U\_MEPERIDINE\_CNF (Meperidine in Urine by Confirmation)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
-    -   Common Name: Codeine in Urine by Confirmatory method
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Meperidine in Urine by Confirmation
+    -   Long Name: Meperidine in Urine by Confirmatory method
+    -   Test Type: U\_MEPERIDINE\_CNF
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
     -   Indications:
     -   Description:
-    
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
-    
     -   Test Method Variance:
     -   Other:
+        -   Associated LOINC: 16207-3 (Meperidine),16253-7 (Meperidine),3747-3 (Meperidine),3869-5 (Normeperidine),4076-6 (Trimeperidine),58389-8 (Normeperidine),72384-1 (Meperidine+Normeperidine)
+        -   Associated CPT:
 
 8.  U\_MEPERIDINE\_SCR (Meperidine in Urine by Screen)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
-    -   Common Name: Codeine in Urine by Screen method
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Meperidine in Urine by Screen
+    -   Long Name: Meperidine in Urine by  Screen method
+    -   Test Type: U\_MEPERIDINE\_SCR
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
     -   Indications:
     -   Description:
-    
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
-    -   Comments:
-    
-    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
-    
+    -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
+        -   Associated LOINC: 19532-1 (Meperidine),27920-8 (Normeperidine),3746-5 (Meperidine),4075-8 (Trimeperidine),58385-6 (Meperidine+Normeperidine),58388-0 (Normeperidine),58953-1 (Meperidine & Normeperidine panel)
+        -   Associated CPT:
 
 9.  U\_METHADONE\_CNF (Methadone in Urine by Confirmation)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
-    -   Common Name: Codeine in Urine by Confirmatory method
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Methadone in Urine by Confirmation
+    -   Long Name: Methadone in Urine by Confirmatory method
+    -   Test Type: U\_METHADONE\_CNF
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
     -   Indications:
     -   Description:
-    
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
-    
     -   Test Method Variance:
     -   Other:
+        -   Associated LOINC: 16199-2 (Methadone),16246-1 (Methadone),33527-3 (Methadone.long acting metabolite),3774-7 (Methadone)
+        -   Associated CPT:
 
 10. U\_METHADONE\_SCR (Methadone in Urine by Screen)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
-    -   Common Name: Codeine in Urine by Screen method
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Methadone in Urine by Screen
+    -   Long Name: Methadone in Urine by Screen method
+    -   Test Type: U\_METHADONE\_SCR
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
     -   Indications:
     -   Description:
-    
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
-    -   Comments:
-    
-    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
-    
+    -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
+        -   Associated LOINC: 19550-3 (Methadone),3773-9 (Methadone),42251-9 (Methadone+Metabolite),52958-6 (Methadone),70147-4 (Methadone),70148-2 (Methadone),70149-0 (Methadone)
+        -   Associated CPT:
 
 11. U\_NALTREXOL\_CNF (Naltrexol in Urine by Confirmation)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
-    -   Common Name: Codeine in Urine by Confirmatory method
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Naltrexol in Urine by Confirmation
+    -   Long Name: Naltrexol in Urine by Confirmatory method
+    -   Test Type: U\_NALTREXOL\_CNF
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
     -   Indications:
     -   Description:
-    
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
-    
     -   Test Method Variance:
     -   Other:
+        -   Associated LOINC: 79377-8 (Naltrexol),82524-0 (6\_Beta naltrexol)
+        -   Associated CPT:
 
 12. U\_NALTREXOL\_SCR (Naltrexol in Urine by Screen)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
-    -   Common Name: Codeine in Urine by Screen method
+    -   Common Name: Naltrexol in Urine by Screen
     -   Long Name:
     -   Test Type:
     -   Panels:
@@ -5738,439 +6399,457 @@ volume (MCV)
     -   Not Equivalent Tests:
     -   Indications:
     -   Description:
-    
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
-    -   Comments:
-    
-    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
-    
+    -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
+        -   Associated LOINC:
+        -   Associated CPT:
 
 13. U\_PENTAZOCINE\_CNF (Pentazocine in Urine by Confirmation)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
-    -   Common Name: Codeine in Urine by Confirmatory method
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Pentazocine in Urine by Confirmation
+    -   Long Name: Pentazocine in Urine by Confirmatory method
+    -   Test Type: U\_PENTAZOCINE\_CNF
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
     -   Indications:
     -   Description:
-    
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
-    -   Comments:
-    
-    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
-    
+    -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
+        -   Associated LOINC: 16219-8 (Pentazocine),3918-0 (Pentazocine)
+        -   Associated CPT:
 
 14. U\_PENTAZOCINE\_SCR (Pentazocine in Urine by Screen)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
-    -   Common Name: Codeine in Urine by Screen method
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Pentazocine in Urine by Screen
+    -   Long Name: Pentazocine in Urine by  Screen method
+    -   Test Type: U\_PENTAZOCINE\_SCR
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
     -   Indications:
     -   Description:
-    
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
-    
     -   Test Method Variance:
     -   Other:
+        -   Associated LOINC: 3917-2 (Pentazocine),59951-4 (Pentazocine)
+        -   Associated CPT:
 
 15. U\_PROPOXYPHENE\_CNF (Propoxyphene in Urine by Confirmation)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
-    -   Common Name: Codeine in Urine by Confirmatory method
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Propoxyphene in Urine by Confirmation
+    -   Long Name: Propoxyphene in Urine by Confirmatory method
+    -   Test Type: U\_PROPOXYPHENE\_CNF
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
     -   Indications:
     -   Description:
-    
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
-    
     -   Test Method Variance:
     -   Other:
+        -   Associated LOINC: 16200-8 (Propoxyphene),16242-0 (Propoxyphene),17376-5 (Norpropoxyphene),17377-3 (Norpropoxyphene),19434-0 (Propoxyphene+Norpropoxyphene),19435-7 (Propoxyphene+Norpropoxyphene),19436-5 (Propoxyphene+Norpropoxyphene),19635-2 (Norpropoxyphene),22065-7 (Propoxyphene),3545-1 (Propoxyphene),59960-5 (Propoxyphene)
+        -   Associated CPT:
 
 16. U\_PROPOXYPHENE\_SCR (Propoxyphene in Urine by Screen)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
-    -   Common Name: Codeine in Urine by Screen method
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Propoxyphene in Urine by Screen
+    -   Long Name: Propoxyphene in Urine by  Screen method
+    -   Test Type: U\_PROPOXYPHENE\_SCR
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
     -   Indications:
     -   Description:
-    
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
-    
     -   Test Method Variance:
     -   Other:
+        -   Associated LOINC: 16749-4 (Propoxyphene+Norpropoxyphene),19141-1 (Propoxyphene),19429-0 (Propoxyphene),19433-2 (Propoxyphene+Norpropoxyphene),19632-9 (Norpropoxyphene),3544-4 (Propoxyphene),3871-1 (Norpropoxyphene),53781-1 (Acetaminophen & Propoxyphene panel)
+        -   Associated CPT:
 
 17. U\_SUFENTANIL\_CNF (Sufentanil in Urine by Confirmation)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
-    -   Common Name: Codeine in Urine by Confirmatory method
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Sufentanil in Urine by Confirmation
+    -   Long Name: Sufentanil in Urine by Confirmatory method
+    -   Test Type: U\_SUFENTANIL\_CNF
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
     -   Indications:
     -   Description:
-    
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
-    
     -   Test Method Variance:
     -   Other:
+        -   Associated LOINC: 9396-3 (SUFentanil)
+        -   Associated CPT:
 
 18. U\_SUFENTANIL\_SCR (Sufentanil in Urine by Screen)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
-    -   Common Name: Codeine in Urine by Screen method
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Sufentanil in Urine by Screen
+    -   Long Name: Sufentanil in Urine by  Screen method
+    -   Test Type: U\_SUFENTANIL\_SCR
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
     -   Indications:
     -   Description:
-    
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
-    
     -   Test Method Variance:
     -   Other:
+        -   Associated LOINC: 18435-8 (SUFentanil)
+        -   Associated CPT:
 
 19. U\_TAPENTADOL\_CNF (Tarpentadol in Urine by Confirmation)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
-    -   Common Name: Codeine in Urine by Confirmatory method
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Tarpentadol in Urine by Confirmation
+    -   Long Name: Tapentadol in Urine by Confirmatory method
+    -   Test Type: U\_TAPENTADOL\_CNF
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
     -   Indications:
     -   Description:
-    
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
-    -   Comments:
-    
-    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
-    
+    -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
+        -   Associated LOINC: 58401-1 (Tapentadol),58402-9 (Tapentadol),65807-0 (Tapentadol),65808-8 (Nortapentadol),81754-4 (Nortapentadol)
+        -   Associated CPT:
 
 20. U\_TAPENTADOL\_SCR (Tarpentadol in Urine by Screen)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
-    -   Common Name: Codeine in Urine by Screen method
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Tarpentadol in Urine by Screen
+    -   Long Name: Tapentadol in Urine by  Screen method
+    -   Test Type:  U\_TAPENTADOL\_SCR
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
     -   Indications:
     -   Description:
-    
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
-    -   Comments:
-    
-    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
-    
+    -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
+        -   Associated LOINC: 72485-6 (Tapentadol),75362-4 (Tapentadol glucuronide),89300-8 (Tapentadol glucuronide),89306-5 (Nortapentadol)
+        -   Associated CPT:
 
 21. U\_TRAMADOL\_CNF (Tramadol in Urine by Confirmation)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
-    -   Common Name: Codeine in Urine by Confirmatory method
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Tramadol in Urine by Confirmation
+    -   Long Name: Tramadol in Urine by Confirmatory method
+    -   Test Type: U\_TRAMADOL\_CNF
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
     -   Indications:
     -   Description:
-    
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
-    
     -   Test Method Variance:
     -   Other:
+        -   Associated LOINC: 17718-8 (traMADol),17719-6 (traMADol),18338-4 (Nortramadol),20561-7 (traMADol)
+        -   Associated CPT:
 
 22. U\_TRAMADOL\_SCR (Tramadol in Urine by Screen)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
-    -   Common Name: Codeine in Urine by Screen method
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Tramadol in Urine by Screen
+    -   Long Name: Tramadol in Urine by Screen method
+    -   Test Type: U\_TRAMADOL\_SCR
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
     -   Indications:
     -   Description:
-    
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
-    -   Comments:
-    
-    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
-    
+    -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
+        -   Associated LOINC: 19710-3 (traMADol),43219-5 (traMADol),86453-8 (O-nortramadol),86454-6 (N-nortramadol)
+        -   Associated CPT:
 
 23. U\_NARCOTIC\_SCR (Narcotics and opioids in Urine by Screen)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
-    -   Common Name: Codeine in Urine by Screen method
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Narcotics and opioids in Urine by Screen
+    -   Long Name: Narcotics and opioids in Urine by Screen method
+    -   Test Type: U\_NARCOTIC\_SCR
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
     -   Indications:
     -   Description:
-    
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
-    
     -   Test Method Variance:
     -   Other:
+        -   Associated LOINC: 12554-2 (Narcotics)
+        -   Associated CPT:
 
 
 ### Loosely referred to as opioids
 
 1.  U\_BUPRENORPHINE\_CNF (Buprenorphine in Urine by Confirmation)
 
-    -   Common Name: Buprenorphine in Urine by Confirmatory method
-    -   Long Name:
-    -   Test Type:
+    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Buprenorphine in Urine by Confirmation
+    -   Long Name: Buprenorphine in Urine by Confirmatory method
+    -   Test Type: U\_BUPRENORPHINE\_CNF
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
     -   Indications:
     -   Description:
-    
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
+        -   Associated LOINC: 16208-1 (Buprenorphine),16496-2 (Buprenorphine),3415-7 (Buprenorphine),49751-1 (Norbuprenorphine),49752-9 (Buprenorphine),49753-7 (Norbuprenorphine),58362-5 (Norbuprenorphine),69033-9 (Buprenorphine & Norbuprenorphine panel)
+        -   Associated CPT:
 
 2.  U\_BUPRENORPHINE\_SCR (Buprenorphine in Urine by Screen)
 
-    -   Common Name: Buprenorphine in Urine by Screen method
-    -   Long Name:
-    -   Test Type:
+    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Buprenorphine in Urine by Screen
+    -   Long Name: Buprenorphine in Urine by Screen method
+    -   Test Type: U\_BUPRENORPHINE\_SCR
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
     -   Indications:
     -   Description:
-    
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
-    
     -   Test Method Variance:
     -   Other:
+        -   Associated LOINC: 3414-0 (Buprenorphine),38373-7 (Buprenorphine+Norbuprenorphine),58359-1 (Buprenorphine+Norbuprenorphine),82371-6 (Norbuprenorphine),89305-7 (Norbuprenorphine\_3\_glucuronide),91027-3 (Buprenorphine\_3\_glucuronide)
+        -   Associated CPT:
 
 3.  U\_BUTORPHANOL\_CNF (Butorphanol in Urine by Confirmation)
 
-    -   Common Name: Butorphanol in Urine by Confirmatory method
-    -   Long Name:
-    -   Test Type:
+    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Butorphanol in Urine by Confirmation
+    -   Long Name: Butorphanol in Urine by Confirmatory method
+    -   Test Type: U\_BUTORPHANOL\_CNF
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
     -   Indications:
     -   Description:
-    
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
-    
     -   Test Method Variance:
     -   Other:
+        -   Associated LOINC: 12395-0 (Butorphanol),16499-6 (Butorphanol),19378-9 (Butorphanol)
+        -   Associated CPT:
 
 4.  U\_BUTORPHANOL\_SCR (Butorphanol in Urine by Screen)
 
-    -   Common Name: Butorphanol in Urine by Screen method
-    -   Long Name:
-    -   Test Type:
+    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Butorphanol in Urine by Screen
+    -   Long Name: Butorphanol in Urine by Screen method
+    -   Test Type: U\_BUTORPHANOL\_SCR
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
     -   Indications:
     -   Description:
-    
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
-    
     -   Test Method Variance:
     -   Other:
+        -   Associated LOINC: 12333-1 (Butorphanol),19377-1 (Butorphanol)
+        -   Associated CPT:
 
 5.  U\_NALBUPHINE\_CNF (Nalbuphine in Urine by Confirmation)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
-    -   Common Name: Codeine in Urine by Confirmatory method
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Nalbuphine in Urine by Confirmation
+    -   Long Name: Nalbuphine in Urine by Confirmatory method
+    -   Test Type: U\_NALBUPHINE\_CNF
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
     -   Indications:
     -   Description:
-    
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
-    
     -   Test Method Variance:
     -   Other:
+        -   Associated LOINC: 16218-0 (Nalbuphine),20551-8 (Nalbuphine),3840-6 (Nalbuphine)
+        -   Associated CPT:
 
 6.  U\_NALBUPHINE\_SCR (Nalbuphine in Urine by Screen)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
-    -   Common Name: Codeine in Urine by Screen method
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Nalbuphine in Urine by Screen
+    -   Long Name: Nalbuphine  in Urine by  Screen method
+    -   Test Type: U\_NALBUPHINE\_SCR
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
     -   Indications:
     -   Description:
-    
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
-    
     -   Test Method Variance:
     -   Other:
+        -   Associated LOINC: 19605-5 (Nalbuphine),3839-8 (Nalbuphine)
+        -   Associated CPT:
 
 7.  U\_NALOXONE\_CNF (Naloxone in Urine by Confirmation)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
-    -   Common Name: Codeine in Urine by Confirmatory method
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Naloxone in Urine by Confirmation
+    -   Long Name: Naloxone in Urine by Confirmatory method
+    -   Test Type: U\_NALOXONE\_CNF
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
     -   Indications:
     -   Description:
-    
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
-    
     -   Test Method Variance:
     -   Other:
+        -   Associated LOINC: 77207-9 (Naloxone)
+        -   Associated CPT:
 
 8.  U\_NALOXONE\_SCR (Naloxone in Urine by Screen)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
-    -   Common Name: Codeine in Urine by Screen method
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Naloxone in Urine by Screen
+    -   Long Name: Naloxone in Urine by  Screen method
+    -   Test Type: U\_NALOXONE\_SCR
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
     -   Indications:
     -   Description:
-    
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
-    -   Comments:
-    
-    For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
-    
+    -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
+        -   Associated LOINC: 42618-9 (Naloxone),89307-3 (Naloxone\_3\_glucuronide)
+        -   Associated CPT:
 
 9.  U\_NALTREXONE\_CNF (Naltrexone in Urine by Confirmation)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
-    -   Common Name: Codeine in Urine by Confirmatory method
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Naltrexone in Urine by Confirmation
+    -   Long Name: Naltrexone in Urine by Confirmatory method
+    -   Test Type: U\_NALTREXONE\_CNF
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
     -   Indications:
     -   Description:
-    
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
-    
     -   Test Method Variance:
     -   Other:
+        -   Associated LOINC: 18334-3 (Naltrexone),19610-5 (Naltrexone),19611-3 (Naltrexone),72787-5 (6\_Beta naltrexone)
+        -   Associated CPT:
 
 10. U\_NALTREXONE\_SCR (Naltrexone in Urine by Screen)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
     
-    -   Common Name: Codeine in Urine by Screen method
-    -   Long Name:
-    -   Test Type:
+    -   Common Name: Naltrexone in Urine by Screen
+    -   Long Name: Naltrexone in Urine by  Screen method
+    -   Test Type: U\_NALTREXONE\_SCR
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
     -   Indications:
     -   Description:
-    
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
-    
     -   Test Method Variance:
     -   Other:
+        -   Associated LOINC: 12309-1 (Naltrexone),19609-7 (Naltrexone)
+        -   Associated CPT:
 
 
 ## Glucose Tolerance Tests (GTT)
@@ -6186,25 +6865,93 @@ Test Types and Long Names: See Table 1.
 Table 1. Glucose Tolerance Test TEST\_TYPE and Long Name
 TEST\_TYPE LONGNAME
 
-1.  GTT\_0\_5 (Glucose Tolerance 1/2 hour post XXX challenge (glucose dose not specified)
+1.  GTT\_0\_5 (Glucose Tolerance 1/2 hour post XXX challenge)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Glucose Tolerance 1/2 hour post XXX challenge
+    -   Long Name: Glucose Tolerance 1/2 hour post XXX challenge (glucose dose not specified)
+    -   Test Type: GTT\_0\_5
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 14763-7, 20439-6, 25671-9, 40263-6
+        -   Associated CPT:
 
-2.  GTT\_1 (Glucose Tolerance 1 hour post XXX challenge (glucose dose not specified)
+2.  GTT\_1 (Glucose Tolerance 1 hour post XXX challenge)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Glucose Tolerance 1 hour post XXX challenge
+    -   Long Name: Glucose Tolerance 1 hour post XXX challenge (glucose dose not specified)
+    -   Test Type: GTT\_1
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 12646-6, 14756-1, 20438-8,  25665-1
+        -   Associated CPT: 82947, 82950, 82951
 
 3.  (GTT\_1\_5 Deprecated) (Glucose Tolerance 1 1/2 hour post XXX challenge (glucose dose not specified)
 
     ***NEEDS TO BE UPDATED***
 
-4.  GTT\_2 (Glucose Tolerance 2 hour post XXX challenge (glucose dose not specified)
+4.  GTT\_2 (Glucose Tolerance 2 hour post XXX challenge)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Glucose Tolerance 2 hour post XXX challenge
+    -   Long Name: Glucose Tolerance 2 hour post XXX challenge (glucose dose not specified)
+    -   Test Type: GTT\_2
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 12610-2, 14759-5, 20436-2, 25668-5,  49134-0
+        -   Associated CPT: 82951, 82950
 
 5.  GTT\_3 (Glucose Tolerance 3 hour post XXX challenge (glucose dose not specified)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Glucose Tolerance 3 hour post XXX challenge
+    -   Long Name: Glucose Tolerance 3 hour post XXX challenge (glucose dose not specified)
+    -   Test Type: GTT\_3
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 14765-2, 18342-6, 20437-0, 40162-0
+        -   Associated CPT:  82951
 
 6.  (GTT\_4 Deprecated) (Glucose Tolerance 4 hour post XXX challenge (glucose dose not specified)
 
@@ -6217,50 +6964,232 @@ TEST\_TYPE LONGNAME
 10. GTT50\_1 (Glucose Tolerance 1 hour post 50 g oral challenge)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Glucose Tolerance 1 hour post 50 g oral challenge
+    -   Long Name: Glucose Tolerance 1 hour post 50 g oral challenge
+    -   Test Type: GTT50\_1
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 14754-6, 1504-0
+        -   Associated CPT: 82950
 
-11. GTT75\_1 (Glucose Tolerance 1 hour post 75 g oral challenge)
-
-    ***NEEDS TO BE UPDATED***
-
-12. (GTT75\_1\_5 Deprecated) (Glucose Tolerance 1 1/2 hour post 75 g oral challenge)
-
-13. GTT75\_2 (Glucose Tolerance 2 hour post 75 g oral challenge)
-
-    ***NEEDS TO BE UPDATED***
-
-14. GTT100\_0\_5 (Glucose Tolerance 1/2 hour post 100 g oral challenge)
-
-    ***NEEDS TO BE UPDATED***
-
-15. GTT100\_1 (Glucose Tolerance 1 hour post 100 g oral challenge)
-
-    ***NEEDS TO BE UPDATED***
-
-16. (GTT100\_1\_5 Deprecated) (Glucose Tolerance 1 1/2 hour post 100 g oral challenge)
-
-17. GTT100\_2 (Glucose Tolerance 2 hour post 100 g oral challenge)
+11. GTT50\_2 (Glucose Tolerance 2 hour post 50 g oral challenge)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Glucose Tolerance 2 hour post 50 g oral challenge
+    -   Long Name: Glucose Tolerance 2 hour post 50 g oral challenge
+    -   Test Type: GTT50\_2
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 41024-1
+        -   Associated CPT:
 
-18. GTT100\_3 (Glucose Tolerance 3 hour post 100 g oral challenge)
+12. GTT75\_0\_5 (Glucose Tolerance 1/2 hour post 75 g oral challenge)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Glucose Tolerance 1/2 hour post 75 g oral challenge
+    -   Long Name: Glucose Tolerance 1/2 hour post 75 g oral challenge
+    -   Test Type: GTT75\_0\_5
+    -   Panels: 81324-6 OB panel
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 1527-1, 32319-6
+        -   Associated CPT: 82951
 
-19. (GTT100\_3\_5 Deprecated) (Glucose Tolerance 3 1/2 hour post 100 g oral challenge)
+13. GTT75\_1 (Glucose Tolerance 1 hour post 75 g oral challenge)
 
-20. (GTT100\_4 Deprecated) (Glucose Tolerance 4 hour post 100 g oral challenge)
+    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Glucose Tolerance 1 hour post 75 g oral challenge
+    -   Long Name: Glucose Tolerance 1 hour post 75 g oral challenge
+    -   Test Type: GTT75\_1
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 1507-3, 1508-1, 51597-3
+        -   Associated CPT:
 
-21. (GTT100\_5 Deprecated) (Glucose Tolerance 5 hour post 100 g oral challenge)
+14. (GTT75\_1\_5 Deprecated) (Glucose Tolerance 1 1/2 hour post 75 g oral challenge)
 
-22. (GTT100\_6 Deprecated) (Glucose Tolerance 6 hour post 100 g oral challenge)
+15. GTT75\_2 (Glucose Tolerance 2 hour post 75 g oral challenge)
 
-23. (GTT100\_PRE Deprecated) (Glucose pre 100 g oral challenge, fasting)
+    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Glucose Tolerance 2 hour post 75 g oral challenge
+    -   Long Name: Glucose Tolerance 2 hour post 75 g oral challenge
+    -   Test Type: GTT75\_2
+    -   Panels: 81324-6 OB panel
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 14995-5, 1518-0, 1519-8
+        -   Associated CPT: 82951, 82950
 
-24. (GTT50\_PRE Deprecated) (Glucose pre 50 g oral challenge, fasting)
+16. GTT75\_3 (Glucose Tolerance 3 hour post 75 g oral challenge)
 
-25. (GTT75\_PRE Deprecated) (Glucose pre 75 g oral challenge, fasting)
+    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Glucose Tolerance 3 hour post 75 g oral challenge
+    -   Long Name: Glucose Tolerance 3 hour post 75 g oral challenge
+    -   Test Type: GTT75\_3
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 1533-9, 32320-4
+        -   Associated CPT:
 
-26. (GTT\_PRE Deprecated) (Glucose pre oral challenge, fasting; glucose dose not specified)
+17. GTT100\_0\_5 (Glucose Tolerance 1/2 hour post 100 g oral challenge)
+
+    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Glucose Tolerance 1/2 hour post 100 g oral challenge
+    -   Long Name: Glucose Tolerance 1/2 hour post 100 g oral challenge
+    -   Test Type: GTT100\_0\_5
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 1525-5
+        -   Associated CPT: 82952
+
+18. GTT100\_1 (Glucose Tolerance 1 hour post 100 g oral challenge)
+
+    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Glucose Tolerance 1 hour post 100 g oral challenge
+    -   Long Name: Glucose Tolerance 1 hour post 100 g oral challenge
+    -   Test Type: GTT100\_1
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 14753-8, 1501-6, 1502-4
+        -   Associated CPT: 82951
+
+19. (GTT100\_1\_5 Deprecated) (Glucose Tolerance 1 1/2 hour post 100 g oral challenge)
+
+20. GTT100\_2 (Glucose Tolerance 2 hour post 100 g oral challenge)
+
+    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Glucose Tolerance 2 hour post 100 g oral challenge
+    -   Long Name: Glucose Tolerance 2 hour post 100 g oral challenge
+    -   Test Type: GTT100\_2
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 14757-9, 1514-9, 1515-6
+        -   Associated CPT: 82951, 82950
+
+21. GTT100\_3 (Glucose Tolerance 3 hour post 100 g oral challenge)
+
+    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name:Glucose Tolerance 3 hour post 100 g oral challenge
+    -   Long Name: Glucose Tolerance 3 hour post 100 g oral challenge
+    -   Test Type: GTT100\_3
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 14764-5, 1530-5, 1531-3
+        -   Associated CPT: 82951
+
+22. (GTT100\_3\_5 Deprecated) (Glucose Tolerance 3 1/2 hour post 100 g oral challenge)
+
+23. (GTT100\_4 Deprecated) (Glucose Tolerance 4 hour post 100 g oral challenge)
+
+24. (GTT100\_5 Deprecated) (Glucose Tolerance 5 hour post 100 g oral challenge)
+
+25. (GTT100\_6 Deprecated) (Glucose Tolerance 6 hour post 100 g oral challenge)
+
+26. (GTT100\_PRE Deprecated) (Glucose pre 100 g oral challenge, fasting)
+
+27. (GTT50\_PRE Deprecated) (Glucose pre 50 g oral challenge, fasting)
+
+28. (GTT75\_PRE Deprecated) (Glucose pre 75 g oral challenge, fasting)
+
+29. (GTT\_PRE Deprecated) (Glucose pre oral challenge, fasting; glucose dose not specified)
 
     It is anticipated that each site will populate some subset of the TEST\_TYPEs listed above. Sites are not expected to find that all are in use at their locations. It is also anticipated that the 1 hour and 2 hour TEST\_TYPEs will be the more common time points (see below).
     
@@ -6299,13 +7228,134 @@ TEST\_TYPE LONGNAME
     -   Test Method Variance: See statements above about the varying glucose loads that are used.
     -   Other: Some sites do not use unique CPT or LOINC codes for different glucose loads. There may be unique codes for the different time increments (1hr, 2 hr, etc), but not always. The text string field usually specifies the hour (for example, a GTT 3 hr may have three rows of data in which the text string specifies the specific hour [1 hr, 2 hr, 3 hr]). Loading dose of glucose is not included in electronic data at all sites. Because the loading dose of glucose is not always indicated in the electronic lab data stream, it is crucial to ensure the abnormal flags are populated in the VDW. As shown in Table 2, the criteria for determining whether or not the lab results are abnormal vary, not only based on the time the sample was obtained, but also based on the glucose load the individual ingested. The abnormal flag, along with the result value, may be the only way to conclusively know whether or not the test result was abnormal.
 
+30. (GTTPM) (Glucose Tolerance post meal)
+
+    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Glucose Tolerance post meal
+    -   Long Name: Glucose Tolerance post meal
+    -   Test Type: GTTPM
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 16915-1, 53094-9
+        -   Associated CPT:
+
+31. (GTTPM\_0\_5) (Glucose Tolerance 1/2 hour post meal)
+
+    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Glucose Tolerance 1/2 hour post meal
+    -   Long Name: Glucose Tolerance 1/2 hour post meal
+    -   Test Type: GTTPM\_0\_5
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 95105-3
+        -   Associated CPT:
+
+32. (GTTPM\_1) (Glucose Tolerance 1 hour post meal)
+
+    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Glucose Tolerance 1 hour post meal
+    -   Long Name: Glucose Tolerance 1 hour post meal
+    -   Test Type: GTTPM\_1
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 10449-7, 40287-5
+        -   Associated CPT:
+
+33. (GTTPM\_2) (Glucose Tolerance 2 hour post meal)
+
+    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Glucose Tolerance 2 hour post meal
+    -   Long Name: Glucose Tolerance 2 hour post meal
+    -   Test Type: GTTPM\_2
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 14760-3, 14761-1, 1521-4, 6689-4, 77677-3
+        -   Associated CPT:
+
+34. (GTTPM\_3) (Glucose Tolerance 3 hour post meal)
+
+    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Glucose Tolerance 3 hour post meal
+    -   Long Name: Glucose Tolerance 3 hour post meal
+    -   Test Type: GTTPM\_3
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 95106-1
+        -   Associated CPT:
+
 
 ## Cell Markers
 
 
-### CD4 (CD4 Count, T-cell helper subset)
+### CD4 (CD4 Count)
 
-***NEEDS TO BE UPDATED***
+***UNDER REVIEW***
+
+-   Common Name: CD4 Count
+-   Long Name: CD4 Count, T-cell helper subset
+-   Test Type: CD4
+-   Panels: 65758-5, 65759-3
+-   Equivalent Tests:
+-   Not Equivalent Tests:
+-   Indications: CD4 is used for HIV/AIDS Management, Immunodeficiency Disorders, Transplant Monitoring, and Screening for Immune Issues.
+-   Description: A CD4 count is a blood test measuring helper T-cells (CD4 cells) to assess immune system health, crucial for managing HIV by showing how the virus weakens immunity and if treatment works, with results guiding infection prevention and treatment.
+-   Related Tests:
+-   Approximate Reference Range (Each site will have slight variations): Reported as cells per cubic millimeter (cells/mm³), with a typical range for healthy adults around 500 to 1500 cells/mm³
+-   Comments: Panels (65758-5, 65759-3) are included, but not expected to be seen associated with results.  If a site does see results associated with these LOINCs please advise the lab workgroup.  LOINC 5474-2 is a ratio defined as CD3+CD4+ (T4 helper) cells/CD3+CD8+ (T8 suppressor cells) cells [# Ratio] in Blood.  This ratio is acceptable to use as a proxy to identify HIV patients.
+-   Test Method Variance:
+-   Other:
+    -   Associated LOINC: 24467-3, 26570-2, 54218-3, 5472-6, 5474-2, 92736-8
+    -   Associated CPT:
 
 
 ## Microbiology
@@ -6315,39 +7365,206 @@ TEST\_TYPE LONGNAME
 
 1.  HCV\_AB (Hepatitis C virus antibody)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Hepatitis C virus antibody
+    -   Long Name: Hepatitis C virus antibody [Units/volume] or Signal/Cutoff in Serum or Plasma
+    -   Test Type: HCV\_AB
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications: Indications for a Hepatitis C virus (HCV) antibody lab test are categorized into universal screening for all adults, targeted screening for high-risk individuals, and diagnostic testing for those with clinical symptoms.
+    -   Description: A Hepatitis C virus (HCV) antibody test is a blood screen used to determine if a person has ever been infected with the virus. It identifies proteins called antibodies that the immune system produces to fight the virus; these antibodies typically remain in the bloodstream for life, even after successful treatment or natural clearance.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations): Interpretive Values:
+        -   Non-Reactive (<0.9 COI): No HCV antibodies detected.
+        -   Borderline (0.9 to <1.0 COI): Inconclusive result; further testing or retesting may be required.
+        -   Reactive (≥1.0 COI): Indicates past or current infection. A reactive result should be followed by an HCV RNA test for confirmation.
+        -   S/CO Ratio: Specimens with a signal-to-cutoff (S/CO) value ≥1.00 are considered reactive.
+    -   Comments: Link to excellent site for Hep C test explanation in lay terms: <https://labtestsonline.org/understanding/analytes/hepatitis-c/tab/glance/>
+        -   Expected values are integers from two digits up to almost 1,000,000 IU/mL.  Beaware that units can differ.  Decimal values have been seen and are suspected to be LOG values.  Inspect the unit value!
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 16936-7,22327-1,48159-8,5198-7,57006-9
+        -   Associated CPT:
 
 2.  HCV\_AB\_QL (Hepatitis C virus antibody presence found)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Hepatitis C virus antibody presence found
+    -   Long Name: Hepatitis C virus [Presence] or band pattern [Interpretation] in Serum, Plasma or Blood
+    -   Test Type: HCV\_AB\_QL
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications: Indications for a Hepatitis C virus (HCV) antibody lab test are categorized into universal screening for all adults, targeted screening for high-risk individuals, and diagnostic testing for those with clinical symptoms.
+    -   Description: The Hepatitis C Virus (HCV) Antibody Presence test (also called the anti-HCV test) is a blood test used to determine if an individual has ever been infected with the Hepatitis C virus.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations): Interpretive Values:
+        -   Non-Reactive (<0.9 COI): No HCV antibodies detected.
+        -   Borderline (0.9 to <1.0 COI): Inconclusive result; further testing or retesting may be required.
+        -   Reactive (≥1.0 COI): Indicates past or current infection. A reactive result should be followed by an HCV RNA test for confirmation.
+        -   S/CO Ratio: Specimens with a signal-to-cutoff (S/CO) value ≥1.00 are considered reactive.
+    -   Comments: Only KPNC to sometimes use 48767-8.  DO NOT use 48767-8 if the data is a note about the RNA test.  Use 48767-8 only when the result represents HEPATITIS C ANTIBODY CONFIRMATORY TEST INTERPETATION with result such as POSITIVE or NEGATIVE.
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 13955-0, 16128-1, 16129-9, 40726-2, 72376-7, 13125-1, 5199-5
+        -   Associated CPT:
 
 3.  HCV\_AB\_QL\_PR (Hepatitis C virus antibody presence found using probe method)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Hepatitis C virus antibody presence found using probe method
+    -   Long Name: Hepatitis C virus [Presence] or band pattern [Interpretation] in Serum, Plasma or Blood found using probe method
+    -   Test Type: HCV\_AB\_QL\_PR
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications: Indications for a Hepatitis C virus (HCV) antibody lab test are categorized into universal screening for all adults, targeted screening for high-risk individuals, and diagnostic testing for those with clinical symptoms.
+    -   Description: Using a probe method, such as real-time Reverse Transcription-PCR (RT-PCR) or Transcription-Mediated Amplification (TMA), the presence of HCV is determined by the binding of a fluorescently labeled probe to specific viral sequences.  Modern probe methods often use digital or fluorescent signals, older confirmatory methods like the Recombinant Immunoblot Assay (RIBA) or specialized electrophoretic NAT assays use band patterns to interpret results.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations): Interpretive Values:
+        -   Non-Reactive (<0.9 COI): No HCV antibodies detected.
+        -   Borderline (0.9 to <1.0 COI): Inconclusive result; further testing or retesting may be required.
+        -   Reactive (≥1.0 COI): Indicates past or current infection. A reactive result should be followed by an HCV RNA test for confirmation.
+        -   S/CO Ratio: Specimens with a signal-to-cutoff (S/CO) value ≥1.00 are considered reactive.
+    -   Comments: The LOINCs in this test type are provisional.  The workgroup needs data from sites to review before final determination of inclusion can be made.
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 22324-8, 22326-3, 22329-7, 34162-8, 11076-7, 33462-3, 51649-2, 56926-9, 56927-7, 56928-5, 56929-3, 56930-1, 9609-9
+        -   Associated CPT:
 
 4.  HCV\_GENO (Hepatitis C virus genotype)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Hepatitis C virus genotype
+    -   Long Name: Hepatitis C virus genotype [Identifier] in Ser, Plas or Bld by Probe and target amplification method
+    -   Test Type: HCV\_GENO
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications: Indications for a Hepatitis C virus (HCV) antibody lab test are categorized into universal screening for all adults, targeted screening for high-risk individuals, and diagnostic testing for those with clinical symptoms.
+    -   Description: Hepatitis C Virus (HCV) genotyping, identifying specific viral strains (1-6) in serum/plasma/blood (Ser, Plas, Bld) via Nucleic Acid Amplification (NAA) (like RT-PCR), uses genotype-specific probes (fluorescent or colorimetric) targeting variable regions (5'UTR, NS5B) to detect sequence differences, crucial for guiding targeted antiviral treatments, differentiating subtypes (like 1a/1b), and guiding therapy duration, with results reported as genotype/subtype identifiers (e.g., 1a, 3a).
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations): Genotyping tests usually require a minimum HCV RNA level (e.g., 500 IU/mL or higher) for reliable results.
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 32286-7,48574-8
+        -   Associated CPT:
 
 5.  HCV\_GENO\_PR (Hepatitis C virus genotype probe method)
 
-    ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Hepatitis C virus genotype probe method
+    -   Long Name: Hepatitis C virus genotype [Identifier] in Ser, Plas or Bld by Probe and target amplification method
+    -   Test Type: HCV\_GENO\_PR
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications: Indications for a Hepatitis C virus (HCV) antibody lab test are categorized into universal screening for all adults, targeted screening for high-risk individuals, and diagnostic testing for those with clinical symptoms.
+    -   Description: A Hepatitis C virus (HCV) genotype test identifies the specific viral strain (e.g., Genotype 1, 2, 3, 4, 5, 6) from a patient's serum, plasma, or blood using Reverse Transcriptase Polymerase Chain Reaction (RT-PCR) to amplify viral RNA, followed by detection with genotype-specific probes that bind to unique sequences, often in the 5' UTR or NS5B regions, to determine treatment guidance. Common methods include real-time PCR with fluorescent probes or hybridization assays (like Line Probe Assays) that create visible bands for each genotype/subtype.
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations): Genotyping tests usually require a minimum HCV RNA level (e.g., 500 IU/mL or higher) for reliable results.
+    -   Comments: The LOINCs in this test type are provisional.  The workgroup needs data from sites to review before final determination of inclusion can be made.
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 82513-3
+        -   Associated CPT:
 
 6.  HCV\_RNA (Hepatitis C virus RNA viral load)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Hepatitis C virus RNA viral load
+    -   Long Name: Hepatitis C virus RNA [Units or #/volume] (viral load) in Ser or Plas by Probe with amplification
+    -   Test Type: HCV\_RNA
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications: Indications for a Hepatitis C virus (HCV) antibody lab test are categorized into universal screening for all adults, targeted screening for high-risk individuals, and diagnostic testing for those with clinical symptoms.
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations): Viral Load Classification:
+        -   Low Viral Load: Typically less than 800,000 IU/mL.
+        -   High Viral Load: Typically more than 800,000 IU/mL.
+        -   Undetectable: Often defined as <12 or <15 IU/mL, depending on the specific laboratory's sensitivity.
+    -   Comments: Expected values are integers from two digits up to almost 1,000,000 IU/mL.  Beaware that units can differ.  Decimal values have been seen and are suspected to be LOG values.  Inspect the unit value!
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 10676-5,11011-4,20416-4,20571-6,29609-5,34703-9,34704-7,49758-6, 48576-3
+        -   Associated CPT:
 
 7.  HCV\_RNA\_LOG (Hepatitis C virus RNA Log Units of viral load)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Hepatitis C virus RNA Log Units of viral load
+    -   Long Name: Hep C virus RNA [Log units of #/vol] (viral load) in Ser or Plas by Probe with amplification
+    -   Test Type: HCV\_RNA\_LOG
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations): Viral Load Classification:
+        -   Low Viral Load: Typically less than 800,000 IU/mL.
+        -   High Viral Load: Typically more than 800,000 IU/mL.
+        -   Undetectable: Often defined as <12 or <15 IU/mL, depending on the specific laboratory's sensitivity.
+    -   Comments: Number generally between 1.00 log IU/mL and 8.00 log IU/ML-possibly a little lower or higher
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 38180-6,42003-4,42617-1,47252-2, 49605-9
+        -   Associated CPT:
 
 8.  HCV\_RNA\_QL\_PR (Hepatitis C virus RNA Presence by probe)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Hepatitis C virus RNA Presence by probe
+    -   Long Name: Hepatitis C virus RNA [Presence] in Ser, Plas or Bld by Probe and target amplification method
+    -   Test Type: HCV\_RNA\_QL\_PR
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments: The LOINCs in this test type are provisional.  The workgroup needs data from sites to review before final determination of inclusion can be made.
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC:
+        -   Associated CPT:
 
 9.  HCV\_RNA\_QL (Hepatitis C virus RNA Presence)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: Hepatitis C virus RNA Presence
+    -   Long Name: Hepatitis C virus RNA [Presence] in Ser, Plas or Bld by Probe and target amplification method
+    -   Test Type: HCV\_RNA\_QL
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 11259-9, 5010-4
+        -   Associated CPT:
 
 
 ### (HIV) Human Immunodeficiency Virus Test Types
@@ -6355,98 +7572,506 @@ TEST\_TYPE LONGNAME
 1.  HIV1\_AB\_CNF\_QL (HIV 1 Antibody in Serum, Plasma or Blood by Confirmatory method - qualitative)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: HIV 1 Antibody in Serum, Plasma or Blood by Confirmatory method - qualitative
+    -   Long Name: HIV 1 Antibody in Serum, Plasma or Blood by Confirmatory method - qualitative
+    -   Test Type: HIV1\_AB\_CNF\_QL
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 13499-9, 21009-6, 40732-0, 5221-7, 86233-4
+        -   Associated CPT:
 
 2.  HIV1\_AB\_SCR\_QL (HIV 1 Antibody in Serum, Plasma or Blood by Screen method - qualitative)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: HIV 1 Antibody in Serum, Plasma or Blood by Screen method - qualitative
+    -   Long Name: HIV 1 Antibody in Serum, Plasma or Blood by Screen method - qualitative
+    -   Test Type: HIV1\_AB\_SCR\_QL
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 14092-1, 16975-5, 29893-5, 33866-5, 41145-4, 68961-2, 7917-8, 85686-4
+        -   Associated CPT:
 
 3.  HIV1\_AB\_SCR\_QN (HIV 1 Antibody in Serum, Plasma or Blood by Screen method - quantitative)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: HIV 1 Antibody in Serum, Plasma or Blood by Screen method - quantitative
+    -   Long Name: HIV 1 Antibody in Serum, Plasma or Blood by Screen method - quantitative
+    -   Test Type: HIV1\_AB\_SCR\_QN
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 22356-0, 43599-0, 5220-9
+        -   Associated CPT:
 
 4.  HIV12\_AB\_CNF\_QL (HIV 1 and HIV 2 Antibody in Serum, Plasma or Blood by Confirmatory method - qualitative)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: HIV 1 and HIV 2 Antibody in Serum, Plasma or Blood by Confirmatory method - qualitative
+    -   Long Name: HIV 1 and HIV 2 Antibody in Serum, Plasma or Blood by Confirmatory method - qualitative
+    -   Test Type: HIV12\_AB\_CNF\_QL
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 43185-8, 44873-8, 69668-2, 77685-6, 80203-3, 95524-5
+        -   Associated CPT:
 
 5.  HIV12\_AB\_SCR\_QL (HIV 1 and HIV 2 Antibody in Serum, Plasma or Blood by Screen method - qualitative)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: HIV 1 and HIV 2 Antibody in Serum, Plasma or Blood by Screen method - qualitative
+    -   Long Name: HIV 1 and HIV 2 Antibody in Serum, Plasma or Blood by Screen method - qualitative
+    -   Test Type: HIV12\_AB\_SCR\_QL
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 31201-7, 40733-8, 42768-2, 43009-0, 48345-3, 54086-4, 3905-2, 73906-0, 7918-6, 80387-4
+        -   Associated CPT:
 
 6.  HIV12\_AB\_SCR\_QN (HIV 1 and HIV 2 Antibody in Serum, Plasma or Blood by Screen method - quantitative)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: HIV 1 and HIV 2 Antibody in Serum, Plasma or Blood by Screen method - quantitative
+    -   Long Name: HIV 1 and HIV 2 Antibody in Serum, Plasma or Blood by Screen method - quantitative
+    -   Test Type: HIV12\_AB\_SCR\_QN
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 22357-8, 41290-8, 43008-2, 48346-1, 5223-3
+        -   Associated CPT:
 
 7.  HIV2\_AB\_CNF\_QL (HIV 2 Antibody in Serum, Plasma or Blood by Confirmatory method - qualitative)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: HIV 2 Antibody in Serum, Plasma or Blood by Confirmatory method - qualitative
+    -   Long Name: HIV 2 Antibody in Serum, Plasma or Blood by Confirmatory method - qualitative
+    -   Test Type: HIV2\_AB\_CNF\_QL
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 31073-0 , 5225-8
+        -   Associated CPT:
 
 8.  HIV2\_AB\_SCR\_QL (HIV 2 Antibody in Serum, Plasma or Blood by Screen method - qualitative)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: HIV 2 Antibody in Serum, Plasma or Blood by Screen method - qualitative
+    -   Long Name: HIV 2 Antibody in Serum, Plasma or Blood by Screen method - qualitative
+    -   Test Type: HIV2\_AB\_SCR\_QL
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 30361-0, 33807-9, 7919-4, 81641-3
+        -   Associated CPT:
 
 9.  HIV2\_AB\_SCR\_QN (HIV 2 Antibody in Serum, Plasma or Blood by Screen method - quantitative)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: HIV 2 Antibody in Serum, Plasma or Blood by Screen method - quantitative
+    -   Long Name: HIV 2 Antibody in Serum, Plasma or Blood by Screen method - quantitative
+    -   Test Type: HIV2\_AB\_SCR\_QN
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 22358-6, 51786-2, 5224-1
+        -   Associated CPT:
 
 10. HIV1\_AG\_QL (HIV 1 Antigen in Serum or Plasma - qualitative)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: HIV 1 Antigen in Serum or Plasma - qualitative
+    -   Long Name: HIV 1 Antigen in Serum or Plasma - qualitative
+    -   Test Type: HIV1\_AG\_QL
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 18396-2, 24012-7, 33660-2, 5222-5, 9821-0
+        -   Associated CPT:
 
 11. HIV1\_AG\_QN (HIV 1 Antigen in Serum or Plasma - quantitative)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: HIV 1 Antigen in Serum or Plasma - quantitative
+    -   Long Name: HIV 1 Antigen in Serum or Plasma - quantitative
+    -   Test Type: HIV1\_AG\_QN
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 16976-3, 42339-2, 53601-1, 9665-1
+        -   Associated CPT:
 
 12. HIV1\_RNA (HIV 1 RNA (viral load) in Serum or Plasma)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: HIV 1 RNA (viral load) in Serum or Plasma
+    -   Long Name: HIV 1 RNA (viral load) in Serum or Plasma
+    -   Test Type: HIV1\_RNA
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 10351-5, 10682-3, 20447-9, 21008-8, 21333-0, 23876-6, 41513-3,41515-8, 48511-0, 48551-6, 59419-2, 62469-2, 70241-5
+        -   Associated CPT:
 
 13. HIV1\_RNA\_LOG (HIV 1 RNA (viral load - log) in Serum or Plasma)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: HIV 1 RNA (viral load - log) in Serum or Plasma
+    -   Long Name: HIV 1 RNA (viral load - log) in Serum or Plasma
+    -   Test Type: HIV1\_RNA\_LOG
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 29539-4, 29541-0, 41514-1, 41516-6, 48510-2, 48552-4, 51780-5
+        -   Associated CPT:
 
 14. HIV2\_RNA (HIV 2 RNA (viral load) in Serum or Plasma)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: HIV 2 RNA (viral load) in Serum or Plasma
+    -   Long Name: HIV 2 RNA (viral load) in Serum or Plasma
+    -   Test Type: HIV2\_RNA
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 69354-9, 86548-5
+        -   Associated CPT:
 
 15. HIV2\_RNA\_LOG (HIV 2 RNA (viral load - log) in Serum or Plasma)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: HIV 2 RNA (viral load - log) in Serum or Plasma
+    -   Long Name: HIV 2 RNA (viral load - log) in Serum or Plasma
+    -   Test Type: HIV2\_RNA\_LOG
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 81652-0
+        -   Associated CPT:
 
 16. HIV1\_RNA\_QL (HIV 1 RNA (detection) in Serum or Plasma - qualitative)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: HIV 1 RNA (detection) in Serum or Plasma - qualitative
+    -   Long Name: HIV 1 RNA (detection) in Serum or Plasma - qualitative
+    -   Test Type: HIV1\_RNA\_QL
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 24013-5, 25835-0, 5017-9
+        -   Associated CPT:
 
 17. HIV12\_RNA\_QL (HIV 1 and HIV 2 RNA (detection) in Serum or Plasma - qualitative)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: HIV 1 and HIV 2 RNA (detection) in Serum or Plasma - qualitative
+    -   Long Name: HIV 1 and HIV 2 RNA (detection) in Serum or Plasma - qualitative
+    -   Test Type: HIV12\_RNA\_QL
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 85361-4, 85368-9, 96556-6, 69353-1
+        -   Associated CPT:
 
 18. HIV1\_AB\_AG\_QL (HIV 1 Antibody and Antigen)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: HIV 1 Antibody and Antigen
+    -   Long Name: HIV 1 Antibody and Antigen
+    -   Test Type: HIV1\_AB\_AG\_QL
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 51866-2
+        -   Associated CPT:
 
 19. HIV12\_AB\_HIV1\_AG\_QL (HIV 1 and HIV 2 Antibody and HIV 1 Antigen - qualitative)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: HIV 1 and HIV 2 Antibody and HIV 1 Antigen - qualitative
+    -   Long Name: HIV 1 and HIV 2 Antibody and HIV 1 Antigen - qualitative
+    -   Test Type: HIV12\_AB\_HIV1\_AG\_QL
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 56888-1, 75666-8
+        -   Associated CPT:
 
 20. HIV12\_AB\_HIV1\_AG\_QN (HIV 1 and HIV 2 Antibody and HIV 1 Antigen - quantitative)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: HIV 1 and HIV 2 Antibody and HIV 1 Antigen - quantitative
+    -   Long Name: HIV 1 and HIV 2 Antibody and HIV 1 Antigen - quantitative
+    -   Test Type: HIV12\_AB\_HIV1\_AG\_QN
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 58900-2
+        -   Associated CPT:
 
 21. HIV1\_QL (HIV 1 - qualitative)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: HIV 1 - qualitative
+    -   Long Name: HIV 1 - qualitative
+    -   Test Type: HIV1\_QL
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 44607-0, 49483-1
+        -   Associated CPT:
 
 22. HIV12\_QL (HIV 1 and HIV 2 algorithm interpretation - qualitative)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: HIV 1 and HIV 2 algorithm interpretation - qualitative
+    -   Long Name: HIV 1 and HIV 2 algorithm interpretation - qualitative
+    -   Test Type: HIV12\_QL
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 85380-4
+        -   Associated CPT:
 
 23. HIV1\_AB\_SCR\_QL\_S (HIV 1 Antibody in Saliva by Screen method - qualitative)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: HIV 1 Antibody in Saliva by Screen method - qualitative
+    -   Long Name: HIV 1 Antibody in Saliva by Screen method - qualitative
+    -   Test Type: HIV1\_AB\_SCR\_QL\_S
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 35437-3, 35439-9, 41144-7
+        -   Associated CPT:
 
 24. HIV1\_AB\_SCR\_QN\_S (HIV 1 Antibody in Saliva by Screen method - quantitative)
 
     ***NEEDS TO BE UPDATED***
+    ***UNDER REVIEW***
+    
+    -   Common Name: HIV 1 Antibody in Saliva by Screen method - quantitative
+    -   Long Name: HIV 1 Antibody in Saliva by Screen method - quantitative
+    -   Test Type: HIV1\_AB\_SCR\_QN\_S
+    -   Panels:
+    -   Equivalent Tests:
+    -   Not Equivalent Tests:
+    -   Indications:
+    -   Description:
+    -   Related Tests:
+    -   Approximate Reference Range (Each site will have slight variations):
+    -   Comments:
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC: 35438-1, 41143-9
+        -   Associated CPT:
 
 
 ### HPVDNA\_CVX (Human Papilloma Virus DNA Test, Cervical Specimen)
@@ -6464,7 +8089,7 @@ TEST\_TYPE LONGNAME
 -   Comments: Strains are classified as high risk relative to other HPV strains, not with respect to the absolute risk for developing serious cervical abnormalities. The prevalence of high risk HPV strains in the population of women of screening age is approximately 15%. As of 2010, high risk strains include 16, 18, 31, 33, 35, 39, 45, 51, 52, 56, 58, 59, and 68 with 16 and 18 being most prevalent. Test results are unlikely to specify strain, only the presence or absence of 1+ high risk strains. For the purposes of the ABN\_IND variable: abnormal = positive for 1+ high risk HPV strain(s); normal = no high risk HPV strains found. The HPV DNA tests came into widespread use in cervical cancer screening and prevention programs in the mid 2000s. HPV is also associated with vulvar, penile, and anal intraepithelial neoplasia and cancer. If you are able to distinguish specimen body source, only specimens taken from the cervix should be include in this test type. A test does not need to test for every high risk strain to be included.
 -   Test Method Variance: N/A
 -   Other:
-    -   Associated LOINC:
+    -   Associated LOINC: 11083-3, 14499-8, 14503-7, 21440-3, 30167-1, 38372-9, 42770-8, 44550-2 (updated 4/29/10)
     -   Associated CPT:
 
 
@@ -6483,7 +8108,7 @@ TEST\_TYPE LONGNAME
 -   Comments: Strains are classified as high risk relative to other HPV strains, not with respect to the absolute risk for developing serious cervical abnormalities. The prevalence of high risk HPV strains in the population of women of screening age is approximately 15%. As of 2010, high risk strains include 16, 18, 31, 33, 35, 39, 45, 51, 52, 56, 58, 59, and 68 with 16 and 18 being most prevalent. Test results are unlikely to specify strain, only the presence or absence of 1+ high risk strains. For the purposes of the ABN\_IND variable: abnormal = positive for 1+ high risk HPV strain(s); normal = no high risk HPV strains found. The HPV DNA tests came into widespread use in cervical cancer screening and prevention programs in the mid 2000s. HPV is also associated with vulvar, penile, and anal intraepithelial neoplasia and cancer.
 -   Test Method Variance: N/A
 -   Other:
-    -   Associated LOINC:
+    -   Associated LOINC: 11481-9, 16280-0, 17399-7, 17400-3, 17401-1, 17402-9, 17403-7, 17404-5, 17408-6, 17409-4, 17410-2, 44543-7, 44544-5, 44547-8, 48560-7, 49891-5, 49896-4 (updated 4/30/10)
     -   Associated CPT:
 
 
@@ -6507,7 +8132,4 @@ TEST\_TYPE LONGNAME
 -   Other:
     -   Associated LOINC:
     -   Associated CPT:
-
-
-## PG\_QL\_U (Pregnancy Determination, Urine Beta Human Choriogonadotropin
 
