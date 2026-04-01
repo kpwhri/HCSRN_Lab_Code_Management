@@ -2667,7 +2667,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 ### PHOSPHATE (Phosphate)
 
-***NEEDS TO BE UPDATED***
 ***UNDER REVIEW***
 
 -   Common Name: Phosphate
@@ -2676,10 +2675,16 @@ Prealbumin, microalbumin, urinalysis, liver panel
 -   Panels:
 -   Equivalent Tests:
 -   Not Equivalent Tests:
--   Indications:
--   Description:
+-   Indications:  This test is ordered to test for the following conditions:
+    -   Kidney Health: The kidneys filter excess phosphate; high levels often indicate kidney disease or failure.
+    -   Bone and Endocrine Disorders: It helps evaluate bone diseases (like rickets) and problems with the parathyroid glands, which regulate phosphate and calcium.
+    -   Nutritional Status: It is used to monitor people with severe malnutrition or malabsorption syndromes.
+    -   Diabetes Management: It can help assess diabetic ketoacidosis or uncontrolled diabetes.
+-   Description: A phosphate blood test (also called a phosphorus test) measures the level of inorganic phosphate in the blood. Phosphate is an essential electrolyte that helps build strong bones and teeth, enables nerve signaling, supports muscle contraction, and is vital for energy production.
 -   Related Tests:
--   Approximate Reference Range (Each site will have slight variations):
+-   Approximate Reference Range (Each site will have slight variations): Normal ranges vary by laboratory but generally fall between 2.5 and 4.5 mg/dL for adults. Children naturally have higher levels due to active bone growth. 
+    -   High Levels (Hyperphosphatemia): May be caused by kidney failure, hypoparathyroidism, or excessive Vitamin D intake.
+    -   Low Levels (Hypophosphatemia): May indicate hyperparathyroidism, Vitamin D deficiency, alcoholism, or severe malnutrition.
 -   Comments:
 -   Test Method Variance:
 -   Other:
@@ -2886,7 +2891,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 ### TRANSFERRIN (Transferrin)
 
-***NEEDS TO BE UPDATED***
 ***UNDER REVIEW***
 
 -   Common Name: Transferrin
@@ -2895,10 +2899,17 @@ Prealbumin, microalbumin, urinalysis, liver panel
 -   Panels:
 -   Equivalent Tests:
 -   Not Equivalent Tests:
--   Indications:
--   Description:
+-   Indications: Purpose of the Test:
+    -   Evaluate Iron Status: Helps determine if you have too much iron (overload) or too little (deficiency).
+    -   Diagnose Anemia: Used to distinguish between different types of anemia, particularly iron-deficiency anemia and anemia of chronic disease.
+    -   Assess Liver Function: Since transferrin is made in the liver, low levels can sometimes indicate liver disease.
+    -   Monitor Treatment: Tracks the body's response to iron supplements or treatments for iron overload.
+-   Description: The transferrin blood test measures the level of transferrin, a protein produced by the liver that binds to and transports iron throughout the body. It is typically ordered as part of an "iron panel" to help diagnose conditions like anemia or iron overload.
 -   Related Tests:
--   Approximate Reference Range (Each site will have slight variations):
+-   Approximate Reference Range (Each site will have slight variations): Normal ranges can vary slightly by laboratory, but common benchmarks include: 
+    -   Transferrin: 215–380 mg/dL.
+    -   TIBC: 250–450 mcg/dL.
+    -   Transferrin Saturation: 15%–50%
 -   Comments:
 -   Test Method Variance:
 -   Other:
@@ -3194,7 +3205,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 ### U\_HEME\_DIP (Hemoglobin in urine by dipstick)
 
-***NEEDS TO BE UPDATED***
 ***UNDER REVIEW***
 
 -   Common Name: Hemoglobin in urine by dipstick
@@ -3203,10 +3213,16 @@ Prealbumin, microalbumin, urinalysis, liver panel
 -   Panels:
 -   Equivalent Tests:
 -   Not Equivalent Tests:
--   Indications:
--   Description:
+-   Indications: A positive dipstick result might indicate:
+    -   Hematuria: Presence of intact red blood cells. Usually confirmed by seeing >3 RBCs per high-power field under a microscope.
+    -   Hemoglobinuria: Presence of free hemoglobin without red blood cells. Often caused by intravascular hemolysis (breakdown of RBCs in the blood vessels).
+    -   Myoglobinuria: Presence of myoglobin from muscle breakdown (rhabdomyolysis).
+-   Description: A urine dipstick lab test detects hemoglobin by measuring its pseudoperoxidase activity, which catalyzes a color change on a reagent pad. While often referred to as a "blood" test, the dipstick does not distinguish between intact red blood cells, free hemoglobin, and myoglobin.
 -   Related Tests:
--   Approximate Reference Range (Each site will have slight variations):
+-   Approximate Reference Range (Each site will have slight variations):  Possible outcomes of the test are:
+    -   False-Positive	Alkaline urine (pH > 9), semen, or contamination with oxidizing cleaning agents (e.g., bleach/peroxide).
+    -   False-Negative	High concentrations of Vitamin C (ascorbic acid), which inhibits the oxidation reaction.
+    -   Normal Result	Hemoglobin is normally negative in urine.
 -   Comments: Is LOINC 752-2 a dipstick even though the words dipstick or test strip do not appear in the definition?  We are assuming Yes.
 -   Test Method Variance:
 -   Other:
@@ -3354,7 +3370,6 @@ U\_PCR is used when a child shows evidence of significant and persistent protein
 
 ### U\_RBC\_DIP (Erythrocytes in urine by dipstick)
 
-***NEEDS TO BE UPDATED***
 ***UNDER REVIEW***
 
 -   Common Name: Erythrocytes in urine by dipstick
@@ -3363,10 +3378,16 @@ U\_PCR is used when a child shows evidence of significant and persistent protein
 -   Panels:
 -   Equivalent Tests:
 -   Not Equivalent Tests:
--   Indications:
--   Description:
+-   Indications: Some clinical findings that may be found are:
+    -   Hemoglobinuria: Free hemoglobin from red blood cells that have already broken down in the bloodstream.
+    -   Myoglobinuria: Muscle protein released into the urine during muscle injury (e.g., from rhabdomyolysis).
+    -   Contamination: Menstrual blood or dehydration can also cause positive readings.
+-   Description: In a urine dipstick test, the "blood" or "erythrocytes" pad detects the presence of red blood cells (RBCs) through a chemical reaction. A positive result is called dipstick hematuria.
 -   Related Tests:
--   Approximate Reference Range (Each site will have slight variations):
+-   Approximate Reference Range (Each site will have slight variations): Results from dipstick are:
+    -   Negative: No color change; normal.
+    -   Trace: May represent a small number of RBCs (roughly 5–10 cells/µL).
+    -   1+ to 4+ (Small to Large): Increasing intensities of green indicate higher concentrations of blood.
 -   Comments:
 -   Test Method Variance:
 -   Other:
@@ -5211,12 +5232,12 @@ volume (MCV)
     -   Associated CPT:
 
 
-### INF\_A\_PCR (Influenza virus A probe and target amplication)
+### INF\_A\_PCR (Influenza virus A probe and target amplification)
 
 ***UNDER REVIEW***
 
--   Common Name: Influenza virus A probe and target amplication
--   Long Name: Influenza virus A probe and target amplication
+-   Common Name: Influenza virus A probe and target amplification
+-   Long Name: Influenza virus A probe and target amplification
 -   Test Type: INF\_A\_PCR
 -   Panels:
 -   Equivalent Tests:
@@ -5255,7 +5276,6 @@ volume (MCV)
 
 ### INF\_B\_NS (Influenza virus B)
 
-***NEEDS TO BE UPDATED***
 ***UNDER REVIEW***
 
 -   Common Name: Influenza virus B
@@ -5264,10 +5284,14 @@ volume (MCV)
 -   Panels:
 -   Equivalent Tests:
 -   Not Equivalent Tests:
--   Indications:
--   Description:
+-   Indications: Testing is indicated for individuals presenting with acute respiratory illness symptoms, which typically include:
+    -   Abrupt onset of fever, chills, cough, sore throat, or body aches.
+    -   Atypical symptoms, such as confusion in older adults or sepsis-like syndromes in infants.
+    -   Respiratory distress or shortness of breath.
+    -   Gastrointestinal symptoms, such as vomiting and diarrhea, which are more common in children.
+-   Description: An Influenza B lab test is a diagnostic procedure used to detect the presence of the Influenza type B virus in respiratory secretions. These tests are primarily used to confirm a diagnosis, distinguish between flu types A and B, and guide treatment decisions, such as the use of antiviral medications.
 -   Related Tests:
--   Approximate Reference Range (Each site will have slight variations):
+-   Approximate Reference Range (Each site will have slight variations): The normal reference range for these tests is "Not detected" or "Negative".
 -   Comments: LOINCs indicates this is an antigen test
 -   Test Method Variance:
 -   Other:
@@ -5277,7 +5301,6 @@ volume (MCV)
 
 ### INF\_B\_EIA (Influenza virus B immunoassay)
 
-***NEEDS TO BE UPDATED***
 ***UNDER REVIEW***
 
 -   Common Name: Influenza virus B immunoassay
@@ -5286,10 +5309,13 @@ volume (MCV)
 -   Panels:
 -   Equivalent Tests:
 -   Not Equivalent Tests:
--   Indications:
--   Description:
+-   Indications: Testing is indicated for individuals presenting with classic "flu-like" symptoms, including:
+    -   Acute respiratory illness: Sudden onset of cough, sore throat, or runny/stuffy nose, typically with or without fever.
+    -   Systemic symptoms: Fever, chills, muscle/body aches (myalgias), headache, and significant fatigue.
+    -   Atypical presentations: In infants (e.g., sepsis-like syndrome) or older adults (e.g., new-onset confusion), even if typical respiratory symptoms are absent.
+-   Description: An Influenza B immunoassay is a rapid laboratory test used to detect specific viral proteins (antigens) of the influenza B virus in respiratory specimens.
 -   Related Tests:
--   Approximate Reference Range (Each site will have slight variations):
+-   Approximate Reference Range (Each site will have slight variations): The normal reference range for these tests is "Not detected" or "Negative".
 -   Comments: LOINCs indicates this is an antigen test
 -   Test Method Variance:
 -   Other:
@@ -5299,7 +5325,6 @@ volume (MCV)
 
 ### INF\_B\_IF (Influenza virus B immunofluorescence)
 
-***NEEDS TO BE UPDATED***
 ***UNDER REVIEW***
 
 -   Common Name: Influenza virus B immunofluorescence
@@ -5308,10 +5333,13 @@ volume (MCV)
 -   Panels:
 -   Equivalent Tests:
 -   Not Equivalent Tests:
--   Indications:
--   Description:
+-   Indications: Clinicians typically indicate this test in the following scenarios:
+    -   Suspected Influenza Infection: Presentation of symptoms such as fever, cough, sore throat, muscle aches, and fatigue, especially during documented community influenza activity.
+    -   Hospital Admission: Recommended for all patients with suspected influenza being admitted to the hospital to inform infection control and treatment.
+    -   High-Risk Patients: Testing is indicated for individuals at high risk of complications, including:
+-   Description: An Influenza B immunofluorescence lab test (DFA/IFA) quickly detects viral antigens in respiratory swabs by using fluorescently-labeled antibodies that bind to specific influenza B proteins (like nucleoprotein) in infected cells, appearing as yellow-gold glowing cells under a fluorescence microscope for rapid diagnosis, though it's less sensitive than PCR but faster than viral culture.
 -   Related Tests:
--   Approximate Reference Range (Each site will have slight variations):
+-   Approximate Reference Range (Each site will have slight variations): The normal reference range for these tests is "Not detected" or "Negative".
 -   Comments: LOINCs indicates this is an antigen test
 -   Test Method Variance:
 -   Other:
@@ -5319,21 +5347,23 @@ volume (MCV)
     -   Associated CPT:
 
 
-### INF\_B\_PCR (Influenza virus B probe and target amplication)
+### INF\_B\_PCR (Influenza virus B probe and target amplification)
 
-***NEEDS TO BE UPDATED***
 ***UNDER REVIEW***
 
--   Common Name: Influenza virus B probe and target amplication
--   Long Name: Influenza virus B probe and target amplication
+-   Common Name: Influenza virus B probe and target amplification
+-   Long Name: Influenza virus B probe and target amplification
 -   Test Type: INF\_B\_PCR
 -   Panels:
 -   Equivalent Tests:
 -   Not Equivalent Tests:
--   Indications:
--   Description:
+-   Indications: Hospitalized Patients: Testing is recommended for all patients with suspected influenza who are being admitted to the hospital.
+    -   High-Risk Outpatients: For patients at higher risk of complications who present with influenza-like illness, pneumonia, or nonspecific respiratory symptoms.
+    -   Outbreak Management: To identify the cause of a respiratory illness outbreak in closed settings like hospitals, long-term care facilities, or schools.
+    -   Confirmation of Other Tests: To confirm a negative rapid antigen test result when community influenza activity is high, or to confirm a positive result when activity is low.
+-   Description: The Influenza virus B probe and target amplification test is a molecular diagnostic tool used for the qualitative detection and differentiation of influenza B viral RNA in respiratory specimens. These tests, often referred to as Nucleic Acid Amplification Tests (NAATs), are considered the gold standard for influenza diagnosis due to their high sensitivity and specificity.
 -   Related Tests:
--   Approximate Reference Range (Each site will have slight variations):
+-   Approximate Reference Range (Each site will have slight variations): The normal reference range for these tests is "Not detected" or "Negative".
 -   Comments: Viral RNA test
 -   Test Method Variance:
 -   Other:
@@ -5343,7 +5373,6 @@ volume (MCV)
 
 ### INF\_AB\_NS (Influenza virus A+B)
 
-***NEEDS TO BE UPDATED***
 ***UNDER REVIEW***
 
 -   Common Name: Influenza virus A+B
@@ -5352,10 +5381,13 @@ volume (MCV)
 -   Panels:
 -   Equivalent Tests:
 -   Not Equivalent Tests:
--   Indications:
--   Description:
+-   Indications: Common symptoms are:
+    -   Respiratory Symptoms: Abrupt onset of cough, sore throat, runny or stuffy nose, and difficulty breathing.
+    -   Systemic Symptoms: Fever (though not always present), chills, extreme fatigue, muscle or body aches, and headaches.
+    -   Atypical Symptoms: Confusion in older adults, or vomiting and diarrhea, which are more common in children.
+-   Description: Influenza A+B lab tests are diagnostic procedures used to detect and differentiate between the two main types of seasonal influenza viruses. These tests are critical for guiding clinical treatment, such as the administration of antivirals like Tamiflu within the effective 48-hour window.
 -   Related Tests:
--   Approximate Reference Range (Each site will have slight variations):
+-   Approximate Reference Range (Each site will have slight variations): The normal reference range for these tests is "Not detected" or "Negative".
 -   Comments: Only use INF\_AB\_NS if one of the LOINCs listed here is in the data stream.  LOINCs indicates this is an antigen test
 -   Test Method Variance:
 -   Other:
@@ -5365,7 +5397,6 @@ volume (MCV)
 
 ### INF\_AB\_EIA (Influenza virus A+B immunoassay)
 
-***NEEDS TO BE UPDATED***
 ***UNDER REVIEW***
 
 -   Common Name: Influenza virus A+B immunoassay
@@ -5374,10 +5405,10 @@ volume (MCV)
 -   Panels:
 -   Equivalent Tests:
 -   Not Equivalent Tests:
--   Indications:
--   Description:
+-   Indications: Influenza A+B immunoassay (rapid antigen) tests are indicated for patients with acute respiratory illness (fever, cough, sore throat, headache, myalgia) to guide treatment, especially for high-risk individuals, during active influenza season.
+-   Description: An influenza virus A+B immunoassay is a rapid, qualitative lateral flow test that detects viral nucleoprotein antigens from respiratory samples (nasal/throat swabs, washes) within 15 minutes. It differentiates between Influenza A and B, aiding in immediate diagnosis, but cannot distinguish subtypes. The test uses specific antibodies on a cassette, producing colored lines for positive results.
 -   Related Tests:
--   Approximate Reference Range (Each site will have slight variations):
+-   Approximate Reference Range (Each site will have slight variations): The normal reference range for these tests is "Not detected" or "Negative".
 -   Comments: Only use INF\_AB\_EIA if the LOINC listed here is in the data stream.  LOINC indicates this is an antigen test.
 -   Test Method Variance:
 -   Other:
@@ -5387,7 +5418,6 @@ volume (MCV)
 
 ### INF\_AB\_IF (Influenza virus A+B immunofluorescence)
 
-***NEEDS TO BE UPDATED***
 ***UNDER REVIEW***
 
 -   Common Name: Influenza virus A+B immunofluorescence
@@ -5396,10 +5426,10 @@ volume (MCV)
 -   Panels:
 -   Equivalent Tests:
 -   Not Equivalent Tests:
--   Indications:
--   Description:
+-   Indications: Influenza A+B immunofluorescence tests are indicated for patients with acute respiratory illness (fever, cough, sore throat, headache, myalgia) to guide treatment, especially for high-risk individuals, during active influenza season.
+-   Description: An Influenza A+B immunofluorescence (IF) test is a rapid diagnostic assay that detects influenza antigens in respiratory specimens (nasal/throat swabs) using fluorescently labeled antibodies, providing results in 1–4 hours. It uses a fluorescent microscope to distinguish influenza A (apple-green fluorescence) from influenza B (yellow-gold) with moderate-to-high sensitivity.
 -   Related Tests:
--   Approximate Reference Range (Each site will have slight variations):
+-   Approximate Reference Range (Each site will have slight variations): The normal reference range for these tests is "Not detected" or "Negative".
 -   Comments: Only use INF\_AB\_IF if the LOINC listed here is in the data stream.  LOINC indicates this is an antigen test.
 -   Test Method Variance:
 -   Other:
@@ -5407,21 +5437,20 @@ volume (MCV)
     -   Associated CPT:
 
 
-### INF\_AB\_PCR (Influenza virus A+B probe and target amplication)
+### INF\_AB\_PCR (Influenza virus A+B probe and target amplification)
 
-***NEEDS TO BE UPDATED***
 ***UNDER REVIEW***
 
--   Common Name: Influenza virus A+B probe and target amplication
--   Long Name: Influenza virus A+B probe and target amplication
+-   Common Name: Influenza virus A+B probe and target amplification
+-   Long Name: Influenza virus A+B probe and target amplification
 -   Test Type: INF\_AB\_PCR
 -   Panels:
 -   Equivalent Tests:
 -   Not Equivalent Tests:
--   Indications:
--   Description:
+-   Indications: Influenza A+B probe and target amplification tests are indicated for patients with acute respiratory illness (fever, cough, sore throat, headache, myalgia) to guide treatment, especially for high-risk individuals, during active influenza season.
+-   Description: An Influenza A+B probe and target amplification PCR test (commonly Reverse Transcription-PCR or RT-PCR) is a highly sensitive and specific molecular assay designed to detect and differentiate influenza A and B viral RNA in respiratory specimens. It uses fluorescent-labeled probes to detect amplified genetic material, providing rapid, qualitative results.
 -   Related Tests:
--   Approximate Reference Range (Each site will have slight variations):
+-   Approximate Reference Range (Each site will have slight variations): The normal reference range for these tests is "Not detected" or "Negative".
 -   Comments: Only use INF\_AB\_PCR if one of the LOINCs listed here is in the data stream.  62462-7 is Viral RNA test.
 -   Test Method Variance:
 -   Other:
@@ -5431,7 +5460,6 @@ volume (MCV)
 
 ### INF\_NS\_VTC (Influenza virus not specified organism-specific culture)
 
-***NEEDS TO BE UPDATED***
 ***UNDER REVIEW***
 
 -   Common Name: Influenza virus not specified organism-specific culture
@@ -5440,10 +5468,10 @@ volume (MCV)
 -   Panels:
 -   Equivalent Tests:
 -   Not Equivalent Tests:
--   Indications:
--   Description:
+-   Indications: Influenza virus testing is indicated for patients with acute respiratory illness (fever, cough, sore throat, fatigue) when results will guide clinical management, such as initiating antiviral therapy, reducing unnecessary diagnostic testing, or implementing infection control. Testing is highly recommended for hospitalized patients, those at high risk for complications, or during outbreaks in closed settings.
+-   Description: An influenza virus organism-specific test is a diagnostic method designed to identify the presence of the influenza virus and often determine its specific type (A or B) or subtype (e.g., H1N1, H3N2) in a clinical specimen.
 -   Related Tests:
--   Approximate Reference Range (Each site will have slight variations):
+-   Approximate Reference Range (Each site will have slight variations): The normal reference range for these tests is "Not detected" or "Negative".
 -   Comments:
 -   Test Method Variance:
 -   Other:
@@ -5453,7 +5481,6 @@ volume (MCV)
 
 ### INF\_NS\_NS (Influenza virus not specified method not specified)
 
-***NEEDS TO BE UPDATED***
 ***UNDER REVIEW***
 
 -   Common Name:
@@ -5462,10 +5489,10 @@ volume (MCV)
 -   Panels:
 -   Equivalent Tests:
 -   Not Equivalent Tests:
--   Indications:
--   Description:
+-   Indications: Influenza virus testing is indicated for patients with acute respiratory illness (fever, cough, sore throat, fatigue) when results will guide clinical management, such as initiating antiviral therapy, reducing unnecessary diagnostic testing, or implementing infection control. Testing is highly recommended for hospitalized patients, those at high risk for complications, or during outbreaks in closed settings.
+-   Description: An influenza (flu) test is a medical procedure used to determine if a person's respiratory symptoms—such as fever, cough, and body aches—are caused by an influenza virus. The process typically involves collecting a fluid sample from the respiratory tract using a sterile swab.
 -   Related Tests:
--   Approximate Reference Range (Each site will have slight variations):
+-   Approximate Reference Range (Each site will have slight variations): The normal reference range for these tests is "Not detected" or "Negative".
 -   Comments:
 -   Test Method Variance:
 -   Other:
@@ -5475,7 +5502,6 @@ volume (MCV)
 
 ### INF\_NS\_PCR (Influenza virus not specified probe and target amplification)
 
-***NEEDS TO BE UPDATED***
 ***UNDER REVIEW***
 
 -   Common Name:
@@ -5484,10 +5510,10 @@ volume (MCV)
 -   Panels:
 -   Equivalent Tests:
 -   Not Equivalent Tests:
--   Indications:
--   Description:
+-   Indications: Influenza virus testing is indicated for patients with acute respiratory illness (fever, cough, sore throat, fatigue) when results will guide clinical management, such as initiating antiviral therapy, reducing unnecessary diagnostic testing, or implementing infection control. Testing is highly recommended for hospitalized patients, those at high risk for complications, or during outbreaks in closed settings.
+-   Description: A PCR (polymerase chain reaction) influenza test is a highly sensitive and specific molecular diagnostic tool that detects the genetic material (RNA) of influenza A and B viruses in respiratory samples. It is more accurate than rapid antigen tests, often providing results in 15-30 minutes for rapid molecular assays or within a few hours for laboratory-based tests.
 -   Related Tests:
--   Approximate Reference Range (Each site will have slight variations):
+-   Approximate Reference Range (Each site will have slight variations): The normal reference range for these tests is "Not detected" or "Negative".
 -   Comments:
 -   Test Method Variance:
 -   Other:
@@ -5500,7 +5526,6 @@ volume (MCV)
 
 ### SARS\_COV\_2\_AB\_IGA (SARS-CoV-2 (COVID19) IgA Ab [Presence] in Serum, Plasma or Blood by Immunoassay)
 
-***NEEDS TO BE UPDATED***
 ***UNDER REVIEW***
 
 -   Common Name: SARS-CoV-2 (COVID19) IgA Ab [Presence] in Serum, Plasma or Blood by Immunoassay
@@ -5509,10 +5534,10 @@ volume (MCV)
 -   Panels:
 -   Equivalent Tests:
 -   Not Equivalent Tests:
--   Indications:
--   Description:
+-   Indications: IgA antibody tests for COVID-19 (SARS-CoV-2) are primarily indicated for identifying early infection, assessing immune response to vaccination or infection (particularly in mucosal areas like saliva), and investigating potential, less common, post-acute complications. IgA is often used as a complement to IgG and IgM testing because it appears rapidly, sometimes within 2-5 days of symptom onset.
+-   Description: An IgA (Immunoglobulin A) antibody test for COVID-19 detects specific antibodies in the blood, saliva, or mucus that appear early in the immune response to SARS-CoV-2. It helps identify recent or acute infection, particularly when PCR tests are negative, and is valuable for evaluating mucosal immunity, though it is not used to confirm active infection.
 -   Related Tests:
--   Approximate Reference Range (Each site will have slight variations):
+-   Approximate Reference Range (Each site will have slight variations): IgA antibody tests for COVID-19 are generally reported as a ratio of the sample to a calibrator, not a simple numerical range. Results are typically defined as negative (ratio < 0.8), borderline (0.8 to 1.0), or positive (ratio <span class="underline">></span> 1.1), appearing 5–7 days post-infection.
 -   Comments:
 -   Test Method Variance:
 -   Other:
@@ -5522,7 +5547,6 @@ volume (MCV)
 
 ### SARS\_COV\_2\_AB\_IGG (SARS-CoV-2 (COVID19) IgG Ab [Presence] in Serum, Plasma or Blood by Immunoassay)
 
-***NEEDS TO BE UPDATED***
 ***UNDER REVIEW***
 
 -   Common Name: SARS-CoV-2 (COVID19) IgG Ab [Presence] in Serum, Plasma or Blood by Immunoassay
@@ -5531,11 +5555,11 @@ volume (MCV)
 -   Panels:
 -   Equivalent Tests:
 -   Not Equivalent Tests:
--   Indications:
--   Description:
+-   Indications: An IgG antibody COVID-19 test is primarily indicated for identifying individuals with an adaptive immune response to the SARS-CoV-2 virus, which suggests a previous or recent infection. Because antibodies take time to develop, it is generally indicated at least 14 days after symptom onset.
+-   Description: A COVID-19 IgG antibody test is a blood test that detects specific IgG antibodies, indicating a past infection with the SARS-CoV-2 virus or response to vaccination, rather than an active, current infection. These antibodies typically appear 1–3 weeks after infection.
 -   Related Tests:
--   Approximate Reference Range (Each site will have slight variations):
--   Comments:
+-   Approximate Reference Range (Each site will have slight variations): SARS-CoV-2 IgG antibody test reference ranges vary by manufacturer, but typically a result of greater than or equal to 50 AU/mL.
+-   Comments: These tests measure response to the virus's Spike protein, but do not determine immunity.
 -   Test Method Variance:
 -   Other:
     -   Associated LOINC: 94505-5, 94507-1, 94563-4, 94761-4, 95429-7,96742-2, 99596-9, 99597-7
@@ -5544,7 +5568,6 @@ volume (MCV)
 
 ### SARS\_COV\_2\_AB\_IGM (SARS-CoV-2 (COVID19) IgM Ab [Presence] in Serum, Plasma or Blood by Immunoassay)
 
-***NEEDS TO BE UPDATED***
 ***UNDER REVIEW***
 
 -   Common Name: SARS-CoV-2 (COVID19) IgM Ab [Presence] in Serum, Plasma or Blood by Immunoassay
@@ -5553,11 +5576,11 @@ volume (MCV)
 -   Panels:
 -   Equivalent Tests:
 -   Not Equivalent Tests:
--   Indications:
--   Description:
+-   Indications: An IgM antibody test for COVID-19 is primarily used to identify a recent or prior infection by detecting the body's early immune response to the SARS-CoV-2 virus.
+-   Description: An IgM antibody COVID-19 test is a blood-based immunoassay designed to detect the first, short-term antibodies produced by the immune system in response to a SARS-CoV-2 infection. Often part of a rapid lateral flow test, it identifies recent exposure, typically appearing within 1-2 weeks of infection.
 -   Related Tests:
--   Approximate Reference Range (Each site will have slight variations):
--   Comments:
+-   Approximate Reference Range (Each site will have slight variations): Often set at 10 AU/mL
+-   Comments: Do not confuse COVID-specific tests with a "Total IgM" blood test, which has a normal reference range of 40 to 250 mg/dL and measures overall immune health.
 -   Test Method Variance:
 -   Other:
     -   Associated LOINC: 94506-3, 94508-9, 94564-2, 95416-4, 95428-9
@@ -5566,7 +5589,6 @@ volume (MCV)
 
 ### SARS\_COV\_2\_AB\_IGMA (SARS-CoV-2 (COVID19) IgA+IgM [Presence] in Serum or Plasma by Immunoassay)
 
-***NEEDS TO BE UPDATED***
 ***UNDER REVIEW***
 
 -   Common Name: SARS-CoV-2 (COVID19) IgA+IgM [Presence] in Serum or Plasma by Immunoassay
@@ -5575,11 +5597,11 @@ volume (MCV)
 -   Panels:
 -   Equivalent Tests:
 -   Not Equivalent Tests:
--   Indications:
--   Description:
+-   Indications: IgA and IgM COVID-19 antibody tests are indicated for the early detection of acute SARS-CoV-2 infection, typically 5–7 days post-symptom onset. They are useful when RT-PCR results are uncertain or unavailable, particularly because IgA may detect infections earlier than IgM, with studies showing high sensitivity in the first week.
+-   Description: An IgA/IgM COVID-19 test is a serological antibody test that detects specific antibodies produced by the immune system in response to SARS-CoV-2 infection.
 -   Related Tests:
--   Approximate Reference Range (Each site will have slight variations):
--   Comments:
+-   Approximate Reference Range (Each site will have slight variations): No standard reference range, results are Positive or Negative.
+-   Comments: IgA and IgM COVID-19 tests do not have a standard "reference range" like blood tests; they are typically reported as Positive (Reactive) or Negative (Non-reactive) based on a cut-off index (COI) determined by the specific laboratory's assay.
 -   Test Method Variance:
 -   Other:
     -   Associated LOINC: 95125-1
@@ -5588,7 +5610,6 @@ volume (MCV)
 
 ### SARS\_COV\_2\_AB\_IGMG (SARS-CoV-2 (COVID19) IgG+IgM Ab [Presence] in Serum or Plasma by Immunoassay)
 
-***NEEDS TO BE UPDATED***
 ***UNDER REVIEW***
 
 -   Common Name: SARS-CoV-2 (COVID19) IgG+IgM Ab [Presence] in Serum or Plasma by Immunoassay
@@ -5597,10 +5618,10 @@ volume (MCV)
 -   Panels:
 -   Equivalent Tests:
 -   Not Equivalent Tests:
--   Indications:
--   Description:
+-   Indications: IgA/IgM COVID-19 antibody tests are used to detect recent infection or immune response, typically appearing within days to weeks after exposure or vaccination. Primary indications include aiding in the diagnosis of MIS-C/MIS-A (Multisystem Inflammatory Syndrome in Children/Adults). They are not used to diagnose acute infection.
+-   Description: An IgA/IgM antibody test for COVID-19 is a blood-based serology test designed to detect early-to-mid-stage immune responses to SARS-CoV-2. IgM acts as the initial antibody response, while IgA plays a key role in mucosal immunity.
 -   Related Tests:
--   Approximate Reference Range (Each site will have slight variations):
+-   Approximate Reference Range (Each site will have slight variations): The results are not reported as a numeric result.  Results are positive if the test is above a manufacturer's index.
 -   Comments:
 -   Test Method Variance:
 -   Other:
@@ -5610,7 +5631,6 @@ volume (MCV)
 
 ### SARS\_COV\_2\_AB\_NEUT (SARS-CoV-2 (COVID19) neutralizing antibody in Serum or Plasma)
 
-***NEEDS TO BE UPDATED***
 ***UNDER REVIEW***
 
 -   Common Name: SARS-CoV-2 (COVID19) neutralizing antibody in Serum or Plasma
@@ -5619,10 +5639,10 @@ volume (MCV)
 -   Panels:
 -   Equivalent Tests:
 -   Not Equivalent Tests:
--   Indications:
--   Description:
+-   Indications: Neutralizing antibody COVID-19 tests, which measure the ability of antibodies to inhibit SARS-CoV-2 in cell cultures, are primarily used for research and clinical studies rather than routine diagnosis. They are generally indicated for assessing immune response following vaccination or infection, or evaluating immune protection in immunocompromised individuals.
+-   Description: A neutralizing antibody COVID-19 test is a specialized blood test that measures the presence of antibodies capable of inhibiting the SARS-CoV-2 virus from infecting cells, unlike standard antibody tests that only detect binding antibodies. These tests assess the functional ability of immune system proteins to block the virus.
 -   Related Tests:
--   Approximate Reference Range (Each site will have slight variations):
+-   Approximate Reference Range (Each site will have slight variations): the test threshold is >22 IU/mL, >34.47 IU/mL
 -   Comments: Test\_Type value originally contained NUET. Corrected to NEUT on 10/15/2021.
 -   Test Method Variance:
 -   Other:
@@ -5632,7 +5652,6 @@ volume (MCV)
 
 ### SARS\_COV\_2\_AB\_NEUT\_P (Percent neutralization by SARS-CoV-2 spike protein RBD neutralizing antibody-Serum/Plasma)
 
-***NEEDS TO BE UPDATED***
 ***UNDER REVIEW***
 
 -   Common Name: Percent neutralization by SARS-CoV-2 spike protein RBD neutralizing antibody-Serum/Plasma
@@ -5641,10 +5660,10 @@ volume (MCV)
 -   Panels:
 -   Equivalent Tests:
 -   Not Equivalent Tests:
--   Indications:
--   Description:
+-   Indications: The primary indication for a SARS-CoV-2 spike protein RBD neutralizing antibody test is to identify an adaptive immune response to the virus, which indicates a recent or prior infection. Unlike standard antibody tests that only detect if antibodies are present (binding antibodies), this specific test measures "functional" antibodies that can actively block the virus from entering cells.
+-   Description: The SARS-CoV-2 spike protein RBD neutralizing antibody-serum/plasma test measures the ability of antibodies to block the interaction between the viral receptor-binding domain (RBD) and the human ACE2 receptor. Percentage neutralization (% inhibition) indicates the proportion of this binding interaction blocked, with higher percentages reflecting stronger neutralizing potency.
 -   Related Tests:
--   Approximate Reference Range (Each site will have slight variations):
+-   Approximate Reference Range (Each site will have slight variations):  a negative result as less than 20% to 30% inhibition over 30% is a positive result
 -   Comments: Test\_Type value originally contained NUET. Corrected to NEUT on 10/15/2021.
 -   Test Method Variance:
 -   Other:
@@ -5654,7 +5673,6 @@ volume (MCV)
 
 ### SARS\_COV\_2\_AB\_NEUT\_T (SARS-CoV-2 (COVID-19) S protein RBD neutralizing antibody [Titer] in Serum or Plasma by Immunoassay)
 
-***NEEDS TO BE UPDATED***
 ***UNDER REVIEW***
 
 -   Common Name: SARS-CoV-2 (COVID-19) S protein RBD neutralizing antibody [Titer] in Serum or Plasma by Immunoassay
@@ -5663,10 +5681,10 @@ volume (MCV)
 -   Panels:
 -   Equivalent Tests:
 -   Not Equivalent Tests:
--   Indications:
--   Description:
+-   Indications: SARS-CoV-2 neutralizing antibody (NAb) titer tests are primarily used to assess the functional immune response rather than for routine diagnosis of a current infection.
+-   Description: A SARS-CoV-2 spike protein RBD neutralizing antibody serum/plasma test measures the concentration (titer) of antibodies that specifically block the receptor-binding domain (RBD) from attaching to host cell ACE2 receptors. High titers indicate stronger protection, often determined by plaque reduction neutralization tests (PRNT) or surrogate ELISA-based assays that measure the inhibition of virus-host cell interaction.
 -   Related Tests:
--   Approximate Reference Range (Each site will have slight variations):
+-   Approximate Reference Range (Each site will have slight variations): Positive: ≥ 0.80 U/mL is a common threshold
 -   Comments: Test\_Type value originally contained NUET. Corrected to NEUT on 10/15/2021.
 -   Test Method Variance:
 -   Other:
@@ -5676,7 +5694,6 @@ volume (MCV)
 
 ### SARS\_COV\_2\_AB\_TOT (SARS-CoV-2 (COVID19) Ab in Serum, Plasma or Saliva)
 
-***NEEDS TO BE UPDATED***
 ***UNDER REVIEW***
 
 -   Common Name: SARS-CoV-2 (COVID19) Ab in Serum, Plasma or Saliva
@@ -5685,10 +5702,10 @@ volume (MCV)
 -   Panels:
 -   Equivalent Tests:
 -   Not Equivalent Tests:
--   Indications:
--   Description:
+-   Indications: The primary indication for a COVID-19 antibody test is to identify individuals with an adaptive immune response to SARS-CoV-2, which suggests a prior infection or vaccination.
+-   Description: A COVID-19 antibody test (also known as a serology test) is a blood test used to determine if your body has developed an immune response to the SARS-CoV-2 virus from a previous infection or vaccination. Unlike diagnostic "viral tests" (PCR or antigen tests), it cannot detect a current, active infection.
 -   Related Tests:
--   Approximate Reference Range (Each site will have slight variations):
+-   Approximate Reference Range (Each site will have slight variations): Positive: ≥ 0.80 U/mL is a common threshold
 -   Comments:
 -   Test Method Variance:
 -   Other:
@@ -5698,7 +5715,6 @@ volume (MCV)
 
 ### SARS\_COV\_2\_IA (SARS-CoV-2 (COVID19) Ag [Presence] in Respiratory specimen by Rapid immunoassay)
 
-***NEEDS TO BE UPDATED***
 ***UNDER REVIEW***
 
 -   Common Name: SARS-CoV-2 (COVID19) Ag [Presence] in Respiratory specimen by Rapid immunoassay
@@ -5707,10 +5723,10 @@ volume (MCV)
 -   Panels:
 -   Equivalent Tests:
 -   Not Equivalent Tests:
--   Indications:
--   Description:
+-   Indications: A rapid COVID-19 antigen immunoassay test is indicated for several diagnostic and screening scenarios, primarily to identify current active infection when viral load is highest and symptoms are present.
+-   Description: A COVID-19 rapid antigen (Ag) test is a lateral flow immunoassay used to qualitatively detect specific viral proteins (antigens) from the SARS-CoV-2 virus, most commonly the nucleocapsid (N) protein. It provides results quickly, typically within 15 to 30 minutes, and is commonly used for both at-home self-testing and point-of-care diagnosis.
 -   Related Tests:
--   Approximate Reference Range (Each site will have slight variations):
+-   Approximate Reference Range (Each site will have slight variations): positive/reative is > .80 U/mL
 -   Comments:
 -   Test Method Variance:
 -   Other:
@@ -5720,7 +5736,6 @@ volume (MCV)
 
 ### SARS\_COV\_2\_NS (SARS-CoV-2 (COVID19) unspecified or other specimen or method)
 
-***NEEDS TO BE UPDATED***
 ***UNDER REVIEW***
 
 -   Common Name: SARS-CoV-2 (COVID19)
@@ -5729,10 +5744,10 @@ volume (MCV)
 -   Panels:
 -   Equivalent Tests:
 -   Not Equivalent Tests:
--   Indications:
--   Description:
+-   Indications: Common Symptoms: Fever or chills, cough, shortness of breath, fatigue, muscle aches, new loss of taste or smell, sore throat, congestion, nausea, or diarrhea.
+-   Description: COVID-19 tests, including rapid antigen and molecular PCR tests, detect the SARS-CoV-2 virus to diagnose infection.
 -   Related Tests:
--   Approximate Reference Range (Each site will have slight variations):
+-   Approximate Reference Range (Each site will have slight variations): Test reference ranges vary by the type of test.
 -   Comments:
 -   Test Method Variance:
 -   Other:
@@ -5742,7 +5757,6 @@ volume (MCV)
 
 ### SARS\_COV\_2\_NAAT (SARS-CoV-2 (COVID19) (Nucleic Acid Amp Testing or gene presence in Resp, ser/plas or unspec specimen)
 
-***NEEDS TO BE UPDATED***
 ***UNDER REVIEW***
 
 -   Common Name: SARS-CoV-2 (COVID19) (Nucleic Acid Amp Testing or gene presence in Resp, ser/plas or unspec specimen
@@ -5751,10 +5765,10 @@ volume (MCV)
 -   Panels:
 -   Equivalent Tests:
 -   Not Equivalent Tests:
--   Indications:
--   Description:
+-   Indications: Indications for a COVID-19 Nucleic Acid Amplification Test (NAAT) primarily focus on diagnosing current infection in both symptomatic and asymptomatic individuals.
+-   Description: A COVID-19 Nucleic Acid Amplification Test (NAAT) is a highly sensitive diagnostic test that detects the genetic material (RNA) of the SARS-CoV-2 virus from respiratory samples, such as nasal swabs. It works by amplifying, or creating many copies of, the virus's genetic material if present, making it a reliable, high-accuracy method for detecting current infections.
 -   Related Tests:
--   Approximate Reference Range (Each site will have slight variations):
+-   Approximate Reference Range (Each site will have slight variations): Doesn't provide a quantitative result
 -   Comments:
 -   Test Method Variance:
 -   Other:
@@ -5764,7 +5778,6 @@ volume (MCV)
 
 ### SARS\_COV\_2\_T\_STIM (SARS\_CoV-2 stimulated gamma interferon release by Helper CD4+ T-cells [Units/volume] by Immunoassay)
 
-***NEEDS TO BE UPDATED***
 ***UNDER REVIEW***
 
 -   Common Name: SARS\_CoV-2 stimulated gamma interferon release by Helper CD4+ T-cells [Units/volume] by Immunoassay
@@ -5773,10 +5786,13 @@ volume (MCV)
 -   Panels:
 -   Equivalent Tests:
 -   Not Equivalent Tests:
--   Indications:
--   Description:
+-   Indications: While not typically used for diagnosing an acute infection, the SARS-CoV-2 IGRA is indicated for evaluating a patient's long-term cellular immune status. It is particularly useful in clinical scenarios where standard antibody tests are insufficient or unreliable.
+-   Description: A COVID-19 SARS-CoV-2 IGRA (Interferon-Gamma Release Assay) is a specialized blood test that measures the cell-mediated immune response of T-cells, particularly Helper CD4+ T-cells, to the virus. Unlike standard antibody tests that look for proteins in the blood, this test evaluates the ability of "memory" T-cells to recognize and react to specific SARS-CoV-2 viral components. The test uses synthetic peptide pools (often from the Spike (S) and Nucleocapsid (N) proteins) to stimulate T-cells in a whole blood sample.
 -   Related Tests:
 -   Approximate Reference Range (Each site will have slight variations):
+    -   Negative: <100 mIU/mL (suggests no detectable T-cell response to SARS-CoV-2).
+    -   Borderline: 100–200 mIU/mL (requires interpretation or repeat testing).
+    -   Positive: >200 mIU/mL (indicates T-cell reactivity).
 -   Comments:
 -   Test Method Variance:
 -   Other:
@@ -5786,7 +5802,6 @@ volume (MCV)
 
 ### SARS\_COV\_2\_VAR (SARS-CoV-2 (COVID-19) variant [Type] in Specimen)
 
-***NEEDS TO BE UPDATED***
 ***UNDER REVIEW***
 
 -   Common Name: SARS-CoV-2 (COVID-19) variant [Type] in Specimen
@@ -5795,10 +5810,10 @@ volume (MCV)
 -   Panels:
 -   Equivalent Tests:
 -   Not Equivalent Tests:
--   Indications:
--   Description:
+-   Indications: Testing for a specific SARS-CoV-2 variant (genomic sequencing) is distinct from a standard diagnostic test. While anyone can take a standard test to see if they have COVID-19, testing to identify the type of variant is typically reserved for broader public health and clinical research purposes.
+-   Description: SARS-CoV-2 variants are identified by analyzing the virus's genetic sequence within a specimen using genomic surveillance. CDC scientists use this genetic data alongside observed characteristics (phenotypic data) to classify variants based on their relationships, tracking how they evolve and ensuring tests, treatments, and vaccines remain effective.
 -   Related Tests:
--   Approximate Reference Range (Each site will have slight variations):
+-   Approximate Reference Range (Each site will have slight variations): Variant testing (genomic sequencing) is a qualitative analysis used to identify a specific viral lineage; therefore, it does not have a traditional "normal reference range" like a blood sugar or cholesterol test.
 -   Comments:
 -   Test Method Variance:
 -   Other:
@@ -5808,7 +5823,6 @@ volume (MCV)
 
 ### SARS\_COV\_2\_VL (SARS-CoV-2 (COVID-19) N gene [#/volume] (viral load) in Resp specimen by NAA with probe detection)
 
-***NEEDS TO BE UPDATED***
 ***UNDER REVIEW***
 
 -   Common Name: SARS-CoV-2 (COVID-19) N gene [#/volume] (viral load) in Resp specimen by NAA with probe detection
@@ -5817,10 +5831,13 @@ volume (MCV)
 -   Panels:
 -   Equivalent Tests:
 -   Not Equivalent Tests:
--   Indications:
--   Description:
+-   Indications: This quantitative test is primarily indicated for diagnosing and managing active SARS-CoV-2 infections. Because it measures the specific amount of viral RNA (the "viral load") rather than just confirming its presence, it is used in clinical, research, and public health settings.
+-   Description: This laboratory test measures the viral load of the SARS-CoV-2 (COVID-19) nucleocapsid (N) gene in a respiratory specimen using Nucleic Acid Amplification (NAA) with probe-based detection. It provides a quantitative count of viral RNA copies per unit volume of the sample.
 -   Related Tests:
--   Approximate Reference Range (Each site will have slight variations):
+-   Approximate Reference Range (Each site will have slight variations): There is no universal "normal" range for an infected person, clinicians often categorize viral loads based on Cycle Threshold (Ct) values to assess infectiousness.
+    -   High Viral Load: Often defined as a Ct value below 25 (roughly >1,000,000 copies/mL).
+    -   Moderate Viral Load: Typically a Ct value between 25 and 30.
+    -   Low Viral Load: Generally a Ct value above 30 (fewer than 1,000 copies/mL).
 -   Comments:
 -   Test Method Variance:
 -   Other:
@@ -5830,7 +5847,6 @@ volume (MCV)
 
 ### SARS\_COV\_2\_VL\_LOG (SARS-CoV-2 (COVID19) RNA [Log #/volume] (viral load))
 
-***NEEDS TO BE UPDATED***
 ***UNDER REVIEW***
 
 -   Common Name: SARS-CoV-2 (COVID19) RNA [Log #/volume] (viral load)
@@ -5839,10 +5855,13 @@ volume (MCV)
 -   Panels:
 -   Equivalent Tests:
 -   Not Equivalent Tests:
--   Indications:
--   Description:
+-   Indications: While most COVID-19 PCR tests provide a simple "positive" or "negative" result, a quantitative RNA viral load test is typically indicated in specialized clinical or research scenarios.
+-   Description: A SARS-CoV-2 RNA viral load test is a highly sensitive diagnostic tool—most commonly a PCR test—that detects and measures the amount of genetic material (RNA) of the virus in a clinical sample, typically collected via nasal or throat swab. These tests are essential for confirming active infection, often by identifying minute amounts of the virus, making them more precise than antigen tests.
 -   Related Tests:
--   Approximate Reference Range (Each site will have slight variations):
+-   Approximate Reference Range (Each site will have slight variations): Because viral loads can span nine orders of magnitude (from under 100 to over 1 billion copies/mL), results are typically binned into broad categories: 
+    -   High Viral Load: Usually defined as >1,000,000 (10⁶) copies/mL or a Ct value <25. This level is strongly associated with active shedding of infectious virus.
+    -   Intermediate/Moderate: Often between 10,000 and 1,000,000 copies/mL or Ct values 26–30.
+    -   Low Viral Load: Often <10,000 (10⁴) copies/mL or Ct values >31. At this level, the risk of transmission is significantly lower, and the sample may contain only "dead" viral fragments.
 -   Comments:
 -   Test Method Variance:
 -   Other:
@@ -5857,7 +5876,6 @@ volume (MCV)
 
 1.  U\_CODEINE\_CNF (Codeine in Urine by Confirmation)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Codeine in Urine by Confirmation
@@ -5866,10 +5884,14 @@ volume (MCV)
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
+    -   Indications: The clinical indications for a urine codeine confirmation lab test are:
+        -   Pain Management Monitoring: Ensuring compliance for patients prescribed codeine for chronic or post-surgical pain MedlinePlus.
+        -   Substance Use Disorder Treatment: Monitoring abstinence or detecting unauthorized use during recovery programs NIDA.
+        -   Emergency Assessment: Identifying potential causes for altered mental status, unexplained seizures, or suspected opioid overdose PMC.
+        -   Signs of Misuse: Behavioral changes, such as seeking early refills, social withdrawal, or physiological signs like constricted pupils and flushed skin MedlinePlus.
     -   Description: In forensic and clinical settings, a urine drug test for codeine is performed in two steps: an initial immunoassay (IA) screening, followed by a highly sensitive and specific confirmation method, typically mass spectrometry. This two-tiered approach ensures accuracy and helps rule out false positives.  The immunoassay uses antibodies that bind to a specific drug or its metabolites, triggering a color change or other signal if the drug is present above a set cutoff level.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Common Cutoff Levels: 20 ng/mL, 25 ng/mL, or 50 ng/mL.
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
@@ -5878,7 +5900,6 @@ volume (MCV)
 
 2.  U\_CODEINE\_SCR (Codeine in Urine by Screen)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Codeine in Urine by Screen method
@@ -5887,10 +5908,14 @@ volume (MCV)
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The clinical indications for a urine codeine confirmation lab test are:
+        -   Pain Management Monitoring: Ensuring compliance for patients prescribed codeine for chronic or post-surgical pain MedlinePlus.
+        -   Substance Use Disorder Treatment: Monitoring abstinence or detecting unauthorized use during recovery programs NIDA.
+        -   Emergency Assessment: Identifying potential causes for altered mental status, unexplained seizures, or suspected opioid overdose PMC.
+        -   Signs of Misuse: Behavioral changes, such as seeking early refills, social withdrawal, or physiological signs like constricted pupils and flushed skin MedlinePlus.
+    -   Description: A urine codeine screen is a qualitative lab test used to detect the presence of codeine and its metabolites in a urine sample. It is typically performed as part of a broader "opiate" or "opioid" panel to monitor prescription compliance, screen for substance misuse, or fulfill workplace safety requirements.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Returns a "positive" result when concentration is 300ng/mL.
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
@@ -5899,7 +5924,6 @@ volume (MCV)
 
 3.  U\_MORPHINE\_CNF (Morphine in Urine by Confirmation)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Morphine in Urine by Confirmation
@@ -5908,10 +5932,13 @@ volume (MCV)
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: A morphine confirmation test is typically ordered to follow up on a preliminary screening or to provide definitive clinical or legal evidence.
+    -   Description: A morphine confirmation test is a highly specific, quantitative laboratory procedure, usually Gas Chromatography-Mass Spectrometry (GC/MS) or Liquid Chromatography-Tandem Mass Spectrometry (LC-MS/MS). It definitively identifies the exact drug—morphine—in urine, distinguishing it from other opiates like codeine, and confirms positive results from preliminary, less precise immunoassay screens.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Common Levels:
+        -   None Detected (Negative): No morphine was found, or the amount was too low to reach the laboratory's cutoff.
+        -   Quantitative Positive: If the test is positive, the lab reports a specific number (e.g., 4,500 ng/mL). Higher levels typically suggest recent direct use of morphine or heroin rather than poppy seed consumption.
+        -   Poppy Seed Exception: Ingesting poppy seeds can result in morphine levels up to 2,000 ng/mL. This is why federal guidelines use the higher 2,000 ng/mL cutoff to ensure workplace positives are likely due to drug misuse.
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
@@ -5920,7 +5947,6 @@ volume (MCV)
 
 4.  U\_MORPHINE\_SCR (Morphine in Urine by Screen)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Morphine in Urine by Screen
@@ -5929,10 +5955,10 @@ volume (MCV)
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: A morphine screen test is indicated for several clinical, legal, and administrative reasons, primarily to monitor the use of opioid medications or to detect the presence of illicit substances.
+    -   Description: A urine morphine screen is a laboratory test used to detect the presence of morphine and other natural opiates in a urine sample. It is typically the first step in a two-stage process for identifying opioid use or monitoring prescription compliance.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Returns a "positive" result when concentration is 300ng/mL.
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
@@ -5941,7 +5967,6 @@ volume (MCV)
 
 5.  U\_OPIATE\_CNF (Opiate in Urine by Confirmation)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Opiates in Urine by Confirmatory method
@@ -5950,10 +5975,10 @@ volume (MCV)
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: Indications for an opiate confirmation test generally involve the need for definitive identification and quantification of specific substances, especially when an initial screening result is inconclusive or inconsistent with clinical expectations.
+    -   Description: An opiate confirmation test is a highly specific, quantitative laboratory procedure used to verify the results of an initial drug screen. While screening tests are fast and inexpensive, they are prone to false positives from cross-reactivity with other substances.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): In an opiate confirmation test, the "reference range" is typically expressed as a cutoff concentration. Because these tests are used to detect the presence of substances that should not normally be in your system (unless prescribed), the expected reference result is generally "None Detected" or "Negative".
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
@@ -5962,7 +5987,6 @@ volume (MCV)
 
 6.  U\_OPIATE\_SCR (Opiate in Urine by Screen)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Opiates in Urine by  Screen method
@@ -5971,10 +5995,12 @@ volume (MCV)
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: Opiate screening is used in diverse medical, legal, and professional contexts to identify the use or misuse of specific opioid substances.
+    -   Description: An opiate screen test is a rapid, qualitative immunoassay, usually performed on urine, that detects natural and semi-synthetic opiates (morphine, codeine, heroin metabolite 6-AM) by measuring if drug levels exceed a specific cutoff (typically 25-300 ng/mL). It often misses semi-synthetic/synthetic opioids like oxycodone or fentanyl, which require specialized testing.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Cutoff levels can vary depending on whether the test is for clinical medical use or workplace/employment purposes. 
+        -   Standard Clinical	300 ng/mL
+        -   Federal/Workplace	2,000 ng/mL
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
@@ -5986,7 +6012,6 @@ volume (MCV)
 
 1.  U\_HYDROCODONE\_CNF (Hydrocodone in Urine by Confirmation)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Hydrocodone in Urine by Confirmatory method
@@ -5995,10 +6020,10 @@ volume (MCV)
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: A hydrocodone confirmation test is generally ordered when a high level of precision is needed to verify the presence, absence, or exact amount of the drug.
+    -   Description: A hydrocodone confirmation test is a highly specific laboratory procedure used to definitively identify and quantify hydrocodone and its metabolites in a biological sample—most commonly urine. It is typically performed as a follow-up to a presumptive positive result from a faster, less specific initial screening to ensure accuracy and rule out false positives.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): The "reference range" for a hydrocodone confirmation test is generally listed as "Negative" or "None Detected".
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
@@ -6007,7 +6032,6 @@ volume (MCV)
 
 2.  U\_HYDROCODONE\_SCR (Hydrocodone in Urine by Screen)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Hydrocodone in Urine by  Screen method
@@ -6016,10 +6040,13 @@ volume (MCV)
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: A hydrocodone screen test is typically indicated for monitoring, safety, or diagnostic purposes. Healthcare providers, employers, and legal entities use these tests to ensure medication adherence or to identify substance misuse.
+    -   Description: A hydrocodone screen test is a medical or forensic procedure used to detect the presence of hydrocodone, a semi-synthetic opioid, in a person's system. It is often part of a broader "expanded" opiate panel since standard 5-panel drug tests typically only look for natural opiates like morphine and codeine.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Most labs use the following thresholds to determine if hydrocodone is present:
+        -   Initial Screen (Immunoassay)	300 ng/mL	Higher threshold to reduce "false positives" from other substances.
+        -   Confirmatory Test (LC-MS/MS)	100 ng/mL	More precise; identifies hydrocodone specifically.
+        -   Clinical/Pain Management	50 ng/mL	Sometimes set lower to ensure patients are taking their prescribed dose.
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
@@ -6028,7 +6055,6 @@ volume (MCV)
 
 3.  U\_HYDROMORPHONE\_CNF (Hydromorphone in Urine by Confirmation)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Hydromorphone in Urine by Confirmatory method
@@ -6037,10 +6063,10 @@ volume (MCV)
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: A hydromorphone confirmation test is typically ordered to provide high-precision data that basic screenings cannot.
+    -   Description: A hydromorphone confirmation test is a highly sensitive and specific laboratory analysis used to verify the presence and concentration of hydromorphone (Dilaudid) in a biological sample, typically urine. It is performed as a second step after an initial "screening" test (like an immunoassay) returns a positive result, or when high precision is needed for clinical compliance monitoring.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): In drug testing, the "reference range" is typically reported as Negative or None Detected. Because hydromorphone is a potent opioid, any amount found in the system of a person not prescribed the medication is considered a "positive" finding.
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
@@ -6049,7 +6075,6 @@ volume (MCV)
 
 4.  U\_HYDROMORPHONE\_SCR (Hydromorphone in Urine by Screen)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Hydromorphone in Urine by  Screen method
@@ -6058,10 +6083,10 @@ volume (MCV)
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: Clinical and forensic indications for a hydromorphone screening test generally fall into four categories: therapeutic monitoring, emergency assessment, employment/legal requirements, and addiction management.
+    -   Description: A hydromorphone screening test is a rapid, urine-based, immunoassay that detects the presence of hydromorphone (Dilaudid) or its metabolites, typically within 6–24 hours of use. It identifies drug usage, such as heroin, morphine, or hydrocodone, which metabolize into hydromorphone.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): The initial screening is a qualitative "Positive" or "Negative" result.
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
@@ -6070,7 +6095,6 @@ volume (MCV)
 
 5.  U\_OXYCODONE\_CNF (Oxycodone in Urine by Confirmation)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Oxycodone in Urine by Confirmation
@@ -6079,10 +6103,12 @@ volume (MCV)
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: An oxycodone confirmation test is generally indicated when a provider needs a definitive answer rather than the presumptive result provided by a standard drug screen.
+    -   Description: An oxycodone confirmation test is a highly sensitive and specific laboratory analysis used to definitively identify and quantify oxycodone and its metabolites in a biological sample, typically urine. Unlike initial screening tests, which are often "presumptive" and prone to false positives from cross-reactivity with other substances, a confirmation test is considered "definitive".
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Laboratories use specific numerical thresholds to determine if a result is positive. While these can vary by lab, common confirmation cutoffs include: 
+        -   Standard Clinical Lab: Often 25 ng/mL to 50 ng/mL.
+        -   Federal/Workplace (DOT): Typically 100 ng/mL.
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
@@ -6091,7 +6117,6 @@ volume (MCV)
 
 6.  U\_OXYCODONE\_SCR (Oxycodone in Urine by Screen)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Oxycodone in Urine by Screen
@@ -6100,10 +6125,10 @@ volume (MCV)
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: Oxycodone screening tests are indicated for several medical, legal, and professional reasons, primarily centered on monitoring safety and compliance.  Common categories are: therapeutic monitoring, identifying misuse or addiction, emergency & safety settings, and legal or institutional requirements.
+    -   Description: An oxycodone screening test is a preliminary, qualitative immunoassay (often urine) designed to detect oxycodone and its metabolite, oxymorphone, within a specific timeframe, usually within 6–24 hours to a few days after use.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Most labs use 100 ng/mL as the threshold for a positive result.
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
@@ -6112,7 +6137,6 @@ volume (MCV)
 
 7.  U\_OXYMORPHONE\_CNF (Oxymorphone in Urine by Confirmation)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Oxymorphone in Urine by Confirmation
@@ -6121,10 +6145,10 @@ volume (MCV)
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: An oxymorphone confirmation test is generally indicated when a provider needs a definitive answer rather than the presumptive result provided by a standard drug screen.
+    -   Description: An oxymorphone confirmation test is a specialized laboratory procedure used to definitively identify and quantify the presence of oxymorphone and its metabolites in a biological specimen, most commonly urine. Unlike initial screening tests, which are often subject to cross-reactivity and false positives, confirmation tests provide a "gold standard" level of accuracy for clinical and forensic monitoring.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): The minimum amount of the drug that must be present for the lab to report a "positive" result is 25 ng/mL to 100 ng/mL.
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
@@ -6133,7 +6157,6 @@ volume (MCV)
 
 8.  U\_OXYMORPHONE\_SCR (Oxymorphone in Urine by Screen)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Oxymorphone in Urine by Screen
@@ -6142,10 +6165,10 @@ volume (MCV)
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: This test is commonly ordered to monitor medication compliance in pain management or to screen for potential drug misuse.
+    -   Description: An oxymorphone screening test is a medical procedure used to detect the presence of oxymorphone, a powerful semi-synthetic opioid, in a person's system.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Can be as low as 25 ng/mL to 50 ng/mL depending on the lab, though some federal guidelines also use 100 ng/mL for confirmation.
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
@@ -6157,7 +6180,6 @@ volume (MCV)
 
 1.  U\_DIPIPANONE\_CNF (Dipipanone in Urine by Confirmation)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Dipipanone in Urine by Confirmation
@@ -6166,10 +6188,14 @@ volume (MCV)
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The primary indications for ordering this specific test include:
+        -   Verification of Screening Results
+        -   Clinical Monitoring
+        -   Forensic and Emergency Situations
+        -   Workplace and Regulatory Requirements
+    -   Description: A confirmation test for dipipanone is typically performed using Liquid Chromatography-Tandem Mass Spectrometry (LC-MS/MS) or Gas Chromatography-Mass Spectrometry (GC-MS) to definitively identify the drug.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): A positive ranges from 5 to 50 ng/mL depending on the lab.
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
@@ -6178,7 +6204,6 @@ volume (MCV)
 
 2.  U\_DIPIPANONE\_SCR (Dipipanone in Urine by Screen)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Dipipanone in Urine by Screen
@@ -6187,10 +6212,15 @@ volume (MCV)
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: Indications for a dipipanone screening test generally include:
+        -   Monitoring Prescription Compliance
+        -   Clinical Assessment of Opioid Use Disorder (OUD)
+        -   Emergency and Forensic Toxicology
+        -   Legal and Regulatory Requirements
+        -   Pre-operative and Specialist Review
+    -   Description: Dipipanone is a potent synthetic opioid, often found in the combination drug Diconal.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): often around 25–100 ng/mL
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
@@ -6199,7 +6229,6 @@ volume (MCV)
 
 3.  U\_FENTANYL\_CNF (Fentanyl in Urine by Confirmation)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Fentanyl in Urine by Confirmation
@@ -6208,10 +6237,14 @@ volume (MCV)
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The primary indications for ordering this specific test include:
+        -   Verification of Screening Results
+        -   Clinical Monitoring
+        -   Forensic and Emergency Situations
+        -   Workplace and Regulatory Requirements
+    -   Description: A fentanyl confirmation test is a highly sensitive laboratory analysis used to definitively verify the presence of fentanyl and its metabolites in a biological sample.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Typical confirmation cutoffs for urine testing often fall within 0.2 ng/mL to 1.0 ng/mL.
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
@@ -6220,7 +6253,6 @@ volume (MCV)
 
 4.  U\_FENTANYL\_SCR (Fentanyl in Urine by Screen)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Fentanyl in Urine by Screen
@@ -6229,10 +6261,10 @@ volume (MCV)
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: Indications for a fentanyl screen test vary depending on whether the test is being used as a harm reduction tool or as a clinical/forensic diagnostic.
+    -   Description: A fentanyl screen test—most commonly in the form of fentanyl test strips (FTS)—is a low-cost, rapid harm reduction tool used to detect the presence of fentanyl and its analogs in drug samples or urine.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Laboratory cutoff levels can vary by facility, but typical range can be set at 1 to 2 ng/mL. Some labs may use higher cutoffs, such as 5 ng/mL.
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
@@ -6241,7 +6273,6 @@ volume (MCV)
 
 5.  U\_LEVORPHANOL\_CNF (Levorphanol in Urine by Confirmation)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Levorphanol in Urine by Confirmation
@@ -6250,10 +6281,14 @@ volume (MCV)
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The primary indications for ordering this specific test include:
+        -   Verification of Screening Results
+        -   Clinical Monitoring
+        -   Forensic and Emergency Situations
+        -   Workplace and Regulatory Requirements
+    -   Description: A levorphanol confirmation test is a definitive, laboratory-based analytical procedure used to confirm the presence of levorphanol in urine after an initial presumptive screening test indicates a positive result. Because levorphanol can cross-react with immunoassays for other opiates or be confused with the cough suppressant dextromethorphan, confirmation is required to definitively distinguish it.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Confirmation cutoff is typically 50 ng/mL to 100 ng/mL
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
@@ -6262,7 +6297,6 @@ volume (MCV)
 
 6.  U\_LEVORPHANOL\_SCR (Levorphanol in Urine by Screen)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Levorphanol in Urine by Screen
@@ -6271,10 +6305,10 @@ volume (MCV)
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: A levorphanol screen test is typically indicated for patients in specific clinical scenarios involving chronic pain management or suspected substance use. Because levorphanol is a potent, long-acting synthetic opioid, it requires specific monitoring.
+    -   Description: A levorphanol screen test detects the presence of levorphanol, a potent prescription opioid, or its metabolites in serum, plasma, or urine, typically for medication compliance. Due to similarities in molecular structure, many assays cannot distinguish between levorphanol and the over-the-counter cough suppressant dextromethorphan, often requiring further confirmatory testing.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): generally described as "Negative", cutoff levels for these tests are often around 20 ng/mL to 50 ng/mL.
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
@@ -6283,7 +6317,6 @@ volume (MCV)
 
 7.  U\_MEPERIDINE\_CNF (Meperidine in Urine by Confirmation)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Meperidine in Urine by Confirmation
@@ -6292,10 +6325,14 @@ volume (MCV)
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The primary indications for ordering this specific test include:
+        -   Verification of Screening Results
+        -   Clinical Monitoring
+        -   Forensic and Emergency Situations
+        -   Workplace and Regulatory Requirements
+    -   Description: A meperidine confirmation test is a definitive laboratory analysis used to verify the presence of meperidine (brand name Demerol) and its primary metabolite, normeperidine, in a biological sample (typically urine). It is performed after an initial screening—such as an immunoassay—returns a presumptive positive result to rule out false positives and provide a quantitative measurement.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): cutoffs can be as low as 50 ng/mL to detect even trace amounts. Some high-sensitivity labs use a "decision level" as low as 5.0 ng/mL.
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
@@ -6304,7 +6341,6 @@ volume (MCV)
 
 8.  U\_MEPERIDINE\_SCR (Meperidine in Urine by Screen)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Meperidine in Urine by Screen
@@ -6313,10 +6349,10 @@ volume (MCV)
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: Meperidine (Demerol) screening is typically indicated for clinical monitoring, safety investigations, and emergency medical evaluations.
+    -   Description: A meperidine screening test is a preliminary medical or forensic assay used to detect the presence of meperidine (commonly known by the brand name Demerol) and its primary metabolite, normeperidine, in biological samples.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Typical cutoff is 100 ng/mL or 200 ng/mL.
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
@@ -6325,7 +6361,6 @@ volume (MCV)
 
 9.  U\_METHADONE\_CNF (Methadone in Urine by Confirmation)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Methadone in Urine by Confirmation
@@ -6334,10 +6369,16 @@ volume (MCV)
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The primary indications for ordering this specific test include:
+        -   Verification of Screening Results
+        -   Clinical Monitoring
+        -   Forensic and Emergency Situations
+        -   Workplace and Regulatory Requirements
+    -   Description: A methadone confirmation test is a high-complexity laboratory analysis used to definitively verify the presence of methadone and its primary metabolite, EDDP, in a specimen. Unlike standard "screening" tests that provide a quick, preliminary result, a confirmation test uses advanced technology to provide a specific, quantitative measurement of the drug and its metabolite.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations):  results are usually reported as follows: 
+        -   Negative: Concentrations below the laboratory's defined cutoff (e.g., <100 ng/mL).
+        -   Positive: Concentrations at or above the cutoff (e.g., ≥100 ng/mL), followed by a specific quantitative value.
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
@@ -6346,7 +6387,6 @@ volume (MCV)
 
 10. U\_METHADONE\_SCR (Methadone in Urine by Screen)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Methadone in Urine by Screen
@@ -6355,10 +6395,10 @@ volume (MCV)
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: A methadone screening test is primarily indicated for monitoring medical treatment, ensuring safety in workplace or legal settings, and diagnosing potential substance misuse or overdose.
+    -   Description: A methadone screening test is a preliminary medical or forensic assessment used to detect the presence of methadone or its primary metabolite, EDDP in a biological sample. Because methadone is a synthetic opioid, it is typically not detected by standard "opiate" screens, which primarily look for natural opiates like morphine or codeine.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): The "reference range" is typically reported as Negative.
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
@@ -6367,7 +6407,6 @@ volume (MCV)
 
 11. U\_NALTREXOL\_CNF (Naltrexol in Urine by Confirmation)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Naltrexol in Urine by Confirmation
@@ -6376,10 +6415,14 @@ volume (MCV)
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The primary indications for ordering this specific test include:
+        -   Verification of Screening Results
+        -   Clinical Monitoring
+        -   Forensic and Emergency Situations
+        -   Workplace and Regulatory Requirements
+    -   Description: A naltrexol confirmation test is a highly sensitive laboratory analysis used to verify the presence of naltrexone and its primary active metabolite in a patient's system.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Negative/Non-Adherent: < 5 ng/mL or < 50 ng/mL (depending on the lab's cutoff).
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
@@ -6388,19 +6431,16 @@ volume (MCV)
 
 12. U\_NALTREXOL\_SCR (Naltrexol in Urine by Screen)
 
-    ***NEEDS TO BE UPDATED***
-    ***UNDER REVIEW***
-    
     -   Common Name: Naltrexol in Urine by Screen
     -   Long Name:
     -   Test Type:
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The primary indication for a naltrexol screen test is to objectively monitor treatment adherence in patients prescribed naltrexone for alcohol or opioid use disorders.
+    -   Description: A naltrexol screen test is a specialized laboratory analysis, usually via urine or blood, used to measure adherence to naltrexone treatment for opioid or alcohol dependence. It detects the primary metabolite of naltrexone, which remains in the body longer than the medication itself, often using chromatography or mass spectrometry to provide quantitative results.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations):  (Negative): < 5 ng/mL.
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
@@ -6409,7 +6449,6 @@ volume (MCV)
 
 13. U\_PENTAZOCINE\_CNF (Pentazocine in Urine by Confirmation)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Pentazocine in Urine by Confirmation
@@ -6418,10 +6457,14 @@ volume (MCV)
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The primary indications for ordering this specific test include:
+        -   Verification of Screening Results
+        -   Clinical Monitoring
+        -   Forensic and Emergency Situations
+        -   Workplace and Regulatory Requirements
+    -   Description: A pentazocine confirmation test is a highly specific laboratory analysis used to definitively identify and quantify pentazocine (often known by the brand name Talwin) in a biological sample.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): cutoff is around around 50 ng/mL
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
@@ -6430,7 +6473,6 @@ volume (MCV)
 
 14. U\_PENTAZOCINE\_SCR (Pentazocine in Urine by Screen)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Pentazocine in Urine by Screen
@@ -6439,10 +6481,10 @@ volume (MCV)
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: A pentazocine screening test is indicated when there is a clinical or legal need to confirm the presence of the drug in a person’s system.
+    -   Description: A pentazocine screening test is a preliminary, qualitative analysis used to detect the presence of pentazocine (often known by the brand name Talwin) or its metabolites in a biological sample or unknown substance.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): The most common cutoff is 100 ng/mL.
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
@@ -6451,7 +6493,6 @@ volume (MCV)
 
 15. U\_PROPOXYPHENE\_CNF (Propoxyphene in Urine by Confirmation)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Propoxyphene in Urine by Confirmation
@@ -6460,10 +6501,14 @@ volume (MCV)
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The primary indications for ordering this specific test include:
+        -   Verification of Screening Results
+        -   Clinical Monitoring
+        -   Forensic and Emergency Situations
+        -   Workplace and Regulatory Requirements
+    -   Description: A propoxyphene confirmation test is a highly specific laboratory procedure used to definitively identify and quantify propoxyphene and its primary metabolite, norpropoxyphene.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): cutoff is often 200 ng/mL to 300 ng/mL
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
@@ -6472,7 +6517,6 @@ volume (MCV)
 
 16. U\_PROPOXYPHENE\_SCR (Propoxyphene in Urine by Screen)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Propoxyphene in Urine by Screen
@@ -6481,10 +6525,10 @@ volume (MCV)
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: A propoxyphene screen test is indicated when there is a need to detect the presence of propoxyphene or its metabolite, norpropoxyphene, for medical, legal, or occupational reasons.
+    -   Description: A propoxyphene screen test is a preliminary diagnostic procedure used to detect the presence of propoxyphene and its primary metabolite, norpropoxyphene, in a biological sample—most commonly urine. Propoxyphene is a synthetic opioid pain reliever that was withdrawn from the U.S. market in 2010 due to serious heart toxicity risks.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Positive result when concentration is ≥300 ng/mL
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
@@ -6493,7 +6537,6 @@ volume (MCV)
 
 17. U\_SUFENTANIL\_CNF (Sufentanil in Urine by Confirmation)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Sufentanil in Urine by Confirmation
@@ -6502,10 +6545,14 @@ volume (MCV)
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The primary indications for ordering this specific test include:
+        -   Verification of Screening Results
+        -   Clinical Monitoring
+        -   Forensic and Emergency Situations
+        -   Workplace and Regulatory Requirements
+    -   Description: A sufentanil confirmation test is a high-specificity laboratory analysis used to definitively identify and quantify the presence of sufentanil and its metabolites in a biological specimen, typically following an initial positive screen. This second-tier test is critical because standard opioid screens often do not detect synthetic opioids like sufentanil, or they may produce false positives from other substances.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Confirmation Cutoff (Urine)	5 ng/mL
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
@@ -6514,7 +6561,6 @@ volume (MCV)
 
 18. U\_SUFENTANIL\_SCR (Sufentanil in Urine by Screen)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Sufentanil in Urine by Screen
@@ -6523,10 +6569,10 @@ volume (MCV)
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: A sufentanil screen test is typically indicated when standard opioid panels are insufficient to detect this specific, high-potency drug. It is used across various clinical, forensic, and occupational settings to verify use, monitor safety, or ensure compliance.
+    -   Description: A sufentanil screen test is a specialized laboratory procedure designed to detect the presence of sufentanil, an extremely potent synthetic opioid, typically in urine or blood samples. Because sufentanil is 5 to 10 times more powerful than fentanyl, it is often excluded from standard "opiate" or even "fentanyl" screening panels and must be ordered as a specific test or as part of a high-level comprehensive panel.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Urine: 5 ng/mL
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
@@ -6535,7 +6581,6 @@ volume (MCV)
 
 19. U\_TAPENTADOL\_CNF (Tarpentadol in Urine by Confirmation)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Tarpentadol in Urine by Confirmation
@@ -6544,10 +6589,14 @@ volume (MCV)
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The primary indications for ordering this specific test include:
+        -   Verification of Screening Results
+        -   Clinical Monitoring
+        -   Forensic and Emergency Situations
+        -   Workplace and Regulatory Requirements
+    -   Description: A tapentadol confirmation test is a definitive laboratory analysis used to identify and quantify the drug and its metabolites in biological samples, typically following a presumptive positive result from a screening test.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Positive (≥ Cutoff): Quantifiable levels (e.g., 50–2,500 ng/mL)
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
@@ -6556,7 +6605,6 @@ volume (MCV)
 
 20. U\_TAPENTADOL\_SCR (Tarpentadol in Urine by Screen)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Tarpentadol in Urine by Screen
@@ -6565,10 +6613,10 @@ volume (MCV)
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: It is primarily used by healthcare providers to monitor treatment compliance for chronic pain or to identify potential misuse or acute intoxication.
+    -   Description: A tapentadol screening test is a diagnostic tool used to detect the presence of tapentadol (commonly known by brand names like Nucynta, Palexia, or Tapal) and its metabolites in a person's system.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Typical Cutoff: 200 ng/mL.
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
@@ -6577,7 +6625,6 @@ volume (MCV)
 
 21. U\_TRAMADOL\_CNF (Tramadol in Urine by Confirmation)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Tramadol in Urine by Confirmation
@@ -6586,10 +6633,14 @@ volume (MCV)
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The primary indications for ordering this specific test include:
+        -   Verification of Screening Results
+        -   Clinical Monitoring
+        -   Forensic and Emergency Situations
+        -   Workplace and Regulatory Requirements
+    -   Description: A tramadol confirmation test is a definitive laboratory analysis used to verify a preliminary positive result from a screening test or to accurately measure the specific amount of tramadol and its metabolites in a sample.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Common Cutoff: 25 ng/mL for both tramadol and its metabolite, O-desmethyltramadol.
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
@@ -6598,7 +6649,6 @@ volume (MCV)
 
 22. U\_TRAMADOL\_SCR (Tramadol in Urine by Screen)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Tramadol in Urine by Screen
@@ -6607,10 +6657,14 @@ volume (MCV)
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The primary indications for ordering this specific test include:
+        -   Verification of Screening Results
+        -   Clinical Monitoring
+        -   Forensic and Emergency Situations
+        -   Workplace and Regulatory Requirements
+    -   Description: A tramadol screen test is a specialized drug test used to detect the presence of tramadol—a synthetic opioid analgesic—and its main metabolite, O-desmethyltramadol, in a person's system. Unlike standard 5-panel or 10-panel drug tests (SAMHSA-5), which typically look for opiates like codeine or morphine, tramadol requires a specific test because its chemical structure is different.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Negative when below 100 ng/mL
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
@@ -6619,7 +6673,6 @@ volume (MCV)
 
 23. U\_NARCOTIC\_SCR (Narcotics and opioids in Urine by Screen)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Narcotics and opioids in Urine by Screen
@@ -6628,10 +6681,19 @@ volume (MCV)
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications:  The primary indications for ordering this specific test include:
+        -   Verification of Screening Results
+        -   Clinical Monitoring
+        -   Forensic and Emergency Situations
+        -   Workplace and Regulatory Requirements
+    -   Description: An active laboratory test used to detect the presence or identity of narcotic substances—specifically derivatives of opium or morphine, or synthetic substances with similar effects—within a urine sample.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): If the test is positive, it means the drug was detected above one of the following typical cutoff levels:
+        -   Opiates (Morphine, Codeine)	2,000 ng/mL (standard) or 300 ng/mL (clinical)
+        -   Hydrocodone / Hydromorphone	300 ng/mL
+        -   Oxycodone / Oxymorphone	100 ng/mL
+        -   Heroin Metabolite (6-AM)	10 ng/mL
+        -   Methadone	300 ng/mL
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
@@ -6643,7 +6705,6 @@ volume (MCV)
 
 1.  U\_BUPRENORPHINE\_CNF (Buprenorphine in Urine by Confirmation)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Buprenorphine in Urine by Confirmation
@@ -6652,10 +6713,14 @@ volume (MCV)
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The primary indications for ordering this specific test include:
+        -   Verification of Screening Results
+        -   Clinical Monitoring
+        -   Forensic and Emergency Situations
+        -   Workplace and Regulatory Requirements
+    -   Description: A buprenorphine confirmation test is a definitive laboratory analysis used to verify the presence and concentration of buprenorphine and its primary metabolite, norbuprenorphine.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Typically < 5.0 ng/mL is considered negative.
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
@@ -6664,7 +6729,6 @@ volume (MCV)
 
 2.  U\_BUPRENORPHINE\_SCR (Buprenorphine in Urine by Screen)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Buprenorphine in Urine by Screen
@@ -6673,10 +6737,14 @@ volume (MCV)
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The primary indications for ordering this specific test include:
+        -   Verification of Screening Results
+        -   Clinical Monitoring
+        -   Forensic and Emergency Situations
+        -   Workplace and Regulatory Requirements
+    -   Description: A buprenorphine (BUP) screen test is a specialized medical assay used to detect the presence of buprenorphine and its primary metabolite, norbuprenorphine, in a person's system. Buprenorphine is a partial opioid agonist commonly prescribed for opioid use disorder (e.g., Suboxone or Subutex) and chronic pain.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Negative is less than 5 ng/mL
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
@@ -6685,7 +6753,6 @@ volume (MCV)
 
 3.  U\_BUTORPHANOL\_CNF (Butorphanol in Urine by Confirmation)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Butorphanol in Urine by Confirmation
@@ -6694,10 +6761,10 @@ volume (MCV)
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: A butorphanol confirmation test is indicated in clinical, legal, or workplace settings to definitively verify the drug's presence and concentration after an initial screening has occurred or is deemed insufficient.
+    -   Description: A butorphanol confirmation test is a specialized laboratory procedure used to definitively identify and quantify the presence of butorphanol (brand name Stadol) in a biological sample, typically following a positive or non-negative screening result. Unlike screening tests that only detect a class of drugs, a confirmation test provides a "fingerprint" of the specific molecule.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Urine Confirmation Cut-off is frequently set at 300 ng/mL
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
@@ -6706,7 +6773,6 @@ volume (MCV)
 
 4.  U\_BUTORPHANOL\_SCR (Butorphanol in Urine by Screen)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Butorphanol in Urine by Screen
@@ -6715,10 +6781,10 @@ volume (MCV)
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: Since butorphanol is a Schedule IV controlled substance, these tests are used to monitor for misuse, abuse, or compliance with medical treatment.
+    -   Description: A butorphanol screen test is a toxicology screening designed to detect the presence of butorphanol (brand name Stadol) or its metabolites in biological samples.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Urine Screen	cutoff is between 2.5 – 5.0 ng/mL
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
@@ -6727,7 +6793,6 @@ volume (MCV)
 
 5.  U\_NALBUPHINE\_CNF (Nalbuphine in Urine by Confirmation)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Nalbuphine in Urine by Confirmation
@@ -6736,10 +6801,10 @@ volume (MCV)
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: A nalbuphine confirmation test is typically indicated when specific, high-certainty evidence of the drug's presence or concentration is required for clinical, legal, or occupational reasons.
+    -   Description: A nalbuphine confirmation test is a high-sensitivity laboratory analysis used to definitively identify and quantify the presence of nalbuphine (an opioid agonist-antagonist) in a urine specimen, typically following an initial positive screening. Unlike standard "opiates" screenings that look for morphine or codeine, nalbuphine often requires a specific test panel.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): typical analytic cutoff is 50 ng/mL.
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
@@ -6748,7 +6813,6 @@ volume (MCV)
 
 6.  U\_NALBUPHINE\_SCR (Nalbuphine in Urine by Screen)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Nalbuphine in Urine by Screen
@@ -6757,10 +6821,10 @@ volume (MCV)
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: A Nalbuphine screen test is clinically indicated primarily to monitor for misuse, ensure treatment compliance, or evaluate for toxicity.
+    -   Description: A Nalbuphine screen test is a specialized laboratory procedure designed to detect the presence of Nalbuphine (brand name Nubain) and its metabolites in biological specimens. Because Nalbuphine is a synthetic "mixed agonist-antagonist" opioid, it is often "invisible" to standard, routine drug screens that typically target common opiates like morphine or codeine.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): specialized Nalbuphine screens may have specific laboratory cutoffs, such as 1,250 ng/mL.
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
@@ -6769,7 +6833,6 @@ volume (MCV)
 
 7.  U\_NALOXONE\_CNF (Naloxone in Urine by Confirmation)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Naloxone in Urine by Confirmation
@@ -6778,10 +6841,10 @@ volume (MCV)
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: It is typically performed as a "reflex" test to follow up on a presumptive positive result from a simpler screening test (like an immunoassay) or to monitor medication adherence in treatment programs.
+    -   Description: A Naloxone confirmation test is a highly specific laboratory analysis—usually using Liquid Chromatography-Tandem Mass Spectrometry (LC-MS/MS)—to verify and quantify the presence of naloxone in a biological sample like urine or oral fluid.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): A common reference range is <2 ng/mL (meaning any result below this is considered "not detected")
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
@@ -6790,7 +6853,6 @@ volume (MCV)
 
 8.  U\_NALOXONE\_SCR (Naloxone in Urine by Screen)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Naloxone in Urine by Screen
@@ -6799,10 +6861,10 @@ volume (MCV)
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: Naloxone screen tests are primarily used in clinical settings to monitor patients receiving Medication-Assisted Treatment (MAT) for opioid use disorder. Because naloxone is not a drug of abuse, it is rarely included in standard workplace or forensic drug panels.
+    -   Description: A naloxone screen test is a specialized laboratory analysis, typically of urine, used to detect the presence of naloxone or its metabolites. Unlike standard drug tests that look for substances of abuse (like cocaine or marijuana), naloxone is often tested to monitor medical treatment or verify the integrity of a sample.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations):  the most common "not detected" reference range is <2 ng/mL.
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
@@ -6811,7 +6873,6 @@ volume (MCV)
 
 9.  U\_NALTREXONE\_CNF (Naltrexone in Urine by Confirmation)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Naltrexone in Urine by Confirmation
@@ -6820,10 +6881,10 @@ volume (MCV)
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The most common indications for a naltrexone confirmation test (typically via GC-MS or LC-MS/MS) revolve around managing treatment for opioid or alcohol use disorders.
+    -   Description: A naltrexone confirmation test is a specialized laboratory procedure used to definitively identify and quantify naltrexone and its metabolites in a biological sample, typically following an initial "non-negative" screening. Unlike standard drug screens, this test is designed to verify medication adherence or resolve false-positive results on other drug panels.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Results below 5 ng/mL are reported as "None Detected" or "Negative".
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
@@ -6832,7 +6893,6 @@ volume (MCV)
 
 10. U\_NALTREXONE\_SCR (Naltrexone in Urine by Screen)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Naltrexone in Urine by Screen
@@ -6841,10 +6901,10 @@ volume (MCV)
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The most common indications for a naltrexone urine screen—or the broader urine toxicology screens used alongside it—revolve around safe initiation and maintenance of treatment for Alcohol Use Disorder (AUD) and Opioid Use Disorder (OUD).
+    -   Description: A Naltrexone urine screen test is a specialized laboratory analysis designed to detect the presence of naltrexone and its primary metabolite, 6-beta-naltrexol, in a person's urine. While not part of standard drug panels, it is frequently used to monitor treatment adherence for individuals recovering from alcohol or opioid use disorders.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Generally <5 ng/mL is considered "negative"
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
@@ -6867,7 +6927,6 @@ TEST\_TYPE LONGNAME
 
 1.  GTT\_0\_5 (Glucose Tolerance 1/2 hour post XXX challenge)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Glucose Tolerance 1/2 hour post XXX challenge
@@ -6876,10 +6935,10 @@ TEST\_TYPE LONGNAME
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The most common indication for an oral glucose tolerance test (OGTT) is to screen for and diagnose gestational diabetes in pregnant women. It is also frequently used to diagnose type 2 diabetes and prediabetes in non-pregnant adults, particularly when other tests (like fasting glucose or A1c) provide borderline or inconclusive results.
+    -   Description: In a glucose tolerance test, the 30-minute post-dose mark is the first measurement taken after you consume the glucose solution. This specific interval is used to observe how rapidly your body begins to process sugar and is a key indicator of early insulin response.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Research suggests that a high 30-minute glucose level (e.g., above 182 mg/dL) can be a strong predictor of future type 2 diabetes.
     -   Comments:
     -   Test Method Variance:
     -   Other:
@@ -6888,7 +6947,6 @@ TEST\_TYPE LONGNAME
 
 2.  GTT\_1 (Glucose Tolerance 1 hour post XXX challenge)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Glucose Tolerance 1 hour post XXX challenge
@@ -6897,10 +6955,10 @@ TEST\_TYPE LONGNAME
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The most common indication for an oral glucose tolerance test (OGTT) is to screen for and diagnose gestational diabetes in pregnant women. It is also frequently used to diagnose type 2 diabetes and prediabetes in non-pregnant adults, particularly when other tests (like fasting glucose or A1c) provide borderline or inconclusive results.
+    -   Description: A one-hour glucose tolerance test (also called a glucose challenge test) is a standard screening used during pregnancy, typically between weeks 24 and 28, to check for gestational diabetes. Unlike longer versions of the test, it usually does not require fasting beforehand.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): A result below 140 mg/dL (7.8 mmol/L) is typically considered within the standard range.
     -   Comments:
     -   Test Method Variance:
     -   Other:
@@ -6913,7 +6971,6 @@ TEST\_TYPE LONGNAME
 
 4.  GTT\_2 (Glucose Tolerance 2 hour post XXX challenge)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Glucose Tolerance 2 hour post XXX challenge
@@ -6922,10 +6979,14 @@ TEST\_TYPE LONGNAME
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The most common indication for an oral glucose tolerance test (OGTT) is to screen for and diagnose gestational diabetes in pregnant women. It is also frequently used to diagnose type 2 diabetes and prediabetes in non-pregnant adults, particularly when other tests (like fasting glucose or A1c) provide borderline or inconclusive results.
+    -   Description: A 2-hour glucose tolerance test (OGTT) measures how your body handles sugar by checking your blood glucose levels exactly two hours after you consume a standardized sugary drink. This test is primarily used to diagnose prediabetes, type 2 diabetes, and gestational diabetes.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): For non-pregnant adults the 2-hour post-dose value is critical for diagnosis:
+        -   Normal: Less than 140 mg/dL (7.8 mmol/L).
+        -   Prediabetes (Impaired Glucose Tolerance): Between 140 and 199 mg/dL (7.8–11 mmol/L).
+        -   Diabetes: 200 mg/dL (11.1 mmol/L) or higher.
+        -   For pregnant individuals, a 2-hour result above 153 mg/dL may indicate gestational diabetes, though thresholds can vary by lab.
     -   Comments:
     -   Test Method Variance:
     -   Other:
@@ -6934,7 +6995,6 @@ TEST\_TYPE LONGNAME
 
 5.  GTT\_3 (Glucose Tolerance 3 hour post XXX challenge (glucose dose not specified)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Glucose Tolerance 3 hour post XXX challenge
@@ -6943,10 +7003,10 @@ TEST\_TYPE LONGNAME
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The most common indication for an oral glucose tolerance test (OGTT) is to screen for and diagnose gestational diabetes in pregnant women. It is also frequently used to diagnose type 2 diabetes and prediabetes in non-pregnant adults, particularly when other tests (like fasting glucose or A1c) provide borderline or inconclusive results.
+    -   Description: A 3-hour glucose tolerance test (GTT) is a diagnostic procedure used primarily to confirm gestational diabetes if an initial screening test was abnormal. It measures how your body clears sugar from the blood over several hours.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): The most common expected expected healthy range is less than 140 mg/dL (7.8 mmol/L) 3 hours after glucose dose.
     -   Comments:
     -   Test Method Variance:
     -   Other:
@@ -6963,7 +7023,6 @@ TEST\_TYPE LONGNAME
 
 10. GTT50\_1 (Glucose Tolerance 1 hour post 50 g oral challenge)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Glucose Tolerance 1 hour post 50 g oral challenge
@@ -6972,10 +7031,10 @@ TEST\_TYPE LONGNAME
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The most common indication for an oral glucose tolerance test (OGTT) is to screen for and diagnose gestational diabetes in pregnant women. It is also frequently used to diagnose type 2 diabetes and prediabetes in non-pregnant adults, particularly when other tests (like fasting glucose or A1c) provide borderline or inconclusive results.
+    -   Description: The 1-hour, 50-gram glucose tolerance test (also known as a glucose challenge test) is a routine screening performed between 24 and 28 weeks of pregnancy to identify the risk of gestational diabetes. It measures how efficiently your body processes sugar after a concentrated dose.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): A blood sugar level below 140 mg/dL (7.8 mmol/L) is generally considered standard.
     -   Comments:
     -   Test Method Variance:
     -   Other:
@@ -6984,7 +7043,6 @@ TEST\_TYPE LONGNAME
 
 11. GTT50\_2 (Glucose Tolerance 2 hour post 50 g oral challenge)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Glucose Tolerance 2 hour post 50 g oral challenge
@@ -6993,11 +7051,14 @@ TEST\_TYPE LONGNAME
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The most common indication for an oral glucose tolerance test (OGTT) is to screen for and diagnose gestational diabetes in pregnant women. It is also frequently used to diagnose type 2 diabetes and prediabetes in non-pregnant adults, particularly when other tests (like fasting glucose or A1c) provide borderline or inconclusive results.
+    -   Description: A 2-hour glucose tolerance test with a 50-gram dose is an uncommon variation of standard glucose testing, typically used as a screening tool during pregnancy rather than a definitive diagnostic test. While the standard diagnostic 2-hour test uses 75 grams of glucose, some specific protocols or "glucose challenges" may use 50 grams with a 2-hour draw to assess how the body processes sugar over a longer interval than the standard 1-hour screen.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
-    -   Comments:
+    -   Approximate Reference Range (Each site will have slight variations): There is no universal standard for this test:
+        -   Normal: Less than 140 mg/dL (7.8 mmol/L)
+        -   Prediabetes (Impaired Glucose Tolerance): 140–199 mg/dL (7.8–11.0 mmol/L)
+        -   Diabetes: 200 mg/dL (11.1 mmol/L) or higher
+    -   Comments:  If your provider has ordered a 2-hour test specifically with 50 grams, they may be looking for reactive hypoglycemia (low blood sugar after eating) or using a specialized protocol for your specific health history.
     -   Test Method Variance:
     -   Other:
         -   Associated LOINC: 41024-1
@@ -7005,7 +7066,6 @@ TEST\_TYPE LONGNAME
 
 12. GTT75\_0\_5 (Glucose Tolerance 1/2 hour post 75 g oral challenge)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Glucose Tolerance 1/2 hour post 75 g oral challenge
@@ -7014,10 +7074,10 @@ TEST\_TYPE LONGNAME
     -   Panels: 81324-6 OB panel
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The most common indication for an oral glucose tolerance test (OGTT) is to screen for and diagnose gestational diabetes in pregnant women. It is also frequently used to diagnose type 2 diabetes and prediabetes in non-pregnant adults, particularly when other tests (like fasting glucose or A1c) provide borderline or inconclusive results.
+    -   Description: In a 75-gram oral glucose tolerance test (OGTT), the 30-minute blood draw is an intermediate measurement used primarily to assess how quickly your body begins secretes insulin in response to sugar.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Normal range is generally less than 200 mg/dL (11.1 mmol/L).
     -   Comments:
     -   Test Method Variance:
     -   Other:
@@ -7026,7 +7086,6 @@ TEST\_TYPE LONGNAME
 
 13. GTT75\_1 (Glucose Tolerance 1 hour post 75 g oral challenge)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Glucose Tolerance 1 hour post 75 g oral challenge
@@ -7035,10 +7094,10 @@ TEST\_TYPE LONGNAME
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The most common indication for an oral glucose tolerance test (OGTT) is to screen for and diagnose gestational diabetes in pregnant women. It is also frequently used to diagnose type 2 diabetes and prediabetes in non-pregnant adults, particularly when other tests (like fasting glucose or A1c) provide borderline or inconclusive results.
+    -   Description: In a 75-gram Oral Glucose Tolerance Test (OGTT), the 1-hour blood draw is a critical measurement used to evaluate how your body processes a concentrated sugar load. While the 2-hour mark is the traditional diagnostic standard for diabetes, the 1-hour level is increasingly recognized as a sensitive early indicator of metabolic health.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Normal range is less than 155 mg/dL (8.6 mmol/L)
     -   Comments:
     -   Test Method Variance:
     -   Other:
@@ -7049,7 +7108,6 @@ TEST\_TYPE LONGNAME
 
 15. GTT75\_2 (Glucose Tolerance 2 hour post 75 g oral challenge)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Glucose Tolerance 2 hour post 75 g oral challenge
@@ -7058,10 +7116,10 @@ TEST\_TYPE LONGNAME
     -   Panels: 81324-6 OB panel
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The most common indication for an oral glucose tolerance test (OGTT) is to screen for and diagnose gestational diabetes in pregnant women. It is also frequently used to diagnose type 2 diabetes and prediabetes in non-pregnant adults, particularly when other tests (like fasting glucose or A1c) provide borderline or inconclusive results.
+    -   Description: A 75-gram, 2-hour oral glucose tolerance test (OGTT) is a diagnostic procedure used to evaluate how your body processes sugar. You must fast (no food or drink except water) for at least 8 to 14 hours before the test.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Normal is < 140 mg/dL
     -   Comments:
     -   Test Method Variance:
     -   Other:
@@ -7070,7 +7128,6 @@ TEST\_TYPE LONGNAME
 
 16. GTT75\_3 (Glucose Tolerance 3 hour post 75 g oral challenge)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Glucose Tolerance 3 hour post 75 g oral challenge
@@ -7079,10 +7136,10 @@ TEST\_TYPE LONGNAME
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The most common indication for an oral glucose tolerance test (OGTT) is to screen for and diagnose gestational diabetes in pregnant women. It is also frequently used to diagnose type 2 diabetes and prediabetes in non-pregnant adults, particularly when other tests (like fasting glucose or A1c) provide borderline or inconclusive results.
+    -   Description: A 3-hour glucose tolerance test (OGTT) using a 75-gram dose is a diagnostic procedure that measures how your body processes sugar over time. While a 75-gram dose is more commonly associated with a 2-hour test for prediabetes or type 2 diabetes, certain protocols use it for a 3-hour duration to screen for gestational diabetes or other metabolic issues.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Normal range is < 140 mg/dL
     -   Comments:
     -   Test Method Variance:
     -   Other:
@@ -7091,7 +7148,6 @@ TEST\_TYPE LONGNAME
 
 17. GTT100\_0\_5 (Glucose Tolerance 1/2 hour post 100 g oral challenge)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Glucose Tolerance 1/2 hour post 100 g oral challenge
@@ -7100,10 +7156,10 @@ TEST\_TYPE LONGNAME
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The most common indication for an oral glucose tolerance test (OGTT) is to screen for and diagnose gestational diabetes in pregnant women. It is also frequently used to diagnose type 2 diabetes and prediabetes in non-pregnant adults, particularly when other tests (like fasting glucose or A1c) provide borderline or inconclusive results.
+    -   Description: During a 100-gram oral glucose tolerance test (OGTT), the 30-minute mark represents a critical point where your body is actively absorbing the sugar load, causing blood glucose levels to begin their sharpest climb toward a peak.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Normal range is around 140–160 mg/dL
     -   Comments:
     -   Test Method Variance:
     -   Other:
@@ -7112,7 +7168,6 @@ TEST\_TYPE LONGNAME
 
 18. GTT100\_1 (Glucose Tolerance 1 hour post 100 g oral challenge)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Glucose Tolerance 1 hour post 100 g oral challenge
@@ -7121,10 +7176,10 @@ TEST\_TYPE LONGNAME
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The most common indication for an oral glucose tolerance test (OGTT) is to screen for and diagnose gestational diabetes in pregnant women. It is also frequently used to diagnose type 2 diabetes and prediabetes in non-pregnant adults, particularly when other tests (like fasting glucose or A1c) provide borderline or inconclusive results.
+    -   Description: In the context of prenatal care, the 1-hour blood draw after a 100-gram glucose dose is the first post-drink measurement of a diagnostic 3-hour Oral Glucose Tolerance Test (OGTT). This measurement evaluates how efficiently your body processes a concentrated sugar load during a period of peak insulin resistance in pregnancy.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Normal range is 180 mg/dL (10.0 mmol/L) or lower.
     -   Comments:
     -   Test Method Variance:
     -   Other:
@@ -7135,7 +7190,6 @@ TEST\_TYPE LONGNAME
 
 20. GTT100\_2 (Glucose Tolerance 2 hour post 100 g oral challenge)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Glucose Tolerance 2 hour post 100 g oral challenge
@@ -7144,10 +7198,10 @@ TEST\_TYPE LONGNAME
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The most common indication for an oral glucose tolerance test (OGTT) is to screen for and diagnose gestational diabetes in pregnant women. It is also frequently used to diagnose type 2 diabetes and prediabetes in non-pregnant adults, particularly when other tests (like fasting glucose or A1c) provide borderline or inconclusive results.
+    -   Description: A 2-hour 100-gram Glucose Tolerance Test (GTT) is a diagnostic procedure, often used for gestational diabetes, measuring how the body handles glucose.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Normal range is < 155 mg/dL (8.6 mmol/L)
     -   Comments:
     -   Test Method Variance:
     -   Other:
@@ -7156,7 +7210,6 @@ TEST\_TYPE LONGNAME
 
 21. GTT100\_3 (Glucose Tolerance 3 hour post 100 g oral challenge)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name:Glucose Tolerance 3 hour post 100 g oral challenge
@@ -7165,10 +7218,10 @@ TEST\_TYPE LONGNAME
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The most common indication for an oral glucose tolerance test (OGTT) is to screen for and diagnose gestational diabetes in pregnant women. It is also frequently used to diagnose type 2 diabetes and prediabetes in non-pregnant adults, particularly when other tests (like fasting glucose or A1c) provide borderline or inconclusive results.
+    -   Description: The 3-hour 100-gram Oral Glucose Tolerance Test (OGTT) is a diagnostic procedure used primarily to determine if a pregnant woman has gestational diabetes. It is typically performed as the second step of a "two-step" screening process if the initial 1-hour glucose challenge result was elevated.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Normal range is < 140 mg/dL
     -   Comments:
     -   Test Method Variance:
     -   Other:
@@ -7230,7 +7283,6 @@ TEST\_TYPE LONGNAME
 
 30. (GTTPM) (Glucose Tolerance post meal)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Glucose Tolerance post meal
@@ -7239,10 +7291,13 @@ TEST\_TYPE LONGNAME
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: Healthcare providers order a 2-hour postprandial glucose (PPG) test to assess how effectively the body regulates blood sugar after a meal or a standardized sugar load.  The conditions that they are trying to are: Diabetes or Prediabetes, Gestational Diabetes (GDM), Identifying Impaired Glucose Tolerance (IGT).
+    -   Description: A post-meal (postprandial) glucose tolerance test measures how your body handles sugar after eating. Typically, it involves a baseline blood draw, consumption of a high-carbohydrate meal or glucose drink, and a follow-up blood test 2 hours later to check how effectively insulin lowers blood sugar levels.
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
+        -   Normal (No Diabetes): Less than 140 mg/dL.
+        -   Prediabetes: Between 140 and 199 mg/dL.
+        -   Diabetes: 200 mg/dL or higher.
     -   Comments:
     -   Test Method Variance:
     -   Other:
@@ -7251,7 +7306,6 @@ TEST\_TYPE LONGNAME
 
 31. (GTTPM\_0\_5) (Glucose Tolerance 1/2 hour post meal)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Glucose Tolerance 1/2 hour post meal
@@ -7260,10 +7314,10 @@ TEST\_TYPE LONGNAME
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: Healthcare providers order a 2-hour postprandial glucose (PPG) test to assess how effectively the body regulates blood sugar after a meal or a standardized sugar load.  The conditions that they are trying to are: Diabetes or Prediabetes, Gestational Diabetes (GDM), Identifying Impaired Glucose Tolerance (IGT).
+    -   Description: Thirty minutes post-meal, postprandial glucose (PPG) is actively rising as the body breaks down carbohydrates, typically reaching its peak between 30 to 90 minutes later.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): healthy levels usually remain under 140 mg/dL.
     -   Comments:
     -   Test Method Variance:
     -   Other:
@@ -7272,7 +7326,6 @@ TEST\_TYPE LONGNAME
 
 32. (GTTPM\_1) (Glucose Tolerance 1 hour post meal)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Glucose Tolerance 1 hour post meal
@@ -7281,10 +7334,10 @@ TEST\_TYPE LONGNAME
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: Healthcare providers order a 2-hour postprandial glucose (PPG) test to assess how effectively the body regulates blood sugar after a meal or a standardized sugar load.  The conditions that they are trying to are: Diabetes or Prediabetes, Gestational Diabetes (GDM), Identifying Impaired Glucose Tolerance (IGT).
+    -   Description: A postprandial glucose (PPG) level at 1 hour represents the measurement of blood sugar roughly at its peak after eating, as glucose concentrations typically reach their highest point between 60 and 90 minutes after a meal starts. Measuring at this specific interval provides a sensitive look at how effectively the body handles a glucose load, often revealing metabolic issues that fasting tests might miss.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Healthy adults typically below 140 mg/dL.
     -   Comments:
     -   Test Method Variance:
     -   Other:
@@ -7293,7 +7346,6 @@ TEST\_TYPE LONGNAME
 
 33. (GTTPM\_2) (Glucose Tolerance 2 hour post meal)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Glucose Tolerance 2 hour post meal
@@ -7302,10 +7354,13 @@ TEST\_TYPE LONGNAME
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: Healthcare providers order a 2-hour postprandial glucose (PPG) test to assess how effectively the body regulates blood sugar after a meal or a standardized sugar load.  The conditions that they are trying to are: Diabetes or Prediabetes, Gestational Diabetes (GDM), Identifying Impaired Glucose Tolerance (IGT).
+    -   Description: A postprandial glucose (PPG) test measures the amount of sugar (glucose) in your blood exactly two hours after you begin a meal. This specific timeframe is used because blood sugar levels typically peak between one and two hours after eating as carbohydrates are broken down and enter the bloodstream.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): The following values are standard for non-pregnant adults:
+        -   Normal: Less than 140 mg/dL (7.8 mmol/L).
+        -   Prediabetes: Between 140 and 199 mg/dL (7.8 to 11.0 mmol/L).
+        -   Diabetes Diagnosis: 200 mg/dL (11.1 mmol/L) or higher.
     -   Comments:
     -   Test Method Variance:
     -   Other:
@@ -7314,7 +7369,6 @@ TEST\_TYPE LONGNAME
 
 34. (GTTPM\_3) (Glucose Tolerance 3 hour post meal)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Glucose Tolerance 3 hour post meal
@@ -7323,10 +7377,10 @@ TEST\_TYPE LONGNAME
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: Healthcare providers order a 2-hour postprandial glucose (PPG) test to assess how effectively the body regulates blood sugar after a meal or a standardized sugar load.  The conditions that they are trying to are: Diabetes or Prediabetes, Gestational Diabetes (GDM), Identifying Impaired Glucose Tolerance (IGT).
+    -   Description: A 3-hour postprandial glucose (PPG) measurement refers to the level of sugar in your blood exactly three hours after the start of a meal. While 1-hour and 2-hour tests are more common for routine diabetes monitoring, the 3-hour mark is a critical diagnostic point in specialized testing.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): the 3-hour mark is a return to fasting levels, typically between 70–100 mg/dL.
     -   Comments:
     -   Test Method Variance:
     -   Other:
@@ -7478,7 +7532,6 @@ TEST\_TYPE LONGNAME
 
 6.  HCV\_RNA (Hepatitis C virus RNA viral load)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Hepatitis C virus RNA viral load
@@ -7488,7 +7541,7 @@ TEST\_TYPE LONGNAME
     -   Equivalent Tests:
     -   Not Equivalent Tests:
     -   Indications: Indications for a Hepatitis C virus (HCV) antibody lab test are categorized into universal screening for all adults, targeted screening for high-risk individuals, and diagnostic testing for those with clinical symptoms.
-    -   Description:
+    -   Description: A Hepatitis C virus (HCV) RNA viral load test is a diagnostic tool that measures the amount of genetic material (RNA) of the hepatitis C virus in your blood. Unlike antibody tests, which only show if you have ever been exposed, this test confirms if the virus is currently active and replicating.
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations): Viral Load Classification:
         -   Low Viral Load: Typically less than 800,000 IU/mL.
@@ -7502,7 +7555,6 @@ TEST\_TYPE LONGNAME
 
 7.  HCV\_RNA\_LOG (Hepatitis C virus RNA Log Units of viral load)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Hepatitis C virus RNA Log Units of viral load
@@ -7511,10 +7563,10 @@ TEST\_TYPE LONGNAME
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: This test is primarily indicated to confirm active infection and to guide and monitor antiviral treatment.
+    -   Description: A Hepatitis C Virus (HCV) RNA log units viral load test is a quantitative blood test that measures the amount of HCV genetic material (RNA) in the bloodstream. While results are often reported in International Units per milliliter (IU/mL), they are also frequently expressed in log units (logarithmic scale) to make large, complex numbers easier for clinicians to interpret and compare over time.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations): Viral Load Classification:
+    -   Approximate Reference Range (Each site will have slight variations): 1.0 log IU/mL = 10 IU/mL, a result over 800,000 IU/mL (roughly 5.9 log IU/mL) is generally considered a "high" viral load:
         -   Low Viral Load: Typically less than 800,000 IU/mL.
         -   High Viral Load: Typically more than 800,000 IU/mL.
         -   Undetectable: Often defined as <12 or <15 IU/mL, depending on the specific laboratory's sensitivity.
@@ -7526,7 +7578,7 @@ TEST\_TYPE LONGNAME
 
 8.  HCV\_RNA\_QL\_PR (Hepatitis C virus RNA Presence by probe)
 
-    ***NEEDS TO BE UPDATED***
+    ***LOINCS in this test type have been moved to HCV\_RNA\_QL***
     ***UNDER REVIEW***
     
     -   Common Name: Hepatitis C virus RNA Presence by probe
@@ -7542,12 +7594,11 @@ TEST\_TYPE LONGNAME
     -   Comments: The LOINCs in this test type are provisional.  The workgroup needs data from sites to review before final determination of inclusion can be made.
     -   Test Method Variance:
     -   Other:
-        -   Associated LOINC:
+        -   Associated LOINC: deprecated: (11259-9, 5010-4)
         -   Associated CPT:
 
 9.  HCV\_RNA\_QL (Hepatitis C virus RNA Presence)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: Hepatitis C virus RNA Presence
@@ -7556,10 +7607,12 @@ TEST\_TYPE LONGNAME
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The primary indication for an HCV RNA test is to determine if a person has a current, active infection rather than just a past exposure. While an antibody test acts as the initial screen, the RNA test is the definitive tool for clinical diagnosis and management.
+    -   Description: A Hepatitis C virus (HCV) RNA presence by probe test is a sensitive molecular diagnostic tool used to directly detect the genetic material of the virus in the blood.  This is test is capable of identifying that the virus is actively replicating. Specialized nucleic acid probes (small pieces of DNA or RNA) are added to the sample. These probes are designed to "stick" (hybridize) only to HCV genetic material.
     -   Related Tests:
     -   Approximate Reference Range (Each site will have slight variations):
+        -   Low Viral Load: Typically defined as less than 800,000 IU/mL.
+        -   High Viral Load: Typically defined as greater than 800,000 IU/mL.
     -   Comments:
     -   Test Method Variance:
     -   Other:
@@ -7571,7 +7624,6 @@ TEST\_TYPE LONGNAME
 
 1.  HIV1\_AB\_CNF\_QL (HIV 1 Antibody in Serum, Plasma or Blood by Confirmatory method - qualitative)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: HIV 1 Antibody in Serum, Plasma or Blood by Confirmatory method - qualitative
@@ -7580,11 +7632,11 @@ TEST\_TYPE LONGNAME
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The primary indication for an HIV-1 antibody confirmatory test (specifically the differentiation assay) is a reactive (positive) result from an initial 4th-generation HIV-1/2 antigen-antibody screening test.
+    -   Description: A qualitative confirmatory test for HIV-1 antibodies is a laboratory procedure used to verify a reactive (preliminary positive) result from an initial screening assay. Its primary purpose is to differentiate between HIV-1 and HIV-2 antibodies and to rule out false positives from the first stage of testing. The assay uses synthetic or recombinant peptides representing specific HIV-1 proteins (such as gp160, gp41, p31, and p24).
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
-    -   Comments:
+    -   Approximate Reference Range (Each site will have slight variations): The test does not measure the amount of virus (viral load); instead, it provides a "Reactive" (Positive), "Non-reactive" (Negative), or "Indeterminate" result based on the presence of specific antibodies.
+    -   Comments: The confirmatory antibody test may be negative or indeterminate during the "window period" (the time before antibodies develop). If an acute (early) infection is suspected—typically within 10–33 days of exposure—a Nucleic Acid Test (NAT) may be indicated instead.
     -   Test Method Variance:
     -   Other:
         -   Associated LOINC: 13499-9, 21009-6, 40732-0, 5221-7, 86233-4
@@ -7592,7 +7644,6 @@ TEST\_TYPE LONGNAME
 
 2.  HIV1\_AB\_SCR\_QL (HIV 1 Antibody in Serum, Plasma or Blood by Screen method - qualitative)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: HIV 1 Antibody in Serum, Plasma or Blood by Screen method - qualitative
@@ -7601,10 +7652,10 @@ TEST\_TYPE LONGNAME
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The qualitative HIV-1 antibody screen is indicated for routine health maintenance, specific clinical symptoms, or following potential exposure to the virus.
+    -   Description: The HIV-1 Antibody screen is a qualitative test used to detect the presence of antibodies to Human Immunodeficiency Virus Type 1 (HIV-1) in human blood, serum, or plasma.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): A qualitative result does not measure the amount of antibody but instead provides a simple "Reactive" or "Non-Reactive" status.
     -   Comments:
     -   Test Method Variance:
     -   Other:
@@ -7613,7 +7664,6 @@ TEST\_TYPE LONGNAME
 
 3.  HIV1\_AB\_SCR\_QN (HIV 1 Antibody in Serum, Plasma or Blood by Screen method - quantitative)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: HIV 1 Antibody in Serum, Plasma or Blood by Screen method - quantitative
@@ -7622,10 +7672,10 @@ TEST\_TYPE LONGNAME
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The HIV-1 Antibody/Antigen Screening Test (commonly referred to as a 4th-generation assay) is the primary method for detecting HIV infection in clinical settings. Healthcare providers indicate this test for several distinct reasons, ranging from routine preventive care to specific diagnostic needs following potential exposure.
+    -   Description: A quantitative HIV-1 antibody screening test is a laboratory procedure used to detect the presence and relative amount of HIV-1 antibodies and/or the p24 antigen in human blood, serum, or plasma. While most screening tests are reported as "reactive" or "non-reactive" (qualitative), they often use a quantitative measurement—known as a Signal-to-Cutoff (S/CO) ratio—to determine that result.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Non-reactive: S/CO ratio < 1.00
     -   Comments:
     -   Test Method Variance:
     -   Other:
@@ -7634,7 +7684,6 @@ TEST\_TYPE LONGNAME
 
 4.  HIV12\_AB\_CNF\_QL (HIV 1 and HIV 2 Antibody in Serum, Plasma or Blood by Confirmatory method - qualitative)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: HIV 1 and HIV 2 Antibody in Serum, Plasma or Blood by Confirmatory method - qualitative
@@ -7643,10 +7692,14 @@ TEST\_TYPE LONGNAME
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The primary indication for this qualitative confirmatory test is a reactive (positive) result from a preliminary HIV screening assay. It is a critical "second step" in the standard diagnostic algorithm used to verify infection and distinguish between the two virus types.
+    -   Description: A confirmatory HIV-1/HIV-2 antibody test is a qualitative assay used to verify a reactive result from an initial screening. Unlike screening tests that only detect the presence of HIV markers, confirmatory tests are designed to differentiate between HIV-1 and HIV-2 antibodies and confirm their specific presence.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): A "Positive" or "Confirmed" result requires a specific pattern of reactivity across the various viral proteins:
+        -   HIV-1 Positive: Reactivity to multiple HIV-1 specific bands (e.g., two envelope proteins or one envelope plus a core/polymerase protein).
+        -   HIV-2 Positive: Reactivity to specific HIV-2 envelope proteins (gp36 and gp140).
+        -   Indeterminate: Some bands are present, but they do not meet the full criteria for a positive result. This may occur during early infection (seroconversion) or due to cross-reactivity.
+        -   Negative: No specific HIV antibodies are detected, suggesting the initial screening may have been a false positive.
     -   Comments:
     -   Test Method Variance:
     -   Other:
@@ -7655,7 +7708,6 @@ TEST\_TYPE LONGNAME
 
 5.  HIV12\_AB\_SCR\_QL (HIV 1 and HIV 2 Antibody in Serum, Plasma or Blood by Screen method - qualitative)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: HIV 1 and HIV 2 Antibody in Serum, Plasma or Blood by Screen method - qualitative
@@ -7664,10 +7716,10 @@ TEST\_TYPE LONGNAME
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The primary indications for an HIV-1/HIV-2 qualitative screening test involve both routine preventative care and targeted diagnostic evaluation based on risk or symptoms.  Clinical symptoms include presenting with signs of Acute Retroviral Syndrome (e.g., fever, persistent swollen lymph nodes, unexplained weight loss, or night sweats).
+    -   Description: A qualitative screening test for HIV-1 and HIV-2 antibodies is a laboratory or point-of-care procedure used to detect the presence of disease-fighting proteins produced by the immune system in response to an HIV infection.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): These tests are designed to provide a simple "Reactive" (Positive) or "Non-Reactive" (Negative) result rather than a numerical value.
     -   Comments:
     -   Test Method Variance:
     -   Other:
@@ -7676,7 +7728,6 @@ TEST\_TYPE LONGNAME
 
 6.  HIV12\_AB\_SCR\_QN (HIV 1 and HIV 2 Antibody in Serum, Plasma or Blood by Screen method - quantitative)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: HIV 1 and HIV 2 Antibody in Serum, Plasma or Blood by Screen method - quantitative
@@ -7685,10 +7736,10 @@ TEST\_TYPE LONGNAME
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: Indications for an HIV-1/2 antibody (and antigen) screen are generally divided into routine screening, risk-based screening, and diagnostic testing based on clinical symptoms.
+    -   Description: In modern clinical practice, the HIV-1 and HIV-2 Antibody Screen is almost exclusively a qualitative test, meaning it reports a "Reactive" or "Nonreactive" result rather than a numerical quantity of antibodies. The standard screening method is a Fourth-Generation Immunoassay, which simultaneously detects HIV-1 Antibodies (Groups M and O)and HIV-2 Antibodies and HIV-1 p24 Antigen (a viral protein that appears before antibodies develop).
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Non-reactive (Negative): < 1.00 signal-to-cutoff ratio
     -   Comments:
     -   Test Method Variance:
     -   Other:
@@ -7697,7 +7748,6 @@ TEST\_TYPE LONGNAME
 
 7.  HIV2\_AB\_CNF\_QL (HIV 2 Antibody in Serum, Plasma or Blood by Confirmatory method - qualitative)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: HIV 2 Antibody in Serum, Plasma or Blood by Confirmatory method - qualitative
@@ -7706,10 +7756,10 @@ TEST\_TYPE LONGNAME
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The primary indication for a qualitative HIV-2 antibody confirmatory test is a reactive result on an initial HIV-1/2 screening assay (such as a 4th-generation Ag/Ab test). Because screening tests cannot distinguish between HIV-1 and HIV-2, this supplemental test is required to confirm the infection and identify HIV-2 virus type is present.
+    -   Description: A qualitative HIV-2 antibody confirmatory test is a supplemental assay used to verify and differentiate HIV-2 infection in specimens that have already tested reactive on an initial screening test. Unlike screening tests that may give a combined "reactive" result for both HIV-1 and HIV-2, these confirmatory methods explicitly identify the presence of antibodies specific to HIV-2 proteins.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): HIV-2 "Reactive" confirms an HIV-2 infection.
     -   Comments:
     -   Test Method Variance:
     -   Other:
@@ -7718,7 +7768,6 @@ TEST\_TYPE LONGNAME
 
 8.  HIV2\_AB\_SCR\_QL (HIV 2 Antibody in Serum, Plasma or Blood by Screen method - qualitative)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: HIV 2 Antibody in Serum, Plasma or Blood by Screen method - qualitative
@@ -7727,10 +7776,10 @@ TEST\_TYPE LONGNAME
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The primary indications for an HIV-2 antibody screen include routine health screenings, specific clinical symptoms, or identified epidemiologic risk factors. In many modern healthcare settings, this test is part of a standard "opt-out" screening process for all adults.
+    -   Description: The HIV-2 Antibody Screen is a qualitative medical test used to detect the presence or absence of specific antibodies produced by the body in response to the Human Immunodeficiency Virus Type 2 (HIV-2).
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations):  The output is reported simply as Reactive (positive) or Non-reactive (negative).
     -   Comments:
     -   Test Method Variance:
     -   Other:
@@ -7739,7 +7788,6 @@ TEST\_TYPE LONGNAME
 
 9.  HIV2\_AB\_SCR\_QN (HIV 2 Antibody in Serum, Plasma or Blood by Screen method - quantitative)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: HIV 2 Antibody in Serum, Plasma or Blood by Screen method - quantitative
@@ -7748,10 +7796,10 @@ TEST\_TYPE LONGNAME
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The primary indication for this test is to screen for and diagnose HIV-2 infection, which is clinically distinct from HIV-1. Because HIV-1 and HIV-2 antigens are genetically different, a test sensitive only to HIV-1 may not reliably detect HIV-2.
+    -   Description: In modern clinical practice, a screening test for HIV-2 antibodies in serum, plasma, or blood is typically performed as part of a 4th-generation HIV-1/2 antigen-antibody combo assay.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): laboratory equipment calculates a numerical value known as the Signal-to-Cutoff (S/CO).  Non-reactive (Negative): An S/CO < 1.0.
     -   Comments:
     -   Test Method Variance:
     -   Other:
@@ -7760,7 +7808,6 @@ TEST\_TYPE LONGNAME
 
 10. HIV1\_AG\_QL (HIV 1 Antigen in Serum or Plasma - qualitative)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: HIV 1 Antigen in Serum or Plasma - qualitative
@@ -7769,10 +7816,10 @@ TEST\_TYPE LONGNAME
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The HIV-1 Antigen in Serum or Plasma qualitative test is indicated for detecting early infection, routine screening, and confirming exposure.
+    -   Description: An HIV-1 Antigen in Serum or Plasma qualitative lab test is used to detect the presence of the p24 antigen, a structural protein that makes up the viral core of HIV-1. This test is primarily used to identify acute or early-stage infection, as the p24 antigen typically appears in the blood before the body has produced detectable levels of HIV antibodies.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Results are reported as Reactive (present) or Non-reactive (absent).
     -   Comments:
     -   Test Method Variance:
     -   Other:
@@ -7781,7 +7828,6 @@ TEST\_TYPE LONGNAME
 
 11. HIV1\_AG\_QN (HIV 1 Antigen in Serum or Plasma - quantitative)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: HIV 1 Antigen in Serum or Plasma - quantitative
@@ -7790,10 +7836,12 @@ TEST\_TYPE LONGNAME
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The HIV-1 Antigen in Serum or Plasma quantitative test is primarily indicated for clinical management and specialized diagnostic scenarios. While standard screening uses qualitative tests, this quantitative version is used when a numerical measurement of the virus is required.
+    -   Description: The HIV-1 Antigen in Serum or Plasma quantitative test—often referred to as an HIV viral load test—measures the specific amount of HIV-1 genetic material (RNA) or the p24 antigen in a patient's blood sample. Unlike qualitative screening tests that only provide a "positive" or "negative" result, this test provides a numerical value, typically expressed as copies per milliliter (copies/mL).
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): The range is used to assess how well antiretroviral therapy (ART) is working. A successful treatment goal is an "undetectable" viral load, usually defined as fewer than 20 to 50 copies/mL.
+        -   Detectable Viral Load: A numerical value indicating the concentration of the virus in the blood.
+        -   Undetectable: Does not mean the virus is gone; it means the level is below the lower limit of detection for that specific assay (e.g., <20 copies/mL).
     -   Comments:
     -   Test Method Variance:
     -   Other:
@@ -7802,7 +7850,6 @@ TEST\_TYPE LONGNAME
 
 12. HIV1\_RNA (HIV 1 RNA (viral load) in Serum or Plasma)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: HIV 1 RNA (viral load) in Serum or Plasma
@@ -7811,10 +7858,66 @@ TEST\_TYPE LONGNAME
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: This test is primarily used as a surrogate marker to manage individuals already diagnosed with HIV-1.
+    -   Description: An HIV-1 RNA (viral load) test is a quantitative molecular assay that measures the number of copies of HIV-1 genetic material in a patient's blood.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Clinicians use specific numerical milestones to guide treatment for patients on antiretroviral therapy (ART):
+    
+    <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+    
+    
+    <colgroup>
+    <col  class="org-left" />
+    
+    <col  class="org-left" />
+    
+    <col  class="org-left" />
+    </colgroup>
+    <thead>
+    <tr>
+    <th scope="col" class="org-left">Result Label</th>
+    <th scope="col" class="org-left">Numerical Value (copies/mL)</th>
+    <th scope="col" class="org-left">Clinical Significance</th>
+    </tr>
+    </thead>
+    
+    <tbody>
+    <tr>
+    <td class="org-left">Undetectable</td>
+    <td class="org-left">&lt;20 to &lt;50</td>
+    <td class="org-left">Indicates ART is highly effective; essentially zero risk of sexual transmission (U=U).</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">Viral Suppression</td>
+    <td class="org-left">&lt;200</td>
+    <td class="org-left">The primary goal of treatment. Prevents disease progression and sexual transmission.</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">Low-Level Viremia</td>
+    <td class="org-left">50–200</td>
+    <td class="org-left">Often monitored closely; may include temporary "blips" that return to undetectable.</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">Virologic Failure</td>
+    <td class="org-left">&gt;200</td>
+    <td class="org-left">Confirmed results above this level may indicate drug resistance or adherence issues.</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">High Viral Load</td>
+    <td class="org-left">&gt;100,000</td>
+    <td class="org-left">Associated with higher risk of rapid disease progression if left untreated.</td>
+    </tr>
+    </tbody>
+    </table>
+    
     -   Comments:
     -   Test Method Variance:
     -   Other:
@@ -7823,7 +7926,6 @@ TEST\_TYPE LONGNAME
 
 13. HIV1\_RNA\_LOG (HIV 1 RNA (viral load - log) in Serum or Plasma)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: HIV 1 RNA (viral load - log) in Serum or Plasma
@@ -7832,10 +7934,66 @@ TEST\_TYPE LONGNAME
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The primary indications for an HIV-1 RNA (viral load) test fall into three categories: managing an existing diagnosis, confirming a new or early infection, and testing infants.
+    -   Description: An HIV-1 RNA (viral load - log) in Serum or Plasma test is a molecular assay that measures the amount of human immunodeficiency virus type 1 (HIV-1) genetic material in a patient's blood. This quantitative test, often performed using Nucleic Acid Amplification Testing (NAAT) or PCR, is primarily used to monitor the effectiveness of antiretroviral therapy (ART) and assess disease progression.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Clinicians use specific numerical milestones to guide treatment for patients on antiretroviral therapy (ART):
+    
+    <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+    
+    
+    <colgroup>
+    <col  class="org-left" />
+    
+    <col  class="org-left" />
+    
+    <col  class="org-left" />
+    </colgroup>
+    <thead>
+    <tr>
+    <th scope="col" class="org-left">Result Label</th>
+    <th scope="col" class="org-left">Numerical Value</th>
+    <th scope="col" class="org-left">Clinical Significance</th>
+    </tr>
+    </thead>
+    
+    <tbody>
+    <tr>
+    <td class="org-left">Undetectable</td>
+    <td class="org-left">&lt;Log l.3 : 20 copies/mL</td>
+    <td class="org-left">Indicates ART is highly effective; essentially zero risk of sexual transmission (U=U).</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">Viral Suppression</td>
+    <td class="org-left">&lt;Log 2.3 : 200 copies/mL</td>
+    <td class="org-left">The primary goal of treatment. Prevents disease progression and sexual transmission.</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">Low-Level Viremia</td>
+    <td class="org-left">&gt;Log 1.7 &lt;Log 2.3 : 50-200 copies/mL</td>
+    <td class="org-left">Often monitored closely; may include temporary "blips" that return to undetectable.</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">Virologic Failure</td>
+    <td class="org-left">&gt;Log 2.3 : 200 copies/mL</td>
+    <td class="org-left">Confirmed results above this level may indicate drug resistance or adherence issues.</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">High Viral Load</td>
+    <td class="org-left">&gt;Log 5.0 : 100,000 copies/mL</td>
+    <td class="org-left">Associated with higher risk of rapid disease progression if left untreated.</td>
+    </tr>
+    </tbody>
+    </table>
+    
     -   Comments:
     -   Test Method Variance:
     -   Other:
@@ -7844,7 +8002,6 @@ TEST\_TYPE LONGNAME
 
 14. HIV2\_RNA (HIV 2 RNA (viral load) in Serum or Plasma)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: HIV 2 RNA (viral load) in Serum or Plasma
@@ -7853,10 +8010,70 @@ TEST\_TYPE LONGNAME
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The clinical indications for an HIV-2 RNA test generally fall into these four main categories:
+        -   Diagnostic Verification
+        -   Treatment Management (ART)
+        -   Disease Progression Monitoring
+        -   Prevention of Transmission
+    -   Description: The HIV-2 RNA (viral load) test is a specialized molecular assay used to measure the amount of Human Immunodeficiency Virus Type 2 (HIV-2) genetic material in a patient's blood. Unlike the more common HIV-1, HIV-2 requires specific testing because standard HIV-1 viral load assays typically do not detect or accurately quantify HIV-2.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Clinicians use specific numerical milestones to guide treatment for patients on antiretroviral therapy (ART):
+    
+    <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+    
+    
+    <colgroup>
+    <col  class="org-left" />
+    
+    <col  class="org-left" />
+    
+    <col  class="org-left" />
+    </colgroup>
+    <thead>
+    <tr>
+    <th scope="col" class="org-left">Result Label</th>
+    <th scope="col" class="org-left">Numerical Value (copies/mL)</th>
+    <th scope="col" class="org-left">Clinical Significance</th>
+    </tr>
+    </thead>
+    
+    <tbody>
+    <tr>
+    <td class="org-left">Undetectable</td>
+    <td class="org-left">&lt;20 to &lt;50</td>
+    <td class="org-left">Indicates ART is highly effective; essentially zero risk of sexual transmission (U=U).</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">Viral Suppression</td>
+    <td class="org-left">&lt;200</td>
+    <td class="org-left">The primary goal of treatment. Prevents disease progression and sexual transmission.</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">Low-Level Viremia</td>
+    <td class="org-left">50–200</td>
+    <td class="org-left">Often monitored closely; may include temporary "blips" that return to undetectable.</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">Virologic Failure</td>
+    <td class="org-left">&gt;200</td>
+    <td class="org-left">Confirmed results above this level may indicate drug resistance or adherence issues.</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">High Viral Load</td>
+    <td class="org-left">&gt;100,000</td>
+    <td class="org-left">Associated with higher risk of rapid disease progression if left untreated.</td>
+    </tr>
+    </tbody>
+    </table>
+    
     -   Comments:
     -   Test Method Variance:
     -   Other:
@@ -7865,7 +8082,6 @@ TEST\_TYPE LONGNAME
 
 15. HIV2\_RNA\_LOG (HIV 2 RNA (viral load - log) in Serum or Plasma)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: HIV 2 RNA (viral load - log) in Serum or Plasma
@@ -7874,10 +8090,66 @@ TEST\_TYPE LONGNAME
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The HIV-2 RNA (viral load) test is typically indicated for patients who have already been diagnosed with HIV-2 or for those where standard screening has produced inconclusive results. Because HIV-2 is genetically distinct from HIV-1, specific HIV-2 molecular tests are required for these scenarios.
+    -   Description: An HIV-2 RNA (viral load - log) in Serum or Plasma test is a molecular diagnostic tool that measures the quantity of HIV-2 genetic material (RNA) in a person's blood. Unlike HIV-1, which is more common globally, HIV-2 is primarily found in West Africa and typically presents with lower viral loads.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Clinicians use specific numerical milestones to guide treatment for patients on antiretroviral therapy (ART):
+    
+    <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+    
+    
+    <colgroup>
+    <col  class="org-left" />
+    
+    <col  class="org-left" />
+    
+    <col  class="org-left" />
+    </colgroup>
+    <thead>
+    <tr>
+    <th scope="col" class="org-left">Result Label</th>
+    <th scope="col" class="org-left">Numerical Value</th>
+    <th scope="col" class="org-left">Clinical Significance</th>
+    </tr>
+    </thead>
+    
+    <tbody>
+    <tr>
+    <td class="org-left">Undetectable</td>
+    <td class="org-left">&lt;Log l.3 : 20 copies/mL</td>
+    <td class="org-left">Indicates ART is highly effective; essentially zero risk of sexual transmission (U=U).</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">Viral Suppression</td>
+    <td class="org-left">&lt;Log 2.3 : 200 copies/mL</td>
+    <td class="org-left">The primary goal of treatment. Prevents disease progression and sexual transmission.</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">Low-Level Viremia</td>
+    <td class="org-left">&gt;Log 1.7 &lt;Log 2.3 : 50-200 copies/mL</td>
+    <td class="org-left">Often monitored closely; may include temporary "blips" that return to undetectable.</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">Virologic Failure</td>
+    <td class="org-left">&gt;Log 2.3 : 200 copies/mL</td>
+    <td class="org-left">Confirmed results above this level may indicate drug resistance or adherence issues.</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">High Viral Load</td>
+    <td class="org-left">&gt;Log 5.0 : 100,000 copies/mL</td>
+    <td class="org-left">Associated with higher risk of rapid disease progression if left untreated.</td>
+    </tr>
+    </tbody>
+    </table>
+    
     -   Comments:
     -   Test Method Variance:
     -   Other:
@@ -7886,7 +8158,6 @@ TEST\_TYPE LONGNAME
 
 16. HIV1\_RNA\_QL (HIV 1 RNA (detection) in Serum or Plasma - qualitative)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: HIV 1 RNA (detection) in Serum or Plasma - qualitative
@@ -7895,10 +8166,17 @@ TEST\_TYPE LONGNAME
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The HIV-1 RNA Qualitative test is used when a doctor needs to find the virus itself rather than the body's immune response. The primary indications for ordering it are:
+        -   Suspected Acute (Early) Infection
+        -   Confirming a "Reactive" Screen
+        -   Testing Newborns
+        -   Starting or Restarting PrEP/PEP
+    
+    Inconclusive Standard Results
+    
+    -   Description: An HIV-1 RNA Qualitative test is a highly sensitive diagnostic tool used to detect the presence of the virus's genetic material in human serum or plasma. It typically uses Nucleic Acid Amplification Testing (NAAT), such as real-time PCR or transcription-mediated amplification (TMA), to amplify and identify specific RNA sequences of the HIV-1 virus.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Unlike quantitative "viral load" tests that count the number of copies, this test provides a simple "Detected" or "Not Detected" result.
     -   Comments:
     -   Test Method Variance:
     -   Other:
@@ -7907,7 +8185,6 @@ TEST\_TYPE LONGNAME
 
 17. HIV12\_RNA\_QL (HIV 1 and HIV 2 RNA (detection) in Serum or Plasma - qualitative)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: HIV 1 and HIV 2 RNA (detection) in Serum or Plasma - qualitative
@@ -7916,10 +8193,14 @@ TEST\_TYPE LONGNAME
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The primary indication for an HIV-1 and HIV-2 RNA qualitative test is to diagnose infection when standard antibody-based tests are inconclusive or when infection is very recent.
+        -   Suspected Acute (Early) Infection
+        -   Confirming a "Reactive" Screen
+        -   Testing Newborns
+        -   Starting or Restarting PrEP/PEP
+    -   Description: An HIV-1 and HIV-2 RNA qualitative lab test is a nucleic acid amplification test (NAAT) used to detect the presence of the genetic material (RNA) of the two main types of human immunodeficiency virus in serum or plasma.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Unlike quantitative "viral load" tests that count the number of virus particles, this test provides a simple "Detected" or "Undetected" result for each virus.
     -   Comments:
     -   Test Method Variance:
     -   Other:
@@ -7928,7 +8209,6 @@ TEST\_TYPE LONGNAME
 
 18. HIV1\_AB\_AG\_QL (HIV 1 Antibody and Antigen)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: HIV 1 Antibody and Antigen
@@ -7937,10 +8217,52 @@ TEST\_TYPE LONGNAME
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The HIV-1 Antibody and Antigen (Ag/Ab) test is the preferred first-line test for both routine screening and diagnostic evaluation of suspected HIV infection.
+    -   Description: The HIV-1 Antibody and Antigen (Ag/Ab) test, also known as a fourth-generation or combination test, is the standard laboratory method for screening for HIV. It is designed to detect both the virus itself and the body's response to it, allowing for earlier diagnosis than older tests.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations):The reference range for an HIV-1 Antibody and Antigen (4th Generation) test is typically expressed as a Signal-to-Cutoff (S/CO) ratio or Index Value.
+    
+    <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+    
+    
+    <colgroup>
+    <col  class="org-left" />
+    
+    <col  class="org-left" />
+    
+    <col  class="org-left" />
+    </colgroup>
+    <thead>
+    <tr>
+    <th scope="col" class="org-left">Value (S/CO or Index)</th>
+    <th scope="col" class="org-left">Interpretation</th>
+    <th scope="col" class="org-left">Meaning</th>
+    </tr>
+    </thead>
+    
+    <tbody>
+    <tr>
+    <td class="org-left">Less than 0.90</td>
+    <td class="org-left">Non-reactive (Negative)</td>
+    <td class="org-left">No HIV-1 p24 antigen or HIV-1/2 antibodies were detected.</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">0.90 to 0.99</td>
+    <td class="org-left">Equivocal (Borderline)</td>
+    <td class="org-left">The result is unclear. Doctors often recommend repeating the test.</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">1.00 or Greater</td>
+    <td class="org-left">Reactive (Preliminary Positive)</td>
+    <td class="org-left">The test detected signs of HIV. Supplemental "reflex" testing is required to confirm.</td>
+    </tr>
+    </tbody>
+    </table>
+    
     -   Comments:
     -   Test Method Variance:
     -   Other:
@@ -7949,7 +8271,6 @@ TEST\_TYPE LONGNAME
 
 19. HIV12\_AB\_HIV1\_AG\_QL (HIV 1 and HIV 2 Antibody and HIV 1 Antigen - qualitative)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: HIV 1 and HIV 2 Antibody and HIV 1 Antigen - qualitative
@@ -7958,10 +8279,10 @@ TEST\_TYPE LONGNAME
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The primary indication for this test is to screen for and diagnose HIV-1 and HIV-2 infections, including early "acute" infections.
+    -   Description: This laboratory test, often called a 4th-generation HIV-1/2 Ag/Ab combo test, is a qualitative screen used for the simultaneous detection of both the HIV-1 p24 antigen and antibodies to HIV-1 and HIV-2. It is the current standard for initial HIV screening because it can identify infection earlier than older, antibody-only tests.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): The normal or "reference" result for a healthy, uninfected individual is Non-reactive (or Negative).
     -   Comments:
     -   Test Method Variance:
     -   Other:
@@ -7970,7 +8291,6 @@ TEST\_TYPE LONGNAME
 
 20. HIV12\_AB\_HIV1\_AG\_QN (HIV 1 and HIV 2 Antibody and HIV 1 Antigen - quantitative)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: HIV 1 and HIV 2 Antibody and HIV 1 Antigen - quantitative
@@ -7979,10 +8299,66 @@ TEST\_TYPE LONGNAME
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The indications for these tests depend on whether they are being used for routine screening, diagnosing a potential exposure, or monitoring an existing condition.
+    -   Description: A 4th Generation HIV-1/2 Antigen-Antibody test is the standard laboratory screening method used to detect both the virus itself and the body's immune response. While the initial screen is qualitative (providing a "Reactive" or "Non-Reactive" result), it can lead to quantitative follow-up tests if a person is confirmed positive.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): measures number of viral copies
+    
+    <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+    
+    
+    <colgroup>
+    <col  class="org-left" />
+    
+    <col  class="org-left" />
+    
+    <col  class="org-left" />
+    </colgroup>
+    <thead>
+    <tr>
+    <th scope="col" class="org-left">Result Label</th>
+    <th scope="col" class="org-left">Numerical Value (copies/mL)</th>
+    <th scope="col" class="org-left">Clinical Significance</th>
+    </tr>
+    </thead>
+    
+    <tbody>
+    <tr>
+    <td class="org-left">Undetectable</td>
+    <td class="org-left">&lt;20 to &lt;50</td>
+    <td class="org-left">Indicates ART is highly effective; essentially zero risk of sexual transmission (U=U).</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">Viral Suppression</td>
+    <td class="org-left">&lt;200</td>
+    <td class="org-left">The primary goal of treatment. Prevents disease progression and sexual transmission.</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">Low-Level Viremia</td>
+    <td class="org-left">50–200</td>
+    <td class="org-left">Often monitored closely; may include temporary "blips" that return to undetectable.</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">Virologic Failure</td>
+    <td class="org-left">&gt;200</td>
+    <td class="org-left">Confirmed results above this level may indicate drug resistance or adherence issues.</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">High Viral Load</td>
+    <td class="org-left">&gt;100,000</td>
+    <td class="org-left">Associated with higher risk of rapid disease progression if left untreated.</td>
+    </tr>
+    </tbody>
+    </table>
+    
     -   Comments:
     -   Test Method Variance:
     -   Other:
@@ -7991,7 +8367,6 @@ TEST\_TYPE LONGNAME
 
 21. HIV1\_QL (HIV 1 - qualitative)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: HIV 1 - qualitative
@@ -8000,10 +8375,10 @@ TEST\_TYPE LONGNAME
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: An HIV-1 Qualitative RNA test is indicated primarily in clinical situations where detecting the virus itself is more reliable than waiting for the body's immune response (antibodies) to appear.
+    -   Description: An HIV-1 qualitative lab test (RNA or DNA PCR) detects the presence or absence of the virus's genetic material in the blood, rather than antibodies. It is highly sensitive for diagnosing acute infections (within 1-2 weeks of exposure) or neonatal infection.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations):  provides a "detected" or "not detected" result.
     -   Comments:
     -   Test Method Variance:
     -   Other:
@@ -8012,7 +8387,6 @@ TEST\_TYPE LONGNAME
 
 22. HIV12\_QL (HIV 1 and HIV 2 algorithm interpretation - qualitative)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: HIV 1 and HIV 2 algorithm interpretation - qualitative
@@ -8021,10 +8395,10 @@ TEST\_TYPE LONGNAME
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The primary indication for this laboratory algorithm is to screen for and diagnose HIV-1 and HIV-2 infections, particularly in individuals where a differentiation between the two viruses is clinically necessary.
+    -   Description: The CDC-recommended HIV diagnostic algorithm is a multi-step process used to accurately diagnose and differentiate between HIV-1 and HIV-2 infections. It typically follows these three phases: initial screening, antibody differentiation, nucleic acid testing (NAT).
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): typically reported as Non-reactive or Undetected
     -   Comments:
     -   Test Method Variance:
     -   Other:
@@ -8033,7 +8407,6 @@ TEST\_TYPE LONGNAME
 
 23. HIV1\_AB\_SCR\_QL\_S (HIV 1 Antibody in Saliva by Screen method - qualitative)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: HIV 1 Antibody in Saliva by Screen method - qualitative
@@ -8042,10 +8415,10 @@ TEST\_TYPE LONGNAME
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: The primary indications for this test include routine screening for adults and adolescents, and targeted screening for individuals with specific risk factors or symptoms of HIV infection.
+    -   Description: This laboratory test is a non-invasive screening method used to detect antibodies to the Human Immunodeficiency Virus Type 1 (HIV-1) in oral fluid.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): These antibodies are "present" or "absent" and does not measure the exact amount of the virus or stage of infection.
     -   Comments:
     -   Test Method Variance:
     -   Other:
@@ -8054,7 +8427,6 @@ TEST\_TYPE LONGNAME
 
 24. HIV1\_AB\_SCR\_QN\_S (HIV 1 Antibody in Saliva by Screen method - quantitative)
 
-    ***NEEDS TO BE UPDATED***
     ***UNDER REVIEW***
     
     -   Common Name: HIV 1 Antibody in Saliva by Screen method - quantitative
@@ -8063,10 +8435,10 @@ TEST\_TYPE LONGNAME
     -   Panels:
     -   Equivalent Tests:
     -   Not Equivalent Tests:
-    -   Indications:
-    -   Description:
+    -   Indications: Indications for an HIV-1 antibody saliva-based screen include routine screening, known or suspected exposure, and symptoms of infection. This non-invasive method is often used when a blood draw is not feasible or desired.
+    -   Description: An HIV-1 Antibody in Saliva by Screen method refers to a laboratory-based test that detects the presence of specific proteins (antibodies) produced by the immune system in response to an HIV-1 infection.
     -   Related Tests:
-    -   Approximate Reference Range (Each site will have slight variations):
+    -   Approximate Reference Range (Each site will have slight variations): Non-Reactive (Normal): S/CO < 1.0 reported as a signal-to-cutoff (S/CO) ratio or absorbance value.
     -   Comments:
     -   Test Method Variance:
     -   Other:
