@@ -1,0 +1,12 @@
+concept_rows_after_merge
+------------------------
+                       5
+
+  Obs  CONCEPT_ID  CONCEPT_CODE  VOCABULARY_ID                                 CONCEPT_NAME
+-----  ----------  ------------  -------------  -------------------------------------------
+    1     3013682  2160-0        LOINC          Creatinine [Mass/volume] in Serum or Plasma
+    2     3024128  4548-4        LOINC          Hemoglobin A1c/Hemoglobin.total in Blood
+    3     3004501  2345-7        LOINC          Glucose [Mass/volume] in Serum or Plasma
+    4     3016723  2951-2        LOINC          Sodium [Moles/volume] in Serum or Plasma
+    5     3020891  8310-5        LOINC          Body temperature
+

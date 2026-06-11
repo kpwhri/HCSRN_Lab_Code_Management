@@ -1,0 +1,20 @@
+{
+  "_captured_at": "2026-06-11T18:55:59.062700+00:00",
+  "_captured_run_id": "r_019eb80a3a8876f1a500a6c28d598698",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Table vocab_concept_in created.",
+    "NOTE: Renamed VOCAB_CONCEPT_IN to VOCAB_CONCEPT.",
+    "NOTE: Deleting VOCAB_CONCEPT_TEMP (memtype=DATA).",
+    "NOTE: PROC PRINT completed: 5 observations printed, 4 variables"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

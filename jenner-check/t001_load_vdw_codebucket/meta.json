@@ -1,0 +1,8 @@
+{
+  "bundle": "t001_load_vdw_codebucket",
+  "source_file": "sas_etl/02-load-VDW-CB.sas",
+  "source_blob_sha": "f5f543bca9c2dd3379f08106304686f093b38d9a",
+  "source_commit": "d1469ce224d9448f5631c66e84c7857a48138aa6",
+  "tier": "real_data",
+  "notes": "Codebucket builder: monotonic() row id over a PROC SQL union that tags each OMOP vocabulary_id/domain_id with its VDW code_type + code_source. Author's union kept verbatim. dat.vdw_standard_codes is a 15-row sample of the repo's own vdw_standard_codes.sas7bdat; vocab.concept is a 10-row OMOP CONCEPT mock covering ICD9CM/ICD10CM/LOINC/CPT4/HCPCS/RxNorm so multiple union branches fire. Two-level dat./vocab. names mapped to work tables staged in autoexec."
+}

@@ -1,0 +1,46 @@
+                                                   The FREQ Procedure
+
+CODE_SOURCE         Frequency    Percent
+-----------------------------------------
+CAUSE_OF_DEATH              2      8.00
+CENSUS_LOCATION             2      8.00
+DEATH                       2      8.00
+DEMOGRAPHICS                3     12.00
+DIAGNOSIS                   1      4.00
+ENCOUNTER                   4     16.00
+LAB_RESULTS                 1      4.00
+OMOP_DIAGNOSIS              2      8.00
+OMOP_LAB_RESULTS            2      8.00
+OMOP_MEASUREMENT            1      4.00
+OMOP_OBSERVATION            1      4.00
+OMOP_PHARMACY               1      4.00
+OMOP_PROCEDURE              3     12.00
+
+  Obs  CODE_ID     CODE              CODE_TYPE                                    CODE_DESC       CODE_SOURCE
+-----  -------  -------  ---------------------  -------------------------------------------  ----------------
+    1        1  C        CAUSETYPE              Contributory                                 CAUSE_OF_DEATH
+    2        2  10       DX_CODETYPE            ICD_10                                       CAUSE_OF_DEATH
+    3        3  B        GEOLEVEL               Block                                        CENSUS_LOCATION
+    4        4  0        MATCH_STRENGTH         No coordinates                               CENSUS_LOCATION
+    5        5  E        CONFIDENCE             Excellent                                    DEATH
+    6        6  B        DTIMPUTE               Both month & day imputed                     DEATH
+    7        7  N        HISPANIC               No                                           DEMOGRAPHICS
+    8        8  AS       RACE                   Asian                                        DEMOGRAPHICS
+    9        9  F        SEX_ADMIN              Female                                       DEMOGRAPHICS
+   10       10  P        PRIMARY_DX             Primary diagnosis                            DIAGNOSIS
+   11       11  AF       ADMITTING_SOURCE       Adult Foster Home                            ENCOUNTER
+   12       12  ACUP     DEPARTMENT             Acupuncture                                  ENCOUNTER
+   13       13  ADMINS   DEPT                   Administration                               ENCOUNTER
+   14       14  A        DISCHARGE_DISPOSITION  Alive                                        ENCOUNTER
+   15       15  2160-0   TEST_TYPE              Creatinine                                   LAB_RESULTS
+   16       16  001.1    ICD09CM                Cholera due to Vibrio cholerae el tor        OMOP_DIAGNOSIS
+   17       17  2160-0   LOINC                  Creatinine [Mass/volume] in Serum or Plasma  OMOP_LAB_RESULTS
+   18       18  4548-4   LOINC                  Hemoglobin A1c/Hemoglobin.total in Blood     OMOP_LAB_RESULTS
+   19       19  310965   RxNorm                 Ibuprofen 200 MG Oral Tablet                 OMOP_PHARMACY
+   20       20  A00.0    ICD10CM                Cholera due to Vibrio cholerae               OMOP_DIAGNOSIS
+   21       21  0BTC0ZZ  10                     Pneumonectomy                                OMOP_PROCEDURE
+   22       22  99213    CPT4                   Office visit established patient             OMOP_OBSERVATION
+   23       23  47.09    09                     Appendectomy                                 OMOP_PROCEDURE
+   24       24  80053    CPT4                   Metabolic panel                              OMOP_MEASUREMENT
+   25       25  A0428    H4                     Ambulance service                            OMOP_PROCEDURE
+
