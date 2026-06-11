@@ -1,0 +1,45 @@
+Jenner 0.1.0 (Unlicensed - limited to 100 observations)
+Get a license at https://jenneranalytics.com/license
+
+NOTE: Option OBS changed to 100.
+NOTE: DATA dat_vdw_codebucket
+
+NOTE: Processing inline DATALINES (5 lines)
+
+NOTE: Read 5 rows from DATALINES.
+NOTE: Wrote dat_vdw_codebucket (5 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA vocab_concept
+
+NOTE: Processing inline DATALINES (6 lines)
+
+NOTE: Read 6 rows from DATALINES.
+NOTE: Wrote vocab_concept (6 rows, 7 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA vocab_concept_relationship
+
+NOTE: Processing inline DATALINES (4 lines)
+
+NOTE: Read 4 rows from DATALINES.
+NOTE: Wrote vocab_concept_relationship (4 rows, 6 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC SQL 
+
+NOTE: Table rcm_lab_loinc created.
+NOTE: PROC SQL statement used.
+NOTE: PROC SQL 
+
+NOTE: Table rcm_lab_loinc_group created.
+NOTE: PROC SQL statement used.
+NOTE: PROC PRINT data=rcm_lab_loinc
+
+NOTE: PROC PRINT completed: 3 observations printed, 5 variables
+NOTE: PROC PRINT data=rcm_lab_loinc_group
+
+NOTE: PROC PRINT completed: 3 observations printed, 4 variables

@@ -1,0 +1,20 @@
+{
+  "_captured_at": "2026-06-11T18:50:35.146797+00:00",
+  "_captured_run_id": "r_019eb805513b72138677a3d01cebcb6f",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Table vdw_codebucket created.",
+    "NOTE: Read 15 rows from DATALINES.",
+    "NOTE: Read 10 rows from DATALINES.",
+    "NOTE: PROC PRINT completed: 25 observations printed, 5 variables"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "bundle": "t003_merge_omop_vocab",
+  "source_file": "sas_etl/01-merge-omop-vocab.sas",
+  "source_blob_sha": "b5679e2b44872cbf3567b5f8e7f92ce71a3007cf",
+  "source_commit": "d1469ce224d9448f5631c66e84c7857a48138aa6",
+  "tier": "real_data",
+  "notes": "Incremental OMOP CONCEPT load. Author's pattern kept verbatim: %sysfunc(exist()) guard, PROC SQL union with anti-join (where oct.concept_id is null) to add only new concept_ids, then PROC DATASETS delete temp / change live->bkup / change _in->live. Exercises the 'vocabulary already exists' merge branch with 3 existing + 4 extract rows -> 5 deduplicated concepts. Source script reads vocab.concept_temp from omop_vocab\\CONCEPT.csv via INFILE; here it is staged inline so the bundle is self-contained for the runner (which submits script only). Two-level vocab. names mapped to work tables in autoexec."
+}

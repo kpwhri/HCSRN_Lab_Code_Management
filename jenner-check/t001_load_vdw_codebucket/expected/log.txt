@@ -1,0 +1,32 @@
+Jenner 0.1.0 (Unlicensed - limited to 100 observations)
+Get a license at https://jenneranalytics.com/license
+
+NOTE: Option OBS changed to 100.
+NOTE: DATA dat_vdw_standard_codes
+
+NOTE: Processing inline DATALINES (15 lines)
+
+NOTE: Read 15 rows from DATALINES.
+NOTE: Wrote dat_vdw_standard_codes (15 rows, 4 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA vocab_concept
+
+NOTE: Processing inline DATALINES (10 lines)
+
+NOTE: Read 10 rows from DATALINES.
+NOTE: Wrote vocab_concept (10 rows, 10 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC SQL 
+
+NOTE: Table vdw_codebucket created.
+NOTE: PROC SQL statement used.
+NOTE: PROC FREQ
+NOTE: ODS plot written: freq_code_source.spec.json
+NOTE: PROC FREQ statement used.
+NOTE: PROC PRINT data=vdw_codebucket
+
+NOTE: PROC PRINT completed: 25 observations printed, 5 variables

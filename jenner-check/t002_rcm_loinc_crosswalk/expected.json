@@ -1,0 +1,20 @@
+{
+  "_captured_at": "2026-06-11T18:52:55.822932+00:00",
+  "_captured_run_id": "r_019eb8078adc7760ae0ef56e244b5247",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Table rcm_lab_loinc created.",
+    "NOTE: Table rcm_lab_loinc_group created.",
+    "NOTE: PROC PRINT completed: 3 observations printed, 5 variables",
+    "NOTE: PROC PRINT completed: 3 observations printed, 4 variables"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

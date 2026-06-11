@@ -1,0 +1,13 @@
+
+  Obs  VDW_CODE_ID  VDW_CODE  VDW_CD_TYPE  OMOP_CODE                                 OMOP_CD_DESC
+-----  -----------  --------  -----------  ---------  -------------------------------------------
+    1          101  2160-0    LOINC        2160-0     Creatinine [Mass/volume] in Serum or Plasma
+    2          102  4548-4    LOINC        4548-4     Hemoglobin A1c/Hemoglobin.total in Blood
+    3          103  2345-7    LOINC        2345-7     Glucose [Mass/volume] in Serum or Plasma
+
+  Obs  LOINC_GROUP_CODE       LOINC_GROUP_DESC  LOINC_CODE                                   LOINC_DESC
+-----  ----------------  ---------------------  ----------  -------------------------------------------
+    1  LG6657-3          Creatinine [Bld-sCnc]  2160-0      Creatinine [Mass/volume] in Serum or Plasma
+    2  LG5832-3          Hemoglobin A1c [Bld]   4548-4      Hemoglobin A1c/Hemoglobin.total in Blood
+    3  LG7967-5          Glucose [Bld-sCnc]     2345-7      Glucose [Mass/volume] in Serum or Plasma
+

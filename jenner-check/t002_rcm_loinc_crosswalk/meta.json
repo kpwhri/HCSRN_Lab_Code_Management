@@ -1,0 +1,8 @@
+{
+  "bundle": "t002_rcm_loinc_crosswalk",
+  "source_file": "sas_etl/03-load-RCM.sas",
+  "source_blob_sha": "3d9cb17d7c336bf8c0503f5892fa75d0d6fbe148",
+  "source_commit": "d1469ce224d9448f5631c66e84c7857a48138aa6",
+  "tier": "real_data",
+  "notes": "RCM LOINC crosswalk views. Both author queries kept verbatim: (1) rcm_lab_loinc left-joins the codebucket's LOINC-typed rows to OMOP CONCEPT on concept_code; (2) rcm_lab_loinc_group nests an inner join of CONCEPT_RELATIONSHIP 'Subsumes' edges with the 'LOINC Group' CONCEPT subselect, then joins back to CONCEPT for the member LOINC. Mocked dat.vdw_codebucket (LOINC rows), vocab.concept (LOINC lab + LOINC Group concepts), vocab.concept_relationship (Subsumes edges). Two-level dat./vocab. mapped to work tables in autoexec."
+}
