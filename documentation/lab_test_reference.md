@@ -32,8 +32,6 @@ This reference document is not inclusive of all lab tests that have been deemed 
 
 ### AFP (Alpha-1 Fetoprotein)
 
-***UNDER REVIEW***
-
 -   Common Name:  Alpha-1 Fetoprotein
 -   Long Name:  Alpha-1 Fetoprotein in Serum or Plasma
 -   Test Type:  AFP
@@ -116,8 +114,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 
 ### AMYLASE (Amylase in blood)
-
-***UNDER REVIEW***
 
 -   Common Name: Amylase total
 -   Long Name: Amylase, total in blood
@@ -239,8 +235,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 
 ### BNP\_PROHORMONE (N-terminal prohormone-B-type natriuretic peptide)
-
-***UNDER REVIEW***
 
 -   Common Name: N-terminal prohormone-B-type natriuretic peptide (NT-proBNP)
 -   Long Name:  Natriuretic peptide.B prohormone N-Terminal [Mass/volume] in Serum or Plasma
@@ -564,7 +558,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 3.  CK\_BBI (Creatine Kinase BB Total)
 
-    ***UNDER REVIEW***
     NOTE: This single reference document contains information pertinent to the individual TEST\_TYPEs CK\_BB\_EP, and the indexes CK\_BBI, or CK\_BBI\_EP.
     
     -   Common Name: CK BB (also known as CPK BB)
@@ -585,7 +578,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 4.  CK\_BBI\_EP (Creatine Kinase BB Total Electrophoresis)
 
-    ***UNDER REVIEW***
     NOTE: This single reference document contains information pertinent to the individual TEST\_TYPES CK\_BB\_EP, and the indexes CK\_BBI, or CK\_BBI\_EP.
     
     -   Common Name: CK BB (also known as CPK BB)
@@ -606,8 +598,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 5.  CK\_BF (Creatine Kinase in Body Fluid)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Creatine Kinase in Body Fluid
     -   Long Name: Creatine Kinase Body Fluid Quantitative
     -   Test Types: CK\_BF
@@ -644,8 +634,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 7.  CK\_ISO (Creatine Kinase Isoenzymes)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Creatine Kinase Isoenzymes
     -   Long Name:  Creatine Kinase Isoenzymes Interpretation - analytic method not specified
     -   Test Type:  CK\_ISO
@@ -674,8 +662,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 8.  CK\_ISO\_EP (Creatine Kinase Isoenzymes Electrophoresis)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Creatine Kinase Isoenzymes Electrophoresis
     -   Long Name: Creatine Kinase Isoenzymes Electrophoresis Interpretation
     -   Test Type: CK\_ISO\_EP
@@ -808,8 +794,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 15. CK\_MM\_EP (Creatine Kinase MM Electrophoresis)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Creatine Kinase MM Electrophoresis
     -   Long Name: Creatine Kinase Muscle-Muscle Electrophoresis
     -   Test Type: CK\_MM\_EP
@@ -828,8 +812,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 16. CK\_MMI (Creatine Kinase MM)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Creatine Kinase MM
     -   Long Name: Creatine Kinase MM/Creatine Kinase Total
     -   Test Type: CK\_MMI
@@ -848,8 +830,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 17. CK\_MMI\_EP (Creatine Kinase MM Electrophoresis)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Creatine Kinase MM Electrophoresis
     -   Long Name: Creatine Kinase MM/Creatine Kinase Total Electrophoresis
     -   Test Type: CK\_MMI\_EP
@@ -906,8 +886,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 1.  CO2\_A (Carbon dioxide in Arterial blood)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Carbon dioxide in Arterial blood
     -   Long Name: Carbon dioxide, total [Moles/volume] in Arterial blood
     -   Test Type: CO2\_A
@@ -926,8 +904,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 2.  CO2\_C (Carbon dioxide in Capillary blood)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Carbon dioxide in Capillary blood
     -   Long Name: Carbon dioxide, total [Moles/volume] in Capillary blood
     -   Test Type: CO2\_C
@@ -946,8 +922,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 3.  CO2\_V (Carbon dioxide in Veinous blood)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Carbon dioxide in Veinous blood
     -   Long Name: Carbon dioxide, total [Moles/volume] in Veinous blood)
     -   Test Type: CO2\_V
@@ -966,8 +940,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 4.  CO2\_NS (Carbon dioxide source not specified)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Carbon dioxide source not specified
     -   Long Name: Carbon dioxide, total [Moles/volume] in Serum, Plasma or Blood
     -   Test Type: CO2\_NS
@@ -986,8 +958,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 5.  CO2\_A\_CLC (Carbon dioxide in Arterial blood Calculated)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Carbon dioxide in Arterial blood Calculated
     -   Long Name: Carbon dioxide, total [Moles/volume] in Arterial blood by calculation
     -   Test Type: CO2\_A\_CLC
@@ -1009,8 +979,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 6.  CO2\_C\_CLC (Carbon dioxide in Capillary blood by calculated)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Carbon dioxide in Capillary blood by calculated
     -   Long Name: Carbon dioxide, total [Moles/volume] in Capillary blood by calculation
     -   Test Type: CO2\_C\_CLC
@@ -1029,8 +997,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 7.  CO2\_V\_CLC (Carbon dioxide in Venous blood by calculation)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Carbon dioxide in Venous blood by calculation
     -   Long Name: Carbon dioxide, total [Moles/volume] in Venous blood by calculation
     -   Test Type: CO2\_V\_CLC
@@ -1049,8 +1015,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 8.  CO2\_NS\_CLC (Carbon dioxide source not specified by calculation)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Carbon dioxide source not specified by calculation
     -   Long Name: Carbon dioxide, total [Moles/volume] in Serum, Plasma or Blood by calculation
     -   Test Type: CO2\_NS\_CLC
@@ -1069,8 +1033,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 
 ### COLOGUARD (Noninvasive colorectal cancer screen)
-
-***UNDER REVIEW***
 
 -   Common Name: Noninvasive colorectal cancer screen
 -   Long Name: Noninvasive colorectal cancer DNA and occult blood screening [Presence] in Stool
@@ -1129,8 +1091,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 ### CRP\_TIT (C-reactive protein titer)
 
-***UNDER REVIEW***
-
 -   Common Name: C-Reactive Protein
 -   Long Name: C-reactive protein serum/plasma titer
 -   Test Type: CRP\_TIT
@@ -1170,8 +1130,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 ### CRPHS\_QUIN (High-sensitivity C-reactive protein quintile)
 
-***UNDER REVIEW***
-
 -   Common Name: HsCRP quintile
 -   Long Name: High-sensitivity C-Reactive Protein
 -   Test Type: CRPHS\_QUIN
@@ -1196,8 +1154,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 ### CYSTATIN\_C (Cystatin C)
 
-***UNDER REVIEW***
-
 -   Common Name: Cystatin C
 -   Long Name: Cystatin C [Mass/volume] in Serum or Plasma
 -   Test Type: CYSTATIN\_C
@@ -1219,8 +1175,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 1.  D\_DIME\_DDU (D-dimer fibrin derivatives, D-Dimer Units)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: D-dimer fibrin derivatives, D-Dimer Units
     -   Long Name: D-dimer fibrin derivatives, quantitative, D-Dimer Units
     -   Test Type: D\_DIME\_DDU
@@ -1238,8 +1192,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 2.  D\_DIME\_FEU (D-dimer fibrin derivatives, Fibinogen Equivalent Units)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: D-dimer fibrin derivatives, Fibinogen Equivalent Units
     -   Long Name: D-dimer fibrin derivatives, quantitative, Fibinogen Equivalent Units
     -   Test Type: D\_DIME\_FEU
@@ -1258,8 +1210,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 3.  D\_DIME\_NS (D-dimer fibrin derivatives, Not Specified)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: D-dimer fibrin derivatives, Not Specified
     -   Long Name: D-dimer fibrin derivatives, quantitative, Not Specified
     -   Test Type: D\_DIME\_NS
@@ -1276,8 +1226,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 4.  D\_DIMER\_QL (D-dimer fibrin derivatives, qualitative)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: D-dimer fibrin derivatives, qualitative
     -   Long Name: D-dimer fibrin derivatives, qualitative
     -   Test Type: D\_DIMER\_QL
@@ -1300,8 +1248,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 
 ### ESR (Erythrocyte sedimentation rate)
-
-***UNDER REVIEW***
 
 -   Common Name: Erythrocyte sedimentation rate
 -   Long Name: Erythrocyte sedimentation rate
@@ -1330,8 +1276,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 1.  FE (Iron)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Iron
     -   Long Name: Iron in Serum or Plasma
     -   Test Type: FE
@@ -1353,8 +1297,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 2.  FE\_QL (Iron qualitative)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Iron qualitative
     -   Long Name: Iron in Serum or Plasma  qualitative
     -   Test Type: FE\_QL
@@ -1375,8 +1317,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 3.  FE\_SATURATION (Iron Saturation)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Iron Saturation
     -   Long Name: Iron Saturation in Serum or Plasma
     -   Test Type: FE\_SATURATION
@@ -1398,8 +1338,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 4.  FE\_TIBC (Iron Binding Capacity)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Iron Binding Capacity
     -   Long Name: Iron Binding Capacity in Serum or Plasma
     -   Test Type: FE\_TIBC
@@ -1420,8 +1358,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 5.  FE\_UIBC (Iron Binding Capacity unsaturated)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Unsaturated Iron Binding Capacity
     -   Long Name: Iron Binding Capacity in Serum or Plasma Unsaturated
     -   Test Type: FE\_UIBC
@@ -1447,8 +1383,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 6.  FE\_TRANSFERRIN\_RATIO (Iron/Transferrin ratio)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Iron/Transferrin ratio
     -   Long Name: Iron/Transferrin ratio in Serum or Plasma
     -   Test Type: FE\_TRANSFERRIN\_RATIO
@@ -1550,9 +1484,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 5.  FOB\_IMMUN\_QN (Fecal Immunologic [Immunochemical] quantitative)
 
-    ***NEEDS TO BE UPDATED***
-    ***UNDER REVIEW***
-    
     -   Common Name: FIT (fecal immunochemical test, iFOBT)
     -   Long Name: FOBT quantitative; fecal occult blood; occult blood in stool; immunologic
     -   Test Type: FOB\_IMMUN\_QN
@@ -1591,8 +1522,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 ### FOLATE\_RBC (Folate in red blood cells)
 
-***UNDER REVIEW***
-
 -   Common Name Folate in red blood cells
 -   Long Name:
 -   Test Type: FOLATE\_RBC
@@ -1614,8 +1543,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 1.  GFR\_AA\_CKD (Glomerular Filtration Rate, CKD-EPI, African American)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Glomerular Filtration Rate, CKD-EPI, African American
     -   Long Name: Glomerular Filtration Rate/1.73 sq M.predicted Black (CKD-EPI)
     -   Test Type: GFR\_AA\_CKD
@@ -1669,8 +1596,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 3.  GFR\_AA\_NS (Glomerular Filtration Rate, method not-specified, African American)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Glomerular Filtration Rate, method not-specified, African American
     -   Long Name: Glomerular Filtration Rate/1.73 sq M. predicted black (method not specified)
     -   Test Type: GFR\_AA\_NS
@@ -1703,8 +1628,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 4.  GFR\_ARV (Glomerular Filtration Rate, ArvRate)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Glomerular Filtration Rate, ArvRate
     -   Long Name: Glomerular Filtration Rate/1.73 sq M.predicted (Antiretroviral Rate)
     -   Test Type: GFR\_ARV
@@ -1724,8 +1647,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 5.  GFR\_CKD (Glomerular Filtration Rate, CKD-EPI)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Glomerular filtration rate
     -   Long Name: Glomerular Filtration Rate/1.73 sq M.predicted (CKD-EPI)
     -   Test Type: GFR\_CKD
@@ -1745,8 +1666,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 6.  GFR\_CKD\_EPI (Glomerular Filtration Rate, CKD-EPI 2021, not based on race)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Glomerular Filtration Rate, CKD-EPI 2021, not based on race
     -   Long Name: Glomerular filtration rate/1.73 sq M.predicted (CKD-EPI 2021) creatinine formula not based on race
     -   Test Type: GFR\_CKD\_EPI
@@ -1820,8 +1739,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 7.  GFR\_CKD\_EPI\_CYS (Glomerular Filtration Rate, CKD-EPI 2021, creatine-cystatin not based on race)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Glomerular Filtration Rate, CKD-EPI 2021, creatine-cystatin not based on race
     -   Long Name: Glomerular filtration rate/1.73 sq M.predicted (CKD-EPI 2021) creatinine-cystatin not based on race
     -   Test Type: GFR\_CKD\_EPI\_CYS
@@ -1895,8 +1812,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 8.  GFR\_CYST (Glomerular Filtration Rate, Cystatin)
 
-    ***UNDER REVIEW***
-    
     -   Common Name:  Glomerular Filtration Rate, Cystatin
     -   Long Name:  Glomerular Filtration Rate/1.73 sq M.predicted (Cystatin)
     -   Test Type:  GFR\_CYST
@@ -1915,8 +1830,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 9.  GFR\_F\_MD (Glomerular Filtration Rate, MDRD, Female)
 
-    ***UNDER REVIEW***
-    
     -   Common Name:  Glomerular Filtration Rate, MDRD, Female
     -   Long Name:  Glomerular Filtration Rate/1.73 sq M.predicted.female (MDRD)
     -   Test Type:  GFR\_F\_MD
@@ -1935,8 +1848,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 10. GFR\_M\_MD (Glomerular Filtration Rate, MDRD, Male)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Glomerular Filtration Rate, MDRD, Male
     -   Long Name:  Glomerular Filtration Rate/1.73 sq M.predicted.male (MDRD)
     -   Test Type:  GFR\_M\_MD
@@ -1982,8 +1893,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 12. GFR\_NAA\_CKD (Glomerular Filtration Rate, CKD-EPI, Non-African American)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Glomerular Filtration Rate, CKD-EPI, Non-African American
     -   Long Name: Glomerular Filtration Rate/1.73 sq M.predicted .non Black (CKD-EPI)
     -   Test Type: GFR\_NAA\_CKD
@@ -2036,8 +1945,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 14. GFR\_NAA\_NS (Glomerular Filtration Rate, Not Specified, Non-African American)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Glomerular Filtration Rate, Not Specified, Non-African American
     -   Long Name: Glomerular filtration rate/1.73 sq M.predicted.non Black
     -   Test Type:
@@ -2063,8 +1970,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 15. GFR\_NS (Glomerular Filtration Rate, Not Specified)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Glomerular Filtration Rate, Not Specified
     -   Long Name: Glomerular filtration rate, method and Race not specified
     -   Test Type: GFR\_NS
@@ -2114,7 +2019,7 @@ Prealbumin, microalbumin, urinalysis, liver panel
     -   Comments: Many HMOs do not report GFR results using the Schwartz equation (even for pediatrics). Before populating this test type, please determine whether your health plan reports results using the Schwartz equation. This test is most accurate for poor kidney function so it may only be reported for values less than 75 ml/min/1.73 m2. Values any higher than 75 mL/min may be reported as “greater than or equal to 75 mL/min/1.73 m2”.
     -   Test Method Variance: &#x2013;
     -   Other: &#x2013;
-        -   Associated LOINC:  50383-9, 50384-7
+        -   Associated LOINC:  50383-9, 50384-7, 102097-3
         -   Associated CPT:  82565
 
 
@@ -2179,8 +2084,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 1.  HCO3\_A (Bicarbonate in Arterial blood)
 
-    ***UNDER REVIEW***
-    
     -   Common Name:  Bicarbonate in Arterial blood
     -   Long Name:  Bicarbonate [Moles/volume] in Arterial blood
     -   Test Type:  HCO3\_A
@@ -2199,8 +2102,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 2.  HCO3\_C (Bicarbonate in Capillary blood)
 
-    ***UNDER REVIEW***
-    
     -   Common Name:  Bicarbonate in Capillary blood
     -   Long Name:  Bicarbonate [Moles/volume] in Capillary blood
     -   Test Type:  HCO3\_C
@@ -2219,8 +2120,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 3.  HCO3\_V (Bicarbonate in Venous blood)
 
-    ***UNDER REVIEW***
-    
     -   Common Name:  Bicarbonate in Venous blood
     -   Long Name:  Bicarbonate [Moles/volume] in Venous blood
     -   Test Type:  HCO3\_V
@@ -2239,8 +2138,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 4.  HCO3\_NS (Bicarbonate source not specified)
 
-    ***UNDER REVIEW***
-    
     -   Common Name:  Bicarbonate source not specified
     -   Long Name:  Bicarbonate [Moles/volume] in Serum, Plasma or Blood
     -   Test Type:  HCO3\_NS
@@ -2279,8 +2176,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 ### HGBA1C (Hemoglobin A1C)
 
-***UNDER REVIEW***
-
 -   Common Name: Hemoglobin A1c
 -   Long Name: Hemoglobin A1C (% of hemoglobin A1c to total hemoglobin in blood)
 -   Test Type: HGBA1C
@@ -2300,8 +2195,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 ### IL\_6 (Interleukin 6)
 
-***UNDER REVIEW***
-
 -   Common Name:  Interleukin 6
 -   Long Name:  Interleukin 6 in Serum or Plasma
 -   Test Type:  IL\_6
@@ -2320,8 +2213,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 
 ### IL\_6\_QL (Interleukin 6 presence)
-
-***UNDER REVIEW***
 
 -   Common Name:  Interleukin 6 presence
 -   Long Name:  Interleukin 6 in Serum or Plasma - Presence
@@ -2399,13 +2290,32 @@ Prealbumin, microalbumin, urinalysis, liver panel
     -   Description: LDL = total cholesterol level - HDL - [triglyceride level ÷ 5]. Calculation is invalid when triglycerides are >400mg/dL
     -   Related Tests: Lipid Profile, Triglycerides, Total Cholesterol, VLDL - very low density lipoprotein cholesterol, HDL - high density lipoprotein cholesterol, any apolipoproteins
     -   Approximate Reference Range (Each site will have slight variations): less than 130mg/dL
-    -   Comments: Calculated LDL reflects an indirect method of testing. Chemicals are added to the serum/plasma and selected fractions are precipitated out of the sample and the test is performed on the remaining supernatant. The preferred specimen is fasting. Calculated LDL is not accurate on specimens that have triglycerides levels exceeding 400.
+    -   Comments: LOINC 13457-7 and 2089-1 are listed as multiple test\_types because we see in source data that sometimes the LOINC is associated with results the site identified as fasting and sometimes it is not.  Calculated LDL reflects an indirect method of testing. Chemicals are added to the serum/plasma and selected fractions are precipitated out of the sample and the test is performed on the remaining supernatant. The preferred specimen is fasting. Calculated LDL is not accurate on specimens that have triglycerides levels exceeding 400.
     -   Test Method Variance:
     -   Other:
         -   Associated LOINC:  13457-7, 2089-1
         -   Associated CPT:  83721
 
-2.  LDL\_CLC\_NS, Calculated, Random (Low density lipoprotein cholesterol, calculated measure, not known if patient was fasting)
+2.  LDL\_CLC\_NF, Calculated, Not Fasting (Cholesterol Low Density Lipoprotein, Calculated, patient was not fasting)
+
+    -   Common Name: LDL
+    -   Long Name: Cholesterol Low Density Lipoprotein Calculated Not Fasting
+    -   Test Type: LDL\_CLC\_NF
+    -   Panels: LIPID PROFILE
+    -   Equivalent Tests: Whole blood LDL
+    -   Not Equivalent Tests: Total Cholesterol, VLDL - very low density lipoprotein cholesterol, HDL
+    -   high density lipoprotein cholesterol, any apolipoproteins
+    -   Indications: LDL cholesterol is used to predict the risk of developing atherosclerosis heart disease. It is sometimes referred to as "bad cholesterol." Of all the forms of cholesterol in the blood, the LDL cholesterol is considered the most important in determining risk of heart disease. LDL cholesterol is the primary target of cholesterol-lowering treatment. Since treatment decisions are often based on LDL values, this test may be used to monitor levels after the start of diet or exercise programs or to determine whether or not prescribing one of the lipid-lowering drugs would be useful.
+    -   Description: LDL = total cholesterol level - HDL - [triglyceride level ÷ 5]. Calculation is invalid when triglycerides are >400mg/dL
+    -   Related Tests: Lipid Profile, Triglycerides, Total Cholesterol, VLDL - very low density lipoprotein cholesterol, HDL - high density lipoprotein cholesterol, any apolipoproteins
+    -   Approximate Reference Range (Each site will have slight variations): less than 130mg/dL
+    -   Comments: LOINC 13457-7 and 2089-1 are listed as multiple test\_types because we see in source data that sometimes the LOINC is associated with results the site identified as fasting and sometimes it is not.  Sites apply whatever is in their data with regard to the fasting status, because the LOINC is silent on fasting or not.  Calculated LDL reflects an indirect method of testing. Chemicals are added to the serum/plasma and selected fractions are precipitated out of the sample and the test is performed on the remaining supernatant. The preferred specimen is fasting. Calculated LDL is not accurate on specimens that have triglycerides levels exceeding 400.
+    -   Test Method Variance:
+    -   Other:
+        -   Associated LOINC:  13457-7
+        -   Associated CPT:  83721
+
+3.  LDL\_CLC\_NS, Calculated, Random (Low density lipoprotein cholesterol, calculated measure, not known if patient was fasting)
 
     -   Common Name: LDL
     -   Long Name: Cholesterol Low Density Lipoprotein Calculated - fasting not specified
@@ -2418,13 +2328,13 @@ Prealbumin, microalbumin, urinalysis, liver panel
     -   Description: LDL = total cholesterol level - HDL - [triglyceride level ÷ 5]. Calculation is invalid when triglycerides are >400mg/dL
     -   Related Tests: Lipid Profile, Triglycerides, Total Cholesterol, VLDL - very low density lipoprotein cholesterol, HDL - high density lipoprotein cholesterol, any apolipoproteins
     -   Approximate Reference Range (Each site will have slight variations): < 130mg/dL
-    -   Comments: Calculated LDL reflects an indirect method of testing. Chemicals are added to the serum/plasma and selected fractions are precipitated out of the sample and the test is performed on the remaining supernatant. The preferred specimen is fasting. Whether “fasting” is indicated with the lab result determines if it is categorized as fasting or fasting status unknown. Calculated LDL is not accurate on specimens that have triglycerides levels exceeding 400.
+    -   Comments: LOINC 13457-7 and 2089-1 are listed as multiple test\_types because we see in source data that sometimes the LOINC is associated with results the site identified as fasting and sometimes it is not.  Calculated LDL reflects an indirect method of testing. Chemicals are added to the serum/plasma and selected fractions are precipitated out of the sample and the test is performed on the remaining supernatant. The preferred specimen is fasting. Whether “fasting” is indicated with the lab result determines if it is categorized as fasting or fasting status unknown. Calculated LDL is not accurate on specimens that have triglycerides levels exceeding 400.
     -   Test Method Variance:
     -   Other:
         -   Associated LOINC:  13457-7, 2089-1, 39469-2
         -   Associated CPT:  83721
 
-3.  LDL\_DIRECT (Low density lipoprotein cholesterol, direct measure, fasting status not a consideration)
+4.  LDL\_DIRECT (Low density lipoprotein cholesterol, direct measure, fasting status not a consideration)
 
     -   Common Name: LDL, direct
     -   Long Name: Cholesterol Low Density Lipoprotein Direct
@@ -2442,7 +2352,7 @@ Prealbumin, microalbumin, urinalysis, liver panel
         -   Associated LOINC:  18262-6, 69419-0
         -   Associated CPT:  83721
 
-4.  LDL\_NS Method not Indicated (Low density lipoprotein cholesterol, not known whether calculated or direct, fasting status not considered)
+5.  LDL\_NS Method not Indicated (Low density lipoprotein cholesterol, not known whether calculated or direct, fasting status not considered)
 
     -   Common Name: LDL
     -   Long Name: Cholesterol Low Density Lipoprotein Not Specified – can not determine if calculated or direct
@@ -2462,8 +2372,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 
 ### LIPASE (Lipase)
-
-***UNDER REVIEW***
 
 -   Common Name: Lipase
 -   Long Name: Lipase
@@ -2505,8 +2413,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 1.  PG\_B\_QL (Pregnancy Determination, Serum Beta Human Choriogonadotropin, qualitative)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Pregnancy Determination, Serum Beta Human Choriogonadotropin, qualitative
     -   Long Name: Pregnancy Determination - Beta Human Choriogonadotropin (HCG) in serum, qualitative
     -   Test Type: PG\_B\_QL
@@ -2525,8 +2431,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 2.  PG\_B\_QL\_U (Pregnancy Determination, Urine Beta Human Choriogonadotropin, qualitative)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Pregnancy Determination, Urine Beta Human Choriogonadotropin, qualitative
     -   Long Name: Pregnancy Determination - Beta Human Choriogonadotropin (HCG) in urine, qualitative
     -   Test Type: PG\_B\_QL\_U
@@ -2545,8 +2449,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 3.  PG\_B\_QN (Pregnancy Determination, Beta Human Choriogonadotropin quantitative)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Pregnancy Determination, Beta Human Choriogonadotropin quantitative
     -   Long Name: Pregnancy Determination - Beta Human Choriogonadotropin (HCG) in serum or plasma, quantitative
     -   Test Type: PG\_B\_QN
@@ -2565,8 +2467,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 4.  PG\_B\_QN\_U (Pregnancy Determination, Urine Beta Human Choriogonadotropin quantitative)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Pregnancy Determination, Urine Beta Human Choriogonadotropin quantitative
     -   Long Name: Pregnancy Determination - Beta Human Choriogonadotropin (HCG) in urine, quantitative
     -   Test Type: PG\_B\_QN\_U
@@ -2585,9 +2485,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 5.  PG\_QL (Pregnancy Determination - Human Choriogonadotropin qualitative)
 
-    ***NEEDS TO BE UPDATED***
-    ***UNDER REVIEW***
-    
     -   Common Name: Pregnancy Determination - Human Choriogonadotropin qualitative
     -   Long Name: Pregnancy Determination - Human Choriogonadotropin (HCG) in serum, qualitative
     -   Test Type: PG\_QL
@@ -2606,8 +2503,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 6.  PG\_QL\_U (Pregnancy Determination, Urine Beta Human Choriogonadotropin qualitative)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Pregnancy Determination, Urine Beta Human Choriogonadotropin
     -   Long Name: Pregnancy Determination - Human Choriogonadotropin (HCG) in urine, qualitative
     -   Test Type: PG\_QL\_U
@@ -2626,8 +2521,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 7.  PG\_QN (Pregnancy Determination, Human Choriogonadotropin quantitative)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Pregnancy Determination, Human Choriogonadotropin quantitative
     -   Long Name: Pregnancy Determination - Human Choriogonadotropin (HCG) in serum, quantitative
     -   Test Type: PG\_QN
@@ -2646,8 +2539,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 8.  PG\_QN\_U (Pregnancy Determination quantitative from Urine)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Pregnancy Determination quantitative from Urine
     -   Long Name: Pregnancy Determination - Beta Human Choriogonadotropin (hCG) in urine, quantitative
     -   Test Type: PG\_QN\_U
@@ -2666,8 +2557,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 
 ### PHOSPHATE (Phosphate)
-
-***UNDER REVIEW***
 
 -   Common Name: Phosphate
 -   Long Name: Phosphate in serum/plasma or blood
@@ -2693,8 +2582,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 
 ### PROCALC (Procalcitonin)
-
-***UNDER REVIEW***
 
 -   Common Name: Procalcitonin
 -   Long Name: Procalcitonin in Serum or Plasma
@@ -2890,8 +2777,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 
 ### TRANSFERRIN (Transferrin)
-
-***UNDER REVIEW***
 
 -   Common Name: Transferrin
 -   Long Name: Transferrin in Serum or Plasma
@@ -3126,8 +3011,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 2.  U\_ACR12 (12-hour Microalbumin to creatinine ratio)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: 12 hour Microalbumin to creatinine ratio
     -   Long Name: 12-hour Microalbumin to creatinine ratio in urine
     -   Test Type: U\_ACR12
@@ -3146,8 +3029,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 3.  U\_ACR24 (24-hour Microalbumin to creatinine ratio in urine)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: 24-hour Microalbumin to creatinine ratio in urine24-hour Microalbumin to creatinine ratio in urine
     -   Long Name: 24-hour Microalbumin to creatinine ratio in urine; albumin to creatinine ratio in urine
     -   Test Type: U\_ACR24
@@ -3204,8 +3085,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
 
 
 ### U\_HEME\_DIP (Hemoglobin in urine by dipstick)
-
-***UNDER REVIEW***
 
 -   Common Name: Hemoglobin in urine by dipstick
 -   Long Name: Hemoglobin in urine by dipstick
@@ -3292,8 +3171,6 @@ U\_PCR is used when a child shows evidence of significant and persistent protein
 
 ### U\_PCR24 (24-hour Protein to creatinine ratio in urine)
 
-***UNDER REVIEW***
-
 -   Common Name: 24 hour Urine Protein to Creatinine Ratio
 -   Long Name: 24 hour Protein to creatinine ratio in urine
 -   Test Type: U\_PCR24
@@ -3369,8 +3246,6 @@ U\_PCR is used when a child shows evidence of significant and persistent protein
 
 
 ### U\_RBC\_DIP (Erythrocytes in urine by dipstick)
-
-***UNDER REVIEW***
 
 -   Common Name: Erythrocytes in urine by dipstick
 -   Long Name: Erythrocytes (red blood cells) in urine by dipstick
@@ -3457,8 +3332,6 @@ U\_PCR is used when a child shows evidence of significant and persistent protein
 
 ### ANC (Absolute neutrophil count)
 
-***UNDER REVIEW***
-
 -   Common Name: Absolute neutrophil count
 -   Long Name: Absolute neutrophil count
 -   Test Type: ANC
@@ -3480,8 +3353,6 @@ U\_PCR is used when a child shows evidence of significant and persistent protein
 
 1.  BASO\_C\_A (Basophil automated count)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Basophil automated count
     -   Long Name: Basophil number, automated count
     -   Test Type: BASO\_C\_A
@@ -3512,8 +3383,6 @@ U\_PCR is used when a child shows evidence of significant and persistent protein
 
 2.  BASO\_C\_M (Basophil manual count)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Basophil manual count
     -   Long Name: Basophil number, manual count
     -   Test Type: BASO\_C\_M
@@ -3544,8 +3413,6 @@ U\_PCR is used when a child shows evidence of significant and persistent protein
 
 3.  BASO\_C (Basophil count)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Basophil count
     -   Long Name: Basophil number , count method not stated
     -   Test Type: BASO\_C
@@ -3576,8 +3443,6 @@ U\_PCR is used when a child shows evidence of significant and persistent protein
 
 4.  BASO\_P\_A (Basophil percent, automated)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Basophil percent, automated
     -   Long Name: Basophil percent, automated
     -   Test Type: BASO\_P\_A
@@ -3608,8 +3473,6 @@ U\_PCR is used when a child shows evidence of significant and persistent protein
 
 5.  BASO\_P\_M (Basophil percent, manual)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Basophil percent, manual
     -   Long Name: Basophil percent, manual
     -   Test Type: BASO\_P\_M
@@ -3640,8 +3503,6 @@ U\_PCR is used when a child shows evidence of significant and persistent protein
 
 6.  BASO\_P (Basophil percent)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Basophil percent
     -   Long Name: Basophil percent, method not stated
     -   Test Type: BASO\_P
@@ -3675,8 +3536,6 @@ U\_PCR is used when a child shows evidence of significant and persistent protein
 
 1.  EOS\_C\_A (Eosinophil number, automated count)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Eosinophil number, automated count
     -   Long Name: Eosinophil number, automated count
     -   Test Type: EOS\_C\_A
@@ -3767,8 +3626,6 @@ U\_PCR is used when a child shows evidence of significant and persistent protein
 
 2.  EOS\_C\_M (Eosinophil number, manual count)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Eosinophil number, manual count
     -   Long Name: Eosinophil number, manual count
     -   Test Type: EOS\_C\_M
@@ -3859,8 +3716,6 @@ U\_PCR is used when a child shows evidence of significant and persistent protein
 
 3.  EOS\_C (Eosinophil number)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Eosinophil number
     -   Long Name: Eosinophil number, count method not stated
     -   Test Type: EOS\_C
@@ -3951,8 +3806,6 @@ U\_PCR is used when a child shows evidence of significant and persistent protein
 
 4.  EOS\_P\_A (Eosinophil percent, automated)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Eosinophil percent, automated
     -   Long Name: Eosinophil percent, automated
     -   Test Type: EOS\_P\_A
@@ -3987,8 +3840,6 @@ U\_PCR is used when a child shows evidence of significant and persistent protein
 
 5.  EOS\_P\_M (Eosinophil percent, manual)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Eosinophil percent, manual
     -   Long Name: Eosinophil percent, manual
     -   Test Type: EOS\_P\_M
@@ -4023,8 +3874,6 @@ U\_PCR is used when a child shows evidence of significant and persistent protein
 
 6.  EOS\_P (Eosinophil percent)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Eosinophil percent
     -   Long Name: Eosinophil percent, method not stated
     -   Test Type: EOS\_P
@@ -4078,8 +3927,6 @@ U\_PCR is used when a child shows evidence of significant and persistent protein
 
 
 ### FIBRINOGEN (Fibrinogen in platelet poor plasma)
-
-***UNDER REVIEW***
 
 -   Common Name: Fibrinogen in platelet poor plasma
 -   Long Name: Fibrinogen activity in platelet poor plasma (PPP)
@@ -4163,8 +4010,6 @@ volume (MCV)
 
 1.  LYMPH\_C\_A (Lymphocyte number, automated count)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Lymphocyte number, automated count
     -   Long Name: Lymphocyte number, automated count
     -   Test Type: LYMPH\_C\_A
@@ -4183,8 +4028,6 @@ volume (MCV)
 
 2.  LYMPH\_C\_M (Lymphocyte number, manual count)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Lymphocyte number, manual count
     -   Long Name: Lymphocyte number, manual count
     -   Test Type: LYMPH\_C\_M
@@ -4203,8 +4046,6 @@ volume (MCV)
 
 3.  LYMPH\_C (Lymphocyte number)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Lymphocyte number
     -   Long Name: Lymphocyte number, count method not stated
     -   Test Type: LYMPH\_C
@@ -4223,8 +4064,6 @@ volume (MCV)
 
 4.  LYMPH\_P\_A (Lymphocyte percent, automated)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Lymphocyte percent, automated
     -   Long Name: Lymphocyte percent, automated
     -   Test Type: LYMPH\_P\_A
@@ -4245,8 +4084,6 @@ volume (MCV)
 
 5.  LYMPH\_P\_M (Lymphocyte percent, manual)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Lymphocyte percent, manual
     -   Long Name: Lymphocyte percent, manual
     -   Test Type: LYMPH\_P\_M
@@ -4267,8 +4104,6 @@ volume (MCV)
 
 6.  LYMPH\_P (Lymphocyte percent)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Lymphocyte percent
     -   Long Name: Lymphocyte percent, method not stated
     -   Test Type: LYMPH\_P
@@ -4292,8 +4127,6 @@ volume (MCV)
 
 1.  MONO\_C\_A (Monocyte number, automated count)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Monocyte number, automated count
     -   Long Name: Monocyte number, automated count
     -   Test Type: MONO\_C\_A
@@ -4312,8 +4145,6 @@ volume (MCV)
 
 2.  MONO\_C\_M (Monocyte number, manual count)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Monocyte number, manual count
     -   Long Name: Monocyte number, manual count
     -   Test Type: MONO\_C\_M
@@ -4332,8 +4163,6 @@ volume (MCV)
 
 3.  MONO\_C (Monocyte number)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Monocyte number
     -   Long Name: Monocyte number, count method not stated
     -   Test Type: MONO\_C
@@ -4352,8 +4181,6 @@ volume (MCV)
 
 4.  MONO\_P\_A (Monocyte percent, automated)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Monocyte percent, automated
     -   Long Name: Monocyte percent, automated
     -   Test Type: MONO\_P\_A
@@ -4372,8 +4199,6 @@ volume (MCV)
 
 5.  MONO\_P\_M (Monocyte percent, manual)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Monocyte percent, manual
     -   Long Name: Monocyte percent, manual
     -   Test Type: MONO\_P\_M
@@ -4392,8 +4217,6 @@ volume (MCV)
 
 6.  MONO\_P (Monocyte percent)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Monocyte percent
     -   Long Name: Monocyte percent, method not stated
     -   Test Type: MONO\_P
@@ -4415,8 +4238,6 @@ volume (MCV)
 
 1.  NTBAND\_C\_A (Band neutrophil number, automated count)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Band neutrophil number, automated count
     -   Long Name: Band neutrophil number, automated count
     -   Test Type: NTBAND\_C\_A
@@ -4440,8 +4261,6 @@ volume (MCV)
 
 2.  NTBAND\_C\_M (Band neutrophil number, manual count)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Band neutrophil number, manual count
     -   Long Name: Band neutrophil number, manual count
     -   Test Type: NTBAND\_C\_M
@@ -4465,8 +4284,6 @@ volume (MCV)
 
 3.  NTBAND\_C (Band neutrophil number)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Band neutrophil number
     -   Long Name: Band neutrophil number, count method unknown
     -   Test Type: NTBAND\_C
@@ -4490,8 +4307,6 @@ volume (MCV)
 
 4.  NTBAND\_P\_A (Band neutrophil percent, automated)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Band neutrophil percent, automated
     -   Long Name: Band neutrophil percent, automated
     -   Test Type: NTBAND\_P\_A
@@ -4515,8 +4330,6 @@ volume (MCV)
 
 5.  NTBAND\_P\_M (Band neutrophil percent, manual)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Band neutrophil percent, manual
     -   Long Name: Band neutrophil percent, manual
     -   Test Type: NTBAND\_P\_M
@@ -4540,8 +4353,6 @@ volume (MCV)
 
 6.  NTBAND\_P (Band neutrophil percent)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Band neutrophil percent
     -   Long Name: Band neutrophil percent, method unknown
     -   Test Type: NTBAND\_P
@@ -4568,8 +4379,6 @@ volume (MCV)
 
 1.  NTHYP\_C\_A (Hypersegmented neutrophil number, automated count)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Hypersegmented neutrophil number, automated count
     -   Long Name: Hypersegmented neutrophil number, automated count
     -   Test Type: NTHYP\_C\_A
@@ -4590,8 +4399,6 @@ volume (MCV)
 
 2.  NTHYP\_C\_M (Hypersegmented neutrophil number, manual count)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Hypersegmented neutrophil number, manual count
     -   Long Name: Hypersegmented neutrophil number, manual count
     -   Test Type: NTHYP\_C\_M
@@ -4615,8 +4422,6 @@ volume (MCV)
 
 3.  NTHYP\_C (Hypersegmented neutrophil number)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Hypersegmented neutrophil number
     -   Long Name: Hypersegmented neutrophil number, method not specified or other method
     -   Test Type: NTHYP\_C
@@ -4640,8 +4445,6 @@ volume (MCV)
 
 5.  NTHYP\_P\_M (Hypersegmented neutrophil percent, manual)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Hypersegmented neutrophil percent, manual
     -   Long Name: Hypersegmented neutrophil percent, manual
     -   Test Type: NTHYP\_P\_M
@@ -4662,8 +4465,6 @@ volume (MCV)
 
 6.  NTHYP\_P (Hypersegmented neutrophil percent, method unknown)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Hypersegmented neutrophil percent
     -   Long Name: Hypersegmented neutrophil percent, method unknown
     -   Test Type: NTHYP\_P
@@ -4697,8 +4498,6 @@ volume (MCV)
 
 3.  NTIMMATURE\_C (Immature neutrophil number, count method unknown)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Immature neutrophil number
     -   Long Name: Immature neutrophil number, count method unknown
     -   Test Type: NTIMMATURE\_C
@@ -4759,8 +4558,6 @@ volume (MCV)
 
 6.  NTIMMATURE\_P (Immature neutrophil percent, method unknown)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Immature neutrophil percent
     -   Long Name: Immature neutrophil percent, method unknown
     -   Test Type: NTIMMATURE\_P
@@ -4794,8 +4591,6 @@ volume (MCV)
 
 2.  NTSEG\_C\_M (Segmented neutrophil number, manual count)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Segmented neutrophil number, manual count
     -   Long Name: Segmented neutrophil number, manual count
     -   Test Type: NTSEG\_C\_M
@@ -4818,8 +4613,6 @@ volume (MCV)
 
 3.  NTSEG\_C (Segmented neutrophil number, count method unknown)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Segmented neutrophil number
     -   Long Name: Segmented neutrophil number, count method unknown
     -   Test Type: NTSEG\_C
@@ -4842,8 +4635,6 @@ volume (MCV)
 
 4.  NTSEG\_P\_A (Segmented neutrophil percent, automated)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Segmented neutrophil percent, automated
     -   Long Name: Segmented neutrophil percent, automated
     -   Test Type: NTSEG\_P\_A
@@ -4866,8 +4657,6 @@ volume (MCV)
 
 5.  NTSEG\_P\_M (Segmented neutrophil percent, manual)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Segmented neutrophil percent, manual
     -   Long Name: Segmented neutrophil percent, manual
     -   Test Type: NTSEG\_P\_M
@@ -4890,8 +4679,6 @@ volume (MCV)
 
 6.  NTSEG\_P (Segmented neutrophil percent, method unknown)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Segmented neutrophil percent
     -   Long Name: Segmented neutrophil percent, method unknown
     -   Test Type: NTSEG\_P
@@ -4994,8 +4781,6 @@ volume (MCV)
 
 1.  WBC (Total White Blood Cell Count)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: WBC count; Leukocyte count; White count
     -   Long Name: Total white blood cell count
     -   Test Type: WBC
@@ -5014,8 +4799,6 @@ volume (MCV)
 
 2.  WBC\_A (White Blood Cell, automated count)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: White Blood Cell, automated count
     -   Long Name: White Blood Cell, automated count
     -   Test Type: WBC\_A
@@ -5034,8 +4817,6 @@ volume (MCV)
 
 3.  WBC\_COR (White blood cell total, corrected for nucleated red blood cells)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: White blood cell total, corrected for nucleated red blood cells
     -   Long Name: White blood cell total, corrected for nucleated red blood cells
     -   Test Type: WBC\_COR
@@ -5054,8 +4835,6 @@ volume (MCV)
 
 4.  WBC\_COR\_A (White blood cell total, corrected for nucleated red blood cells)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: White blood cell total number, corrected for nucleated red blood cells, automated count
     -   Long Name: White blood cell total number, corrected for nucleated red blood cells, automated count
     -   Test Type: WBC\_COR\_A
@@ -5074,8 +4853,6 @@ volume (MCV)
 
 5.  WBC\_M (White Blood Cell Count, manual count)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: White Blood Cell Count, manual count
     -   Long Name: White Blood Cell Count, manual count
     -   Test Type: WBC\_M
@@ -5096,8 +4873,6 @@ volume (MCV)
 
 6.  WBC\_OTH\_C (White blood cell other leukocytes, count)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: White blood cell other leukocytes, count
     -   Long Name: White blood cell other leukocytes, count
     -   Test Type: WBC\_OTH\_C
@@ -5116,8 +4891,6 @@ volume (MCV)
 
 7.  WBC\_OTH\_P (White blood cell other leukocytes, percent)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: WBC count; Leukocyte count; White count
     -   Long Name: Total white blood cell count
     -   Test Type: WBC
@@ -5140,8 +4913,6 @@ volume (MCV)
 
 ### INF\_A\_VTC (Influenza virus A organism-specific culture)
 
-***UNDER REVIEW***
-
 -   Common Name: Influenza virus A organism-specific culture
 -   Long Name: Influenza virus A organism-specific culture
 -   Test Type: INF\_A\_VTC
@@ -5161,8 +4932,6 @@ volume (MCV)
 
 ### INF\_A\_NS (Influenza virus A)
 
-***UNDER REVIEW***
-
 -   Common Name: Influenza virus A
 -   Long Name: Influenza virus A method not specified
 -   Test Type: INF\_A\_NS
@@ -5181,8 +4950,6 @@ volume (MCV)
 
 
 ### INF\_A\_EIA (Influenza virus A immunoassay)
-
-***UNDER REVIEW***
 
 -   Common Name: Influenza virus A immunoassay
 -   Long Name: Influenza virus A immunoassay
@@ -5213,8 +4980,6 @@ volume (MCV)
 
 ### INF\_A\_IF (Influenza virus A immunofluorescence)
 
-***UNDER REVIEW***
-
 -   Common Name: Influenza virus A immunofluorescence
 -   Long Name: Influenza virus A immunofluorescence
 -   Test Type: INF\_A\_IF
@@ -5233,8 +4998,6 @@ volume (MCV)
 
 
 ### INF\_A\_PCR (Influenza virus A probe and target amplification)
-
-***UNDER REVIEW***
 
 -   Common Name: Influenza virus A probe and target amplification
 -   Long Name: Influenza virus A probe and target amplification
@@ -5255,8 +5018,6 @@ volume (MCV)
 
 ### INF\_B\_VTC (Influenza virus B organism-specific culture)
 
-***UNDER REVIEW***
-
 -   Common Name: Influenza virus B organism-specific culture
 -   Long Name: Influenza virus B organism-specific culture
 -   Test Type: INF\_B\_VTC
@@ -5275,8 +5036,6 @@ volume (MCV)
 
 
 ### INF\_B\_NS (Influenza virus B)
-
-***UNDER REVIEW***
 
 -   Common Name: Influenza virus B
 -   Long Name: Influenza virus B method not specified
@@ -5301,8 +5060,6 @@ volume (MCV)
 
 ### INF\_B\_EIA (Influenza virus B immunoassay)
 
-***UNDER REVIEW***
-
 -   Common Name: Influenza virus B immunoassay
 -   Long Name: Influenza virus B immunoassay
 -   Test Type: INF\_B\_EIA
@@ -5324,8 +5081,6 @@ volume (MCV)
 
 
 ### INF\_B\_IF (Influenza virus B immunofluorescence)
-
-***UNDER REVIEW***
 
 -   Common Name: Influenza virus B immunofluorescence
 -   Long Name: Influenza virus B immunofluorescence
@@ -5349,8 +5104,6 @@ volume (MCV)
 
 ### INF\_B\_PCR (Influenza virus B probe and target amplification)
 
-***UNDER REVIEW***
-
 -   Common Name: Influenza virus B probe and target amplification
 -   Long Name: Influenza virus B probe and target amplification
 -   Test Type: INF\_B\_PCR
@@ -5372,8 +5125,6 @@ volume (MCV)
 
 
 ### INF\_AB\_NS (Influenza virus A+B)
-
-***UNDER REVIEW***
 
 -   Common Name: Influenza virus A+B
 -   Long Name: Influenza virus A+B method not specified
@@ -5397,8 +5148,6 @@ volume (MCV)
 
 ### INF\_AB\_EIA (Influenza virus A+B immunoassay)
 
-***UNDER REVIEW***
-
 -   Common Name: Influenza virus A+B immunoassay
 -   Long Name: Influenza virus A+B immunoassay
 -   Test Type: INF\_AB\_EIA
@@ -5417,8 +5166,6 @@ volume (MCV)
 
 
 ### INF\_AB\_IF (Influenza virus A+B immunofluorescence)
-
-***UNDER REVIEW***
 
 -   Common Name: Influenza virus A+B immunofluorescence
 -   Long Name: Influenza virus A+B immunofluorescence
@@ -5439,8 +5186,6 @@ volume (MCV)
 
 ### INF\_AB\_PCR (Influenza virus A+B probe and target amplification)
 
-***UNDER REVIEW***
-
 -   Common Name: Influenza virus A+B probe and target amplification
 -   Long Name: Influenza virus A+B probe and target amplification
 -   Test Type: INF\_AB\_PCR
@@ -5459,8 +5204,6 @@ volume (MCV)
 
 
 ### INF\_NS\_VTC (Influenza virus not specified organism-specific culture)
-
-***UNDER REVIEW***
 
 -   Common Name: Influenza virus not specified organism-specific culture
 -   Long Name: Influenza virus not specified organism-specific culture
@@ -5481,8 +5224,6 @@ volume (MCV)
 
 ### INF\_NS\_NS (Influenza virus not specified method not specified)
 
-***UNDER REVIEW***
-
 -   Common Name:
 -   Long Name: Influenza virus not specified method not specified
 -   Test Type: INF\_NS\_NS
@@ -5501,8 +5242,6 @@ volume (MCV)
 
 
 ### INF\_NS\_PCR (Influenza virus not specified probe and target amplification)
-
-***UNDER REVIEW***
 
 -   Common Name:
 -   Long Name: Influenza virus not specified probe and target amplification
@@ -5526,8 +5265,6 @@ volume (MCV)
 
 ### SARS\_COV\_2\_AB\_IGA (SARS-CoV-2 (COVID19) IgA Ab [Presence] in Serum, Plasma or Blood by Immunoassay)
 
-***UNDER REVIEW***
-
 -   Common Name: SARS-CoV-2 (COVID19) IgA Ab [Presence] in Serum, Plasma or Blood by Immunoassay
 -   Long Name: SARS-CoV-2 (COVID19) IgA Ab [Presence] in Serum, Plasma or Blood by Immunoassay
 -   Test Type: SARS\_COV\_2\_AB\_IGA
@@ -5546,8 +5283,6 @@ volume (MCV)
 
 
 ### SARS\_COV\_2\_AB\_IGG (SARS-CoV-2 (COVID19) IgG Ab [Presence] in Serum, Plasma or Blood by Immunoassay)
-
-***UNDER REVIEW***
 
 -   Common Name: SARS-CoV-2 (COVID19) IgG Ab [Presence] in Serum, Plasma or Blood by Immunoassay
 -   Long Name: SARS-CoV-2 (COVID19) IgG Ab [Presence] in Serum, Plasma or Blood by Immunoassay
@@ -5568,8 +5303,6 @@ volume (MCV)
 
 ### SARS\_COV\_2\_AB\_IGM (SARS-CoV-2 (COVID19) IgM Ab [Presence] in Serum, Plasma or Blood by Immunoassay)
 
-***UNDER REVIEW***
-
 -   Common Name: SARS-CoV-2 (COVID19) IgM Ab [Presence] in Serum, Plasma or Blood by Immunoassay
 -   Long Name: SARS-CoV-2 (COVID19) IgM Ab [Presence] in Serum, Plasma or Blood by Immunoassay
 -   Test Type: SARS\_COV\_2\_AB\_IGM
@@ -5588,8 +5321,6 @@ volume (MCV)
 
 
 ### SARS\_COV\_2\_AB\_IGMA (SARS-CoV-2 (COVID19) IgA+IgM [Presence] in Serum or Plasma by Immunoassay)
-
-***UNDER REVIEW***
 
 -   Common Name: SARS-CoV-2 (COVID19) IgA+IgM [Presence] in Serum or Plasma by Immunoassay
 -   Long Name: SARS-CoV-2 (COVID19) IgA+IgM [Presence] in Serum or Plasma by Immunoassay
@@ -5610,8 +5341,6 @@ volume (MCV)
 
 ### SARS\_COV\_2\_AB\_IGMG (SARS-CoV-2 (COVID19) IgG+IgM Ab [Presence] in Serum or Plasma by Immunoassay)
 
-***UNDER REVIEW***
-
 -   Common Name: SARS-CoV-2 (COVID19) IgG+IgM Ab [Presence] in Serum or Plasma by Immunoassay
 -   Long Name: SARS-CoV-2 (COVID19) IgG+IgM Ab [Presence] in Serum or Plasma by Immunoassay
 -   Test Type: SARS\_COV\_2\_AB\_IGMG
@@ -5630,8 +5359,6 @@ volume (MCV)
 
 
 ### SARS\_COV\_2\_AB\_NEUT (SARS-CoV-2 (COVID19) neutralizing antibody in Serum or Plasma)
-
-***UNDER REVIEW***
 
 -   Common Name: SARS-CoV-2 (COVID19) neutralizing antibody in Serum or Plasma
 -   Long Name: SARS-CoV-2 (COVID19) neutralizing antibody in Serum or Plasma
@@ -5652,8 +5379,6 @@ volume (MCV)
 
 ### SARS\_COV\_2\_AB\_NEUT\_P (Percent neutralization by SARS-CoV-2 spike protein RBD neutralizing antibody-Serum/Plasma)
 
-***UNDER REVIEW***
-
 -   Common Name: Percent neutralization by SARS-CoV-2 spike protein RBD neutralizing antibody-Serum/Plasma
 -   Long Name: Percent neutralization by SARS-CoV-2 spike protein RBD neutralizing antibody-Serum/Plasma
 -   Test Type: SARS\_COV\_2\_AB\_NEUT\_P
@@ -5672,8 +5397,6 @@ volume (MCV)
 
 
 ### SARS\_COV\_2\_AB\_NEUT\_T (SARS-CoV-2 (COVID-19) S protein RBD neutralizing antibody [Titer] in Serum or Plasma by Immunoassay)
-
-***UNDER REVIEW***
 
 -   Common Name: SARS-CoV-2 (COVID-19) S protein RBD neutralizing antibody [Titer] in Serum or Plasma by Immunoassay
 -   Long Name: SARS-CoV-2 (COVID-19) S protein RBD neutralizing antibody [Titer] in Serum or Plasma by Immunoassay
@@ -5694,8 +5417,6 @@ volume (MCV)
 
 ### SARS\_COV\_2\_AB\_TOT (SARS-CoV-2 (COVID19) Ab in Serum, Plasma or Saliva)
 
-***UNDER REVIEW***
-
 -   Common Name: SARS-CoV-2 (COVID19) Ab in Serum, Plasma or Saliva
 -   Long Name: SARS-CoV-2 (COVID19) Ab in Serum, Plasma or Saliva
 -   Test Type: SARS\_COV\_2\_AB\_TOT
@@ -5714,8 +5435,6 @@ volume (MCV)
 
 
 ### SARS\_COV\_2\_IA (SARS-CoV-2 (COVID19) Ag [Presence] in Respiratory specimen by Rapid immunoassay)
-
-***UNDER REVIEW***
 
 -   Common Name: SARS-CoV-2 (COVID19) Ag [Presence] in Respiratory specimen by Rapid immunoassay
 -   Long Name: SARS-CoV-2 (COVID19) Ag [Presence] in Respiratory specimen by Rapid immunoassay
@@ -5736,8 +5455,6 @@ volume (MCV)
 
 ### SARS\_COV\_2\_NS (SARS-CoV-2 (COVID19) unspecified or other specimen or method)
 
-***UNDER REVIEW***
-
 -   Common Name: SARS-CoV-2 (COVID19)
 -   Long Name: SARS-CoV-2 (COVID19) unspecified or other specimen or method
 -   Test Type: SARS\_COV\_2\_NS
@@ -5757,8 +5474,6 @@ volume (MCV)
 
 ### SARS\_COV\_2\_NAAT (SARS-CoV-2 (COVID19) (Nucleic Acid Amp Testing or gene presence in Resp, ser/plas or unspec specimen)
 
-***UNDER REVIEW***
-
 -   Common Name: SARS-CoV-2 (COVID19) (Nucleic Acid Amp Testing or gene presence in Resp, ser/plas or unspec specimen
 -   Long Name: SARS-CoV-2 (COVID19) (Nucleic Acid Amp Testing or gene presence in Resp, ser/plas or unspec specimen
 -   Test Type: SARS\_COV\_2\_NAAT
@@ -5777,8 +5492,6 @@ volume (MCV)
 
 
 ### SARS\_COV\_2\_T\_STIM (SARS\_CoV-2 stimulated gamma interferon release by Helper CD4+ T-cells [Units/volume] by Immunoassay)
-
-***UNDER REVIEW***
 
 -   Common Name: SARS\_CoV-2 stimulated gamma interferon release by Helper CD4+ T-cells [Units/volume] by Immunoassay
 -   Long Name: SARS\_CoV-2 stimulated gamma interferon release by Helper CD4+ T-cells [Units/volume] by Immunoassay
@@ -5802,8 +5515,6 @@ volume (MCV)
 
 ### SARS\_COV\_2\_VAR (SARS-CoV-2 (COVID-19) variant [Type] in Specimen)
 
-***UNDER REVIEW***
-
 -   Common Name: SARS-CoV-2 (COVID-19) variant [Type] in Specimen
 -   Long Name: SARS-CoV-2 (COVID-19) variant [Type] in Specimen
 -   Test Type: SARS\_COV\_2\_VAR
@@ -5822,8 +5533,6 @@ volume (MCV)
 
 
 ### SARS\_COV\_2\_VL (SARS-CoV-2 (COVID-19) N gene [#/volume] (viral load) in Resp specimen by NAA with probe detection)
-
-***UNDER REVIEW***
 
 -   Common Name: SARS-CoV-2 (COVID-19) N gene [#/volume] (viral load) in Resp specimen by NAA with probe detection
 -   Long Name: SARS-CoV-2 (COVID-19) N gene [#/volume] (viral load) in Resp specimen by NAA with probe detection
@@ -5846,8 +5555,6 @@ volume (MCV)
 
 
 ### SARS\_COV\_2\_VL\_LOG (SARS-CoV-2 (COVID19) RNA [Log #/volume] (viral load))
-
-***UNDER REVIEW***
 
 -   Common Name: SARS-CoV-2 (COVID19) RNA [Log #/volume] (viral load)
 -   Long Name: SARS-CoV-2 (COVID19) RNA [Log #/volume] (viral load) Unspecified specimen by NAA - probe detection
@@ -5876,8 +5583,6 @@ volume (MCV)
 
 1.  U\_CODEINE\_CNF (Codeine in Urine by Confirmation)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Codeine in Urine by Confirmation
     -   Long Name: Codeine in Urine by Confirmatory method
     -   Test Type: U\_CODEINE\_CNF
@@ -5900,8 +5605,6 @@ volume (MCV)
 
 2.  U\_CODEINE\_SCR (Codeine in Urine by Screen)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Codeine in Urine by Screen method
     -   Long Name: Codeine in Urine by Confirmatory method
     -   Test Type: U\_CODEINE\_SCR
@@ -5924,8 +5627,6 @@ volume (MCV)
 
 3.  U\_MORPHINE\_CNF (Morphine in Urine by Confirmation)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Morphine in Urine by Confirmation
     -   Long Name: Morphine in Urine by Confirmatory method
     -   Test Type: U\_MORPHINE\_CNF
@@ -5947,8 +5648,6 @@ volume (MCV)
 
 4.  U\_MORPHINE\_SCR (Morphine in Urine by Screen)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Morphine in Urine by Screen
     -   Long Name: Morphine in Urine by Screen method
     -   Test Type: U\_MORPHINE\_SCR
@@ -5967,8 +5666,6 @@ volume (MCV)
 
 5.  U\_OPIATE\_CNF (Opiate in Urine by Confirmation)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Opiates in Urine by Confirmatory method
     -   Long Name: Opiates in Urine by Confirmatory method
     -   Test Type: U\_OPIATE\_CNF
@@ -5987,8 +5684,6 @@ volume (MCV)
 
 6.  U\_OPIATE\_SCR (Opiate in Urine by Screen)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Opiates in Urine by  Screen method
     -   Long Name: Opiates in Urine by  Screen method
     -   Test Type: U\_OPIATE\_SCR
@@ -6012,8 +5707,6 @@ volume (MCV)
 
 1.  U\_HYDROCODONE\_CNF (Hydrocodone in Urine by Confirmation)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Hydrocodone in Urine by Confirmatory method
     -   Long Name: Hydrocodone in Urine by Confirmatory method
     -   Test Type: U\_HYDROCODONE\_CNF
@@ -6032,8 +5725,6 @@ volume (MCV)
 
 2.  U\_HYDROCODONE\_SCR (Hydrocodone in Urine by Screen)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Hydrocodone in Urine by  Screen method
     -   Long Name: Hydrocodone in Urine by  Screen method
     -   Test Type: U\_HYDROCODONE\_SCR
@@ -6055,8 +5746,6 @@ volume (MCV)
 
 3.  U\_HYDROMORPHONE\_CNF (Hydromorphone in Urine by Confirmation)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Hydromorphone in Urine by Confirmatory method
     -   Long Name: Hydromorphone in Urine by Confirmatory method
     -   Test Type: U\_HYDROMORPHONE\_CNF
@@ -6075,8 +5764,6 @@ volume (MCV)
 
 4.  U\_HYDROMORPHONE\_SCR (Hydromorphone in Urine by Screen)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Hydromorphone in Urine by  Screen method
     -   Long Name: Hydromorphone in Urine by  Screen method
     -   Test Type: U\_HYDROMORPHONE\_SCR
@@ -6095,8 +5782,6 @@ volume (MCV)
 
 5.  U\_OXYCODONE\_CNF (Oxycodone in Urine by Confirmation)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Oxycodone in Urine by Confirmation
     -   Long Name: Oxycodone in Urine by Confirmatory method
     -   Test Type: U\_OXYCODONE\_CNF
@@ -6112,13 +5797,11 @@ volume (MCV)
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
-        -   Associated LOINC: 11246-6 (oxyCODONE),16249-5 (oxyCODONE),19643-6 (oxyCODONE),61197-0 (oxyCODONE+Oxymorphone),61424-8 (Noroxycodone),61425-5 (Noroxycodone),70215-9 (oxyCODONE),89303-2 (Noroxycodone)
+        -   Associated LOINC: 11246-6 (oxyCODONE),16249-5 (oxyCODONE),19643-6 (oxyCODONE),61197-0 (oxyCODONE+Oxymorphone),61424-8 (Noroxycodone),61425-5 (Noroxycodone),70215-9 (oxyCODONE), 95135-0 (Noroxycodone)
         -   Associated CPT:
 
 6.  U\_OXYCODONE\_SCR (Oxycodone in Urine by Screen)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Oxycodone in Urine by Screen
     -   Long Name: Oxycodone in Urine by Screen method
     -   Test Type: U\_OXYCODONE\_SCR
@@ -6132,13 +5815,11 @@ volume (MCV)
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
-        -   Associated LOINC: 10998-3 (oxyCODONE),19642-8 (oxyCODONE),58430-0 (oxyCODONE+Oxymorphone)
+        -   Associated LOINC: 10998-3 (oxyCODONE),19642-8 (oxyCODONE),58430-0 (oxyCODONE+Oxymorphone), 89303-2 (Noroxycodone)
         -   Associated CPT:
 
 7.  U\_OXYMORPHONE\_CNF (Oxymorphone in Urine by Confirmation)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Oxymorphone in Urine by Confirmation
     -   Long Name: Oxymorphone in Urine by Confirmatory method
     -   Test Type: U\_OXYMORPHONE\_CNF
@@ -6152,13 +5833,11 @@ volume (MCV)
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
-        -   Associated LOINC: 17395-5 (oxyMORphone),18325-1 (oxyMORphone),19648-5 (oxyMORphone),89302-4 (Noroxymorphone),90894-7 (Noroxymorphone)
+        -   Associated LOINC: 17395-5 (oxyMORphone),18325-1 (oxyMORphone),19648-5 (oxyMORphone),90894-7 (Noroxymorphone)
         -   Associated CPT:
 
 8.  U\_OXYMORPHONE\_SCR (Oxymorphone in Urine by Screen)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Oxymorphone in Urine by Screen
     -   Long Name: Oxymorphone in Urine by  Screen method
     -   Test Type: U\_OXYMORPHONE\_SCR
@@ -6172,7 +5851,7 @@ volume (MCV)
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
-        -   Associated LOINC: 11247-4 (oxyMORphone),19646-9 (oxyMORphone),89301-6 (oxyMORphone\_3\_glucuronide)
+        -   Associated LOINC: 11247-4 (oxyMORphone),19646-9 (oxyMORphone),89301-6 (oxyMORphone\_3\_glucuronide), 89302-4 (Noroxymorphone)
         -   Associated CPT:
 
 
@@ -6180,8 +5859,6 @@ volume (MCV)
 
 1.  U\_DIPIPANONE\_CNF (Dipipanone in Urine by Confirmation)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Dipipanone in Urine by Confirmation
     -   Long Name: Dipipanone in Urine by Confirmatory method
     -   Test Type: U\_DIPIPANONE\_CNF
@@ -6204,8 +5881,6 @@ volume (MCV)
 
 2.  U\_DIPIPANONE\_SCR (Dipipanone in Urine by Screen)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Dipipanone in Urine by Screen
     -   Long Name: Dipipanone in Urine by  Screen method
     -   Test Type: U\_DIPIPANONE\_SCR
@@ -6229,8 +5904,6 @@ volume (MCV)
 
 3.  U\_FENTANYL\_CNF (Fentanyl in Urine by Confirmation)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Fentanyl in Urine by Confirmation
     -   Long Name: Fentanyl in Urine by Confirmatory method
     -   Test Type: U\_FENTANYL\_CNF
@@ -6253,8 +5926,6 @@ volume (MCV)
 
 4.  U\_FENTANYL\_SCR (Fentanyl in Urine by Screen)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Fentanyl in Urine by Screen
     -   Long Name: Fentanyl in Urine by  Screen method
     -   Test Type: U\_FENTANYL\_SCR
@@ -6273,8 +5944,6 @@ volume (MCV)
 
 5.  U\_LEVORPHANOL\_CNF (Levorphanol in Urine by Confirmation)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Levorphanol in Urine by Confirmation
     -   Long Name: Levorphanol in Urine by Confirmatory method
     -   Test Type: U\_LEVORPHANOL\_CNF
@@ -6297,8 +5966,6 @@ volume (MCV)
 
 6.  U\_LEVORPHANOL\_SCR (Levorphanol in Urine by Screen)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Levorphanol in Urine by Screen
     -   Long Name: Levorphanol in Urine by  Screen method
     -   Test Type: U\_LEVORPHANOL\_SCR
@@ -6317,8 +5984,6 @@ volume (MCV)
 
 7.  U\_MEPERIDINE\_CNF (Meperidine in Urine by Confirmation)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Meperidine in Urine by Confirmation
     -   Long Name: Meperidine in Urine by Confirmatory method
     -   Test Type: U\_MEPERIDINE\_CNF
@@ -6341,8 +6006,6 @@ volume (MCV)
 
 8.  U\_MEPERIDINE\_SCR (Meperidine in Urine by Screen)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Meperidine in Urine by Screen
     -   Long Name: Meperidine in Urine by  Screen method
     -   Test Type: U\_MEPERIDINE\_SCR
@@ -6361,8 +6024,6 @@ volume (MCV)
 
 9.  U\_METHADONE\_CNF (Methadone in Urine by Confirmation)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Methadone in Urine by Confirmation
     -   Long Name: Methadone in Urine by Confirmatory method
     -   Test Type: U\_METHADONE\_CNF
@@ -6387,8 +6048,6 @@ volume (MCV)
 
 10. U\_METHADONE\_SCR (Methadone in Urine by Screen)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Methadone in Urine by Screen
     -   Long Name: Methadone in Urine by Screen method
     -   Test Type: U\_METHADONE\_SCR
@@ -6407,8 +6066,6 @@ volume (MCV)
 
 11. U\_NALTREXOL\_CNF (Naltrexol in Urine by Confirmation)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Naltrexol in Urine by Confirmation
     -   Long Name: Naltrexol in Urine by Confirmatory method
     -   Test Type: U\_NALTREXOL\_CNF
@@ -6449,8 +6106,6 @@ volume (MCV)
 
 13. U\_PENTAZOCINE\_CNF (Pentazocine in Urine by Confirmation)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Pentazocine in Urine by Confirmation
     -   Long Name: Pentazocine in Urine by Confirmatory method
     -   Test Type: U\_PENTAZOCINE\_CNF
@@ -6473,8 +6128,6 @@ volume (MCV)
 
 14. U\_PENTAZOCINE\_SCR (Pentazocine in Urine by Screen)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Pentazocine in Urine by Screen
     -   Long Name: Pentazocine in Urine by  Screen method
     -   Test Type: U\_PENTAZOCINE\_SCR
@@ -6493,8 +6146,6 @@ volume (MCV)
 
 15. U\_PROPOXYPHENE\_CNF (Propoxyphene in Urine by Confirmation)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Propoxyphene in Urine by Confirmation
     -   Long Name: Propoxyphene in Urine by Confirmatory method
     -   Test Type: U\_PROPOXYPHENE\_CNF
@@ -6517,8 +6168,6 @@ volume (MCV)
 
 16. U\_PROPOXYPHENE\_SCR (Propoxyphene in Urine by Screen)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Propoxyphene in Urine by Screen
     -   Long Name: Propoxyphene in Urine by  Screen method
     -   Test Type: U\_PROPOXYPHENE\_SCR
@@ -6537,8 +6186,6 @@ volume (MCV)
 
 17. U\_SUFENTANIL\_CNF (Sufentanil in Urine by Confirmation)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Sufentanil in Urine by Confirmation
     -   Long Name: Sufentanil in Urine by Confirmatory method
     -   Test Type: U\_SUFENTANIL\_CNF
@@ -6561,8 +6208,6 @@ volume (MCV)
 
 18. U\_SUFENTANIL\_SCR (Sufentanil in Urine by Screen)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Sufentanil in Urine by Screen
     -   Long Name: Sufentanil in Urine by  Screen method
     -   Test Type: U\_SUFENTANIL\_SCR
@@ -6581,8 +6226,6 @@ volume (MCV)
 
 19. U\_TAPENTADOL\_CNF (Tarpentadol in Urine by Confirmation)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Tarpentadol in Urine by Confirmation
     -   Long Name: Tapentadol in Urine by Confirmatory method
     -   Test Type: U\_TAPENTADOL\_CNF
@@ -6605,8 +6248,6 @@ volume (MCV)
 
 20. U\_TAPENTADOL\_SCR (Tarpentadol in Urine by Screen)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Tarpentadol in Urine by Screen
     -   Long Name: Tapentadol in Urine by  Screen method
     -   Test Type:  U\_TAPENTADOL\_SCR
@@ -6625,8 +6266,6 @@ volume (MCV)
 
 21. U\_TRAMADOL\_CNF (Tramadol in Urine by Confirmation)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Tramadol in Urine by Confirmation
     -   Long Name: Tramadol in Urine by Confirmatory method
     -   Test Type: U\_TRAMADOL\_CNF
@@ -6649,8 +6288,6 @@ volume (MCV)
 
 22. U\_TRAMADOL\_SCR (Tramadol in Urine by Screen)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Tramadol in Urine by Screen
     -   Long Name: Tramadol in Urine by Screen method
     -   Test Type: U\_TRAMADOL\_SCR
@@ -6673,8 +6310,6 @@ volume (MCV)
 
 23. U\_NARCOTIC\_SCR (Narcotics and opioids in Urine by Screen)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Narcotics and opioids in Urine by Screen
     -   Long Name: Narcotics and opioids in Urine by Screen method
     -   Test Type: U\_NARCOTIC\_SCR
@@ -6705,8 +6340,6 @@ volume (MCV)
 
 1.  U\_BUPRENORPHINE\_CNF (Buprenorphine in Urine by Confirmation)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Buprenorphine in Urine by Confirmation
     -   Long Name: Buprenorphine in Urine by Confirmatory method
     -   Test Type: U\_BUPRENORPHINE\_CNF
@@ -6729,8 +6362,6 @@ volume (MCV)
 
 2.  U\_BUPRENORPHINE\_SCR (Buprenorphine in Urine by Screen)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Buprenorphine in Urine by Screen
     -   Long Name: Buprenorphine in Urine by Screen method
     -   Test Type: U\_BUPRENORPHINE\_SCR
@@ -6748,13 +6379,11 @@ volume (MCV)
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
-        -   Associated LOINC: 3414-0 (Buprenorphine),38373-7 (Buprenorphine+Norbuprenorphine),58359-1 (Buprenorphine+Norbuprenorphine),82371-6 (Norbuprenorphine),89305-7 (Norbuprenorphine\_3\_glucuronide),91027-3 (Buprenorphine\_3\_glucuronide)
+        -   Associated LOINC: 3414-0 (Buprenorphine),38373-7 (Buprenorphine+Norbuprenorphine),58359-1 (Buprenorphine+Norbuprenorphine),82371-6 (Norbuprenorphine),89305-7 (Norbuprenorphine\_3\_glucuronide),91027-3 (Buprenorphine\_3\_glucuronide), 93494-3 (all metabolites)
         -   Associated CPT:
 
 3.  U\_BUTORPHANOL\_CNF (Butorphanol in Urine by Confirmation)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Butorphanol in Urine by Confirmation
     -   Long Name: Butorphanol in Urine by Confirmatory method
     -   Test Type: U\_BUTORPHANOL\_CNF
@@ -6773,8 +6402,6 @@ volume (MCV)
 
 4.  U\_BUTORPHANOL\_SCR (Butorphanol in Urine by Screen)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Butorphanol in Urine by Screen
     -   Long Name: Butorphanol in Urine by Screen method
     -   Test Type: U\_BUTORPHANOL\_SCR
@@ -6793,8 +6420,6 @@ volume (MCV)
 
 5.  U\_NALBUPHINE\_CNF (Nalbuphine in Urine by Confirmation)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Nalbuphine in Urine by Confirmation
     -   Long Name: Nalbuphine in Urine by Confirmatory method
     -   Test Type: U\_NALBUPHINE\_CNF
@@ -6813,8 +6438,6 @@ volume (MCV)
 
 6.  U\_NALBUPHINE\_SCR (Nalbuphine in Urine by Screen)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Nalbuphine in Urine by Screen
     -   Long Name: Nalbuphine  in Urine by  Screen method
     -   Test Type: U\_NALBUPHINE\_SCR
@@ -6833,8 +6456,6 @@ volume (MCV)
 
 7.  U\_NALOXONE\_CNF (Naloxone in Urine by Confirmation)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Naloxone in Urine by Confirmation
     -   Long Name: Naloxone in Urine by Confirmatory method
     -   Test Type: U\_NALOXONE\_CNF
@@ -6848,13 +6469,11 @@ volume (MCV)
     -   Comments: For opioid results place the component value from the EverLOINC.SAS table into the local\_cd field of the LAB\_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.
     -   Test Method Variance:
     -   Other:
-        -   Associated LOINC: 77207-9 (Naloxone)
+        -   Associated LOINC: 77207-9 (Naloxone), 92649-3 (Naloxone)
         -   Associated CPT:
 
 8.  U\_NALOXONE\_SCR (Naloxone in Urine by Screen)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Naloxone in Urine by Screen
     -   Long Name: Naloxone in Urine by  Screen method
     -   Test Type: U\_NALOXONE\_SCR
@@ -6873,8 +6492,6 @@ volume (MCV)
 
 9.  U\_NALTREXONE\_CNF (Naltrexone in Urine by Confirmation)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Naltrexone in Urine by Confirmation
     -   Long Name: Naltrexone in Urine by Confirmatory method
     -   Test Type: U\_NALTREXONE\_CNF
@@ -6893,8 +6510,6 @@ volume (MCV)
 
 10. U\_NALTREXONE\_SCR (Naltrexone in Urine by Screen)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Naltrexone in Urine by Screen
     -   Long Name: Naltrexone in Urine by  Screen method
     -   Test Type: U\_NALTREXONE\_SCR
@@ -6927,8 +6542,6 @@ TEST\_TYPE LONGNAME
 
 1.  GTT\_0\_5 (Glucose Tolerance 1/2 hour post XXX challenge)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Glucose Tolerance 1/2 hour post XXX challenge
     -   Long Name: Glucose Tolerance 1/2 hour post XXX challenge (glucose dose not specified)
     -   Test Type: GTT\_0\_5
@@ -6947,8 +6560,6 @@ TEST\_TYPE LONGNAME
 
 2.  GTT\_1 (Glucose Tolerance 1 hour post XXX challenge)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Glucose Tolerance 1 hour post XXX challenge
     -   Long Name: Glucose Tolerance 1 hour post XXX challenge (glucose dose not specified)
     -   Test Type: GTT\_1
@@ -6971,8 +6582,6 @@ TEST\_TYPE LONGNAME
 
 4.  GTT\_2 (Glucose Tolerance 2 hour post XXX challenge)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Glucose Tolerance 2 hour post XXX challenge
     -   Long Name: Glucose Tolerance 2 hour post XXX challenge (glucose dose not specified)
     -   Test Type: GTT\_2
@@ -6995,8 +6604,6 @@ TEST\_TYPE LONGNAME
 
 5.  GTT\_3 (Glucose Tolerance 3 hour post XXX challenge (glucose dose not specified)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Glucose Tolerance 3 hour post XXX challenge
     -   Long Name: Glucose Tolerance 3 hour post XXX challenge (glucose dose not specified)
     -   Test Type: GTT\_3
@@ -7023,8 +6630,6 @@ TEST\_TYPE LONGNAME
 
 10. GTT50\_1 (Glucose Tolerance 1 hour post 50 g oral challenge)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Glucose Tolerance 1 hour post 50 g oral challenge
     -   Long Name: Glucose Tolerance 1 hour post 50 g oral challenge
     -   Test Type: GTT50\_1
@@ -7043,8 +6648,6 @@ TEST\_TYPE LONGNAME
 
 11. GTT50\_2 (Glucose Tolerance 2 hour post 50 g oral challenge)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Glucose Tolerance 2 hour post 50 g oral challenge
     -   Long Name: Glucose Tolerance 2 hour post 50 g oral challenge
     -   Test Type: GTT50\_2
@@ -7066,8 +6669,6 @@ TEST\_TYPE LONGNAME
 
 12. GTT75\_0\_5 (Glucose Tolerance 1/2 hour post 75 g oral challenge)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Glucose Tolerance 1/2 hour post 75 g oral challenge
     -   Long Name: Glucose Tolerance 1/2 hour post 75 g oral challenge
     -   Test Type: GTT75\_0\_5
@@ -7086,8 +6687,6 @@ TEST\_TYPE LONGNAME
 
 13. GTT75\_1 (Glucose Tolerance 1 hour post 75 g oral challenge)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Glucose Tolerance 1 hour post 75 g oral challenge
     -   Long Name: Glucose Tolerance 1 hour post 75 g oral challenge
     -   Test Type: GTT75\_1
@@ -7108,8 +6707,6 @@ TEST\_TYPE LONGNAME
 
 15. GTT75\_2 (Glucose Tolerance 2 hour post 75 g oral challenge)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Glucose Tolerance 2 hour post 75 g oral challenge
     -   Long Name: Glucose Tolerance 2 hour post 75 g oral challenge
     -   Test Type: GTT75\_2
@@ -7128,8 +6725,6 @@ TEST\_TYPE LONGNAME
 
 16. GTT75\_3 (Glucose Tolerance 3 hour post 75 g oral challenge)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Glucose Tolerance 3 hour post 75 g oral challenge
     -   Long Name: Glucose Tolerance 3 hour post 75 g oral challenge
     -   Test Type: GTT75\_3
@@ -7148,8 +6743,6 @@ TEST\_TYPE LONGNAME
 
 17. GTT100\_0\_5 (Glucose Tolerance 1/2 hour post 100 g oral challenge)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Glucose Tolerance 1/2 hour post 100 g oral challenge
     -   Long Name: Glucose Tolerance 1/2 hour post 100 g oral challenge
     -   Test Type: GTT100\_0\_5
@@ -7168,8 +6761,6 @@ TEST\_TYPE LONGNAME
 
 18. GTT100\_1 (Glucose Tolerance 1 hour post 100 g oral challenge)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Glucose Tolerance 1 hour post 100 g oral challenge
     -   Long Name: Glucose Tolerance 1 hour post 100 g oral challenge
     -   Test Type: GTT100\_1
@@ -7190,8 +6781,6 @@ TEST\_TYPE LONGNAME
 
 20. GTT100\_2 (Glucose Tolerance 2 hour post 100 g oral challenge)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Glucose Tolerance 2 hour post 100 g oral challenge
     -   Long Name: Glucose Tolerance 2 hour post 100 g oral challenge
     -   Test Type: GTT100\_2
@@ -7210,8 +6799,6 @@ TEST\_TYPE LONGNAME
 
 21. GTT100\_3 (Glucose Tolerance 3 hour post 100 g oral challenge)
 
-    ***UNDER REVIEW***
-    
     -   Common Name:Glucose Tolerance 3 hour post 100 g oral challenge
     -   Long Name: Glucose Tolerance 3 hour post 100 g oral challenge
     -   Test Type: GTT100\_3
@@ -7283,8 +6870,6 @@ TEST\_TYPE LONGNAME
 
 30. (GTTPM) (Glucose Tolerance post meal)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Glucose Tolerance post meal
     -   Long Name: Glucose Tolerance post meal
     -   Test Type: GTTPM
@@ -7306,8 +6891,6 @@ TEST\_TYPE LONGNAME
 
 31. (GTTPM\_0\_5) (Glucose Tolerance 1/2 hour post meal)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Glucose Tolerance 1/2 hour post meal
     -   Long Name: Glucose Tolerance 1/2 hour post meal
     -   Test Type: GTTPM\_0\_5
@@ -7326,8 +6909,6 @@ TEST\_TYPE LONGNAME
 
 32. (GTTPM\_1) (Glucose Tolerance 1 hour post meal)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Glucose Tolerance 1 hour post meal
     -   Long Name: Glucose Tolerance 1 hour post meal
     -   Test Type: GTTPM\_1
@@ -7346,8 +6927,6 @@ TEST\_TYPE LONGNAME
 
 33. (GTTPM\_2) (Glucose Tolerance 2 hour post meal)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Glucose Tolerance 2 hour post meal
     -   Long Name: Glucose Tolerance 2 hour post meal
     -   Test Type: GTTPM\_2
@@ -7369,8 +6948,6 @@ TEST\_TYPE LONGNAME
 
 34. (GTTPM\_3) (Glucose Tolerance 3 hour post meal)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Glucose Tolerance 3 hour post meal
     -   Long Name: Glucose Tolerance 3 hour post meal
     -   Test Type: GTTPM\_3
@@ -7392,8 +6969,6 @@ TEST\_TYPE LONGNAME
 
 
 ### CD4 (CD4 Count)
-
-***UNDER REVIEW***
 
 -   Common Name: CD4 Count
 -   Long Name: CD4 Count, T-cell helper subset
@@ -7419,8 +6994,6 @@ TEST\_TYPE LONGNAME
 
 1.  HCV\_AB (Hepatitis C virus antibody)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Hepatitis C virus antibody
     -   Long Name: Hepatitis C virus antibody [Units/volume] or Signal/Cutoff in Serum or Plasma
     -   Test Type: HCV\_AB
@@ -7444,8 +7017,6 @@ TEST\_TYPE LONGNAME
 
 2.  HCV\_AB\_QL (Hepatitis C virus antibody presence found)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Hepatitis C virus antibody presence found
     -   Long Name: Hepatitis C virus [Presence] or band pattern [Interpretation] in Serum, Plasma or Blood
     -   Test Type: HCV\_AB\_QL
@@ -7468,8 +7039,6 @@ TEST\_TYPE LONGNAME
 
 3.  HCV\_AB\_QL\_PR (Hepatitis C virus antibody presence found using probe method)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Hepatitis C virus antibody presence found using probe method
     -   Long Name: Hepatitis C virus [Presence] or band pattern [Interpretation] in Serum, Plasma or Blood found using probe method
     -   Test Type: HCV\_AB\_QL\_PR
@@ -7492,8 +7061,6 @@ TEST\_TYPE LONGNAME
 
 4.  HCV\_GENO (Hepatitis C virus genotype)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Hepatitis C virus genotype
     -   Long Name: Hepatitis C virus genotype [Identifier] in Ser, Plas or Bld by Probe and target amplification method
     -   Test Type: HCV\_GENO
@@ -7512,8 +7079,6 @@ TEST\_TYPE LONGNAME
 
 5.  HCV\_GENO\_PR (Hepatitis C virus genotype probe method)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Hepatitis C virus genotype probe method
     -   Long Name: Hepatitis C virus genotype [Identifier] in Ser, Plas or Bld by Probe and target amplification method
     -   Test Type: HCV\_GENO\_PR
@@ -7532,8 +7097,6 @@ TEST\_TYPE LONGNAME
 
 6.  HCV\_RNA (Hepatitis C virus RNA viral load)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Hepatitis C virus RNA viral load
     -   Long Name: Hepatitis C virus RNA [Units or #/volume] (viral load) in Ser or Plas by Probe with amplification
     -   Test Type: HCV\_RNA
@@ -7555,8 +7118,6 @@ TEST\_TYPE LONGNAME
 
 7.  HCV\_RNA\_LOG (Hepatitis C virus RNA Log Units of viral load)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Hepatitis C virus RNA Log Units of viral load
     -   Long Name: Hep C virus RNA [Log units of #/vol] (viral load) in Ser or Plas by Probe with amplification
     -   Test Type: HCV\_RNA\_LOG
@@ -7579,7 +7140,6 @@ TEST\_TYPE LONGNAME
 8.  HCV\_RNA\_QL\_PR (Hepatitis C virus RNA Presence by probe)
 
     ***LOINCS in this test type have been moved to HCV\_RNA\_QL***
-    ***UNDER REVIEW***
     
     -   Common Name: Hepatitis C virus RNA Presence by probe
     -   Long Name: Hepatitis C virus RNA [Presence] in Ser, Plas or Bld by Probe and target amplification method
@@ -7599,8 +7159,6 @@ TEST\_TYPE LONGNAME
 
 9.  HCV\_RNA\_QL (Hepatitis C virus RNA Presence)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: Hepatitis C virus RNA Presence
     -   Long Name: Hepatitis C virus RNA [Presence] in Ser, Plas or Bld by Probe and target amplification method
     -   Test Type: HCV\_RNA\_QL
@@ -7624,8 +7182,6 @@ TEST\_TYPE LONGNAME
 
 1.  HIV1\_AB\_CNF\_QL (HIV 1 Antibody in Serum, Plasma or Blood by Confirmatory method - qualitative)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: HIV 1 Antibody in Serum, Plasma or Blood by Confirmatory method - qualitative
     -   Long Name: HIV 1 Antibody in Serum, Plasma or Blood by Confirmatory method - qualitative
     -   Test Type: HIV1\_AB\_CNF\_QL
@@ -7644,8 +7200,6 @@ TEST\_TYPE LONGNAME
 
 2.  HIV1\_AB\_SCR\_QL (HIV 1 Antibody in Serum, Plasma or Blood by Screen method - qualitative)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: HIV 1 Antibody in Serum, Plasma or Blood by Screen method - qualitative
     -   Long Name: HIV 1 Antibody in Serum, Plasma or Blood by Screen method - qualitative
     -   Test Type: HIV1\_AB\_SCR\_QL
@@ -7664,8 +7218,6 @@ TEST\_TYPE LONGNAME
 
 3.  HIV1\_AB\_SCR\_QN (HIV 1 Antibody in Serum, Plasma or Blood by Screen method - quantitative)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: HIV 1 Antibody in Serum, Plasma or Blood by Screen method - quantitative
     -   Long Name: HIV 1 Antibody in Serum, Plasma or Blood by Screen method - quantitative
     -   Test Type: HIV1\_AB\_SCR\_QN
@@ -7684,8 +7236,6 @@ TEST\_TYPE LONGNAME
 
 4.  HIV12\_AB\_CNF\_QL (HIV 1 and HIV 2 Antibody in Serum, Plasma or Blood by Confirmatory method - qualitative)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: HIV 1 and HIV 2 Antibody in Serum, Plasma or Blood by Confirmatory method - qualitative
     -   Long Name: HIV 1 and HIV 2 Antibody in Serum, Plasma or Blood by Confirmatory method - qualitative
     -   Test Type: HIV12\_AB\_CNF\_QL
@@ -7708,8 +7258,6 @@ TEST\_TYPE LONGNAME
 
 5.  HIV12\_AB\_SCR\_QL (HIV 1 and HIV 2 Antibody in Serum, Plasma or Blood by Screen method - qualitative)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: HIV 1 and HIV 2 Antibody in Serum, Plasma or Blood by Screen method - qualitative
     -   Long Name: HIV 1 and HIV 2 Antibody in Serum, Plasma or Blood by Screen method - qualitative
     -   Test Type: HIV12\_AB\_SCR\_QL
@@ -7728,8 +7276,6 @@ TEST\_TYPE LONGNAME
 
 6.  HIV12\_AB\_SCR\_QN (HIV 1 and HIV 2 Antibody in Serum, Plasma or Blood by Screen method - quantitative)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: HIV 1 and HIV 2 Antibody in Serum, Plasma or Blood by Screen method - quantitative
     -   Long Name: HIV 1 and HIV 2 Antibody in Serum, Plasma or Blood by Screen method - quantitative
     -   Test Type: HIV12\_AB\_SCR\_QN
@@ -7748,8 +7294,6 @@ TEST\_TYPE LONGNAME
 
 7.  HIV2\_AB\_CNF\_QL (HIV 2 Antibody in Serum, Plasma or Blood by Confirmatory method - qualitative)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: HIV 2 Antibody in Serum, Plasma or Blood by Confirmatory method - qualitative
     -   Long Name: HIV 2 Antibody in Serum, Plasma or Blood by Confirmatory method - qualitative
     -   Test Type: HIV2\_AB\_CNF\_QL
@@ -7768,8 +7312,6 @@ TEST\_TYPE LONGNAME
 
 8.  HIV2\_AB\_SCR\_QL (HIV 2 Antibody in Serum, Plasma or Blood by Screen method - qualitative)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: HIV 2 Antibody in Serum, Plasma or Blood by Screen method - qualitative
     -   Long Name: HIV 2 Antibody in Serum, Plasma or Blood by Screen method - qualitative
     -   Test Type: HIV2\_AB\_SCR\_QL
@@ -7788,8 +7330,6 @@ TEST\_TYPE LONGNAME
 
 9.  HIV2\_AB\_SCR\_QN (HIV 2 Antibody in Serum, Plasma or Blood by Screen method - quantitative)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: HIV 2 Antibody in Serum, Plasma or Blood by Screen method - quantitative
     -   Long Name: HIV 2 Antibody in Serum, Plasma or Blood by Screen method - quantitative
     -   Test Type: HIV2\_AB\_SCR\_QN
@@ -7808,8 +7348,6 @@ TEST\_TYPE LONGNAME
 
 10. HIV1\_AG\_QL (HIV 1 Antigen in Serum or Plasma - qualitative)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: HIV 1 Antigen in Serum or Plasma - qualitative
     -   Long Name: HIV 1 Antigen in Serum or Plasma - qualitative
     -   Test Type: HIV1\_AG\_QL
@@ -7828,8 +7366,6 @@ TEST\_TYPE LONGNAME
 
 11. HIV1\_AG\_QN (HIV 1 Antigen in Serum or Plasma - quantitative)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: HIV 1 Antigen in Serum or Plasma - quantitative
     -   Long Name: HIV 1 Antigen in Serum or Plasma - quantitative
     -   Test Type: HIV1\_AG\_QN
@@ -7850,8 +7386,6 @@ TEST\_TYPE LONGNAME
 
 12. HIV1\_RNA (HIV 1 RNA (viral load) in Serum or Plasma)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: HIV 1 RNA (viral load) in Serum or Plasma
     -   Long Name: HIV 1 RNA (viral load) in Serum or Plasma
     -   Test Type: HIV1\_RNA
@@ -7926,8 +7460,6 @@ TEST\_TYPE LONGNAME
 
 13. HIV1\_RNA\_LOG (HIV 1 RNA (viral load - log) in Serum or Plasma)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: HIV 1 RNA (viral load - log) in Serum or Plasma
     -   Long Name: HIV 1 RNA (viral load - log) in Serum or Plasma
     -   Test Type: HIV1\_RNA\_LOG
@@ -8002,8 +7534,6 @@ TEST\_TYPE LONGNAME
 
 14. HIV2\_RNA (HIV 2 RNA (viral load) in Serum or Plasma)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: HIV 2 RNA (viral load) in Serum or Plasma
     -   Long Name: HIV 2 RNA (viral load) in Serum or Plasma
     -   Test Type: HIV2\_RNA
@@ -8082,8 +7612,6 @@ TEST\_TYPE LONGNAME
 
 15. HIV2\_RNA\_LOG (HIV 2 RNA (viral load - log) in Serum or Plasma)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: HIV 2 RNA (viral load - log) in Serum or Plasma
     -   Long Name: HIV 2 RNA (viral load - log) in Serum or Plasma
     -   Test Type: HIV2\_RNA\_LOG
@@ -8158,8 +7686,6 @@ TEST\_TYPE LONGNAME
 
 16. HIV1\_RNA\_QL (HIV 1 RNA (detection) in Serum or Plasma - qualitative)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: HIV 1 RNA (detection) in Serum or Plasma - qualitative
     -   Long Name: HIV 1 RNA (detection) in Serum or Plasma - qualitative
     -   Test Type: HIV1\_RNA\_QL
@@ -8185,8 +7711,6 @@ TEST\_TYPE LONGNAME
 
 17. HIV12\_RNA\_QL (HIV 1 and HIV 2 RNA (detection) in Serum or Plasma - qualitative)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: HIV 1 and HIV 2 RNA (detection) in Serum or Plasma - qualitative
     -   Long Name: HIV 1 and HIV 2 RNA (detection) in Serum or Plasma - qualitative
     -   Test Type: HIV12\_RNA\_QL
@@ -8209,8 +7733,6 @@ TEST\_TYPE LONGNAME
 
 18. HIV1\_AB\_AG\_QL (HIV 1 Antibody and Antigen)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: HIV 1 Antibody and Antigen
     -   Long Name: HIV 1 Antibody and Antigen
     -   Test Type: HIV1\_AB\_AG\_QL
@@ -8271,8 +7793,6 @@ TEST\_TYPE LONGNAME
 
 19. HIV12\_AB\_HIV1\_AG\_QL (HIV 1 and HIV 2 Antibody and HIV 1 Antigen - qualitative)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: HIV 1 and HIV 2 Antibody and HIV 1 Antigen - qualitative
     -   Long Name: HIV 1 and HIV 2 Antibody and HIV 1 Antigen - qualitative
     -   Test Type: HIV12\_AB\_HIV1\_AG\_QL
@@ -8291,8 +7811,6 @@ TEST\_TYPE LONGNAME
 
 20. HIV12\_AB\_HIV1\_AG\_QN (HIV 1 and HIV 2 Antibody and HIV 1 Antigen - quantitative)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: HIV 1 and HIV 2 Antibody and HIV 1 Antigen - quantitative
     -   Long Name: HIV 1 and HIV 2 Antibody and HIV 1 Antigen - quantitative
     -   Test Type: HIV12\_AB\_HIV1\_AG\_QN
@@ -8367,8 +7885,6 @@ TEST\_TYPE LONGNAME
 
 21. HIV1\_QL (HIV 1 - qualitative)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: HIV 1 - qualitative
     -   Long Name: HIV 1 - qualitative
     -   Test Type: HIV1\_QL
@@ -8387,8 +7903,6 @@ TEST\_TYPE LONGNAME
 
 22. HIV12\_QL (HIV 1 and HIV 2 algorithm interpretation - qualitative)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: HIV 1 and HIV 2 algorithm interpretation - qualitative
     -   Long Name: HIV 1 and HIV 2 algorithm interpretation - qualitative
     -   Test Type: HIV12\_QL
@@ -8407,8 +7921,6 @@ TEST\_TYPE LONGNAME
 
 23. HIV1\_AB\_SCR\_QL\_S (HIV 1 Antibody in Saliva by Screen method - qualitative)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: HIV 1 Antibody in Saliva by Screen method - qualitative
     -   Long Name: HIV 1 Antibody in Saliva by Screen method - qualitative
     -   Test Type: HIV1\_AB\_SCR\_QL\_S
@@ -8427,8 +7939,6 @@ TEST\_TYPE LONGNAME
 
 24. HIV1\_AB\_SCR\_QN\_S (HIV 1 Antibody in Saliva by Screen method - quantitative)
 
-    ***UNDER REVIEW***
-    
     -   Common Name: HIV 1 Antibody in Saliva by Screen method - quantitative
     -   Long Name: HIV 1 Antibody in Saliva by Screen method - quantitative
     -   Test Type: HIV1\_AB\_SCR\_QN\_S

@@ -29,7 +29,6 @@ This reference document is not inclusive of all lab tests that have been deemed 
  - Associated CPT:  
 
 *** AFP (Alpha-1 Fetoprotein)
-*/UNDER REVIEW/*
 - Common Name:  Alpha-1 Fetoprotein
 - Long Name:  Alpha-1 Fetoprotein in Serum or Plasma
 - Test Type:  AFP
@@ -99,7 +98,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
  - Associated CPT:  84460
 
 *** AMYLASE (Amylase in blood)
-*/UNDER REVIEW/*
 - Common Name: Amylase total
 - Long Name: Amylase, total in blood
 - Test Type: AMYLASE
@@ -210,7 +208,6 @@ Prealbumin, microalbumin, urinalysis, liver panel
  - Associated CPT:  83880
 
 *** BNP_PROHORMONE (N-terminal prohormone-B-type natriuretic peptide)
-*/UNDER REVIEW/*
 - Common Name: N-terminal prohormone-B-type natriuretic peptide (NT-proBNP) 
 - Long Name:  Natriuretic peptide.B prohormone N-Terminal [Mass/volume] in Serum or Plasma
 - Test Type: BNP_PROHORMONE
@@ -505,7 +502,6 @@ NOTE: This single reference document contains information pertinent to the indiv
  - Associated CPT:  82552, 82554
 
 **** CK_BBI (Creatine Kinase BB Total)
-*/UNDER REVIEW/*
 NOTE: This single reference document contains information pertinent to the individual TEST_TYPEs CK_BB_EP, and the indexes CK_BBI, or CK_BBI_EP.
 - Common Name: CK BB (also known as CPK BB)
 - Long Name: Creatine Kinase BB/Creatine Kinase Total
@@ -524,7 +520,6 @@ NOTE: This single reference document contains information pertinent to the indiv
  - Associated CPT: 82552, 82554
 
 **** CK_BBI_EP (Creatine Kinase BB Total Electrophoresis)
-*/UNDER REVIEW/*
 NOTE: This single reference document contains information pertinent to the individual TEST_TYPES CK_BB_EP, and the indexes CK_BBI, or CK_BBI_EP.
 - Common Name: CK BB (also known as CPK BB)
 - Long Name: Creatine Kinase BB/Creatine Kinase Total Electrophoresis
@@ -543,7 +538,6 @@ NOTE: This single reference document contains information pertinent to the indiv
  - Associated CPT: 82552, 82554
 
 **** CK_BF (Creatine Kinase in Body Fluid)
-*/UNDER REVIEW/*
 - Common Name: Creatine Kinase in Body Fluid
 - Long Name: Creatine Kinase Body Fluid Quantitative
 - Test Types: CK_BF
@@ -578,7 +572,6 @@ NOTE: This single reference document contains information pertinent to the indiv
  - Associated CPT:  82550
 
 **** CK_ISO (Creatine Kinase Isoenzymes)
-*/UNDER REVIEW/*
 - Common Name: Creatine Kinase Isoenzymes
 - Long Name:  Creatine Kinase Isoenzymes Interpretation - analytic method not specified
 - Test Type:  CK_ISO
@@ -606,7 +599,6 @@ NOTE: This single reference document contains information pertinent to the indiv
  - Associated CPT:  82552, 82554
 
 **** CK_ISO_EP (Creatine Kinase Isoenzymes Electrophoresis)
-*/UNDER REVIEW/*
 - Common Name: Creatine Kinase Isoenzymes Electrophoresis
 - Long Name: Creatine Kinase Isoenzymes Electrophoresis Interpretation
 - Test Type: CK_ISO_EP
@@ -730,7 +722,6 @@ determined by enzyme immunoassay (EIA).
  - Associated CPT:  82550, 82553
 
 **** CK_MM_EP (Creatine Kinase MM Electrophoresis)
-*/UNDER REVIEW/*
 - Common Name: Creatine Kinase MM Electrophoresis
 - Long Name: Creatine Kinase Muscle-Muscle Electrophoresis
 - Test Type: CK_MM_EP
@@ -748,7 +739,6 @@ determined by enzyme immunoassay (EIA).
  - Associated CPT: 82552, 82554
 
 **** CK_MMI (Creatine Kinase MM)
-*/UNDER REVIEW/*
 - Common Name: Creatine Kinase MM
 - Long Name: Creatine Kinase MM/Creatine Kinase Total
 - Test Type: CK_MMI
@@ -766,7 +756,6 @@ determined by enzyme immunoassay (EIA).
  - Associated CPT: 82552, 82554
 
 **** CK_MMI_EP (Creatine Kinase MM Electrophoresis)
-*/UNDER REVIEW/*
 - Common Name: Creatine Kinase MM Electrophoresis 
 - Long Name: Creatine Kinase MM/Creatine Kinase Total Electrophoresis
 - Test Type: CK_MMI_EP
@@ -811,7 +800,6 @@ creatinine
 
 *** (CO2) Carbon Dioxide Test Types
 **** CO2_A (Carbon dioxide in Arterial blood)
-*/UNDER REVIEW/*
 - Common Name: Carbon dioxide in Arterial blood
 - Long Name: Carbon dioxide, total [Moles/volume] in Arterial blood
 - Test Type: CO2_A
@@ -829,7 +817,6 @@ creatinine
  - Associated CPT:  
 
 **** CO2_C (Carbon dioxide in Capillary blood)
-*/UNDER REVIEW/*
 - Common Name: Carbon dioxide in Capillary blood
 - Long Name: Carbon dioxide, total [Moles/volume] in Capillary blood
 - Test Type: CO2_C
@@ -847,7 +834,6 @@ creatinine
  - Associated CPT:  
 
 **** CO2_V (Carbon dioxide in Veinous blood)
-*/UNDER REVIEW/*
 - Common Name: Carbon dioxide in Veinous blood
 - Long Name: Carbon dioxide, total [Moles/volume] in Veinous blood)
 - Test Type: CO2_V
@@ -865,7 +851,6 @@ creatinine
  - Associated CPT:  
 
 **** CO2_NS (Carbon dioxide source not specified)
-*/UNDER REVIEW/*
 - Common Name: Carbon dioxide source not specified
 - Long Name: Carbon dioxide, total [Moles/volume] in Serum, Plasma or Blood
 - Test Type: CO2_NS
@@ -883,7 +868,6 @@ creatinine
  - Associated CPT:  
 
 **** CO2_A_CLC (Carbon dioxide in Arterial blood Calculated)
-*/UNDER REVIEW/*
 - Common Name: Carbon dioxide in Arterial blood Calculated
 - Long Name: Carbon dioxide, total [Moles/volume] in Arterial blood by calculation
 - Test Type: CO2_A_CLC
@@ -902,7 +886,6 @@ Using these measured values (pH and pCO2), the total CO2 content (TCO2) can be c
  - Associated CPT:  
 
 **** CO2_C_CLC (Carbon dioxide in Capillary blood by calculated)
-*/UNDER REVIEW/*
 - Common Name: Carbon dioxide in Capillary blood by calculated
 - Long Name: Carbon dioxide, total [Moles/volume] in Capillary blood by calculation
 - Test Type: CO2_C_CLC
@@ -920,7 +903,6 @@ Using these measured values (pH and pCO2), the total CO2 content (TCO2) can be c
  - Associated CPT:  
 
 **** CO2_V_CLC (Carbon dioxide in Venous blood by calculation)
-*/UNDER REVIEW/*
 - Common Name: Carbon dioxide in Venous blood by calculation
 - Long Name: Carbon dioxide, total [Moles/volume] in Venous blood by calculation
 - Test Type: CO2_V_CLC
@@ -938,7 +920,6 @@ Using these measured values (pH and pCO2), the total CO2 content (TCO2) can be c
  - Associated CPT:  
 
 **** CO2_NS_CLC (Carbon dioxide source not specified by calculation)
-*/UNDER REVIEW/*
 - Common Name: Carbon dioxide source not specified by calculation
 - Long Name: Carbon dioxide, total [Moles/volume] in Serum, Plasma or Blood by calculation
 - Test Type: CO2_NS_CLC
@@ -956,7 +937,6 @@ Using these measured values (pH and pCO2), the total CO2 content (TCO2) can be c
  - Associated CPT:  
 
 *** COLOGUARD (Noninvasive colorectal cancer screen)
-*/UNDER REVIEW/*
 - Common Name: Noninvasive colorectal cancer screen
 - Long Name: Noninvasive colorectal cancer DNA and occult blood screening [Presence] in Stool
 - Test Type: COLOGUARD
@@ -1008,7 +988,6 @@ Using these measured values (pH and pCO2), the total CO2 content (TCO2) can be c
  - Associated CPT:  86140
 
 *** CRP_TIT (C-reactive protein titer)
-*/UNDER REVIEW/*
 - Common Name: C-Reactive Protein
 - Long Name: C-reactive protein serum/plasma titer
 - Test Type: CRP_TIT
@@ -1044,7 +1023,6 @@ Using these measured values (pH and pCO2), the total CO2 content (TCO2) can be c
  - Associated CPT:  86141
 
 *** CRPHS_QUIN (High-sensitivity C-reactive protein quintile)
-*/UNDER REVIEW/*
 - Common Name: HsCRP quintile
 - Long Name: High-sensitivity C-Reactive Protein
 - Test Type: CRPHS_QUIN
@@ -1067,7 +1045,6 @@ Using these measured values (pH and pCO2), the total CO2 content (TCO2) can be c
  - Associated CPT: 
 
 *** CYSTATIN_C (Cystatin C)
-*/UNDER REVIEW/*
 - Common Name: Cystatin C
 - Long Name: Cystatin C [Mass/volume] in Serum or Plasma
 - Test Type: CYSTATIN_C
@@ -1086,7 +1063,6 @@ Using these measured values (pH and pCO2), the total CO2 content (TCO2) can be c
 
 *** (D_DIME) D-dimer fibrin derivatives Test Types
 **** D_DIME_DDU (D-dimer fibrin derivatives, D-Dimer Units)
-*/UNDER REVIEW/*
 - Common Name: D-dimer fibrin derivatives, D-Dimer Units
 - Long Name: D-dimer fibrin derivatives, quantitative, D-Dimer Units
 - Test Type: D_DIME_DDU
@@ -1103,7 +1079,6 @@ Using these measured values (pH and pCO2), the total CO2 content (TCO2) can be c
  - Associated CPT:  
 
 **** D_DIME_FEU (D-dimer fibrin derivatives, Fibinogen Equivalent Units)
-*/UNDER REVIEW/*
 - Common Name: D-dimer fibrin derivatives, Fibinogen Equivalent Units
 - Long Name: D-dimer fibrin derivatives, quantitative, Fibinogen Equivalent Units
 - Test Type: D_DIME_FEU
@@ -1119,7 +1094,6 @@ Equivalent Tests: None Related, but Not Equivalent, Tests: Fibrin Degradation Pr
  - Associated CPT:  
 
 **** D_DIME_NS (D-dimer fibrin derivatives, Not Specified)
-*/UNDER REVIEW/*
 - Common Name: D-dimer fibrin derivatives, Not Specified
 - Long Name: D-dimer fibrin derivatives, quantitative, Not Specified
 - Test Type: D_DIME_NS
@@ -1135,7 +1109,6 @@ Equivalent Tests: None Related, but Not Equivalent, Tests: Fibrin Degradation Pr
  - Associated CPT:  
 
 **** D_DIMER_QL (D-dimer fibrin derivatives, qualitative)
-*/UNDER REVIEW/*
 - Common Name: D-dimer fibrin derivatives, qualitative
 - Long Name: D-dimer fibrin derivatives, qualitative
 - Test Type: D_DIMER_QL
@@ -1153,7 +1126,6 @@ Related, but Not Equivalent, Tests: Fibrin Degradation Products (FDP); Fibrin Sp
  - Associated CPT: 85378, 85379, 85362
 
 *** ESR (Erythrocyte sedimentation rate)
-*/UNDER REVIEW/*
 - Common Name: Erythrocyte sedimentation rate
 - Long Name: Erythrocyte sedimentation rate
 - Test Type: ESR
@@ -1178,7 +1150,6 @@ Related, but Not Equivalent, Tests: Fibrin Degradation Products (FDP); Fibrin Sp
 
 *** (FE) Iron Test Types
 **** FE (Iron)
-*/UNDER REVIEW/*
 - Common Name: Iron
 - Long Name: Iron in Serum or Plasma
 - Test Type: FE
@@ -1199,7 +1170,6 @@ Related, but Not Equivalent, Tests: Fibrin Degradation Products (FDP); Fibrin Sp
  - Associated CPT:  
 
 **** FE_QL (Iron qualitative)
-*/UNDER REVIEW/*
 - Common Name: Iron qualitative
 - Long Name: Iron in Serum or Plasma  qualitative
 - Test Type: FE_QL
@@ -1219,7 +1189,6 @@ Related, but Not Equivalent, Tests: Fibrin Degradation Products (FDP); Fibrin Sp
  - Associated CPT:  
 
 **** FE_SATURATION (Iron Saturation)
-*/UNDER REVIEW/*
 - Common Name: Iron Saturation
 - Long Name: Iron Saturation in Serum or Plasma
 - Test Type: FE_SATURATION
@@ -1240,7 +1209,6 @@ Related, but Not Equivalent, Tests: Fibrin Degradation Products (FDP); Fibrin Sp
  - Associated CPT:  
 
 **** FE_TIBC (Iron Binding Capacity)
-*/UNDER REVIEW/*
 - Common Name: Iron Binding Capacity
 - Long Name: Iron Binding Capacity in Serum or Plasma
 - Test Type: FE_TIBC
@@ -1260,7 +1228,6 @@ Related, but Not Equivalent, Tests: Fibrin Degradation Products (FDP); Fibrin Sp
  - Associated CPT:  
 
 **** FE_UIBC (Iron Binding Capacity unsaturated)
-*/UNDER REVIEW/*
 - Common Name: Unsaturated Iron Binding Capacity
 - Long Name: Iron Binding Capacity in Serum or Plasma Unsaturated
 - Test Type: FE_UIBC
@@ -1285,7 +1252,6 @@ Related, but Not Equivalent, Tests: Fibrin Degradation Products (FDP); Fibrin Sp
  - Associated CPT:  
 
 **** FE_TRANSFERRIN_RATIO (Iron/Transferrin ratio)
-*/UNDER REVIEW/*
 - Common Name: Iron/Transferrin ratio
 - Long Name: Iron/Transferrin ratio in Serum or Plasma
 - Test Type: FE_TRANSFERRIN_RATIO
@@ -1380,8 +1346,6 @@ Related, but Not Equivalent, Tests: Fibrin Degradation Products (FDP); Fibrin Sp
  - Associated CPT:  82274
 
 **** FOB_IMMUN_QN (Fecal Immunologic [Immunochemical] quantitative)
-*/NEEDS TO BE UPDATED/*
-*/UNDER REVIEW/*
 - Common Name: FIT (fecal immunochemical test, iFOBT)
 - Long Name: FOBT quantitative; fecal occult blood; occult blood in stool; immunologic
 - Test Type: FOB_IMMUN_QN
@@ -1416,7 +1380,6 @@ Related, but Not Equivalent, Tests: Fibrin Degradation Products (FDP); Fibrin Sp
  - Associated CPT:  82746
 
 *** FOLATE_RBC (Folate in red blood cells)
-*/UNDER REVIEW/*
 - Common Name Folate in red blood cells
 - Long Name: 
 - Test Type: FOLATE_RBC
@@ -1435,7 +1398,6 @@ Related, but Not Equivalent, Tests: Fibrin Degradation Products (FDP); Fibrin Sp
 
 *** (GFR) Glomerular Filtration Rate Test Types
 **** GFR_AA_CKD (Glomerular Filtration Rate, CKD-EPI, African American)
-*/UNDER REVIEW/*
 - Common Name: Glomerular Filtration Rate, CKD-EPI, African American
 - Long Name: Glomerular Filtration Rate/1.73 sq M.predicted Black (CKD-EPI)
 - Test Type: GFR_AA_CKD
@@ -1485,7 +1447,6 @@ Related, but Not Equivalent, Tests: Fibrin Degradation Products (FDP); Fibrin Sp
  - Associated CPT:  82565
 
 **** GFR_AA_NS (Glomerular Filtration Rate, method not-specified, African American)
-*/UNDER REVIEW/*
 - Common Name: Glomerular Filtration Rate, method not-specified, African American
 - Long Name: Glomerular Filtration Rate/1.73 sq M. predicted black (method not specified)
 - Test Type: GFR_AA_NS
@@ -1513,7 +1474,6 @@ Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his
  - Associated CPT:  
 
 **** GFR_ARV (Glomerular Filtration Rate, ArvRate)
-*/UNDER REVIEW/*
 - Common Name: Glomerular Filtration Rate, ArvRate
 - Long Name: Glomerular Filtration Rate/1.73 sq M.predicted (Antiretroviral Rate) 
 - Test Type: GFR_ARV
@@ -1532,7 +1492,6 @@ Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his
  - Associated CPT:  
 
 **** GFR_CKD (Glomerular Filtration Rate, CKD-EPI)
-*/UNDER REVIEW/*
 - Common Name: Glomerular filtration rate
 - Long Name: Glomerular Filtration Rate/1.73 sq M.predicted (CKD-EPI) 
 - Test Type: GFR_CKD
@@ -1551,7 +1510,6 @@ Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his
  - Associated CPT:  
 
 **** GFR_CKD_EPI (Glomerular Filtration Rate, CKD-EPI 2021, not based on race)
-*/UNDER REVIEW/*
 - Common Name: Glomerular Filtration Rate, CKD-EPI 2021, not based on race
 - Long Name: Glomerular filtration rate/1.73 sq M.predicted (CKD-EPI 2021) creatinine formula not based on race
 - Test Type: GFR_CKD_EPI
@@ -1583,7 +1541,6 @@ Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his
  - Associated CPT:  
 
 **** GFR_CKD_EPI_CYS (Glomerular Filtration Rate, CKD-EPI 2021, creatine-cystatin not based on race)
-*/UNDER REVIEW/*
 - Common Name: Glomerular Filtration Rate, CKD-EPI 2021, creatine-cystatin not based on race
 - Long Name: Glomerular filtration rate/1.73 sq M.predicted (CKD-EPI 2021) creatinine-cystatin not based on race
 - Test Type: GFR_CKD_EPI_CYS
@@ -1616,7 +1573,6 @@ Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his
  - Associated CPT:  
 
 **** GFR_CYST (Glomerular Filtration Rate, Cystatin)
-*/UNDER REVIEW/*
 - Common Name:  Glomerular Filtration Rate, Cystatin
 - Long Name:  Glomerular Filtration Rate/1.73 sq M.predicted (Cystatin) 
 - Test Type:  GFR_CYST
@@ -1634,7 +1590,6 @@ Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his
  - Associated CPT:  
 
 **** GFR_F_MD (Glomerular Filtration Rate, MDRD, Female)
-*/UNDER REVIEW/*
 - Common Name:  Glomerular Filtration Rate, MDRD, Female
 - Long Name:  Glomerular Filtration Rate/1.73 sq M.predicted.female (MDRD)
 - Test Type:  GFR_F_MD
@@ -1652,7 +1607,6 @@ Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his
  - Associated CPT:  
 
 **** GFR_M_MD (Glomerular Filtration Rate, MDRD, Male)
-*/UNDER REVIEW/*
 - Common Name: Glomerular Filtration Rate, MDRD, Male
 - Long Name:  Glomerular Filtration Rate/1.73 sq M.predicted.male (MDRD)
 - Test Type:  GFR_M_MD
@@ -1696,7 +1650,6 @@ Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his
  - Associated CPT:  82565
 
 **** GFR_NAA_CKD (Glomerular Filtration Rate, CKD-EPI, Non-African American)
-*/UNDER REVIEW/*
 - Common Name: Glomerular Filtration Rate, CKD-EPI, Non-African American
 - Long Name: Glomerular Filtration Rate/1.73 sq M.predicted .non Black (CKD-EPI)
 - Test Type: GFR_NAA_CKD
@@ -1747,7 +1700,6 @@ Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his
  - Associated CPT:  82565
 
 **** GFR_NAA_NS (Glomerular Filtration Rate, Not Specified, Non-African American)
-*/UNDER REVIEW/*
 - Common Name: Glomerular Filtration Rate, Not Specified, Non-African American
 - Long Name: Glomerular filtration rate/1.73 sq M.predicted.non Black
 - Test Type:
@@ -1772,7 +1724,6 @@ Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his
  - Associated CPT:  
 
 **** GFR_NS (Glomerular Filtration Rate, Not Specified)
-*/UNDER REVIEW/*
 - Common Name: Glomerular Filtration Rate, Not Specified
 - Long Name: Glomerular filtration rate, method and Race not specified
 - Test Type: GFR_NS
@@ -1821,7 +1772,7 @@ Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his
 - Comments: Many HMOs do not report GFR results using the Schwartz equation (even for pediatrics). Before populating this test type, please determine whether your health plan reports results using the Schwartz equation. This test is most accurate for poor kidney function so it may only be reported for values less than 75 ml/min/1.73 m2. Values any higher than 75 mL/min may be reported as “greater than or equal to 75 mL/min/1.73 m2”.
 - Test Method Variance: --
 - Other: --
- - Associated LOINC:  50383-9, 50384-7
+ - Associated LOINC:  50383-9, 50384-7, 102097-3
  - Associated CPT:  82565
 
 *** GGT (GGTP, Gamma-glutamyl transpeptidase [or transferase] in blood/serum)
@@ -1875,7 +1826,6 @@ Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his
  - Associated CPT:  (CPT Code does not differentiate between random and fasting) 82947
 *** (HCO3) Bicarbonate Test Types
 **** HCO3_A (Bicarbonate in Arterial blood)
-*/UNDER REVIEW/*
 - Common Name:  Bicarbonate in Arterial blood
 - Long Name:  Bicarbonate [Moles/volume] in Arterial blood
 - Test Type:  HCO3_A
@@ -1893,7 +1843,6 @@ Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his
  - Associated CPT:  
 
 **** HCO3_C (Bicarbonate in Capillary blood)
-*/UNDER REVIEW/*
 - Common Name:  Bicarbonate in Capillary blood
 - Long Name:  Bicarbonate [Moles/volume] in Capillary blood
 - Test Type:  HCO3_C
@@ -1911,7 +1860,6 @@ Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his
  - Associated CPT:  
 
 **** HCO3_V (Bicarbonate in Venous blood)
-*/UNDER REVIEW/*
 - Common Name:  Bicarbonate in Venous blood
 - Long Name:  Bicarbonate [Moles/volume] in Venous blood
 - Test Type:  HCO3_V
@@ -1929,7 +1877,6 @@ Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his
  - Associated CPT:  
 
 **** HCO3_NS (Bicarbonate source not specified)
-*/UNDER REVIEW/*
 - Common Name:  Bicarbonate source not specified
 - Long Name:  Bicarbonate [Moles/volume] in Serum, Plasma or Blood
 - Test Type:  HCO3_NS
@@ -1964,7 +1911,6 @@ Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his
  - Associated CPT:  83718
 
 *** HGBA1C (Hemoglobin A1C)
-*/UNDER REVIEW/*
 - Common Name: Hemoglobin A1c
 - Long Name: Hemoglobin A1C (% of hemoglobin A1c to total hemoglobin in blood)
 - Test Type: HGBA1C
@@ -1982,7 +1928,6 @@ Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his
  - Associated CPT: 83036, 83037
 
 *** IL_6 (Interleukin 6)
-*/UNDER REVIEW/*
 - Common Name:  Interleukin 6
 - Long Name:  Interleukin 6 in Serum or Plasma 
 - Test Type:  IL_6
@@ -2000,7 +1945,6 @@ Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his
  - Associated CPT:  
 
 *** IL_6_QL (Interleukin 6 presence)
-*/UNDER REVIEW/*
 - Common Name:  Interleukin 6 presence
 - Long Name:  Interleukin 6 in Serum or Plasma - Presence
 - Test Type:  IL_6_QL
@@ -2070,10 +2014,28 @@ Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his
 - Description: LDL = total cholesterol level - HDL - [triglyceride level ÷ 5]. Calculation is invalid when triglycerides are >400mg/dL
 - Related Tests: Lipid Profile, Triglycerides, Total Cholesterol, VLDL - very low density lipoprotein cholesterol, HDL - high density lipoprotein cholesterol, any apolipoproteins
 - Approximate Reference Range (Each site will have slight variations): less than 130mg/dL
-- Comments: Calculated LDL reflects an indirect method of testing. Chemicals are added to the serum/plasma and selected fractions are precipitated out of the sample and the test is performed on the remaining supernatant. The preferred specimen is fasting. Calculated LDL is not accurate on specimens that have triglycerides levels exceeding 400.
+- Comments: LOINC 13457-7 and 2089-1 are listed as multiple test_types because we see in source data that sometimes the LOINC is associated with results the site identified as fasting and sometimes it is not.  Calculated LDL reflects an indirect method of testing. Chemicals are added to the serum/plasma and selected fractions are precipitated out of the sample and the test is performed on the remaining supernatant. The preferred specimen is fasting. Calculated LDL is not accurate on specimens that have triglycerides levels exceeding 400.
 - Test Method Variance:
 - Other:
  - Associated LOINC:  13457-7, 2089-1
+ - Associated CPT:  83721
+
+**** LDL_CLC_NF, Calculated, Not Fasting (Cholesterol Low Density Lipoprotein, Calculated, patient was not fasting)
+- Common Name: LDL
+- Long Name: Cholesterol Low Density Lipoprotein Calculated Not Fasting
+- Test Type: LDL_CLC_NF
+- Panels: LIPID PROFILE
+- Equivalent Tests: Whole blood LDL
+- Not Equivalent Tests: Total Cholesterol, VLDL - very low density lipoprotein cholesterol, HDL
+- high density lipoprotein cholesterol, any apolipoproteins
+- Indications: LDL cholesterol is used to predict the risk of developing atherosclerosis heart disease. It is sometimes referred to as "bad cholesterol." Of all the forms of cholesterol in the blood, the LDL cholesterol is considered the most important in determining risk of heart disease. LDL cholesterol is the primary target of cholesterol-lowering treatment. Since treatment decisions are often based on LDL values, this test may be used to monitor levels after the start of diet or exercise programs or to determine whether or not prescribing one of the lipid-lowering drugs would be useful.
+- Description: LDL = total cholesterol level - HDL - [triglyceride level ÷ 5]. Calculation is invalid when triglycerides are >400mg/dL
+- Related Tests: Lipid Profile, Triglycerides, Total Cholesterol, VLDL - very low density lipoprotein cholesterol, HDL - high density lipoprotein cholesterol, any apolipoproteins
+- Approximate Reference Range (Each site will have slight variations): less than 130mg/dL
+- Comments: LOINC 13457-7 and 2089-1 are listed as multiple test_types because we see in source data that sometimes the LOINC is associated with results the site identified as fasting and sometimes it is not.  Sites apply whatever is in their data with regard to the fasting status, because the LOINC is silent on fasting or not.  Calculated LDL reflects an indirect method of testing. Chemicals are added to the serum/plasma and selected fractions are precipitated out of the sample and the test is performed on the remaining supernatant. The preferred specimen is fasting. Calculated LDL is not accurate on specimens that have triglycerides levels exceeding 400.
+- Test Method Variance:
+- Other:
+ - Associated LOINC:  13457-7
  - Associated CPT:  83721
 
 **** LDL_CLC_NS, Calculated, Random (Low density lipoprotein cholesterol, calculated measure, not known if patient was fasting)
@@ -2088,7 +2050,7 @@ Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his
 - Description: LDL = total cholesterol level - HDL - [triglyceride level ÷ 5]. Calculation is invalid when triglycerides are >400mg/dL
 - Related Tests: Lipid Profile, Triglycerides, Total Cholesterol, VLDL - very low density lipoprotein cholesterol, HDL - high density lipoprotein cholesterol, any apolipoproteins
 - Approximate Reference Range (Each site will have slight variations): < 130mg/dL
-- Comments: Calculated LDL reflects an indirect method of testing. Chemicals are added to the serum/plasma and selected fractions are precipitated out of the sample and the test is performed on the remaining supernatant. The preferred specimen is fasting. Whether “fasting” is indicated with the lab result determines if it is categorized as fasting or fasting status unknown. Calculated LDL is not accurate on specimens that have triglycerides levels exceeding 400.
+- Comments: LOINC 13457-7 and 2089-1 are listed as multiple test_types because we see in source data that sometimes the LOINC is associated with results the site identified as fasting and sometimes it is not.  Calculated LDL reflects an indirect method of testing. Chemicals are added to the serum/plasma and selected fractions are precipitated out of the sample and the test is performed on the remaining supernatant. The preferred specimen is fasting. Whether “fasting” is indicated with the lab result determines if it is categorized as fasting or fasting status unknown. Calculated LDL is not accurate on specimens that have triglycerides levels exceeding 400.
 - Test Method Variance:
 - Other:
  - Associated LOINC:  13457-7, 2089-1, 39469-2
@@ -2129,7 +2091,6 @@ Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his
  - Associated CPT:  83721
 
 *** LIPASE (Lipase)
-*/UNDER REVIEW/*
 - Common Name: Lipase
 - Long Name: Lipase
 - Test Type: LIPASE
@@ -2165,7 +2126,6 @@ Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his
 
 *** (PG) Pregnancy Determination Test Types
 **** PG_B_QL (Pregnancy Determination, Serum Beta Human Choriogonadotropin, qualitative)
-*/UNDER REVIEW/*
 - Common Name: Pregnancy Determination, Serum Beta Human Choriogonadotropin, qualitative
 - Long Name: Pregnancy Determination - Beta Human Choriogonadotropin (HCG) in serum, qualitative
 - Test Type: PG_B_QL
@@ -2183,7 +2143,6 @@ Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his
  - Associated CPT:  
 
 **** PG_B_QL_U (Pregnancy Determination, Urine Beta Human Choriogonadotropin, qualitative)
-*/UNDER REVIEW/*
 - Common Name: Pregnancy Determination, Urine Beta Human Choriogonadotropin, qualitative
 - Long Name: Pregnancy Determination - Beta Human Choriogonadotropin (HCG) in urine, qualitative
 - Test Type: PG_B_QL_U
@@ -2201,7 +2160,6 @@ Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his
  - Associated CPT:  
 
 **** PG_B_QN (Pregnancy Determination, Beta Human Choriogonadotropin quantitative)
-*/UNDER REVIEW/*
 - Common Name: Pregnancy Determination, Beta Human Choriogonadotropin quantitative
 - Long Name: Pregnancy Determination - Beta Human Choriogonadotropin (HCG) in serum or plasma, quantitative
 - Test Type: PG_B_QN
@@ -2219,7 +2177,6 @@ Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his
  - Associated CPT:  
 
 **** PG_B_QN_U (Pregnancy Determination, Urine Beta Human Choriogonadotropin quantitative)
-*/UNDER REVIEW/*
 - Common Name: Pregnancy Determination, Urine Beta Human Choriogonadotropin quantitative
 - Long Name: Pregnancy Determination - Beta Human Choriogonadotropin (HCG) in urine, quantitative
 - Test Type: PG_B_QN_U
@@ -2237,8 +2194,6 @@ Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his
  - Associated CPT:  
 
 **** PG_QL (Pregnancy Determination - Human Choriogonadotropin qualitative)
-*/NEEDS TO BE UPDATED/*
-*/UNDER REVIEW/*
 - Common Name: Pregnancy Determination - Human Choriogonadotropin qualitative
 - Long Name: Pregnancy Determination - Human Choriogonadotropin (HCG) in serum, qualitative
 - Test Type: PG_QL
@@ -2256,7 +2211,6 @@ Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his
  - Associated CPT:  
 
 **** PG_QL_U (Pregnancy Determination, Urine Beta Human Choriogonadotropin qualitative)
-*/UNDER REVIEW/*
 - Common Name: Pregnancy Determination, Urine Beta Human Choriogonadotropin
 - Long Name: Pregnancy Determination - Human Choriogonadotropin (HCG) in urine, qualitative
 - Test Type: PG_QL_U
@@ -2274,7 +2228,6 @@ Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his
  - Associated CPT:  
 
 **** PG_QN (Pregnancy Determination, Human Choriogonadotropin quantitative)
-*/UNDER REVIEW/*
 - Common Name: Pregnancy Determination, Human Choriogonadotropin quantitative
 - Long Name: Pregnancy Determination - Human Choriogonadotropin (HCG) in serum, quantitative
 - Test Type: PG_QN
@@ -2292,7 +2245,6 @@ Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his
  - Associated CPT:  
 
 **** PG_QN_U (Pregnancy Determination quantitative from Urine)
-*/UNDER REVIEW/*
 - Common Name: Pregnancy Determination quantitative from Urine
 - Long Name: Pregnancy Determination - Beta Human Choriogonadotropin (hCG) in urine, quantitative
 - Test Type: PG_QN_U
@@ -2310,7 +2262,6 @@ Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his
  - Associated CPT:  
 
 *** PHOSPHATE (Phosphate)
-*/UNDER REVIEW/*
 - Common Name: Phosphate
 - Long Name: Phosphate in serum/plasma or blood
 - Test Type: PHOSPHATE
@@ -2334,7 +2285,6 @@ Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his
  - Associated CPT:  
 
 *** PROCALC (Procalcitonin)
-*/UNDER REVIEW/*
 - Common Name: Procalcitonin
 - Long Name: Procalcitonin in Serum or Plasma
 - Test Type: PROCALC
@@ -2512,7 +2462,6 @@ Therefore, if a 38 year old black man had a serum creatinine of 1.6 in 2003, his
  - Associated CPT:  84155
 
 *** TRANSFERRIN (Transferrin)
-*/UNDER REVIEW/*
 - Common Name: Transferrin
 - Long Name: Transferrin in Serum or Plasma
 - Test Type: TRANSFERRIN
@@ -2725,7 +2674,6 @@ TSH testing is used to:
  - Associated CPT:  
 
 **** U_ACR12 (12-hour Microalbumin to creatinine ratio)
-*/UNDER REVIEW/*
 - Common Name: 12 hour Microalbumin to creatinine ratio
 - Long Name: 12-hour Microalbumin to creatinine ratio in urine
 - Test Type: U_ACR12
@@ -2743,7 +2691,6 @@ TSH testing is used to:
  - Associated CPT:  
 
 **** U_ACR24 (24-hour Microalbumin to creatinine ratio in urine)
-*/UNDER REVIEW/*
 - Common Name: 24-hour Microalbumin to creatinine ratio in urine24-hour Microalbumin to creatinine ratio in urine
 - Long Name: 24-hour Microalbumin to creatinine ratio in urine; albumin to creatinine ratio in urine
 - Test Type: U_ACR24
@@ -2795,7 +2742,6 @@ TSH testing is used to:
  - Associated CPT:  82575
 
 *** U_HEME_DIP (Hemoglobin in urine by dipstick)
-*/UNDER REVIEW/*
 - Common Name: Hemoglobin in urine by dipstick
 - Long Name: Hemoglobin in urine by dipstick
 - Test Type: U_HEME_DIP
@@ -2870,7 +2816,6 @@ U_PCR is used when a child shows evidence of significant and persistent protein 
  - Associated CPT:  
 
 *** U_PCR24 (24-hour Protein to creatinine ratio in urine)
-*/UNDER REVIEW/*
 - Common Name: 24 hour Urine Protein to Creatinine Ratio
 - Long Name: 24 hour Protein to creatinine ratio in urine
 - Test Type: U_PCR24
@@ -2940,7 +2885,6 @@ U_PCR is used when a child shows evidence of significant and persistent protein 
  - Associated CPT:  81000
 
 *** U_RBC_DIP (Erythrocytes in urine by dipstick)
-*/UNDER REVIEW/*
 - Common Name: Erythrocytes in urine by dipstick
 - Long Name: Erythrocytes (red blood cells) in urine by dipstick
 - Test Type: U_RBC_DIP
@@ -3015,7 +2959,6 @@ U_PCR is used when a child shows evidence of significant and persistent protein 
 
 ** Hematology and Coagulation
 *** ANC (Absolute neutrophil count)
-*/UNDER REVIEW/*
 - Common Name: Absolute neutrophil count
 - Long Name: Absolute neutrophil count
 - Test Type: ANC
@@ -3034,7 +2977,6 @@ U_PCR is used when a child shows evidence of significant and persistent protein 
 
 *** (BASO) Basophil Test Types
 **** BASO_C_A (Basophil automated count)
-*/UNDER REVIEW/*
 - Common Name: Basophil automated count
 - Long Name: Basophil number, automated count
 - Test Type: BASO_C_A
@@ -3063,7 +3005,6 @@ U_PCR is used when a child shows evidence of significant and persistent protein 
  - Associated LOINC: 704-7 
  - Associated CPT:  
 **** BASO_C_M (Basophil manual count)
-*/UNDER REVIEW/*
 - Common Name: Basophil manual count
 - Long Name: Basophil number, manual count
 - Test Type: BASO_C_M
@@ -3092,7 +3033,6 @@ U_PCR is used when a child shows evidence of significant and persistent protein 
  - Associated LOINC: 705-4
  - Associated CPT:  
 **** BASO_C (Basophil count)
-*/UNDER REVIEW/*
 - Common Name: Basophil count
 - Long Name: Basophil number , count method not stated
 - Test Type: BASO_C
@@ -3121,7 +3061,6 @@ U_PCR is used when a child shows evidence of significant and persistent protein 
  - Associated LOINC: 26444-0
  - Associated CPT:  
 **** BASO_P_A (Basophil percent, automated)
-*/UNDER REVIEW/*
 - Common Name: Basophil percent, automated
 - Long Name: Basophil percent, automated
 - Test Type: BASO_P_A
@@ -3150,7 +3089,6 @@ U_PCR is used when a child shows evidence of significant and persistent protein 
  - Associated LOINC: 706-2
  - Associated CPT:  
 **** BASO_P_M (Basophil percent, manual)
-*/UNDER REVIEW/*
 - Common Name: Basophil percent, manual
 - Long Name: Basophil percent, manual
 - Test Type: BASO_P_M
@@ -3179,7 +3117,6 @@ U_PCR is used when a child shows evidence of significant and persistent protein 
  - Associated LOINC: 707-0
  - Associated CPT:  
 **** BASO_P (Basophil percent)
-*/UNDER REVIEW/*
 - Common Name: Basophil percent
 - Long Name: Basophil percent, method not stated
 - Test Type: BASO_P
@@ -3210,7 +3147,6 @@ U_PCR is used when a child shows evidence of significant and persistent protein 
 
 *** (EOS) Eosinophil Test Types
 **** EOS_C_A (Eosinophil number, automated count)
-*/UNDER REVIEW/*
 - Common Name: Eosinophil number, automated count
 - Long Name: Eosinophil number, automated count
 - Test Type: EOS_C_A
@@ -3255,7 +3191,6 @@ Normal Counts by Age:
  - Associated LOINC:  711-2
  - Associated CPT:  
 **** EOS_C_M (Eosinophil number, manual count)
-*/UNDER REVIEW/*
 - Common Name: Eosinophil number, manual count
 - Long Name: Eosinophil number, manual count
 - Test Type: EOS_C_M
@@ -3300,7 +3235,6 @@ Normal Counts by Age:
  - Associated LOINC: 712-0
  - Associated CPT:  
 **** EOS_C (Eosinophil number)
-*/UNDER REVIEW/*
 - Common Name: Eosinophil number
 - Long Name: Eosinophil number, count method not stated
 - Test Type: EOS_C
@@ -3345,7 +3279,6 @@ Normal Counts by Age:
  - Associated LOINC: 26449-9
  - Associated CPT:  
 **** EOS_P_A (Eosinophil percent, automated)
-*/UNDER REVIEW/*
 - Common Name: Eosinophil percent, automated
 - Long Name: Eosinophil percent, automated
 - Test Type: EOS_P_A
@@ -3378,7 +3311,6 @@ Normal Counts by Age:
  - Associated LOINC: 713-8
  - Associated CPT:  
 **** EOS_P_M (Eosinophil percent, manual)
-*/UNDER REVIEW/*
 - Common Name: Eosinophil percent, manual
 - Long Name: Eosinophil percent, manual
 - Test Type: EOS_P_M
@@ -3411,7 +3343,6 @@ Normal Counts by Age:
  - Associated LOINC: 714-6
  - Associated CPT:  
 **** EOS_P (Eosinophil percent)
-*/UNDER REVIEW/*
 - Common Name: Eosinophil percent
 - Long Name: Eosinophil percent, method not stated
 - Test Type: EOS_P
@@ -3461,7 +3392,6 @@ Normal Counts by Age:
  - Associated CPT: 82728
 
 *** FIBRINOGEN (Fibrinogen in platelet poor plasma)
-*/UNDER REVIEW/*
 - Common Name: Fibrinogen in platelet poor plasma
 - Long Name: Fibrinogen activity in platelet poor plasma (PPP) 
 - Test Type: FIBRINOGEN
@@ -3533,7 +3463,6 @@ volume (MCV)
 
 *** (LYMPH) Lymphocyte Test Types
 **** LYMPH_C_A (Lymphocyte number, automated count)
-*/UNDER REVIEW/*
 - Common Name: Lymphocyte number, automated count
 - Long Name: Lymphocyte number, automated count
 - Test Type: LYMPH_C_A
@@ -3550,7 +3479,6 @@ volume (MCV)
  - Associated LOINC: 731-0
  - Associated CPT:  
 **** LYMPH_C_M (Lymphocyte number, manual count)
-*/UNDER REVIEW/*
 - Common Name: Lymphocyte number, manual count
 - Long Name: Lymphocyte number, manual count
 - Test Type: LYMPH_C_M
@@ -3567,7 +3495,6 @@ volume (MCV)
  - Associated LOINC: 732-8
  - Associated CPT:  
 **** LYMPH_C (Lymphocyte number)
-*/UNDER REVIEW/*
 - Common Name: Lymphocyte number
 - Long Name: Lymphocyte number, count method not stated
 - Test Type: LYMPH_C
@@ -3584,7 +3511,6 @@ volume (MCV)
  - Associated LOINC: 26474-7
  - Associated CPT:  
 **** LYMPH_P_A (Lymphocyte percent, automated)
-*/UNDER REVIEW/*
 - Common Name: Lymphocyte percent, automated
 - Long Name: Lymphocyte percent, automated
 - Test Type: LYMPH_P_A
@@ -3603,7 +3529,6 @@ volume (MCV)
  - Associated LOINC: 736-9
  - Associated CPT:  
 **** LYMPH_P_M (Lymphocyte percent, manual)
-*/UNDER REVIEW/*
 - Common Name: Lymphocyte percent, manual
 - Long Name: Lymphocyte percent, manual
 - Test Type: LYMPH_P_M
@@ -3622,7 +3547,6 @@ volume (MCV)
  - Associated LOINC: 737-7
  - Associated CPT:  
 **** LYMPH_P (Lymphocyte percent)
-*/UNDER REVIEW/*
 - Common Name: Lymphocyte percent
 - Long Name: Lymphocyte percent, method not stated
 - Test Type: LYMPH_P
@@ -3642,7 +3566,6 @@ volume (MCV)
  - Associated CPT:  
 *** (MONO) Monocyte Test Types
 **** MONO_C_A (Monocyte number, automated count)
-*/UNDER REVIEW/*
 - Common Name: Monocyte number, automated count
 - Long Name: Monocyte number, automated count
 - Test Type: MONO_C_A
@@ -3659,7 +3582,6 @@ volume (MCV)
  - Associated LOINC: 742-7 
  - Associated CPT:  
 **** MONO_C_M (Monocyte number, manual count)
-*/UNDER REVIEW/*
 - Common Name: Monocyte number, manual count
 - Long Name: Monocyte number, manual count
 - Test Type: MONO_C_M
@@ -3676,7 +3598,6 @@ volume (MCV)
  - Associated LOINC: 743-5  
  - Associated CPT:  
 **** MONO_C (Monocyte number)
-*/UNDER REVIEW/*
 - Common Name: Monocyte number
 - Long Name: Monocyte number, count method not stated
 - Test Type: MONO_C
@@ -3693,7 +3614,6 @@ volume (MCV)
  - Associated LOINC: 26484-6
  - Associated CPT:  
 **** MONO_P_A (Monocyte percent, automated)
-*/UNDER REVIEW/*
 - Common Name: Monocyte percent, automated
 - Long Name: Monocyte percent, automated
 - Test Type: MONO_P_A
@@ -3710,7 +3630,6 @@ volume (MCV)
  - Associated LOINC: 5905-5
  - Associated CPT:  
 **** MONO_P_M (Monocyte percent, manual)
-*/UNDER REVIEW/*
 - Common Name: Monocyte percent, manual
 - Long Name: Monocyte percent, manual
 - Test Type: MONO_P_M
@@ -3727,7 +3646,6 @@ volume (MCV)
  - Associated LOINC: 744-3
  - Associated CPT:  
 **** MONO_P (Monocyte percent)
-*/UNDER REVIEW/*
 - Common Name: Monocyte percent
 - Long Name: Monocyte percent, method not stated
 - Test Type: MONO_P
@@ -3745,7 +3663,6 @@ volume (MCV)
  - Associated CPT:  
 *** (NTBAND) Band Neutrophil Test Types
 **** NTBAND_C_A (Band neutrophil number, automated count)
-*/UNDER REVIEW/*
 - Common Name: Band neutrophil number, automated count
 - Long Name: Band neutrophil number, automated count
 - Test Type: NTBAND_C_A
@@ -3767,7 +3684,6 @@ volume (MCV)
  - Associated LOINC: 30229-9, 34524-9 
  - Associated CPT:  
 **** NTBAND_C_M (Band neutrophil number, manual count)
-*/UNDER REVIEW/*
 - Common Name: Band neutrophil number, manual count
 - Long Name: Band neutrophil number, manual count
 - Test Type: NTBAND_C_M
@@ -3790,7 +3706,6 @@ volume (MCV)
  - Associated CPT:  
 
 **** NTBAND_C (Band neutrophil number)
-*/UNDER REVIEW/*
 - Common Name: Band neutrophil number
 - Long Name: Band neutrophil number, count method unknown
 - Test Type: NTBAND_C
@@ -3812,7 +3727,6 @@ volume (MCV)
  - Associated LOINC: 26507-4
  - Associated CPT:  
 **** NTBAND_P_A (Band neutrophil percent, automated)
-*/UNDER REVIEW/*
 - Common Name: Band neutrophil percent, automated
 - Long Name: Band neutrophil percent, automated
 - Test Type: NTBAND_P_A
@@ -3834,7 +3748,6 @@ volume (MCV)
  - Associated LOINC: 35332-6
  - Associated CPT:  
 **** NTBAND_P_M (Band neutrophil percent, manual)
-*/UNDER REVIEW/*
 - Common Name: Band neutrophil percent, manual
 - Long Name: Band neutrophil percent, manual
 - Test Type: NTBAND_P_M
@@ -3856,7 +3769,6 @@ volume (MCV)
  - Associated LOINC: 764-1, 71670-4
  - Associated CPT:  
 **** NTBAND_P (Band neutrophil percent)
-*/UNDER REVIEW/*
 - Common Name: Band neutrophil percent
 - Long Name: Band neutrophil percent, method unknown
 - Test Type: NTBAND_P
@@ -3879,7 +3791,6 @@ volume (MCV)
  - Associated CPT:  
 *** (NTHYP) Hypersegmented Neutrophil Test Types
 **** NTHYP_C_A (Hypersegmented neutrophil number, automated count)
-*/UNDER REVIEW/*
 - Common Name: Hypersegmented neutrophil number, automated count
 - Long Name: Hypersegmented neutrophil number, automated count
 - Test Type: NTHYP_C_A  
@@ -3898,7 +3809,6 @@ volume (MCV)
  - Associated LOINC: 34199-0
  - Associated CPT:  
 **** NTHYP_C_M (Hypersegmented neutrophil number, manual count)
-*/UNDER REVIEW/*
 - Common Name: Hypersegmented neutrophil number, manual count
 - Long Name: Hypersegmented neutrophil number, manual count
 - Test Type: NTHYP_C_M
@@ -3921,7 +3831,6 @@ volume (MCV)
  - Associated CPT: 85007
 
 **** NTHYP_C (Hypersegmented neutrophil number)
-*/UNDER REVIEW/*
 - Common Name: Hypersegmented neutrophil number
 - Long Name: Hypersegmented neutrophil number, method not specified or other method
 - Test Type: NTHYP_C
@@ -3941,7 +3850,6 @@ volume (MCV)
 */NEEDS TO BE UPDATED/*
 There are no LOINCs that have been identified for this Test Type.
 **** NTHYP_P_M (Hypersegmented neutrophil percent, manual)
-*/UNDER REVIEW/*
 - Common Name: Hypersegmented neutrophil percent, manual
 - Long Name: Hypersegmented neutrophil percent, manual
 - Test Type: NTHYP_P_M
@@ -3960,7 +3868,6 @@ There are no LOINCs that have been identified for this Test Type.
  - Associated LOINC: 767-4
  - Associated CPT: 85007
 **** NTHYP_P (Hypersegmented neutrophil percent, method unknown)
-*/UNDER REVIEW/*
 - Common Name: Hypersegmented neutrophil percent
 - Long Name: Hypersegmented neutrophil percent, method unknown
 - Test Type: NTHYP_P
@@ -3986,7 +3893,6 @@ There are no LOINCs associated with this test type.
 */UNDER REVIEW/*
 There are no LOINCs associated with this test type.
 **** NTIMMATURE_C (Immature neutrophil number, count method unknown)
-*/UNDER REVIEW/*
 - Common Name: Immature neutrophil number
 - Long Name: Immature neutrophil number, count method unknown
 - Test Type: NTIMMATURE_C
@@ -4041,7 +3947,6 @@ There are no LOINCs associated with this test type.
  - Associated CPT:  
 
 **** NTIMMATURE_P (Immature neutrophil percent, method unknown)
-*/UNDER REVIEW/*
 - Common Name: Immature neutrophil percent
 - Long Name: Immature neutrophil percent, method unknown
 - Test Type: NTIMMATURE_P
@@ -4070,7 +3975,6 @@ There are no LOINCs associated with this test type.
 */UNDER REVIEW/*
 There are no LOINCs associated with this test type.
 **** NTSEG_C_M (Segmented neutrophil number, manual count)
-*/UNDER REVIEW/*
 - Common Name: Segmented neutrophil number, manual count
 - Long Name: Segmented neutrophil number, manual count
 - Test Type: NTSEG_C_M
@@ -4091,7 +3995,6 @@ There are no LOINCs associated with this test type.
  - Associated LOINC: 768-2
  - Associated CPT: 85007, 85009, 85032 
 **** NTSEG_C (Segmented neutrophil number, count method unknown)
-*/UNDER REVIEW/*
 - Common Name: Segmented neutrophil number
 - Long Name: Segmented neutrophil number, count method unknown
 - Test Type: NTSEG_C
@@ -4112,7 +4015,6 @@ There are no LOINCs associated with this test type.
  - Associated LOINC: 30451-9
  - Associated CPT: 85048
 **** NTSEG_P_A (Segmented neutrophil percent, automated)
-*/UNDER REVIEW/*
 - Common Name: Segmented neutrophil percent, automated
 - Long Name: Segmented neutrophil percent, automated
 - Test Type: NTSEG_P_A
@@ -4133,7 +4035,6 @@ There are no LOINCs associated with this test type.
  - Associated LOINC: 32200-8, 770-8, 19023-1
  - Associated CPT: 85048, 85004, 85025
 **** NTSEG_P_M (Segmented neutrophil percent, manual)
-*/UNDER REVIEW/*
 - Common Name: Segmented neutrophil percent, manual
 - Long Name: Segmented neutrophil percent, manual
 - Test Type: NTSEG_P_M
@@ -4154,7 +4055,6 @@ There are no LOINCs associated with this test type.
  - Associated LOINC: 769-0, 23761-0, 31160-5
  - Associated CPT: 85007
 **** NTSEG_P (Segmented neutrophil percent, method unknown)
-*/UNDER REVIEW/*
 - Common Name: Segmented neutrophil percent
 - Long Name: Segmented neutrophil percent, method unknown
 - Test Type: NTSEG_P
@@ -4244,7 +4144,6 @@ There are no LOINCs associated with this test type.
 
 *** (WBC) White Blood Cell Test Types
 **** WBC (Total White Blood Cell Count)
-*/UNDER REVIEW/*
 - Common Name: WBC count; Leukocyte count; White count
 - Long Name: Total white blood cell count
 - Test Type: WBC
@@ -4261,7 +4160,6 @@ There are no LOINCs associated with this test type.
  - Associated LOINC: 26464-8, 49498-9
  - Associated CPT: 85048
 **** WBC_A (White Blood Cell, automated count)
-*/UNDER REVIEW/*
 - Common Name: White Blood Cell, automated count
 - Long Name: White Blood Cell, automated count
 - Test Type: WBC_A
@@ -4278,7 +4176,6 @@ There are no LOINCs associated with this test type.
  - Associated LOINC: 6690-2
  - Associated CPT: 85025, 85027, 85004, 85048
 **** WBC_COR (White blood cell total, corrected for nucleated red blood cells)
-*/UNDER REVIEW/*
 - Common Name: White blood cell total, corrected for nucleated red blood cells
 - Long Name: White blood cell total, corrected for nucleated red blood cells
 - Test Type: WBC_COR
@@ -4295,7 +4192,6 @@ There are no LOINCs associated with this test type.
  - Associated LOINC: 12227-5
  - Associated CPT:  
 **** WBC_COR_A (White blood cell total, corrected for nucleated red blood cells)
-*/UNDER REVIEW/*
 - Common Name: White blood cell total number, corrected for nucleated red blood cells, automated count
 - Long Name: White blood cell total number, corrected for nucleated red blood cells, automated count
 - Test Type: WBC_COR_A
@@ -4312,7 +4208,6 @@ There are no LOINCs associated with this test type.
  - Associated LOINC: 33256-9
  - Associated CPT:  
 **** WBC_M (White Blood Cell Count, manual count)
-*/UNDER REVIEW/*
 - Common Name: White Blood Cell Count, manual count
 - Long Name: White Blood Cell Count, manual count
 - Test Type: WBC_M
@@ -4329,7 +4224,6 @@ Method Variance:
  - Associated LOINC: 804-5
  - Associated CPT:  
 **** WBC_OTH_C (White blood cell other leukocytes, count)
-*/UNDER REVIEW/*
 - Common Name: White blood cell other leukocytes, count
 - Long Name: White blood cell other leukocytes, count
 - Test Type: WBC_OTH_C
@@ -4346,7 +4240,6 @@ Method Variance:
  - Associated LOINC: 30406-3, 51383-8, 729-4, 15190-2
  - Associated CPT:  
 **** WBC_OTH_P (White blood cell other leukocytes, percent)
-*/UNDER REVIEW/*
 - Common Name: WBC count; Leukocyte count; White count
 - Long Name: Total white blood cell count
 - Test Type: WBC
@@ -4364,7 +4257,6 @@ Method Variance:
  - Associated CPT:  
 ** Influenza
 *** INF_A_VTC (Influenza virus A organism-specific culture)
-*/UNDER REVIEW/*
 - Common Name: Influenza virus A organism-specific culture
 - Long Name: Influenza virus A organism-specific culture
 - Test Type: INF_A_VTC
@@ -4381,7 +4273,6 @@ Method Variance:
  - Associated LOINC: 48310-7
  - Associated CPT:  
 *** INF_A_NS (Influenza virus A)
-*/UNDER REVIEW/*
 - Common Name: Influenza virus A
 - Long Name: Influenza virus A method not specified
 - Test Type: INF_A_NS
@@ -4398,7 +4289,6 @@ Method Variance:
  - Associated LOINC: 31859-2 (NS), 43874-7 (NPH), 44562-7 (BAL), 31858-4 (THRT), 44563-5 (NSWAB)
  - Associated CPT:  
 *** INF_A_EIA (Influenza virus A immunoassay)
-*/UNDER REVIEW/*
 - Common Name: Influenza virus A immunoassay
 - Long Name: Influenza virus A immunoassay
 - Test Type: INF_A_EIA
@@ -4425,7 +4315,6 @@ Method Variance:
  - Associated LOINC: 46082-4 (NPH), 5860-2 (THRT), 5862-8 (NS), 44564-3 (NSWAB)
  - Associated CPT:  
 *** INF_A_IF (Influenza virus A immunofluorescence)
-*/UNDER REVIEW/*
 - Common Name: Influenza virus A immunofluorescence
 - Long Name: Influenza virus A immunofluorescence
 - Test Type: INF_A_IF
@@ -4442,7 +4331,6 @@ Method Variance:
  - Associated LOINC: 44558-5 (NPH), 5863-6 (NS), 44559-3 (BAL), 5861-0 (THRT), 44560-1 (NSWAB)
  - Associated CPT:  
 *** INF_A_PCR (Influenza virus A probe and target amplification)
-*/UNDER REVIEW/*
 - Common Name: Influenza virus A probe and target amplification
 - Long Name: Influenza virus A probe and target amplification
 - Test Type: INF_A_PCR
@@ -4459,7 +4347,6 @@ Method Variance:
  - Associated LOINC: 55465-9 (NS), 61101-2 (NS), 59423-4 (NS), 55464-2 (NS), 55463-4 (NS), 44263-2 (NS), 40981-3 (NS), 39103-7 (NS), 38381-0 (NS), 39102-9 (NS), 39025-2 (NS), 34487-9 (NS), 53250-7 (NS), 49521-8 (NS),  49524-2 (NS) (updated 12/2014), 92142-9 (NS)
  - Associated CPT:  
 *** INF_B_VTC (Influenza virus B organism-specific culture)
-*/UNDER REVIEW/*
 - Common Name: Influenza virus B organism-specific culture
 - Long Name: Influenza virus B organism-specific culture
 - Test Type: INF_B_VTC
@@ -4476,7 +4363,6 @@ Method Variance:
  - Associated LOINC: 38382-8 (NS)
  - Associated CPT:  
 *** INF_B_NS (Influenza virus B)
-*/UNDER REVIEW/*
 - Common Name: Influenza virus B
 - Long Name: Influenza virus B method not specified
 - Test Type: INF_B_NS
@@ -4497,7 +4383,6 @@ Method Variance:
  - Associated LOINC: 31864-2 (NS), 43895-2 (NPH), 44576-7 (BAL), 31863-4 (THRT), 44577-5 (NSWAB)
  - Associated CPT:  
 *** INF_B_EIA (Influenza virus B immunoassay)
-*/UNDER REVIEW/*
 - Common Name: Influenza virus B immunoassay
 - Long Name: Influenza virus B immunoassay
 - Test Type: INF_B_EIA
@@ -4517,7 +4402,6 @@ Method Variance:
  - Associated LOINC: 46083-2 (NPH), 5864-4 (THRT), 5866-9 (NS), 44575-9 (NSWAB)
  - Associated CPT:  
 *** INF_B_IF (Influenza virus B immunofluorescence)
-*/UNDER REVIEW/*
 - Common Name: Influenza virus B immunofluorescence
 - Long Name: Influenza virus B immunofluorescence
 - Test Type: INF_B_IF
@@ -4537,7 +4421,6 @@ Method Variance:
  - Associated LOINC: 5865-1(THRT), 5867-7 (NS), 44572-6 (BAL), 44573-4 (NSWAB), 44571-8 (NPH)
  - Associated CPT:  
 *** INF_B_PCR (Influenza virus B probe and target amplification)
-*/UNDER REVIEW/*
 - Common Name: Influenza virus B probe and target amplification
 - Long Name: Influenza virus B probe and target amplification
 - Test Type: INF_B_PCR
@@ -4557,7 +4440,6 @@ Method Variance:
  - Associated LOINC: 40982-1 (NS), 53251-5 (NS), 92141-1 (NS)
  - Associated CPT:  
 *** INF_AB_NS (Influenza virus A+B)
-*/UNDER REVIEW/*
 - Common Name: Influenza virus A+B
 - Long Name: Influenza virus A+B method not specified
 - Test Type: INF_AB_NS
@@ -4577,7 +4459,6 @@ Method Variance:
  - Associated LOINC: 33535-6 (NPH) 24015-0 (NS), 44566-8 (BAL), 31860-0 (THRT), 31861-8 (THRT), 31862-6 (NS), 44567-6 (NSWAB)
  - Associated CPT:  
 *** INF_AB_EIA (Influenza virus A+B immunoassay)
-*/UNDER REVIEW/*
 - Common Name: Influenza virus A+B immunoassay
 - Long Name: Influenza virus A+B immunoassay
 - Test Type: INF_AB_EIA
@@ -4594,7 +4475,6 @@ Method Variance:
  - Associated LOINC: 6437-8 (NS), 6441-0 (NS), 6435-2 (THRT), 6439-4 (THRT)
  - Associated CPT:  
 *** INF_AB_IF (Influenza virus A+B immunofluorescence)
-*/UNDER REVIEW/*
 - Common Name: Influenza virus A+B immunofluorescence
 - Long Name: Influenza virus A+B immunofluorescence
 - Test Type: INF_AB_IF
@@ -4611,7 +4491,6 @@ Method Variance:
  - Associated LOINC: 6438-6 (NS), 6442-8 (NS), 6440-2 (THRT), 6436-0 (THRT), 61102-0 (NS)
  - Associated CPT:  
 *** INF_AB_PCR (Influenza virus A+B probe and target amplification)
-*/UNDER REVIEW/*
 - Common Name: Influenza virus A+B probe and target amplification
 - Long Name: Influenza virus A+B probe and target amplification
 - Test Type: INF_AB_PCR
@@ -4628,7 +4507,6 @@ Method Variance:
  - Associated LOINC: 62462-7 (NS) 48509-4 (NS) 
  - Associated CPT:  
 *** INF_NS_VTC (Influenza virus not specified organism-specific culture)
-*/UNDER REVIEW/*
 - Common Name: Influenza virus not specified organism-specific culture
 - Long Name: Influenza virus not specified organism-specific culture
 - Test Type: INF_NS_VTC
@@ -4645,7 +4523,6 @@ Method Variance:
  - Associated LOINC: 6604-3 (NS) 6601-9 (SPUTUM), 6603-5 (THRT), 6602-7 (SPUTUM)
  - Associated CPT:  
 *** INF_NS_NS (Influenza virus not specified method not specified)
-*/UNDER REVIEW/*
 - Common Name:
 - Long Name: Influenza virus not specified method not specified
 - Test Type: INF_NS_NS
@@ -4662,7 +4539,6 @@ Method Variance:
  - Associated LOINC: 54244-9 (NS); 54240-7 (NS)
  - Associated CPT:  
 *** INF_NS_PCR (Influenza virus not specified probe and target amplification)
-*/UNDER REVIEW/*
 - Common Name:
 - Long Name: Influenza virus not specified probe and target amplification
 - Test Type: INF_NS_PCR
@@ -4680,7 +4556,6 @@ Method Variance:
  - Associated CPT:  
 ** COVID-19
 *** SARS_COV_2_AB_IGA (SARS-CoV-2 (COVID19) IgA Ab [Presence] in Serum, Plasma or Blood by Immunoassay)
-*/UNDER REVIEW/*
 - Common Name: SARS-CoV-2 (COVID19) IgA Ab [Presence] in Serum, Plasma or Blood by Immunoassay
 - Long Name: SARS-CoV-2 (COVID19) IgA Ab [Presence] in Serum, Plasma or Blood by Immunoassay
 - Test Type: SARS_COV_2_AB_IGA
@@ -4697,7 +4572,6 @@ Method Variance:
  - Associated LOINC: 94562-6, 94720-0, 94768-9, 95427-1
  - Associated CPT:  
 *** SARS_COV_2_AB_IGG (SARS-CoV-2 (COVID19) IgG Ab [Presence] in Serum, Plasma or Blood by Immunoassay)
-*/UNDER REVIEW/*
 - Common Name: SARS-CoV-2 (COVID19) IgG Ab [Presence] in Serum, Plasma or Blood by Immunoassay
 - Long Name: SARS-CoV-2 (COVID19) IgG Ab [Presence] in Serum, Plasma or Blood by Immunoassay
 - Test Type: SARS_COV_2_AB_IGG
@@ -4714,7 +4588,6 @@ Method Variance:
  - Associated LOINC: 94505-5, 94507-1, 94563-4, 94761-4, 95429-7,96742-2, 99596-9, 99597-7
  - Associated CPT:  
 *** SARS_COV_2_AB_IGM (SARS-CoV-2 (COVID19) IgM Ab [Presence] in Serum, Plasma or Blood by Immunoassay)
-*/UNDER REVIEW/*
 - Common Name: SARS-CoV-2 (COVID19) IgM Ab [Presence] in Serum, Plasma or Blood by Immunoassay
 - Long Name: SARS-CoV-2 (COVID19) IgM Ab [Presence] in Serum, Plasma or Blood by Immunoassay
 - Test Type: SARS_COV_2_AB_IGM
@@ -4731,7 +4604,6 @@ Method Variance:
  - Associated LOINC: 94506-3, 94508-9, 94564-2, 95416-4, 95428-9
  - Associated CPT:  
 *** SARS_COV_2_AB_IGMA (SARS-CoV-2 (COVID19) IgA+IgM [Presence] in Serum or Plasma by Immunoassay)
-*/UNDER REVIEW/*
 - Common Name: SARS-CoV-2 (COVID19) IgA+IgM [Presence] in Serum or Plasma by Immunoassay
 - Long Name: SARS-CoV-2 (COVID19) IgA+IgM [Presence] in Serum or Plasma by Immunoassay
 - Test Type: SARS_COV_2_AB_IGMA
@@ -4748,7 +4620,6 @@ Method Variance:
  - Associated LOINC: 95125-1
  - Associated CPT:  
 *** SARS_COV_2_AB_IGMG (SARS-CoV-2 (COVID19) IgG+IgM Ab [Presence] in Serum or Plasma by Immunoassay)
-*/UNDER REVIEW/*
 - Common Name: SARS-CoV-2 (COVID19) IgG+IgM Ab [Presence] in Serum or Plasma by Immunoassay
 - Long Name: SARS-CoV-2 (COVID19) IgG+IgM Ab [Presence] in Serum or Plasma by Immunoassay
 - Test Type: SARS_COV_2_AB_IGMG
@@ -4765,7 +4636,6 @@ Method Variance:
  - Associated LOINC: 94503-0, 94547-7, 95542-7
  - Associated CPT:  
 *** SARS_COV_2_AB_NEUT (SARS-CoV-2 (COVID19) neutralizing antibody in Serum or Plasma)
-*/UNDER REVIEW/*
 - Common Name: SARS-CoV-2 (COVID19) neutralizing antibody in Serum or Plasma
 - Long Name: SARS-CoV-2 (COVID19) neutralizing antibody in Serum or Plasma
 - Test Type: SARS_COV_2_AB_NEUT
@@ -4782,7 +4652,6 @@ Method Variance:
  - Associated LOINC: 95410-7, 95411-5, 96603-6, 98734-7
  - Associated CPT:  
 *** SARS_COV_2_AB_NEUT_P (Percent neutralization by SARS-CoV-2 spike protein RBD neutralizing antibody-Serum/Plasma)
-*/UNDER REVIEW/*
 - Common Name: Percent neutralization by SARS-CoV-2 spike protein RBD neutralizing antibody-Serum/Plasma
 - Long Name: Percent neutralization by SARS-CoV-2 spike protein RBD neutralizing antibody-Serum/Plasma
 - Test Type: SARS_COV_2_AB_NEUT_P
@@ -4799,7 +4668,6 @@ Method Variance:
  - Associated LOINC: 98733-9
  - Associated CPT:  
 *** SARS_COV_2_AB_NEUT_T (SARS-CoV-2 (COVID-19) S protein RBD neutralizing antibody [Titer] in Serum or Plasma by Immunoassay)
-*/UNDER REVIEW/*
 - Common Name: SARS-CoV-2 (COVID-19) S protein RBD neutralizing antibody [Titer] in Serum or Plasma by Immunoassay
 - Long Name: SARS-CoV-2 (COVID-19) S protein RBD neutralizing antibody [Titer] in Serum or Plasma by Immunoassay
 - Test Type: SARS_COV_2_AB_NEUT_T
@@ -4816,7 +4684,6 @@ Method Variance:
  - Associated LOINC: 98732-1
  - Associated CPT:  
 *** SARS_COV_2_AB_TOT (SARS-CoV-2 (COVID19) Ab in Serum, Plasma or Saliva)
-*/UNDER REVIEW/*
 - Common Name: SARS-CoV-2 (COVID19) Ab in Serum, Plasma or Saliva
 - Long Name: SARS-CoV-2 (COVID19) Ab in Serum, Plasma or Saliva
 - Test Type: SARS_COV_2_AB_TOT
@@ -4833,7 +4700,6 @@ Method Variance:
  - Associated LOINC: 94504-8, 94661-6, 94762-2, 94769-7, 95825-6, 98069-8
  - Associated CPT:  
 *** SARS_COV_2_IA (SARS-CoV-2 (COVID19) Ag [Presence] in Respiratory specimen by Rapid immunoassay)
-*/UNDER REVIEW/*
 - Common Name: SARS-CoV-2 (COVID19) Ag [Presence] in Respiratory specimen by Rapid immunoassay
 - Long Name: SARS-CoV-2 (COVID19) Ag [Presence] in Respiratory specimen by Rapid immunoassay
 - Test Type: SARS_COV_2_IA
@@ -4850,7 +4716,6 @@ Method Variance:
  - Associated LOINC: 94558-4, 96119-3, 97097-0
  - Associated CPT:  
 *** SARS_COV_2_NS (SARS-CoV-2 (COVID19) unspecified or other specimen or method)
-*/UNDER REVIEW/*
 - Common Name: SARS-CoV-2 (COVID19)
 - Long Name: SARS-CoV-2 (COVID19) unspecified or other specimen or method
 - Test Type: SARS_COV_2_NS
@@ -4867,7 +4732,6 @@ Method Variance:
  - Associated LOINC: 94763-0, 94764-8, 94822-4
  - Associated CPT:  
 *** SARS_COV_2_NAAT (SARS-CoV-2 (COVID19) (Nucleic Acid Amp Testing or gene presence in Resp, ser/plas or unspec specimen)
-*/UNDER REVIEW/*
 - Common Name: SARS-CoV-2 (COVID19) (Nucleic Acid Amp Testing or gene presence in Resp, ser/plas or unspec specimen
 - Long Name: SARS-CoV-2 (COVID19) (Nucleic Acid Amp Testing or gene presence in Resp, ser/plas or unspec specimen
 - Test Type: SARS_COV_2_NAAT
@@ -4884,7 +4748,6 @@ Method Variance:
  - Associated LOINC: 94306-8, 94307-6, 94308-4, 94309-2, 94314-2, 94315-9, 94316-7, 94500-6, 94531-1, 94533-7, 94534-5, 94559-2, 94565-9, 94639-2, 94640-0, 94641-8, 94660-8, 94756-4, 94757-2, 94758-0, 94759-8, 94760-6, 94765-5, 94766-3, 94767-1, 94845-5, 95406-5, 95409-9, 95424-8, 95425-5, 95608-6, 95609-4, 96091-4, 95823-1, 95824-9, 95826-4, 96448-6, 96120-1, 96123-5, 96797-6, 96763-8, 96765-3, 96897-4, 96957-6, 96958-4, 96986-5, 97098-8, 101289-7 
  - Associated CPT:  
 *** SARS_COV_2_T_STIM (SARS_CoV-2 stimulated gamma interferon release by Helper CD4+ T-cells [Units/volume] by Immunoassay)
-*/UNDER REVIEW/*
 - Common Name: SARS_CoV-2 stimulated gamma interferon release by Helper CD4+ T-cells [Units/volume] by Immunoassay
 - Long Name: SARS_CoV-2 stimulated gamma interferon release by Helper CD4+ T-cells [Units/volume] by Immunoassay
 - Test Type: SARS_COV_2_T_STIM
@@ -4904,7 +4767,6 @@ Method Variance:
  - Associated LOINC: 98846-9, 98847-7, 99772-6, 99773-4, 99774-2
  - Associated CPT:  
 *** SARS_COV_2_VAR (SARS-CoV-2 (COVID-19) variant [Type] in Specimen)
-*/UNDER REVIEW/*
 - Common Name: SARS-CoV-2 (COVID-19) variant [Type] in Specimen 
 - Long Name: SARS-CoV-2 (COVID-19) variant [Type] in Specimen 
 - Test Type: SARS_COV_2_VAR
@@ -4921,7 +4783,6 @@ Method Variance:
  - Associated LOINC: 96741-4, 96756-2, 96755-4, 96757-0, 96751-3, 96752-1, 96894-1, 96895-8, 96896-6, 99314-7 
  - Associated CPT:  
 *** SARS_COV_2_VL (SARS-CoV-2 (COVID-19) N gene [#/volume] (viral load) in Resp specimen by NAA with probe detection)
-*/UNDER REVIEW/*
 - Common Name: SARS-CoV-2 (COVID-19) N gene [#/volume] (viral load) in Resp specimen by NAA with probe detection
 - Long Name: SARS-CoV-2 (COVID-19) N gene [#/volume] (viral load) in Resp specimen by NAA with probe detection
 - Test Type: SARS_COV_2_VL
@@ -4941,7 +4802,6 @@ Method Variance:
  - Associated LOINC: 95521-1, 97104-4
  - Associated CPT:  
 *** SARS_COV_2_VL_LOG (SARS-CoV-2 (COVID19) RNA [Log #/volume] (viral load))
-*/UNDER REVIEW/*
 - Common Name: SARS-CoV-2 (COVID19) RNA [Log #/volume] (viral load) 
 - Long Name: SARS-CoV-2 (COVID19) RNA [Log #/volume] (viral load) Unspecified specimen by NAA - probe detection
 - Test Type: SARS_COV_2_VL_LOG
@@ -4964,7 +4824,6 @@ Method Variance:
 ** Opioid Urine Toxicity
 *** Opiates from natural sources
 **** U_CODEINE_CNF (Codeine in Urine by Confirmation)
-*/UNDER REVIEW/*
 - Common Name: Codeine in Urine by Confirmation
 - Long Name: Codeine in Urine by Confirmatory method
 - Test Type: U_CODEINE_CNF
@@ -4985,7 +4844,6 @@ Method Variance:
  - Associated LOINC: 13641-6 (Codeine),16197-6 (Codeine),16211-5 (Dihydrocodeine),16250-3 (Codeine),19448-0 (Dihydrocodeine),19449-8 (Dihydrocodeine),3508-9 (Codeine),49829-5 (Norcodeine),51448-9 (Dihydrocodeine+Hydrocodol),51739-1 (Codeine.free),60514-7 (6_Acetylcodeine),70206-8 (Codeine)
  - Associated CPT:  
 **** U_CODEINE_SCR (Codeine in Urine by Screen)
-*/UNDER REVIEW/*
 - Common Name: Codeine in Urine by Screen method
 - Long Name: Codeine in Urine by Confirmatory method
 - Test Type: U_CODEINE_SCR
@@ -5006,7 +4864,6 @@ Method Variance:
  - Associated LOINC: 14066-5 (Dihydrocodeine),19411-8 (Codeine),19446-4 (Dihydrocodeine),3507-1 (Codeine),89310-7 (Codeine_6_glucuronide)
  - Associated CPT:  
 **** U_MORPHINE_CNF (Morphine in Urine by Confirmation)
-*/UNDER REVIEW/*
 - Common Name: Morphine in Urine by Confirmation
 - Long Name: Morphine in Urine by Confirmatory method
 - Test Type: U_MORPHINE_CNF
@@ -5026,7 +4883,6 @@ Method Variance:
  - Associated LOINC: 10975-1 (6_Monoacetylmorphine),13648-1 (Morphine),14845-2 (6_Monoacetylmorphine),16196-8 (Morphine),16198-4 (Diamorphine),16251-1 (Morphine),16755-1 (Diamorphine),19322-7 (6_Monoacetylmorphine),19463-9 (Ethylmorphine),19592-5 (6_Monoacetylmorphine),19593-3 (6_Monoacetylmorphine),19594-1 (6_Monoacetylmorphine),20514-6 (6_Monoacetylmorphine),20527-8 (Ethylmorphine),21050-0 (6_Monoacetylmorphine),27073-6 (6_Monoacetylmorphine),3547-7 (Diamorphine),3619-4 (Ethylmorphine),3830-7 (Morphine),3831-5 (Morphine),3851-3 (Nicomorphine),49831-1 (Normorphine),55520-1 (6_Monoacetylmorphine),70197-9 (6_Monoacetylmorphine),70210-0 (Morphine),74817-8 (Desomorphine)
  - Associated CPT:  
 **** U_MORPHINE_SCR (Morphine in Urine by Screen)
-*/UNDER REVIEW/*
 - Common Name: Morphine in Urine by Screen
 - Long Name: Morphine in Urine by Screen method
 - Test Type: U_MORPHINE_SCR
@@ -5043,7 +4899,6 @@ Method Variance:
  - Associated LOINC: 10976-9 (6_Monoacetylmorphine),16851-8 (Ethylmorphine),19321-9 (6_Monoacetylmorphine),19439-9 (Diamorphine),19462-1 (Ethylmorphine),19591-7 (6_Monoacetylmorphine),19597-4 (Morphine),3546-9 (Diamorphine),3618-6 (Ethylmorphine),74818-6 (Desomorphine),89308-1 (Morphine_6_glucuronide)
  - Associated CPT:  
 **** U_OPIATE_CNF (Opiate in Urine by Confirmation)
-*/UNDER REVIEW/*
 - Common Name: Opiates in Urine by Confirmatory method
 - Long Name: Opiates in Urine by Confirmatory method
 - Test Type: U_OPIATE_CNF
@@ -5060,7 +4915,6 @@ Method Variance:
  - Associated LOINC: 17384-9 (Opiates),18390-5 (Opiates),19298-9 (Opiates positive),52952-9 (Opiates),8220-6 (Opiates),8221-4 (Opiates)
  - Associated CPT:  
 **** U_OPIATE_SCR (Opiate in Urine by Screen)
-*/UNDER REVIEW/*
 - Common Name: Opiates in Urine by  Screen method
 - Long Name: Opiates in Urine by  Screen method
 - Test Type: U_OPIATE_SCR
@@ -5081,7 +4935,6 @@ Method Variance:
 
 *** Semi-synthetic opioids
 **** U_HYDROCODONE_CNF (Hydrocodone in Urine by Confirmation)
-*/UNDER REVIEW/*
 - Common Name: Hydrocodone in Urine by Confirmatory method
 - Long Name: Hydrocodone in Urine by Confirmatory method
 - Test Type: U_HYDROCODONE_CNF
@@ -5099,7 +4952,6 @@ Method Variance:
  - Associated CPT:  
 
 **** U_HYDROCODONE_SCR (Hydrocodone in Urine by Screen)
-*/UNDER REVIEW/*
 - Common Name: Hydrocodone in Urine by  Screen method
 - Long Name: Hydrocodone in Urine by  Screen method
 - Test Type: U_HYDROCODONE_SCR
@@ -5119,7 +4971,6 @@ Method Variance:
  - Associated LOINC: 12308-3 (HYDROcodone),19482-9 (HYDROcodone),89304-0 (Norhydrocodone)
  - Associated CPT:  
 **** U_HYDROMORPHONE_CNF (Hydromorphone in Urine by Confirmation)
-*/UNDER REVIEW/*
 - Common Name: Hydromorphone in Urine by Confirmatory method
 - Long Name: Hydromorphone in Urine by Confirmatory method
 - Test Type: U_HYDROMORPHONE_CNF
@@ -5136,7 +4987,6 @@ Method Variance:
  - Associated LOINC: 16998-7 (HYDROmorphone),18473-9 (HYDROmorphone),9835-0 (HYDROmorphone)
  - Associated CPT:  
 **** U_HYDROMORPHONE_SCR (Hydromorphone in Urine by Screen)
-*/UNDER REVIEW/*
 - Common Name: Hydromorphone in Urine by  Screen method
 - Long Name: Hydromorphone in Urine by  Screen method
 - Test Type: U_HYDROMORPHONE_SCR
@@ -5153,7 +5003,6 @@ Method Variance:
  - Associated LOINC: 19486-0 (HYDROmorphone),89309-9 (HYDROmorphone_3_glucuronide),9834-3 (HYDROmorphone)
  - Associated CPT:  
 **** U_OXYCODONE_CNF (Oxycodone in Urine by Confirmation)
-*/UNDER REVIEW/*
 - Common Name: Oxycodone in Urine by Confirmation
 - Long Name: Oxycodone in Urine by Confirmatory method
 - Test Type: U_OXYCODONE_CNF
@@ -5169,10 +5018,9 @@ Method Variance:
 - Comments: For opioid results place the component value from the EverLOINC.SAS table into the local_cd field of the LAB_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
 - Test Method Variance:
 - Other:
- - Associated LOINC: 11246-6 (oxyCODONE),16249-5 (oxyCODONE),19643-6 (oxyCODONE),61197-0 (oxyCODONE+Oxymorphone),61424-8 (Noroxycodone),61425-5 (Noroxycodone),70215-9 (oxyCODONE),89303-2 (Noroxycodone)
+ - Associated LOINC: 11246-6 (oxyCODONE),16249-5 (oxyCODONE),19643-6 (oxyCODONE),61197-0 (oxyCODONE+Oxymorphone),61424-8 (Noroxycodone),61425-5 (Noroxycodone),70215-9 (oxyCODONE), 95135-0 (Noroxycodone)
  - Associated CPT:  
 **** U_OXYCODONE_SCR (Oxycodone in Urine by Screen)
-*/UNDER REVIEW/*
 - Common Name: Oxycodone in Urine by Screen
 - Long Name: Oxycodone in Urine by Screen method
 - Test Type: U_OXYCODONE_SCR
@@ -5186,10 +5034,9 @@ Method Variance:
 - Comments: For opioid results place the component value from the EverLOINC.SAS table into the local_cd field of the LAB_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for. 
 - Test Method Variance:
 - Other:
- - Associated LOINC: 10998-3 (oxyCODONE),19642-8 (oxyCODONE),58430-0 (oxyCODONE+Oxymorphone)
+ - Associated LOINC: 10998-3 (oxyCODONE),19642-8 (oxyCODONE),58430-0 (oxyCODONE+Oxymorphone), 89303-2 (Noroxycodone)
  - Associated CPT:  
 **** U_OXYMORPHONE_CNF (Oxymorphone in Urine by Confirmation)
-*/UNDER REVIEW/*
 - Common Name: Oxymorphone in Urine by Confirmation
 - Long Name: Oxymorphone in Urine by Confirmatory method
 - Test Type: U_OXYMORPHONE_CNF
@@ -5203,10 +5050,9 @@ Method Variance:
 - Comments: For opioid results place the component value from the EverLOINC.SAS table into the local_cd field of the LAB_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
 - Test Method Variance:
 - Other:
- - Associated LOINC: 17395-5 (oxyMORphone),18325-1 (oxyMORphone),19648-5 (oxyMORphone),89302-4 (Noroxymorphone),90894-7 (Noroxymorphone)
+ - Associated LOINC: 17395-5 (oxyMORphone),18325-1 (oxyMORphone),19648-5 (oxyMORphone),90894-7 (Noroxymorphone)
  - Associated CPT:  
 **** U_OXYMORPHONE_SCR (Oxymorphone in Urine by Screen)
-*/UNDER REVIEW/*
 - Common Name: Oxymorphone in Urine by Screen
 - Long Name: Oxymorphone in Urine by  Screen method
 - Test Type: U_OXYMORPHONE_SCR
@@ -5220,11 +5066,10 @@ Method Variance:
 - Comments: For opioid results place the component value from the EverLOINC.SAS table into the local_cd field of the LAB_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
 - Test Method Variance:
 - Other:
- - Associated LOINC: 11247-4 (oxyMORphone),19646-9 (oxyMORphone),89301-6 (oxyMORphone_3_glucuronide)
+ - Associated LOINC: 11247-4 (oxyMORphone),19646-9 (oxyMORphone),89301-6 (oxyMORphone_3_glucuronide), 89302-4 (Noroxymorphone)
  - Associated CPT:  
 *** Synthetic opioids
 **** U_DIPIPANONE_CNF (Dipipanone in Urine by Confirmation)
-*/UNDER REVIEW/*
 - Common Name: Dipipanone in Urine by Confirmation
 - Long Name: Dipipanone in Urine by Confirmatory method
 - Test Type: U_DIPIPANONE_CNF
@@ -5245,7 +5090,6 @@ Method Variance:
  - Associated LOINC: 3574-1 (Dipipanone)
  - Associated CPT:  
 **** U_DIPIPANONE_SCR (Dipipanone in Urine by Screen)
-*/UNDER REVIEW/*
 - Common Name: Dipipanone in Urine by Screen
 - Long Name: Dipipanone in Urine by  Screen method
 - Test Type: U_DIPIPANONE_SCR
@@ -5267,7 +5111,6 @@ Method Variance:
  - Associated LOINC: 3573-3 (Dipipanone)
  - Associated CPT:  
 **** U_FENTANYL_CNF (Fentanyl in Urine by Confirmation)
-*/UNDER REVIEW/*
 - Common Name: Fentanyl in Urine by Confirmation
 - Long Name: Fentanyl in Urine by Confirmatory method
 - Test Type: U_FENTANYL_CNF
@@ -5288,7 +5131,6 @@ Method Variance:
  - Associated LOINC: 11073-4 (Despropionylfentanyl),11075-9 (Norfentanyl),3637-6 (fentaNYL),40839-3 (fentaNYL),43200-5 (Norfentanyl),58381-5 (fentaNYL),58383-1 (Norfentanyl),66129-8 (Fentanyl+Norfentanyl),67822-7 (Fentanyl & Norfentanyl panel),74372-4 (Acetyl fentaNYL),74810-3 (Acetyl fentaNYL) 
  - Associated CPT:  
 **** U_FENTANYL_SCR (Fentanyl in Urine by Screen)
-*/UNDER REVIEW/*
 - Common Name: Fentanyl in Urine by Screen
 - Long Name: Fentanyl in Urine by  Screen method
 - Test Type: U_FENTANYL_SCR
@@ -5305,7 +5147,6 @@ Method Variance:
  - Associated LOINC: 11235-9 (fentaNYL), 43199-9 (Norfentanyl), 58379-9 (Fentanyl+Norfentanyl), 59673-4 (fentaNYL)
  - Associated CPT:  
 **** U_LEVORPHANOL_CNF (Levorphanol in Urine by Confirmation)
-*/UNDER REVIEW/*
 - Common Name: Levorphanol in Urine by Confirmation
 - Long Name: Levorphanol in Urine by Confirmatory method
 - Test Type: U_LEVORPHANOL_CNF
@@ -5326,7 +5167,6 @@ Method Variance:
  - Associated LOINC: 16213-1 (Levorphanol), 20540-1 (Levorphanol), 3712-7 (Levorphanol)
  - Associated CPT:  
 **** U_LEVORPHANOL_SCR (Levorphanol in Urine by Screen)
-*/UNDER REVIEW/*
 - Common Name: Levorphanol in Urine by Screen
 - Long Name: Levorphanol in Urine by  Screen method
 - Test Type: U_LEVORPHANOL_SCR
@@ -5343,7 +5183,6 @@ Method Variance:
  - Associated LOINC: 19516-4 (Levorphanol),27076-9 (Dextromethorphan+Levorphanol),3711-9 (Levorphanol)
  - Associated CPT:  
 **** U_MEPERIDINE_CNF (Meperidine in Urine by Confirmation)
-*/UNDER REVIEW/*
 - Common Name: Meperidine in Urine by Confirmation
 - Long Name: Meperidine in Urine by Confirmatory method
 - Test Type: U_MEPERIDINE_CNF
@@ -5364,7 +5203,6 @@ Method Variance:
  - Associated LOINC: 16207-3 (Meperidine),16253-7 (Meperidine),3747-3 (Meperidine),3869-5 (Normeperidine),4076-6 (Trimeperidine),58389-8 (Normeperidine),72384-1 (Meperidine+Normeperidine)
  - Associated CPT:  
 **** U_MEPERIDINE_SCR (Meperidine in Urine by Screen)
-*/UNDER REVIEW/*
 - Common Name: Meperidine in Urine by Screen
 - Long Name: Meperidine in Urine by  Screen method
 - Test Type: U_MEPERIDINE_SCR
@@ -5381,7 +5219,6 @@ Method Variance:
  - Associated LOINC: 19532-1 (Meperidine),27920-8 (Normeperidine),3746-5 (Meperidine),4075-8 (Trimeperidine),58385-6 (Meperidine+Normeperidine),58388-0 (Normeperidine),58953-1 (Meperidine & Normeperidine panel)
  - Associated CPT:  
 **** U_METHADONE_CNF (Methadone in Urine by Confirmation)
-*/UNDER REVIEW/*
 - Common Name: Methadone in Urine by Confirmation
 - Long Name: Methadone in Urine by Confirmatory method
 - Test Type: U_METHADONE_CNF
@@ -5404,7 +5241,6 @@ Method Variance:
  - Associated LOINC: 16199-2 (Methadone),16246-1 (Methadone),33527-3 (Methadone.long acting metabolite),3774-7 (Methadone)  
  - Associated CPT:  
 **** U_METHADONE_SCR (Methadone in Urine by Screen)
-*/UNDER REVIEW/*
 - Common Name: Methadone in Urine by Screen
 - Long Name: Methadone in Urine by Screen method
 - Test Type: U_METHADONE_SCR
@@ -5421,7 +5257,6 @@ Method Variance:
  - Associated LOINC: 19550-3 (Methadone),3773-9 (Methadone),42251-9 (Methadone+Metabolite),52958-6 (Methadone),70147-4 (Methadone),70148-2 (Methadone),70149-0 (Methadone)
  - Associated CPT:  
 **** U_NALTREXOL_CNF (Naltrexol in Urine by Confirmation)
-*/UNDER REVIEW/*
 - Common Name: Naltrexol in Urine by Confirmation
 - Long Name: Naltrexol in Urine by Confirmatory method
 - Test Type: U_NALTREXOL_CNF
@@ -5458,7 +5293,6 @@ Method Variance:
  - Associated LOINC:  
  - Associated CPT:  
 **** U_PENTAZOCINE_CNF (Pentazocine in Urine by Confirmation)
-*/UNDER REVIEW/*
 - Common Name: Pentazocine in Urine by Confirmation
 - Long Name: Pentazocine in Urine by Confirmatory method
 - Test Type: U_PENTAZOCINE_CNF
@@ -5479,7 +5313,6 @@ Method Variance:
  - Associated LOINC: 16219-8 (Pentazocine),3918-0 (Pentazocine)
  - Associated CPT:  
 **** U_PENTAZOCINE_SCR (Pentazocine in Urine by Screen)
-*/UNDER REVIEW/*
 - Common Name: Pentazocine in Urine by Screen
 - Long Name: Pentazocine in Urine by  Screen method
 - Test Type: U_PENTAZOCINE_SCR
@@ -5496,7 +5329,6 @@ Method Variance:
  - Associated LOINC: 3917-2 (Pentazocine),59951-4 (Pentazocine)  
  - Associated CPT:  
 **** U_PROPOXYPHENE_CNF (Propoxyphene in Urine by Confirmation)
-*/UNDER REVIEW/*
 - Common Name: Propoxyphene in Urine by Confirmation
 - Long Name: Propoxyphene in Urine by Confirmatory method
 - Test Type: U_PROPOXYPHENE_CNF
@@ -5517,7 +5349,6 @@ Method Variance:
  - Associated LOINC: 16200-8 (Propoxyphene),16242-0 (Propoxyphene),17376-5 (Norpropoxyphene),17377-3 (Norpropoxyphene),19434-0 (Propoxyphene+Norpropoxyphene),19435-7 (Propoxyphene+Norpropoxyphene),19436-5 (Propoxyphene+Norpropoxyphene),19635-2 (Norpropoxyphene),22065-7 (Propoxyphene),3545-1 (Propoxyphene),59960-5 (Propoxyphene) 
  - Associated CPT:  
 **** U_PROPOXYPHENE_SCR (Propoxyphene in Urine by Screen)
-*/UNDER REVIEW/*
 - Common Name: Propoxyphene in Urine by Screen
 - Long Name: Propoxyphene in Urine by  Screen method
 - Test Type: U_PROPOXYPHENE_SCR
@@ -5534,7 +5365,6 @@ Method Variance:
  - Associated LOINC: 16749-4 (Propoxyphene+Norpropoxyphene),19141-1 (Propoxyphene),19429-0 (Propoxyphene),19433-2 (Propoxyphene+Norpropoxyphene),19632-9 (Norpropoxyphene),3544-4 (Propoxyphene),3871-1 (Norpropoxyphene),53781-1 (Acetaminophen & Propoxyphene panel)
  - Associated CPT:  
 **** U_SUFENTANIL_CNF (Sufentanil in Urine by Confirmation)
-*/UNDER REVIEW/*
 - Common Name: Sufentanil in Urine by Confirmation
 - Long Name: Sufentanil in Urine by Confirmatory method
 - Test Type: U_SUFENTANIL_CNF
@@ -5555,7 +5385,6 @@ Method Variance:
  - Associated LOINC: 9396-3 (SUFentanil)
  - Associated CPT:  
 **** U_SUFENTANIL_SCR (Sufentanil in Urine by Screen)
-*/UNDER REVIEW/*
 - Common Name: Sufentanil in Urine by Screen
 - Long Name: Sufentanil in Urine by  Screen method
 - Test Type: U_SUFENTANIL_SCR
@@ -5572,7 +5401,6 @@ Method Variance:
  - Associated LOINC: 18435-8 (SUFentanil)
  - Associated CPT:  
 **** U_TAPENTADOL_CNF (Tarpentadol in Urine by Confirmation)
-*/UNDER REVIEW/*
 - Common Name: Tarpentadol in Urine by Confirmation
 - Long Name: Tapentadol in Urine by Confirmatory method
 - Test Type: U_TAPENTADOL_CNF
@@ -5593,7 +5421,6 @@ Method Variance:
  - Associated LOINC: 58401-1 (Tapentadol),58402-9 (Tapentadol),65807-0 (Tapentadol),65808-8 (Nortapentadol),81754-4 (Nortapentadol)
  - Associated CPT:  
 **** U_TAPENTADOL_SCR (Tarpentadol in Urine by Screen)
-*/UNDER REVIEW/*
 - Common Name: Tarpentadol in Urine by Screen
 - Long Name: Tapentadol in Urine by  Screen method
 - Test Type:  U_TAPENTADOL_SCR
@@ -5610,7 +5437,6 @@ Method Variance:
  - Associated LOINC: 72485-6 (Tapentadol),75362-4 (Tapentadol glucuronide),89300-8 (Tapentadol glucuronide),89306-5 (Nortapentadol)
  - Associated CPT:  
 **** U_TRAMADOL_CNF (Tramadol in Urine by Confirmation)
-*/UNDER REVIEW/*
 - Common Name: Tramadol in Urine by Confirmation
 - Long Name: Tramadol in Urine by Confirmatory method
 - Test Type: U_TRAMADOL_CNF
@@ -5631,7 +5457,6 @@ Method Variance:
  - Associated LOINC: 17718-8 (traMADol),17719-6 (traMADol),18338-4 (Nortramadol),20561-7 (traMADol)
  - Associated CPT:  
 **** U_TRAMADOL_SCR (Tramadol in Urine by Screen)
-*/UNDER REVIEW/*
 - Common Name: Tramadol in Urine by Screen
 - Long Name: Tramadol in Urine by Screen method
 - Test Type: U_TRAMADOL_SCR
@@ -5652,7 +5477,6 @@ Method Variance:
  - Associated LOINC: 19710-3 (traMADol),43219-5 (traMADol),86453-8 (O-nortramadol),86454-6 (N-nortramadol)
  - Associated CPT:  
 **** U_NARCOTIC_SCR (Narcotics and opioids in Urine by Screen)
-*/UNDER REVIEW/*
 - Common Name: Narcotics and opioids in Urine by Screen
 - Long Name: Narcotics and opioids in Urine by Screen method
 - Test Type: U_NARCOTIC_SCR
@@ -5679,7 +5503,6 @@ Method Variance:
  - Associated CPT:  
 *** Loosely referred to as opioids
 **** U_BUPRENORPHINE_CNF (Buprenorphine in Urine by Confirmation)
-*/UNDER REVIEW/*
 - Common Name: Buprenorphine in Urine by Confirmation
 - Long Name: Buprenorphine in Urine by Confirmatory method
 - Test Type: U_BUPRENORPHINE_CNF
@@ -5700,7 +5523,6 @@ Method Variance:
  - Associated LOINC: 16208-1 (Buprenorphine),16496-2 (Buprenorphine),3415-7 (Buprenorphine),49751-1 (Norbuprenorphine),49752-9 (Buprenorphine),49753-7 (Norbuprenorphine),58362-5 (Norbuprenorphine),69033-9 (Buprenorphine & Norbuprenorphine panel)
  - Associated CPT:  
 **** U_BUPRENORPHINE_SCR (Buprenorphine in Urine by Screen)
-*/UNDER REVIEW/*
 - Common Name: Buprenorphine in Urine by Screen
 - Long Name: Buprenorphine in Urine by Screen method
 - Test Type: U_BUPRENORPHINE_SCR
@@ -5718,10 +5540,9 @@ Method Variance:
 - Comments: For opioid results place the component value from the EverLOINC.SAS table into the local_cd field of the LAB_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
 - Test Method Variance:
 - Other:
- - Associated LOINC: 3414-0 (Buprenorphine),38373-7 (Buprenorphine+Norbuprenorphine),58359-1 (Buprenorphine+Norbuprenorphine),82371-6 (Norbuprenorphine),89305-7 (Norbuprenorphine_3_glucuronide),91027-3 (Buprenorphine_3_glucuronide)
+ - Associated LOINC: 3414-0 (Buprenorphine),38373-7 (Buprenorphine+Norbuprenorphine),58359-1 (Buprenorphine+Norbuprenorphine),82371-6 (Norbuprenorphine),89305-7 (Norbuprenorphine_3_glucuronide),91027-3 (Buprenorphine_3_glucuronide), 93494-3 (all metabolites)
  - Associated CPT:  
 **** U_BUTORPHANOL_CNF (Butorphanol in Urine by Confirmation)
-*/UNDER REVIEW/*
 - Common Name: Butorphanol in Urine by Confirmation
 - Long Name: Butorphanol in Urine by Confirmatory method
 - Test Type: U_BUTORPHANOL_CNF
@@ -5738,7 +5559,6 @@ Method Variance:
  - Associated LOINC: 12395-0 (Butorphanol),16499-6 (Butorphanol),19378-9 (Butorphanol)
  - Associated CPT:  
 **** U_BUTORPHANOL_SCR (Butorphanol in Urine by Screen)
-*/UNDER REVIEW/*
 - Common Name: Butorphanol in Urine by Screen
 - Long Name: Butorphanol in Urine by Screen method
 - Test Type: U_BUTORPHANOL_SCR
@@ -5755,7 +5575,6 @@ Method Variance:
  - Associated LOINC: 12333-1 (Butorphanol),19377-1 (Butorphanol)
  - Associated CPT:  
 **** U_NALBUPHINE_CNF (Nalbuphine in Urine by Confirmation)
-*/UNDER REVIEW/*
 - Common Name: Nalbuphine in Urine by Confirmation
 - Long Name: Nalbuphine in Urine by Confirmatory method
 - Test Type: U_NALBUPHINE_CNF
@@ -5772,7 +5591,6 @@ Method Variance:
  - Associated LOINC: 16218-0 (Nalbuphine),20551-8 (Nalbuphine),3840-6 (Nalbuphine)
  - Associated CPT:  
 **** U_NALBUPHINE_SCR (Nalbuphine in Urine by Screen)
-*/UNDER REVIEW/*
 - Common Name: Nalbuphine in Urine by Screen
 - Long Name: Nalbuphine  in Urine by  Screen method
 - Test Type: U_NALBUPHINE_SCR
@@ -5789,7 +5607,6 @@ Method Variance:
  - Associated LOINC: 19605-5 (Nalbuphine),3839-8 (Nalbuphine)
  - Associated CPT:  
 **** U_NALOXONE_CNF (Naloxone in Urine by Confirmation)
-*/UNDER REVIEW/*
 - Common Name: Naloxone in Urine by Confirmation
 - Long Name: Naloxone in Urine by Confirmatory method
 - Test Type: U_NALOXONE_CNF
@@ -5803,10 +5620,9 @@ Method Variance:
 - Comments: For opioid results place the component value from the EverLOINC.SAS table into the local_cd field of the LAB_RESULT table.  The component value is seen in parentheses in this spreadsheet after each LOINC and names the form of the drug (metabolite) tested for.  
 - Test Method Variance:
 - Other:
- - Associated LOINC: 77207-9 (Naloxone)
+ - Associated LOINC: 77207-9 (Naloxone), 92649-3 (Naloxone)
  - Associated CPT:  
 **** U_NALOXONE_SCR (Naloxone in Urine by Screen)
-*/UNDER REVIEW/*
 - Common Name: Naloxone in Urine by Screen
 - Long Name: Naloxone in Urine by  Screen method
 - Test Type: U_NALOXONE_SCR
@@ -5823,7 +5639,6 @@ Method Variance:
  - Associated LOINC: 42618-9 (Naloxone),89307-3 (Naloxone_3_glucuronide)  
  - Associated CPT:  
 **** U_NALTREXONE_CNF (Naltrexone in Urine by Confirmation)
-*/UNDER REVIEW/*
 - Common Name: Naltrexone in Urine by Confirmation
 - Long Name: Naltrexone in Urine by Confirmatory method
 - Test Type: U_NALTREXONE_CNF
@@ -5840,7 +5655,6 @@ Method Variance:
  - Associated LOINC: 18334-3 (Naltrexone),19610-5 (Naltrexone),19611-3 (Naltrexone),72787-5 (6_Beta naltrexone)
  - Associated CPT:  
 **** U_NALTREXONE_SCR (Naltrexone in Urine by Screen)
-*/UNDER REVIEW/*
 - Common Name: Naltrexone in Urine by Screen
 - Long Name: Naltrexone in Urine by  Screen method
 - Test Type: U_NALTREXONE_SCR
@@ -5864,7 +5678,6 @@ Test Types and Long Names: See Table 1.
 Table 1. Glucose Tolerance Test TEST_TYPE and Long Name
 TEST_TYPE LONGNAME
 **** GTT_0_5 (Glucose Tolerance 1/2 hour post XXX challenge)
-*/UNDER REVIEW/*
 - Common Name: Glucose Tolerance 1/2 hour post XXX challenge
 - Long Name: Glucose Tolerance 1/2 hour post XXX challenge (glucose dose not specified)
 - Test Type: GTT_0_5
@@ -5881,7 +5694,6 @@ TEST_TYPE LONGNAME
  - Associated LOINC: 14763-7, 20439-6, 25671-9, 40263-6 
  - Associated CPT:  
 **** GTT_1 (Glucose Tolerance 1 hour post XXX challenge)
-*/UNDER REVIEW/*
 - Common Name: Glucose Tolerance 1 hour post XXX challenge
 - Long Name: Glucose Tolerance 1 hour post XXX challenge (glucose dose not specified)
 - Test Type: GTT_1
@@ -5900,7 +5712,6 @@ TEST_TYPE LONGNAME
 **** (GTT_1_5 Deprecated) (Glucose Tolerance 1 1/2 hour post XXX challenge (glucose dose not specified)
 */NEEDS TO BE UPDATED/*
 **** GTT_2 (Glucose Tolerance 2 hour post XXX challenge)
-*/UNDER REVIEW/*
 - Common Name: Glucose Tolerance 2 hour post XXX challenge
 - Long Name: Glucose Tolerance 2 hour post XXX challenge (glucose dose not specified)
 - Test Type: GTT_2
@@ -5921,7 +5732,6 @@ TEST_TYPE LONGNAME
  - Associated LOINC: 12610-2, 14759-5, 20436-2, 25668-5,  49134-0
  - Associated CPT: 82951, 82950
 **** GTT_3 (Glucose Tolerance 3 hour post XXX challenge (glucose dose not specified)
-*/UNDER REVIEW/*
 - Common Name: Glucose Tolerance 3 hour post XXX challenge
 - Long Name: Glucose Tolerance 3 hour post XXX challenge (glucose dose not specified)
 - Test Type: GTT_3
@@ -5942,7 +5752,6 @@ TEST_TYPE LONGNAME
 **** (GTT_6 Deprecated) (Glucose Tolerance 6 hour post XXX challenge (glucose dose not specified)
 **** (GTT_7 Deprecated) (Glucose Tolerance 7 hour post XXX challenge (glucose dose not specified)
 **** GTT50_1 (Glucose Tolerance 1 hour post 50 g oral challenge)
-*/UNDER REVIEW/*
 - Common Name: Glucose Tolerance 1 hour post 50 g oral challenge 
 - Long Name: Glucose Tolerance 1 hour post 50 g oral challenge 
 - Test Type: GTT50_1
@@ -5959,7 +5768,6 @@ TEST_TYPE LONGNAME
  - Associated LOINC: 14754-6, 1504-0
  - Associated CPT: 82950
 **** GTT50_2 (Glucose Tolerance 2 hour post 50 g oral challenge)
-*/UNDER REVIEW/*
 - Common Name: Glucose Tolerance 2 hour post 50 g oral challenge 
 - Long Name: Glucose Tolerance 2 hour post 50 g oral challenge 
 - Test Type: GTT50_2
@@ -5979,7 +5787,6 @@ TEST_TYPE LONGNAME
  - Associated LOINC: 41024-1
  - Associated CPT: 
 **** GTT75_0_5 (Glucose Tolerance 1/2 hour post 75 g oral challenge)
-*/UNDER REVIEW/*
 - Common Name: Glucose Tolerance 1/2 hour post 75 g oral challenge
 - Long Name: Glucose Tolerance 1/2 hour post 75 g oral challenge
 - Test Type: GTT75_0_5
@@ -5996,7 +5803,6 @@ TEST_TYPE LONGNAME
  - Associated LOINC: 1527-1, 32319-6 
  - Associated CPT: 82951
 **** GTT75_1 (Glucose Tolerance 1 hour post 75 g oral challenge)
-*/UNDER REVIEW/*
 - Common Name: Glucose Tolerance 1 hour post 75 g oral challenge
 - Long Name: Glucose Tolerance 1 hour post 75 g oral challenge
 - Test Type: GTT75_1
@@ -6014,7 +5820,6 @@ TEST_TYPE LONGNAME
  - Associated CPT:  
 **** (GTT75_1_5 Deprecated) (Glucose Tolerance 1 1/2 hour post 75 g oral challenge)
 **** GTT75_2 (Glucose Tolerance 2 hour post 75 g oral challenge)
-*/UNDER REVIEW/*
 - Common Name: Glucose Tolerance 2 hour post 75 g oral challenge
 - Long Name: Glucose Tolerance 2 hour post 75 g oral challenge
 - Test Type: GTT75_2
@@ -6031,7 +5836,6 @@ TEST_TYPE LONGNAME
  - Associated LOINC: 14995-5, 1518-0, 1519-8
  - Associated CPT: 82951, 82950
 **** GTT75_3 (Glucose Tolerance 3 hour post 75 g oral challenge)
-*/UNDER REVIEW/*
 - Common Name: Glucose Tolerance 3 hour post 75 g oral challenge
 - Long Name: Glucose Tolerance 3 hour post 75 g oral challenge
 - Test Type: GTT75_3
@@ -6048,7 +5852,6 @@ TEST_TYPE LONGNAME
  - Associated LOINC: 1533-9, 32320-4 
  - Associated CPT:
 **** GTT100_0_5 (Glucose Tolerance 1/2 hour post 100 g oral challenge)
-*/UNDER REVIEW/*
 - Common Name: Glucose Tolerance 1/2 hour post 100 g oral challenge
 - Long Name: Glucose Tolerance 1/2 hour post 100 g oral challenge
 - Test Type: GTT100_0_5
@@ -6065,7 +5868,6 @@ TEST_TYPE LONGNAME
  - Associated LOINC: 1525-5 
  - Associated CPT: 82952
 **** GTT100_1 (Glucose Tolerance 1 hour post 100 g oral challenge)
-*/UNDER REVIEW/*
 - Common Name: Glucose Tolerance 1 hour post 100 g oral challenge
 - Long Name: Glucose Tolerance 1 hour post 100 g oral challenge
 - Test Type: GTT100_1
@@ -6083,7 +5885,6 @@ TEST_TYPE LONGNAME
  - Associated CPT: 82951
 **** (GTT100_1_5 Deprecated) (Glucose Tolerance 1 1/2 hour post 100 g oral challenge)
 **** GTT100_2 (Glucose Tolerance 2 hour post 100 g oral challenge)
-*/UNDER REVIEW/*
 - Common Name: Glucose Tolerance 2 hour post 100 g oral challenge
 - Long Name: Glucose Tolerance 2 hour post 100 g oral challenge
 - Test Type: GTT100_2
@@ -6100,7 +5901,6 @@ TEST_TYPE LONGNAME
  - Associated LOINC: 14757-9, 1514-9, 1515-6
  - Associated CPT: 82951, 82950
 **** GTT100_3 (Glucose Tolerance 3 hour post 100 g oral challenge)
-*/UNDER REVIEW/*
 - Common Name:Glucose Tolerance 3 hour post 100 g oral challenge
 - Long Name: Glucose Tolerance 3 hour post 100 g oral challenge
 - Test Type: GTT100_3
@@ -6159,7 +5959,6 @@ If 2 or more glucose levels exceed the threshold, then a diagnosis of gestationa
 - Other: Some sites do not use unique CPT or LOINC codes for different glucose loads. There may be unique codes for the different time increments (1hr, 2 hr, etc), but not always. The text string field usually specifies the hour (for example, a GTT 3 hr may have three rows of data in which the text string specifies the specific hour [1 hr, 2 hr, 3 hr]). Loading dose of glucose is not included in electronic data at all sites. Because the loading dose of glucose is not always indicated in the electronic lab data stream, it is crucial to ensure the abnormal flags are populated in the VDW. As shown in Table 2, the criteria for determining whether or not the lab results are abnormal vary, not only based on the time the sample was obtained, but also based on the glucose load the individual ingested. The abnormal flag, along with the result value, may be the only way to conclusively know whether or not the test result was abnormal.
 
 **** (GTTPM) (Glucose Tolerance post meal)
-*/UNDER REVIEW/*
 - Common Name: Glucose Tolerance post meal
 - Long Name: Glucose Tolerance post meal
 - Test Type: GTTPM
@@ -6180,7 +5979,6 @@ If 2 or more glucose levels exceed the threshold, then a diagnosis of gestationa
  - Associated CPT:  
 
 **** (GTTPM_0_5) (Glucose Tolerance 1/2 hour post meal)
-*/UNDER REVIEW/*
 - Common Name: Glucose Tolerance 1/2 hour post meal
 - Long Name: Glucose Tolerance 1/2 hour post meal
 - Test Type: GTTPM_0_5
@@ -6198,7 +5996,6 @@ If 2 or more glucose levels exceed the threshold, then a diagnosis of gestationa
  - Associated CPT:  
 
 **** (GTTPM_1) (Glucose Tolerance 1 hour post meal)
-*/UNDER REVIEW/*
 - Common Name: Glucose Tolerance 1 hour post meal
 - Long Name: Glucose Tolerance 1 hour post meal
 - Test Type: GTTPM_1
@@ -6216,7 +6013,6 @@ If 2 or more glucose levels exceed the threshold, then a diagnosis of gestationa
  - Associated CPT:  
 
 **** (GTTPM_2) (Glucose Tolerance 2 hour post meal)
-*/UNDER REVIEW/*
 - Common Name: Glucose Tolerance 2 hour post meal
 - Long Name: Glucose Tolerance 2 hour post meal
 - Test Type: GTTPM_2
@@ -6237,7 +6033,6 @@ If 2 or more glucose levels exceed the threshold, then a diagnosis of gestationa
  - Associated CPT:  
 
 **** (GTTPM_3) (Glucose Tolerance 3 hour post meal)
-*/UNDER REVIEW/*
 - Common Name: Glucose Tolerance 3 hour post meal
 - Long Name: Glucose Tolerance 3 hour post meal
 - Test Type: GTTPM_3
@@ -6256,7 +6051,6 @@ If 2 or more glucose levels exceed the threshold, then a diagnosis of gestationa
 
 ** Cell Markers
 *** CD4 (CD4 Count)
-*/UNDER REVIEW/*
 - Common Name: CD4 Count
 - Long Name: CD4 Count, T-cell helper subset
 - Test Type: CD4
@@ -6276,7 +6070,6 @@ If 2 or more glucose levels exceed the threshold, then a diagnosis of gestationa
 ** Microbiology
 *** (HCV) Hepatitis C Virus Test Types
 **** HCV_AB (Hepatitis C virus antibody)
-*/UNDER REVIEW/*
 - Common Name: Hepatitis C virus antibody
 - Long Name: Hepatitis C virus antibody [Units/volume] or Signal/Cutoff in Serum or Plasma
 - Test Type: HCV_AB
@@ -6298,7 +6091,6 @@ If 2 or more glucose levels exceed the threshold, then a diagnosis of gestationa
  - Associated LOINC: 16936-7,22327-1,48159-8,5198-7,57006-9 
  - Associated CPT:  
 **** HCV_AB_QL (Hepatitis C virus antibody presence found)
-*/UNDER REVIEW/*
 - Common Name: Hepatitis C virus antibody presence found
 - Long Name: Hepatitis C virus [Presence] or band pattern [Interpretation] in Serum, Plasma or Blood
 - Test Type: HCV_AB_QL
@@ -6319,7 +6111,6 @@ If 2 or more glucose levels exceed the threshold, then a diagnosis of gestationa
  - Associated LOINC: 13955-0, 16128-1, 16129-9, 40726-2, 72376-7, 13125-1, 5199-5
  - Associated CPT:  
 **** HCV_AB_QL_PR (Hepatitis C virus antibody presence found using probe method)
-*/UNDER REVIEW/*
 - Common Name: Hepatitis C virus antibody presence found using probe method
 - Long Name: Hepatitis C virus [Presence] or band pattern [Interpretation] in Serum, Plasma or Blood found using probe method
 - Test Type: HCV_AB_QL_PR
@@ -6340,7 +6131,6 @@ If 2 or more glucose levels exceed the threshold, then a diagnosis of gestationa
  - Associated LOINC: 22324-8, 22326-3, 22329-7, 34162-8, 11076-7, 33462-3, 51649-2, 56926-9, 56927-7, 56928-5, 56929-3, 56930-1, 9609-9
  - Associated CPT:  
 **** HCV_GENO (Hepatitis C virus genotype)
-*/UNDER REVIEW/*
 - Common Name: Hepatitis C virus genotype
 - Long Name: Hepatitis C virus genotype [Identifier] in Ser, Plas or Bld by Probe and target amplification method
 - Test Type: HCV_GENO
@@ -6357,7 +6147,6 @@ If 2 or more glucose levels exceed the threshold, then a diagnosis of gestationa
  - Associated LOINC: 32286-7,48574-8
  - Associated CPT:  
 **** HCV_GENO_PR (Hepatitis C virus genotype probe method)
-*/UNDER REVIEW/*
 - Common Name: Hepatitis C virus genotype probe method
 - Long Name: Hepatitis C virus genotype [Identifier] in Ser, Plas or Bld by Probe and target amplification method
 - Test Type: HCV_GENO_PR
@@ -6374,7 +6163,6 @@ If 2 or more glucose levels exceed the threshold, then a diagnosis of gestationa
  - Associated LOINC: 82513-3
  - Associated CPT:  
 **** HCV_RNA (Hepatitis C virus RNA viral load)
-*/UNDER REVIEW/*
 - Common Name: Hepatitis C virus RNA viral load
 - Long Name: Hepatitis C virus RNA [Units or #/volume] (viral load) in Ser or Plas by Probe with amplification
 - Test Type: HCV_RNA
@@ -6394,7 +6182,6 @@ If 2 or more glucose levels exceed the threshold, then a diagnosis of gestationa
  - Associated LOINC: 10676-5,11011-4,20416-4,20571-6,29609-5,34703-9,34704-7,49758-6, 48576-3
  - Associated CPT:  
 **** HCV_RNA_LOG (Hepatitis C virus RNA Log Units of viral load)
-*/UNDER REVIEW/*
 - Common Name: Hepatitis C virus RNA Log Units of viral load
 - Long Name: Hep C virus RNA [Log units of #/vol] (viral load) in Ser or Plas by Probe with amplification
 - Test Type: HCV_RNA_LOG
@@ -6415,7 +6202,6 @@ If 2 or more glucose levels exceed the threshold, then a diagnosis of gestationa
  - Associated CPT:  
 **** HCV_RNA_QL_PR (Hepatitis C virus RNA Presence by probe)
 */LOINCS in this test type have been moved to HCV_RNA_QL/*
-*/UNDER REVIEW/*
 - Common Name: Hepatitis C virus RNA Presence by probe
 - Long Name: Hepatitis C virus RNA [Presence] in Ser, Plas or Bld by Probe and target amplification method
 - Test Type: HCV_RNA_QL_PR
@@ -6432,7 +6218,6 @@ If 2 or more glucose levels exceed the threshold, then a diagnosis of gestationa
  - Associated LOINC: deprecated: (11259-9, 5010-4)
  - Associated CPT:  
 **** HCV_RNA_QL (Hepatitis C virus RNA Presence)
-*/UNDER REVIEW/*
 - Common Name: Hepatitis C virus RNA Presence
 - Long Name: Hepatitis C virus RNA [Presence] in Ser, Plas or Bld by Probe and target amplification method
 - Test Type: HCV_RNA_QL
@@ -6452,7 +6237,6 @@ If 2 or more glucose levels exceed the threshold, then a diagnosis of gestationa
  - Associated CPT:  
 *** (HIV) Human Immunodeficiency Virus Test Types
 **** HIV1_AB_CNF_QL (HIV 1 Antibody in Serum, Plasma or Blood by Confirmatory method - qualitative)
-*/UNDER REVIEW/*
 - Common Name: HIV 1 Antibody in Serum, Plasma or Blood by Confirmatory method - qualitative
 - Long Name: HIV 1 Antibody in Serum, Plasma or Blood by Confirmatory method - qualitative
 - Test Type: HIV1_AB_CNF_QL
@@ -6469,7 +6253,6 @@ If 2 or more glucose levels exceed the threshold, then a diagnosis of gestationa
  - Associated LOINC: 13499-9, 21009-6, 40732-0, 5221-7, 86233-4
  - Associated CPT:  
 **** HIV1_AB_SCR_QL (HIV 1 Antibody in Serum, Plasma or Blood by Screen method - qualitative)
-*/UNDER REVIEW/*
 - Common Name: HIV 1 Antibody in Serum, Plasma or Blood by Screen method - qualitative
 - Long Name: HIV 1 Antibody in Serum, Plasma or Blood by Screen method - qualitative
 - Test Type: HIV1_AB_SCR_QL
@@ -6486,7 +6269,6 @@ If 2 or more glucose levels exceed the threshold, then a diagnosis of gestationa
  - Associated LOINC: 14092-1, 16975-5, 29893-5, 33866-5, 41145-4, 68961-2, 7917-8, 85686-4 
  - Associated CPT:  
 **** HIV1_AB_SCR_QN (HIV 1 Antibody in Serum, Plasma or Blood by Screen method - quantitative)
-*/UNDER REVIEW/*
 - Common Name: HIV 1 Antibody in Serum, Plasma or Blood by Screen method - quantitative
 - Long Name: HIV 1 Antibody in Serum, Plasma or Blood by Screen method - quantitative
 - Test Type: HIV1_AB_SCR_QN
@@ -6503,7 +6285,6 @@ If 2 or more glucose levels exceed the threshold, then a diagnosis of gestationa
  - Associated LOINC: 22356-0, 43599-0, 5220-9
  - Associated CPT:  
 **** HIV12_AB_CNF_QL (HIV 1 and HIV 2 Antibody in Serum, Plasma or Blood by Confirmatory method - qualitative)
-*/UNDER REVIEW/*
 - Common Name: HIV 1 and HIV 2 Antibody in Serum, Plasma or Blood by Confirmatory method - qualitative
 - Long Name: HIV 1 and HIV 2 Antibody in Serum, Plasma or Blood by Confirmatory method - qualitative
 - Test Type: HIV12_AB_CNF_QL
@@ -6524,7 +6305,6 @@ If 2 or more glucose levels exceed the threshold, then a diagnosis of gestationa
  - Associated LOINC: 43185-8, 44873-8, 69668-2, 77685-6, 80203-3, 95524-5  
  - Associated CPT:  
 **** HIV12_AB_SCR_QL (HIV 1 and HIV 2 Antibody in Serum, Plasma or Blood by Screen method - qualitative)
-*/UNDER REVIEW/*
 - Common Name: HIV 1 and HIV 2 Antibody in Serum, Plasma or Blood by Screen method - qualitative
 - Long Name: HIV 1 and HIV 2 Antibody in Serum, Plasma or Blood by Screen method - qualitative
 - Test Type: HIV12_AB_SCR_QL
@@ -6541,7 +6321,6 @@ If 2 or more glucose levels exceed the threshold, then a diagnosis of gestationa
  - Associated LOINC: 31201-7, 40733-8, 42768-2, 43009-0, 48345-3, 54086-4, 3905-2, 73906-0, 7918-6, 80387-4
  - Associated CPT:  
 **** HIV12_AB_SCR_QN (HIV 1 and HIV 2 Antibody in Serum, Plasma or Blood by Screen method - quantitative)
-*/UNDER REVIEW/*
 - Common Name: HIV 1 and HIV 2 Antibody in Serum, Plasma or Blood by Screen method - quantitative
 - Long Name: HIV 1 and HIV 2 Antibody in Serum, Plasma or Blood by Screen method - quantitative
 - Test Type: HIV12_AB_SCR_QN
@@ -6558,7 +6337,6 @@ If 2 or more glucose levels exceed the threshold, then a diagnosis of gestationa
  - Associated LOINC: 22357-8, 41290-8, 43008-2, 48346-1, 5223-3 
  - Associated CPT:  
 **** HIV2_AB_CNF_QL (HIV 2 Antibody in Serum, Plasma or Blood by Confirmatory method - qualitative)
-*/UNDER REVIEW/*
 - Common Name: HIV 2 Antibody in Serum, Plasma or Blood by Confirmatory method - qualitative
 - Long Name: HIV 2 Antibody in Serum, Plasma or Blood by Confirmatory method - qualitative
 - Test Type: HIV2_AB_CNF_QL
@@ -6575,7 +6353,6 @@ If 2 or more glucose levels exceed the threshold, then a diagnosis of gestationa
  - Associated LOINC: 31073-0 , 5225-8 
  - Associated CPT:  
 **** HIV2_AB_SCR_QL (HIV 2 Antibody in Serum, Plasma or Blood by Screen method - qualitative)
-*/UNDER REVIEW/*
 - Common Name: HIV 2 Antibody in Serum, Plasma or Blood by Screen method - qualitative
 - Long Name: HIV 2 Antibody in Serum, Plasma or Blood by Screen method - qualitative
 - Test Type: HIV2_AB_SCR_QL
@@ -6592,7 +6369,6 @@ If 2 or more glucose levels exceed the threshold, then a diagnosis of gestationa
  - Associated LOINC: 30361-0, 33807-9, 7919-4, 81641-3 
  - Associated CPT:  
 **** HIV2_AB_SCR_QN (HIV 2 Antibody in Serum, Plasma or Blood by Screen method - quantitative)
-*/UNDER REVIEW/*
 - Common Name: HIV 2 Antibody in Serum, Plasma or Blood by Screen method - quantitative
 - Long Name: HIV 2 Antibody in Serum, Plasma or Blood by Screen method - quantitative
 - Test Type: HIV2_AB_SCR_QN       
@@ -6609,7 +6385,6 @@ If 2 or more glucose levels exceed the threshold, then a diagnosis of gestationa
  - Associated LOINC: 22358-6, 51786-2, 5224-1
  - Associated CPT:  
 **** HIV1_AG_QL (HIV 1 Antigen in Serum or Plasma - qualitative)
-*/UNDER REVIEW/*
 - Common Name: HIV 1 Antigen in Serum or Plasma - qualitative
 - Long Name: HIV 1 Antigen in Serum or Plasma - qualitative
 - Test Type: HIV1_AG_QL
@@ -6626,7 +6401,6 @@ If 2 or more glucose levels exceed the threshold, then a diagnosis of gestationa
  - Associated LOINC: 18396-2, 24012-7, 33660-2, 5222-5, 9821-0  
  - Associated CPT:  
 **** HIV1_AG_QN (HIV 1 Antigen in Serum or Plasma - quantitative)
-*/UNDER REVIEW/*
 - Common Name: HIV 1 Antigen in Serum or Plasma - quantitative
 - Long Name: HIV 1 Antigen in Serum or Plasma - quantitative
 - Test Type: HIV1_AG_QN
@@ -6645,7 +6419,6 @@ If 2 or more glucose levels exceed the threshold, then a diagnosis of gestationa
  - Associated LOINC: 16976-3, 42339-2, 53601-1, 9665-1
  - Associated CPT:  
 **** HIV1_RNA (HIV 1 RNA (viral load) in Serum or Plasma)
-*/UNDER REVIEW/*
 - Common Name: HIV 1 RNA (viral load) in Serum or Plasma
 - Long Name: HIV 1 RNA (viral load) in Serum or Plasma
 - Test Type: HIV1_RNA
@@ -6669,7 +6442,6 @@ If 2 or more glucose levels exceed the threshold, then a diagnosis of gestationa
  - Associated LOINC: 10351-5, 10682-3, 20447-9, 21008-8, 21333-0, 23876-6, 41513-3,41515-8, 48511-0, 48551-6, 59419-2, 62469-2, 70241-5
  - Associated CPT:  
 **** HIV1_RNA_LOG (HIV 1 RNA (viral load - log) in Serum or Plasma)
-*/UNDER REVIEW/*
 - Common Name: HIV 1 RNA (viral load - log) in Serum or Plasma
 - Long Name: HIV 1 RNA (viral load - log) in Serum or Plasma
 - Test Type: HIV1_RNA_LOG
@@ -6694,7 +6466,6 @@ If 2 or more glucose levels exceed the threshold, then a diagnosis of gestationa
  - Associated LOINC: 29539-4, 29541-0, 41514-1, 41516-6, 48510-2, 48552-4, 51780-5 
  - Associated CPT:  
 **** HIV2_RNA (HIV 2 RNA (viral load) in Serum or Plasma)
-*/UNDER REVIEW/*
 - Common Name: HIV 2 RNA (viral load) in Serum or Plasma
 - Long Name: HIV 2 RNA (viral load) in Serum or Plasma
 - Test Type: HIV2_RNA
@@ -6722,7 +6493,6 @@ If 2 or more glucose levels exceed the threshold, then a diagnosis of gestationa
  - Associated LOINC: 69354-9, 86548-5
  - Associated CPT:  
 **** HIV2_RNA_LOG (HIV 2 RNA (viral load - log) in Serum or Plasma)
-*/UNDER REVIEW/*
 - Common Name: HIV 2 RNA (viral load - log) in Serum or Plasma
 - Long Name: HIV 2 RNA (viral load - log) in Serum or Plasma
 - Test Type: HIV2_RNA_LOG
@@ -6746,7 +6516,6 @@ If 2 or more glucose levels exceed the threshold, then a diagnosis of gestationa
  - Associated LOINC: 81652-0
  - Associated CPT:  
 **** HIV1_RNA_QL (HIV 1 RNA (detection) in Serum or Plasma - qualitative)
-*/UNDER REVIEW/*
 - Common Name: HIV 1 RNA (detection) in Serum or Plasma - qualitative
 - Long Name: HIV 1 RNA (detection) in Serum or Plasma - qualitative
 - Test Type: HIV1_RNA_QL
@@ -6768,7 +6537,6 @@ Inconclusive Standard Results
  - Associated LOINC: 24013-5, 25835-0, 5017-9
  - Associated CPT:  
 **** HIV12_RNA_QL (HIV 1 and HIV 2 RNA (detection) in Serum or Plasma - qualitative)
-*/UNDER REVIEW/*
 - Common Name: HIV 1 and HIV 2 RNA (detection) in Serum or Plasma - qualitative
 - Long Name: HIV 1 and HIV 2 RNA (detection) in Serum or Plasma - qualitative
 - Test Type: HIV12_RNA_QL
@@ -6789,7 +6557,6 @@ Inconclusive Standard Results
  - Associated LOINC: 85361-4, 85368-9, 96556-6, 69353-1
  - Associated CPT:  
 **** HIV1_AB_AG_QL (HIV 1 Antibody and Antigen)
-*/UNDER REVIEW/*
 - Common Name: HIV 1 Antibody and Antigen
 - Long Name: HIV 1 Antibody and Antigen
 - Test Type: HIV1_AB_AG_QL
@@ -6811,7 +6578,6 @@ Inconclusive Standard Results
  - Associated LOINC: 51866-2  
  - Associated CPT:  
 **** HIV12_AB_HIV1_AG_QL (HIV 1 and HIV 2 Antibody and HIV 1 Antigen - qualitative)
-*/UNDER REVIEW/*
 - Common Name: HIV 1 and HIV 2 Antibody and HIV 1 Antigen - qualitative
 - Long Name: HIV 1 and HIV 2 Antibody and HIV 1 Antigen - qualitative
 - Test Type: HIV12_AB_HIV1_AG_QL
@@ -6828,7 +6594,6 @@ Inconclusive Standard Results
  - Associated LOINC: 56888-1, 75666-8
  - Associated CPT:  
 **** HIV12_AB_HIV1_AG_QN (HIV 1 and HIV 2 Antibody and HIV 1 Antigen - quantitative)
-*/UNDER REVIEW/*
 - Common Name: HIV 1 and HIV 2 Antibody and HIV 1 Antigen - quantitative
 - Long Name: HIV 1 and HIV 2 Antibody and HIV 1 Antigen - quantitative
 - Test Type: HIV12_AB_HIV1_AG_QN
@@ -6852,7 +6617,6 @@ Inconclusive Standard Results
  - Associated LOINC: 58900-2 
  - Associated CPT:  
 **** HIV1_QL (HIV 1 - qualitative)
-*/UNDER REVIEW/*
 - Common Name: HIV 1 - qualitative
 - Long Name: HIV 1 - qualitative
 - Test Type: HIV1_QL
@@ -6869,7 +6633,6 @@ Inconclusive Standard Results
  - Associated LOINC: 44607-0, 49483-1
  - Associated CPT:  
 **** HIV12_QL (HIV 1 and HIV 2 algorithm interpretation - qualitative)
-*/UNDER REVIEW/*
 - Common Name: HIV 1 and HIV 2 algorithm interpretation - qualitative
 - Long Name: HIV 1 and HIV 2 algorithm interpretation - qualitative
 - Test Type: HIV12_QL
@@ -6886,7 +6649,6 @@ Inconclusive Standard Results
  - Associated LOINC: 85380-4
  - Associated CPT:  
 **** HIV1_AB_SCR_QL_S (HIV 1 Antibody in Saliva by Screen method - qualitative)
-*/UNDER REVIEW/*
 - Common Name: HIV 1 Antibody in Saliva by Screen method - qualitative
 - Long Name: HIV 1 Antibody in Saliva by Screen method - qualitative
 - Test Type: HIV1_AB_SCR_QL_S
@@ -6903,7 +6665,6 @@ Inconclusive Standard Results
  - Associated LOINC: 35437-3, 35439-9, 41144-7
  - Associated CPT:  
 **** HIV1_AB_SCR_QN_S (HIV 1 Antibody in Saliva by Screen method - quantitative)
-*/UNDER REVIEW/*
 - Common Name: HIV 1 Antibody in Saliva by Screen method - quantitative
 - Long Name: HIV 1 Antibody in Saliva by Screen method - quantitative
 - Test Type: HIV1_AB_SCR_QN_S
