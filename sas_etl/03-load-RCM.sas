@@ -10,6 +10,36 @@
 * Date Created:: 2020-10-01
 *********************************************/
 
+/*  This code updates the vdw_standard_codes data set when a new everloinc file is released
+%let eldate = 20260421;
+
+proc sql;
+  create table dat.vdw_stdcodes_update as
+    select sc.test_type as code, 'TEST_TYPE' as code_type, sc.LongName as code_desc, 'LAB_RESULTS' as code_source
+    from (
+    select distinct test_type, LongName
+    from dat.everloinc_&eldate.
+    except
+    select code as test_type, code_desc as LongName
+    from dat.vdw_standard_codes
+    where code_type = 'TEST_TYPE'
+    ) sc
+    UNION
+    select vsc.code, vsc.code_type, vsc.code_desc, vsc.code_source
+    from dat.vdw_standard_codes vsc
+    ;
+quit;
+
+proc datasets library=dat;
+  change vdw_standard_codes=vdw_stdcodes_old;
+run;
+
+proc datasets library=dat;
+  change vdw_stdcodes_update=vdw_standard_codes;
+run;
+*/
+
+    
 * maps vdw loinc codes to omop loinc codes;
 proc sql;
   create table dat.rcm_lab_loinc as 
@@ -43,4 +73,4 @@ on cpt.concept_id = crt.concept_id_2
 quit;
 
 
-* ;
+
