@@ -6,7 +6,7 @@
 
 * Laboratory Test Types
 *A Reference for the HCSRN VDW Laboratory Results Test Type.*
-*Version 2, April 2025*
+*Version 2.1, April 2026*
 
 This reference document is not inclusive of all lab tests that have been deemed priority tests to incorporate into VDW format. The reference will be added to and updated on a regular basis as laboratory content is expanded in the VDW.
 
