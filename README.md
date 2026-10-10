@@ -3,7 +3,7 @@ Code that produces views of the relationships between Lab Codes and Lab Code Hie
 
 ## Prerequisites
 ### An HCSRN-VDW Common Data Model
-- You'll need an HCSRN-VDW Rx Data Model in order for the Code Management Interface with LOINC Terminology to be useful. The code itself can be run without an HCSRN VDW Lab Results table.
+- You'll need an HCSRN-VDW Lab Results table in order for the Code Management Interface with LOINC Terminology to be useful. The code itself can be run without an HCSRN VDW Lab Results table.
 
 ### The ability to download the OHDSI OMOP Vocabulary files
 - If you can connect with OHDSI OMOP Vocabulary by going to [Athena](https://athena.ohdsi.org/vocabulary/list) then you have the ability to get OHDSI OMOP Vocabulary data.
